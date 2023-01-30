@@ -164,6 +164,7 @@ Included: all files with regional data and provider data
 Variables:
 
 Basic skills total participation and total achievements geographical breakdowns.
+<<<<<<< HEAD
 - Achievements
 - Age (under 19/19+)
 - Participation
