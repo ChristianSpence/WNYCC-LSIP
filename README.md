@@ -286,6 +286,128 @@ Adult (19+) Education and training learner participation and achievements detail
 - Participation No level assigned
 - Total Participation
 
+- Achievements
+- Age (under 19/19+)
+- Participation
+- Subject and level
+
+Community learning geographical breakdowns
+- Achievements Family english maths and language
+- Achievements Neighbourhood learning in deprived communities
+- Achievements Personal and community development learning
+- Total Achievements
+- Achievements Wider family learning
+- Age group (with unknowns)
+- Ethnicity group
+- Participation Family english maths and language
+- Participation Neighbourhood learning in deprived communities
+- Participation Personal and community development learning
+- Sex
+- Total Participation
+- Participation Wider family learning
+
+Community learning detailed provider breakdowns
+- Achievement - Family english, maths and language
+- Achievement - Neighbourhood learning in deprived communities
+- Achievement - Personal and community development learning
+- Achievement - All community learning
+- Achievement - Wider family learning
+- Participation - Family english, maths and language
+- Participation - Neighbourhood learning in deprived communities
+- Participation - Personal and community development learning
+- Participation - All community learning
+- Participation - Wider family learning
+
+Adult (19+) Education and training learner participation and achievements detailed provider file
+- Achievements Basic skills (Aug to Jul)
+- Achievements Below level 2 (excluding basic skills) (Aug to Jul)
+- Achievements Full level 2 (Aug to Jul)
+- Achievements Full level 3 (Aug to Jul)
+- Achievements Level 2 (Aug to Jul)
+- Achievements Level 3 (Aug to Jul)
+- Achievements Level 4+ (Aug to Jul)
+- Achievements No level assigned (Aug to Jul)
+- Total Achievements (Aug to Jul)
+- Age group (with unknowns)
+- Ethnicity group
+- Participation Basic skills (Aug to Jul)
+- Participation Below level 2 (excluding basic skills) (Aug to Jul)
+- Participation Full level 2 (Aug to Jul)
+- Participation Full level 3 (Aug to Jul)
+- Participation Level 2 (Aug to Jul)
+- Participation Level 3 (Aug to Jul)
+- Participation Level 4+ (Aug to Jul)
+- Participation No level assigned (Aug to Jul)
+- Total Participation (Aug to Jul)
+- Sex
+
+Adult (19+) Education and Training aim enrolments and and achievements English devolved area breakdowns
+- Aim Achievements (Aug to Jul)
+- Aim Enrolments (Aug to Jul)
+- Ethnicity group
+- Detailed level
+- Sex
+- Sector subject area (tier 1)
+
+Adult (19+) Education and Training aim enrolments detailed provider breakdowns
+- Enrolments
+- Level
+- Sector subject area (tier 1)
+
+Further education and skills detailed geography summary. The file figures for adult (19+) Further education and skills, 19+ Education and training, Community Learning, and all age apprenticeships.
+- Achievements
+- Indicative achievements rate per 100,000 population
+- Age group
+- Apprenticeships or further education
+- Level or type
+- Participation
+- Indicative participation rate per 100,000 population
+- Starts
+- Indicative starts rate per 100,000 population
+
+Adult (19+) Further education and skills learner participation by region summary.
+- Participation Basic skills (Aug to Jul)
+- Participation Below level 2 (excluding basic skills) (Aug to Jul)
+- Participation Full level 2 (Aug to Jul)
+- Participation Full level 3 (Aug to Jul)
+- Participation Level 2 (Aug to Jul)
+- Participation Level 3 (Aug to Jul)
+- Participation Level 4+ (Aug to Jul)
+- Participation No level assigned (Aug to Jul)
+- Total Participation (Aug to Jul)
+
+Free courses for jobs detailed
+- Employment status
+- Ethnicity
+- LLDD
+- Prior attainment group
+- Sex
+- Sector subject area (tier 1)
+- Sector subject area (tier 2)
+- Start age
+- Free courses for jobs total starts including extended offer (April 21 to July 22)
+- Free courses for jobs total starts under original offer (April 21 to July 22)
+
+Adult (19+) Education and training learner participation and achievements detailed provider file
+- Achievements Basic skills
+- Achievements Below level 2 (excluding basic skills)
+- Achievements Full level 2
+- Achievements Full level 3
+- Achievements Level 2
+- Achievements Level 3
+- Achievements Level 4+
+- Achievements No level assigned
+- Total Achievements
+- Participation Basic skills
+- Participation Below level 2 (excluding basic skills)
+- Participation Full level 2
+- Participation Full level 3
+- Participation Level 2
+- Participation Level 3
+- Participation Level 4+
+- Participation No level assigned
+- Total Participation
+
 #### FE Destination Measures:
 
 [https://explore-education-statistics.service.gov.uk/find-statistics/16-18-destination-measures](Source)
@@ -300,6 +422,7 @@ Included: all files with regional data and provider data
 Variables:
 
 Local authority level destinations data for students leaving 16 to 18 study for different characteristic groups, provider types, and qualification levels.
+
 - Not recorded as a sustained destination
 - Activity not captured
 - Sustained employment destination
