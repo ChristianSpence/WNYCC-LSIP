@@ -1,0 +1,649 @@
+date,geography_name,geography_code,subject_level,age_youth_adult,achievements,participation
+2021/22,Bradford,E08000032,Basic Skills (Excluding digital skills),Adult,3890,6040
+2021/22,Calderdale,E08000033,Basic Skills (Excluding digital skills),Adult,790,1370
+2021/22,Craven,E07000163,Basic Skills (Excluding digital skills),Adult,110,230
+2021/22,Hambleton,E07000164,Basic Skills (Excluding digital skills),Adult,160,380
+2021/22,Harrogate,E07000165,Basic Skills (Excluding digital skills),Adult,240,620
+2021/22,Kirklees,E08000034,Basic Skills (Excluding digital skills),Adult,1910,3250
+2021/22,Leeds,E08000035,Basic Skills (Excluding digital skills),Adult,5270,7640
+2021/22,Richmondshire,E07000166,Basic Skills (Excluding digital skills),Adult,1460,2230
+2021/22,Ryedale,E07000167,Basic Skills (Excluding digital skills),Adult,80,160
+2021/22,Scarborough,E07000168,Basic Skills (Excluding digital skills),Adult,210,590
+2021/22,Selby,E07000169,Basic Skills (Excluding digital skills),Adult,160,410
+2021/22,Wakefield,E08000036,Basic Skills (Excluding digital skills),Adult,1250,2350
+2021/22,Bradford,E08000032,Basic Skills (Excluding digital skills),Youth,80,380
+2021/22,Calderdale,E08000033,Basic Skills (Excluding digital skills),Youth,30,160
+2021/22,Craven,E07000163,Basic Skills (Excluding digital skills),Youth,20,60
+2021/22,Hambleton,E07000164,Basic Skills (Excluding digital skills),Youth,10,80
+2021/22,Harrogate,E07000165,Basic Skills (Excluding digital skills),Youth,20,90
+2021/22,Kirklees,E08000034,Basic Skills (Excluding digital skills),Youth,80,330
+2021/22,Leeds,E08000035,Basic Skills (Excluding digital skills),Youth,90,380
+2021/22,Richmondshire,E07000166,Basic Skills (Excluding digital skills),Youth,90,280
+2021/22,Ryedale,E07000167,Basic Skills (Excluding digital skills),Youth,10,40
+2021/22,Scarborough,E07000168,Basic Skills (Excluding digital skills),Youth,30,110
+2021/22,Selby,E07000169,Basic Skills (Excluding digital skills),Youth,10,60
+2021/22,Wakefield,E08000036,Basic Skills (Excluding digital skills),Youth,30,200
+2021/22,Bradford,E08000032,Basic Skills (Including digital skills),Adult,4000,6230
+2021/22,Calderdale,E08000033,Basic Skills (Including digital skills),Adult,800,1400
+2021/22,Craven,E07000163,Basic Skills (Including digital skills),Adult,120,230
+2021/22,Hambleton,E07000164,Basic Skills (Including digital skills),Adult,160,380
+2021/22,Harrogate,E07000165,Basic Skills (Including digital skills),Adult,240,630
+2021/22,Kirklees,E08000034,Basic Skills (Including digital skills),Adult,2010,3410
+2021/22,Leeds,E08000035,Basic Skills (Including digital skills),Adult,5300,7700
+2021/22,Richmondshire,E07000166,Basic Skills (Including digital skills),Adult,1460,2230
+2021/22,Ryedale,E07000167,Basic Skills (Including digital skills),Adult,80,170
+2021/22,Scarborough,E07000168,Basic Skills (Including digital skills),Adult,220,590
+2021/22,Selby,E07000169,Basic Skills (Including digital skills),Adult,160,410
+2021/22,Wakefield,E08000036,Basic Skills (Including digital skills),Adult,1280,2390
+2021/22,Bradford,E08000032,Basic Skills (Including digital skills),Youth,80,380
+2021/22,Calderdale,E08000033,Basic Skills (Including digital skills),Youth,30,160
+2021/22,Craven,E07000163,Basic Skills (Including digital skills),Youth,20,60
+2021/22,Hambleton,E07000164,Basic Skills (Including digital skills),Youth,10,80
+2021/22,Harrogate,E07000165,Basic Skills (Including digital skills),Youth,20,90
+2021/22,Kirklees,E08000034,Basic Skills (Including digital skills),Youth,80,330
+2021/22,Leeds,E08000035,Basic Skills (Including digital skills),Youth,90,380
+2021/22,Richmondshire,E07000166,Basic Skills (Including digital skills),Youth,90,280
+2021/22,Ryedale,E07000167,Basic Skills (Including digital skills),Youth,10,40
+2021/22,Scarborough,E07000168,Basic Skills (Including digital skills),Youth,30,110
+2021/22,Selby,E07000169,Basic Skills (Including digital skills),Youth,10,60
+2021/22,Wakefield,E08000036,Basic Skills (Including digital skills),Youth,30,200
+2021/22,Bradford,E08000032,English,Adult,1540,3030
+2021/22,Calderdale,E08000033,English,Adult,300,720
+2021/22,Craven,E07000163,English,Adult,60,120
+2021/22,Hambleton,E07000164,English,Adult,100,270
+2021/22,Harrogate,E07000165,English,Adult,120,410
+2021/22,Kirklees,E08000034,English,Adult,580,1400
+2021/22,Leeds,E08000035,English,Adult,1650,3360
+2021/22,Richmondshire,E07000166,English,Adult,1130,1830
+2021/22,Ryedale,E07000167,English,Adult,40,100
+2021/22,Scarborough,E07000168,English,Adult,130,400
+2021/22,Selby,E07000169,English,Adult,70,250
+2021/22,Wakefield,E08000036,English,Adult,510,1320
+2021/22,Bradford,E08000032,English,Youth,40,200
+2021/22,Calderdale,E08000033,English,Youth,20,90
+2021/22,Craven,E07000163,English,Youth,10,40
+2021/22,Hambleton,E07000164,English,Youth,10,50
+2021/22,Harrogate,E07000165,English,Youth,10,60
+2021/22,Kirklees,E08000034,English,Youth,60,200
+2021/22,Leeds,E08000035,English,Youth,60,230
+2021/22,Richmondshire,E07000166,English,Youth,50,190
+2021/22,Ryedale,E07000167,English,Youth,10,30
+2021/22,Scarborough,E07000168,English,Youth,20,70
+2021/22,Selby,E07000169,English,Youth,10,50
+2021/22,Wakefield,E08000036,English,Youth,20,110
+2021/22,Bradford,E08000032,English Entry Level,Adult,660,820
+2021/22,Calderdale,E08000033,English Entry Level,Adult,90,110
+2021/22,Craven,E07000163,English Entry Level,Adult,20,30
+2021/22,Hambleton,E07000164,English Entry Level,Adult,20,20
+2021/22,Harrogate,E07000165,English Entry Level,Adult,10,10
+2021/22,Kirklees,E08000034,English Entry Level,Adult,80,110
+2021/22,Leeds,E08000035,English Entry Level,Adult,340,430
+2021/22,Richmondshire,E07000166,English Entry Level,Adult,340,340
+2021/22,Ryedale,E07000167,English Entry Level,Adult,10,10
+2021/22,Scarborough,E07000168,English Entry Level,Adult,20,30
+2021/22,Selby,E07000169,English Entry Level,Adult,low,low
+2021/22,Wakefield,E08000036,English Entry Level,Adult,100,140
+2021/22,Bradford,E08000032,English Entry Level,Youth,0,0
+2021/22,Calderdale,E08000033,English Entry Level,Youth,0,0
+2021/22,Craven,E07000163,English Entry Level,Youth,0,0
+2021/22,Hambleton,E07000164,English Entry Level,Youth,0,0
+2021/22,Harrogate,E07000165,English Entry Level,Youth,0,0
+2021/22,Kirklees,E08000034,English Entry Level,Youth,0,0
+2021/22,Leeds,E08000035,English Entry Level,Youth,0,0
+2021/22,Richmondshire,E07000166,English Entry Level,Youth,0,0
+2021/22,Ryedale,E07000167,English Entry Level,Youth,0,0
+2021/22,Scarborough,E07000168,English Entry Level,Youth,0,0
+2021/22,Selby,E07000169,English Entry Level,Youth,0,0
+2021/22,Wakefield,E08000036,English Entry Level,Youth,0,0
+2021/22,Bradford,E08000032,English Level 1,Adult,370,520
+2021/22,Calderdale,E08000033,English Level 1,Adult,60,100
+2021/22,Craven,E07000163,English Level 1,Adult,10,10
+2021/22,Hambleton,E07000164,English Level 1,Adult,20,20
+2021/22,Harrogate,E07000165,English Level 1,Adult,30,50
+2021/22,Kirklees,E08000034,English Level 1,Adult,190,180
+2021/22,Leeds,E08000035,English Level 1,Adult,670,520
+2021/22,Richmondshire,E07000166,English Level 1,Adult,600,1140
+2021/22,Ryedale,E07000167,English Level 1,Adult,10,10
+2021/22,Scarborough,E07000168,English Level 1,Adult,30,50
+2021/22,Selby,E07000169,English Level 1,Adult,20,30
+2021/22,Wakefield,E08000036,English Level 1,Adult,140,240
+2021/22,Bradford,E08000032,English Level 1,Youth,low,30
+2021/22,Calderdale,E08000033,English Level 1,Youth,low,20
+2021/22,Craven,E07000163,English Level 1,Youth,0,low
+2021/22,Hambleton,E07000164,English Level 1,Youth,low,low
+2021/22,Harrogate,E07000165,English Level 1,Youth,low,10
+2021/22,Kirklees,E08000034,English Level 1,Youth,10,10
+2021/22,Leeds,E08000035,English Level 1,Youth,10,30
+2021/22,Richmondshire,E07000166,English Level 1,Youth,10,60
+2021/22,Ryedale,E07000167,English Level 1,Youth,low,low
+2021/22,Scarborough,E07000168,English Level 1,Youth,low,10
+2021/22,Selby,E07000169,English Level 1,Youth,0,10
+2021/22,Wakefield,E08000036,English Level 1,Youth,low,20
+2021/22,Bradford,E08000032,English Level 2,Adult,560,1810
+2021/22,Calderdale,E08000033,English Level 2,Adult,160,540
+2021/22,Craven,E07000163,English Level 2,Adult,40,100
+2021/22,Hambleton,E07000164,English Level 2,Adult,70,230
+2021/22,Harrogate,E07000165,English Level 2,Adult,80,350
+2021/22,Kirklees,E08000034,English Level 2,Adult,330,1160
+2021/22,Leeds,E08000035,English Level 2,Adult,710,2570
+2021/22,Richmondshire,E07000166,English Level 2,Adult,320,660
+2021/22,Ryedale,E07000167,English Level 2,Adult,30,90
+2021/22,Scarborough,E07000168,English Level 2,Adult,90,330
+2021/22,Selby,E07000169,English Level 2,Adult,60,220
+2021/22,Wakefield,E08000036,English Level 2,Adult,310,1020
+2021/22,Bradford,E08000032,English Level 2,Youth,40,170
+2021/22,Calderdale,E08000033,English Level 2,Youth,10,80
+2021/22,Craven,E07000163,English Level 2,Youth,10,40
+2021/22,Hambleton,E07000164,English Level 2,Youth,10,50
+2021/22,Harrogate,E07000165,English Level 2,Youth,10,50
+2021/22,Kirklees,E08000034,English Level 2,Youth,50,190
+2021/22,Leeds,E08000035,English Level 2,Youth,50,200
+2021/22,Richmondshire,E07000166,English Level 2,Youth,40,130
+2021/22,Ryedale,E07000167,English Level 2,Youth,10,30
+2021/22,Scarborough,E07000168,English Level 2,Youth,10,60
+2021/22,Selby,E07000169,English Level 2,Youth,10,40
+2021/22,Wakefield,E08000036,English Level 2,Youth,20,100
+2021/22,Bradford,E08000032,ESOL,Adult,1710,1880
+2021/22,Calderdale,E08000033,ESOL,Adult,350,370
+2021/22,Craven,E07000163,ESOL,Adult,20,20
+2021/22,Hambleton,E07000164,ESOL,Adult,20,20
+2021/22,Harrogate,E07000165,ESOL,Adult,70,90
+2021/22,Kirklees,E08000034,ESOL,Adult,950,1200
+2021/22,Leeds,E08000035,ESOL,Adult,3110,3360
+2021/22,Richmondshire,E07000166,ESOL,Adult,10,10
+2021/22,Ryedale,E07000167,ESOL,Adult,10,10
+2021/22,Scarborough,E07000168,ESOL,Adult,30,30
+2021/22,Selby,E07000169,ESOL,Adult,30,40
+2021/22,Wakefield,E08000036,ESOL,Adult,460,540
+2021/22,Bradford,E08000032,ESOL,Youth,0,0
+2021/22,Calderdale,E08000033,ESOL,Youth,0,0
+2021/22,Craven,E07000163,ESOL,Youth,0,0
+2021/22,Hambleton,E07000164,ESOL,Youth,0,0
+2021/22,Harrogate,E07000165,ESOL,Youth,0,0
+2021/22,Kirklees,E08000034,ESOL,Youth,0,0
+2021/22,Leeds,E08000035,ESOL,Youth,0,0
+2021/22,Richmondshire,E07000166,ESOL,Youth,0,0
+2021/22,Ryedale,E07000167,ESOL,Youth,0,0
+2021/22,Scarborough,E07000168,ESOL,Youth,0,0
+2021/22,Selby,E07000169,ESOL,Youth,0,0
+2021/22,Wakefield,E08000036,ESOL,Youth,0,0
+2021/22,Bradford,E08000032,ESOL Entry Level,Adult,1610,1770
+2021/22,Calderdale,E08000033,ESOL Entry Level,Adult,330,350
+2021/22,Craven,E07000163,ESOL Entry Level,Adult,20,20
+2021/22,Hambleton,E07000164,ESOL Entry Level,Adult,10,20
+2021/22,Harrogate,E07000165,ESOL Entry Level,Adult,60,70
+2021/22,Kirklees,E08000034,ESOL Entry Level,Adult,740,940
+2021/22,Leeds,E08000035,ESOL Entry Level,Adult,2860,3060
+2021/22,Richmondshire,E07000166,ESOL Entry Level,Adult,10,10
+2021/22,Ryedale,E07000167,ESOL Entry Level,Adult,10,10
+2021/22,Scarborough,E07000168,ESOL Entry Level,Adult,20,20
+2021/22,Selby,E07000169,ESOL Entry Level,Adult,20,30
+2021/22,Wakefield,E08000036,ESOL Entry Level,Adult,350,420
+2021/22,Bradford,E08000032,ESOL Entry Level,Youth,0,0
+2021/22,Calderdale,E08000033,ESOL Entry Level,Youth,0,0
+2021/22,Craven,E07000163,ESOL Entry Level,Youth,0,0
+2021/22,Hambleton,E07000164,ESOL Entry Level,Youth,0,0
+2021/22,Harrogate,E07000165,ESOL Entry Level,Youth,0,0
+2021/22,Kirklees,E08000034,ESOL Entry Level,Youth,0,0
+2021/22,Leeds,E08000035,ESOL Entry Level,Youth,0,0
+2021/22,Richmondshire,E07000166,ESOL Entry Level,Youth,0,0
+2021/22,Ryedale,E07000167,ESOL Entry Level,Youth,0,0
+2021/22,Scarborough,E07000168,ESOL Entry Level,Youth,0,0
+2021/22,Selby,E07000169,ESOL Entry Level,Youth,0,0
+2021/22,Wakefield,E08000036,ESOL Entry Level,Youth,0,0
+2021/22,Bradford,E08000032,ESOL Level 1,Adult,130,150
+2021/22,Calderdale,E08000033,ESOL Level 1,Adult,30,30
+2021/22,Craven,E07000163,ESOL Level 1,Adult,0,low
+2021/22,Hambleton,E07000164,ESOL Level 1,Adult,low,10
+2021/22,Harrogate,E07000165,ESOL Level 1,Adult,10,20
+2021/22,Kirklees,E08000034,ESOL Level 1,Adult,150,200
+2021/22,Leeds,E08000035,ESOL Level 1,Adult,220,280
+2021/22,Richmondshire,E07000166,ESOL Level 1,Adult,low,low
+2021/22,Ryedale,E07000167,ESOL Level 1,Adult,low,10
+2021/22,Scarborough,E07000168,ESOL Level 1,Adult,10,10
+2021/22,Selby,E07000169,ESOL Level 1,Adult,10,10
+2021/22,Wakefield,E08000036,ESOL Level 1,Adult,100,110
+2021/22,Bradford,E08000032,ESOL Level 1,Youth,0,0
+2021/22,Calderdale,E08000033,ESOL Level 1,Youth,0,0
+2021/22,Craven,E07000163,ESOL Level 1,Youth,0,0
+2021/22,Hambleton,E07000164,ESOL Level 1,Youth,0,0
+2021/22,Harrogate,E07000165,ESOL Level 1,Youth,0,0
+2021/22,Kirklees,E08000034,ESOL Level 1,Youth,0,0
+2021/22,Leeds,E08000035,ESOL Level 1,Youth,0,0
+2021/22,Richmondshire,E07000166,ESOL Level 1,Youth,0,0
+2021/22,Ryedale,E07000167,ESOL Level 1,Youth,0,0
+2021/22,Scarborough,E07000168,ESOL Level 1,Youth,0,0
+2021/22,Selby,E07000169,ESOL Level 1,Youth,0,0
+2021/22,Wakefield,E08000036,ESOL Level 1,Youth,0,0
+2021/22,Bradford,E08000032,ESOL Level 2,Adult,10,10
+2021/22,Calderdale,E08000033,ESOL Level 2,Adult,0,0
+2021/22,Craven,E07000163,ESOL Level 2,Adult,0,0
+2021/22,Hambleton,E07000164,ESOL Level 2,Adult,0,0
+2021/22,Harrogate,E07000165,ESOL Level 2,Adult,10,10
+2021/22,Kirklees,E08000034,ESOL Level 2,Adult,100,120
+2021/22,Leeds,E08000035,ESOL Level 2,Adult,40,40
+2021/22,Richmondshire,E07000166,ESOL Level 2,Adult,0,0
+2021/22,Ryedale,E07000167,ESOL Level 2,Adult,0,0
+2021/22,Scarborough,E07000168,ESOL Level 2,Adult,low,low
+2021/22,Selby,E07000169,ESOL Level 2,Adult,low,low
+2021/22,Wakefield,E08000036,ESOL Level 2,Adult,30,30
+2021/22,Bradford,E08000032,ESOL Level 2,Youth,0,0
+2021/22,Calderdale,E08000033,ESOL Level 2,Youth,0,0
+2021/22,Craven,E07000163,ESOL Level 2,Youth,0,0
+2021/22,Hambleton,E07000164,ESOL Level 2,Youth,0,0
+2021/22,Harrogate,E07000165,ESOL Level 2,Youth,0,0
+2021/22,Kirklees,E08000034,ESOL Level 2,Youth,0,0
+2021/22,Leeds,E08000035,ESOL Level 2,Youth,0,0
+2021/22,Richmondshire,E07000166,ESOL Level 2,Youth,0,0
+2021/22,Ryedale,E07000167,ESOL Level 2,Youth,0,0
+2021/22,Scarborough,E07000168,ESOL Level 2,Youth,0,0
+2021/22,Selby,E07000169,ESOL Level 2,Youth,0,0
+2021/22,Wakefield,E08000036,ESOL Level 2,Youth,0,0
+2021/22,Bradford,E08000032,Essential Digital Skills,Adult,140,280
+2021/22,Calderdale,E08000033,Essential Digital Skills,Adult,30,50
+2021/22,Craven,E07000163,Essential Digital Skills,Adult,10,10
+2021/22,Hambleton,E07000164,Essential Digital Skills,Adult,low,low
+2021/22,Harrogate,E07000165,Essential Digital Skills,Adult,low,10
+2021/22,Kirklees,E08000034,Essential Digital Skills,Adult,110,200
+2021/22,Leeds,E08000035,Essential Digital Skills,Adult,120,200
+2021/22,Richmondshire,E07000166,Essential Digital Skills,Adult,low,low
+2021/22,Ryedale,E07000167,Essential Digital Skills,Adult,low,low
+2021/22,Scarborough,E07000168,Essential Digital Skills,Adult,low,low
+2021/22,Selby,E07000169,Essential Digital Skills,Adult,low,10
+2021/22,Wakefield,E08000036,Essential Digital Skills,Adult,40,70
+2021/22,Bradford,E08000032,Essential Digital Skills,Youth,0,0
+2021/22,Calderdale,E08000033,Essential Digital Skills,Youth,0,0
+2021/22,Craven,E07000163,Essential Digital Skills,Youth,0,0
+2021/22,Hambleton,E07000164,Essential Digital Skills,Youth,0,0
+2021/22,Harrogate,E07000165,Essential Digital Skills,Youth,0,0
+2021/22,Kirklees,E08000034,Essential Digital Skills,Youth,0,0
+2021/22,Leeds,E08000035,Essential Digital Skills,Youth,0,0
+2021/22,Richmondshire,E07000166,Essential Digital Skills,Youth,0,0
+2021/22,Ryedale,E07000167,Essential Digital Skills,Youth,0,0
+2021/22,Scarborough,E07000168,Essential Digital Skills,Youth,0,0
+2021/22,Selby,E07000169,Essential Digital Skills,Youth,0,0
+2021/22,Wakefield,E08000036,Essential Digital Skills,Youth,0,0
+2021/22,Bradford,E08000032,Essential Digital Skills Entry Level,Adult,120,220
+2021/22,Calderdale,E08000033,Essential Digital Skills Entry Level,Adult,20,40
+2021/22,Craven,E07000163,Essential Digital Skills Entry Level,Adult,10,10
+2021/22,Hambleton,E07000164,Essential Digital Skills Entry Level,Adult,0,0
+2021/22,Harrogate,E07000165,Essential Digital Skills Entry Level,Adult,low,low
+2021/22,Kirklees,E08000034,Essential Digital Skills Entry Level,Adult,80,140
+2021/22,Leeds,E08000035,Essential Digital Skills Entry Level,Adult,80,130
+2021/22,Richmondshire,E07000166,Essential Digital Skills Entry Level,Adult,0,0
+2021/22,Ryedale,E07000167,Essential Digital Skills Entry Level,Adult,0,low
+2021/22,Scarborough,E07000168,Essential Digital Skills Entry Level,Adult,low,low
+2021/22,Selby,E07000169,Essential Digital Skills Entry Level,Adult,low,low
+2021/22,Wakefield,E08000036,Essential Digital Skills Entry Level,Adult,10,20
+2021/22,Bradford,E08000032,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Calderdale,E08000033,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Craven,E07000163,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Hambleton,E07000164,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Harrogate,E07000165,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Kirklees,E08000034,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Leeds,E08000035,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Richmondshire,E07000166,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Ryedale,E07000167,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Scarborough,E07000168,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Selby,E07000169,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Wakefield,E08000036,Essential Digital Skills Entry Level,Youth,0,0
+2021/22,Bradford,E08000032,Essential Digital Skills Level 1,Adult,20,60
+2021/22,Calderdale,E08000033,Essential Digital Skills Level 1,Adult,10,20
+2021/22,Craven,E07000163,Essential Digital Skills Level 1,Adult,low,10
+2021/22,Hambleton,E07000164,Essential Digital Skills Level 1,Adult,low,low
+2021/22,Harrogate,E07000165,Essential Digital Skills Level 1,Adult,low,low
+2021/22,Kirklees,E08000034,Essential Digital Skills Level 1,Adult,60,90
+2021/22,Leeds,E08000035,Essential Digital Skills Level 1,Adult,50,80
+2021/22,Richmondshire,E07000166,Essential Digital Skills Level 1,Adult,low,low
+2021/22,Ryedale,E07000167,Essential Digital Skills Level 1,Adult,low,low
+2021/22,Scarborough,E07000168,Essential Digital Skills Level 1,Adult,low,low
+2021/22,Selby,E07000169,Essential Digital Skills Level 1,Adult,low,10
+2021/22,Wakefield,E08000036,Essential Digital Skills Level 1,Adult,30,50
+2021/22,Bradford,E08000032,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Calderdale,E08000033,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Craven,E07000163,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Hambleton,E07000164,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Harrogate,E07000165,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Kirklees,E08000034,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Leeds,E08000035,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Richmondshire,E07000166,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Ryedale,E07000167,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Scarborough,E07000168,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Selby,E07000169,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Wakefield,E08000036,Essential Digital Skills Level 1,Youth,0,0
+2021/22,Bradford,E08000032,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Calderdale,E08000033,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Craven,E07000163,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Hambleton,E07000164,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Harrogate,E07000165,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Kirklees,E08000034,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Leeds,E08000035,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Richmondshire,E07000166,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Ryedale,E07000167,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Scarborough,E07000168,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Selby,E07000169,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Wakefield,E08000036,Essential Digital Skills Level 2,Adult,NA,NA
+2021/22,Bradford,E08000032,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Calderdale,E08000033,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Craven,E07000163,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Hambleton,E07000164,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Harrogate,E07000165,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Kirklees,E08000034,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Leeds,E08000035,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Richmondshire,E07000166,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Ryedale,E07000167,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Scarborough,E07000168,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Selby,E07000169,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Wakefield,E08000036,Essential Digital Skills Level 2,Youth,NA,NA
+2021/22,Bradford,E08000032,Maths,Adult,1660,3520
+2021/22,Calderdale,E08000033,Maths,Adult,290,840
+2021/22,Craven,E07000163,Maths,Adult,60,170
+2021/22,Hambleton,E07000164,Maths,Adult,90,290
+2021/22,Harrogate,E07000165,Maths,Adult,100,430
+2021/22,Kirklees,E08000034,Maths,Adult,960,2130
+2021/22,Leeds,E08000035,Maths,Adult,1700,3830
+2021/22,Richmondshire,E07000166,Maths,Adult,800,1510
+2021/22,Ryedale,E07000167,Maths,Adult,40,130
+2021/22,Scarborough,E07000168,Maths,Adult,110,460
+2021/22,Selby,E07000169,Maths,Adult,90,310
+2021/22,Wakefield,E08000036,Maths,Adult,550,1510
+2021/22,Bradford,E08000032,Maths,Youth,50,320
+2021/22,Calderdale,E08000033,Maths,Youth,20,140
+2021/22,Craven,E07000163,Maths,Youth,10,50
+2021/22,Hambleton,E07000164,Maths,Youth,10,60
+2021/22,Harrogate,E07000165,Maths,Youth,10,80
+2021/22,Kirklees,E08000034,Maths,Youth,40,260
+2021/22,Leeds,E08000035,Maths,Youth,40,320
+2021/22,Richmondshire,E07000166,Maths,Youth,60,240
+2021/22,Ryedale,E07000167,Maths,Youth,low,30
+2021/22,Scarborough,E07000168,Maths,Youth,20,90
+2021/22,Selby,E07000169,Maths,Youth,10,40
+2021/22,Wakefield,E08000036,Maths,Youth,10,170
+2021/22,Bradford,E08000032,Maths Entry Level,Adult,760,900
+2021/22,Calderdale,E08000033,Maths Entry Level,Adult,60,70
+2021/22,Craven,E07000163,Maths Entry Level,Adult,20,30
+2021/22,Hambleton,E07000164,Maths Entry Level,Adult,10,10
+2021/22,Harrogate,E07000165,Maths Entry Level,Adult,low,low
+2021/22,Kirklees,E08000034,Maths Entry Level,Adult,370,470
+2021/22,Leeds,E08000035,Maths Entry Level,Adult,510,640
+2021/22,Richmondshire,E07000166,Maths Entry Level,Adult,180,190
+2021/22,Ryedale,E07000167,Maths Entry Level,Adult,low,10
+2021/22,Scarborough,E07000168,Maths Entry Level,Adult,10,10
+2021/22,Selby,E07000169,Maths Entry Level,Adult,10,10
+2021/22,Wakefield,E08000036,Maths Entry Level,Adult,120,160
+2021/22,Bradford,E08000032,Maths Entry Level,Youth,0,0
+2021/22,Calderdale,E08000033,Maths Entry Level,Youth,0,0
+2021/22,Craven,E07000163,Maths Entry Level,Youth,0,0
+2021/22,Hambleton,E07000164,Maths Entry Level,Youth,0,0
+2021/22,Harrogate,E07000165,Maths Entry Level,Youth,0,0
+2021/22,Kirklees,E08000034,Maths Entry Level,Youth,0,0
+2021/22,Leeds,E08000035,Maths Entry Level,Youth,0,0
+2021/22,Richmondshire,E07000166,Maths Entry Level,Youth,0,0
+2021/22,Ryedale,E07000167,Maths Entry Level,Youth,0,0
+2021/22,Scarborough,E07000168,Maths Entry Level,Youth,0,0
+2021/22,Selby,E07000169,Maths Entry Level,Youth,0,0
+2021/22,Wakefield,E08000036,Maths Entry Level,Youth,0,0
+2021/22,Bradford,E08000032,Maths Level 1,Adult,470,670
+2021/22,Calderdale,E08000033,Maths Level 1,Adult,90,140
+2021/22,Craven,E07000163,Maths Level 1,Adult,10,30
+2021/22,Hambleton,E07000164,Maths Level 1,Adult,20,30
+2021/22,Harrogate,E07000165,Maths Level 1,Adult,40,50
+2021/22,Kirklees,E08000034,Maths Level 1,Adult,310,320
+2021/22,Leeds,E08000035,Maths Level 1,Adult,650,610
+2021/22,Richmondshire,E07000166,Maths Level 1,Adult,390,760
+2021/22,Ryedale,E07000167,Maths Level 1,Adult,10,20
+2021/22,Scarborough,E07000168,Maths Level 1,Adult,30,60
+2021/22,Selby,E07000169,Maths Level 1,Adult,30,50
+2021/22,Wakefield,E08000036,Maths Level 1,Adult,220,300
+2021/22,Bradford,E08000032,Maths Level 1,Youth,10,50
+2021/22,Calderdale,E08000033,Maths Level 1,Youth,low,30
+2021/22,Craven,E07000163,Maths Level 1,Youth,0,0
+2021/22,Hambleton,E07000164,Maths Level 1,Youth,low,10
+2021/22,Harrogate,E07000165,Maths Level 1,Youth,low,10
+2021/22,Kirklees,E08000034,Maths Level 1,Youth,10,30
+2021/22,Leeds,E08000035,Maths Level 1,Youth,10,70
+2021/22,Richmondshire,E07000166,Maths Level 1,Youth,20,90
+2021/22,Ryedale,E07000167,Maths Level 1,Youth,0,low
+2021/22,Scarborough,E07000168,Maths Level 1,Youth,10,20
+2021/22,Selby,E07000169,Maths Level 1,Youth,low,10
+2021/22,Wakefield,E08000036,Maths Level 1,Youth,low,30
+2021/22,Bradford,E08000032,Maths Level 2,Adult,490,2100
+2021/22,Calderdale,E08000033,Maths Level 2,Adult,150,650
+2021/22,Craven,E07000163,Maths Level 2,Adult,40,140
+2021/22,Hambleton,E07000164,Maths Level 2,Adult,60,250
+2021/22,Harrogate,E07000165,Maths Level 2,Adult,60,380
+2021/22,Kirklees,E08000034,Maths Level 2,Adult,290,1400
+2021/22,Leeds,E08000035,Maths Level 2,Adult,580,2730
+2021/22,Richmondshire,E07000166,Maths Level 2,Adult,330,660
+2021/22,Ryedale,E07000167,Maths Level 2,Adult,30,110
+2021/22,Scarborough,E07000168,Maths Level 2,Adult,80,410
+2021/22,Selby,E07000169,Maths Level 2,Adult,60,270
+2021/22,Wakefield,E08000036,Maths Level 2,Adult,260,1160
+2021/22,Bradford,E08000032,Maths Level 2,Youth,50,270
+2021/22,Calderdale,E08000033,Maths Level 2,Youth,20,110
+2021/22,Craven,E07000163,Maths Level 2,Youth,10,50
+2021/22,Hambleton,E07000164,Maths Level 2,Youth,low,60
+2021/22,Harrogate,E07000165,Maths Level 2,Youth,10,70
+2021/22,Kirklees,E08000034,Maths Level 2,Youth,30,240
+2021/22,Leeds,E08000035,Maths Level 2,Youth,30,260
+2021/22,Richmondshire,E07000166,Maths Level 2,Youth,40,150
+2021/22,Ryedale,E07000167,Maths Level 2,Youth,low,30
+2021/22,Scarborough,E07000168,Maths Level 2,Youth,10,70
+2021/22,Selby,E07000169,Maths Level 2,Youth,low,30
+2021/22,Wakefield,E08000036,Maths Level 2,Youth,10,140
+2021/22,Bradford,E08000032,Basic Skills (Excluding digital skills),Total,3970,6420
+2021/22,Calderdale,E08000033,Basic Skills (Excluding digital skills),Total,810,1540
+2021/22,Craven,E07000163,Basic Skills (Excluding digital skills),Total,130,290
+2021/22,Hambleton,E07000164,Basic Skills (Excluding digital skills),Total,170,450
+2021/22,Harrogate,E07000165,Basic Skills (Excluding digital skills),Total,250,720
+2021/22,Kirklees,E08000034,Basic Skills (Excluding digital skills),Total,1990,3590
+2021/22,Leeds,E08000035,Basic Skills (Excluding digital skills),Total,5350,8020
+2021/22,Richmondshire,E07000166,Basic Skills (Excluding digital skills),Total,1550,2510
+2021/22,Ryedale,E07000167,Basic Skills (Excluding digital skills),Total,90,210
+2021/22,Scarborough,E07000168,Basic Skills (Excluding digital skills),Total,240,700
+2021/22,Selby,E07000169,Basic Skills (Excluding digital skills),Total,170,470
+2021/22,Wakefield,E08000036,Basic Skills (Excluding digital skills),Total,1280,2540
+2021/22,Bradford,E08000032,Basic Skills (Including digital skills),Total,4080,6600
+2021/22,Calderdale,E08000033,Basic Skills (Including digital skills),Total,830,1570
+2021/22,Craven,E07000163,Basic Skills (Including digital skills),Total,140,300
+2021/22,Hambleton,E07000164,Basic Skills (Including digital skills),Total,170,460
+2021/22,Harrogate,E07000165,Basic Skills (Including digital skills),Total,260,720
+2021/22,Kirklees,E08000034,Basic Skills (Including digital skills),Total,2090,3750
+2021/22,Leeds,E08000035,Basic Skills (Including digital skills),Total,5390,8080
+2021/22,Richmondshire,E07000166,Basic Skills (Including digital skills),Total,1550,2510
+2021/22,Ryedale,E07000167,Basic Skills (Including digital skills),Total,90,210
+2021/22,Scarborough,E07000168,Basic Skills (Including digital skills),Total,240,700
+2021/22,Selby,E07000169,Basic Skills (Including digital skills),Total,180,470
+2021/22,Wakefield,E08000036,Basic Skills (Including digital skills),Total,1310,2590
+2021/22,Bradford,E08000032,English,Total,1580,3230
+2021/22,Calderdale,E08000033,English,Total,320,810
+2021/22,Craven,E07000163,English,Total,70,160
+2021/22,Hambleton,E07000164,English,Total,110,320
+2021/22,Harrogate,E07000165,English,Total,130,460
+2021/22,Kirklees,E08000034,English,Total,640,1600
+2021/22,Leeds,E08000035,English,Total,1710,3590
+2021/22,Richmondshire,E07000166,English,Total,1180,2020
+2021/22,Ryedale,E07000167,English,Total,50,130
+2021/22,Scarborough,E07000168,English,Total,150,470
+2021/22,Selby,E07000169,English,Total,80,290
+2021/22,Wakefield,E08000036,English,Total,530,1430
+2021/22,Bradford,E08000032,English Entry Level,Total,660,820
+2021/22,Calderdale,E08000033,English Entry Level,Total,90,110
+2021/22,Craven,E07000163,English Entry Level,Total,20,30
+2021/22,Hambleton,E07000164,English Entry Level,Total,20,20
+2021/22,Harrogate,E07000165,English Entry Level,Total,10,10
+2021/22,Kirklees,E08000034,English Entry Level,Total,80,110
+2021/22,Leeds,E08000035,English Entry Level,Total,340,430
+2021/22,Richmondshire,E07000166,English Entry Level,Total,340,340
+2021/22,Ryedale,E07000167,English Entry Level,Total,10,10
+2021/22,Scarborough,E07000168,English Entry Level,Total,20,30
+2021/22,Selby,E07000169,English Entry Level,Total,low,low
+2021/22,Wakefield,E08000036,English Entry Level,Total,100,140
+2021/22,Bradford,E08000032,English Level 1,Total,370,560
+2021/22,Calderdale,E08000033,English Level 1,Total,60,120
+2021/22,Craven,E07000163,English Level 1,Total,10,10
+2021/22,Hambleton,E07000164,English Level 1,Total,20,20
+2021/22,Harrogate,E07000165,English Level 1,Total,30,60
+2021/22,Kirklees,E08000034,English Level 1,Total,190,190
+2021/22,Leeds,E08000035,English Level 1,Total,680,550
+2021/22,Richmondshire,E07000166,English Level 1,Total,610,1200
+2021/22,Ryedale,E07000167,English Level 1,Total,10,10
+2021/22,Scarborough,E07000168,English Level 1,Total,30,60
+2021/22,Selby,E07000169,English Level 1,Total,20,40
+2021/22,Wakefield,E08000036,English Level 1,Total,140,250
+2021/22,Bradford,E08000032,English Level 2,Total,600,1980
+2021/22,Calderdale,E08000033,English Level 2,Total,170,610
+2021/22,Craven,E07000163,English Level 2,Total,50,130
+2021/22,Hambleton,E07000164,English Level 2,Total,80,280
+2021/22,Harrogate,E07000165,English Level 2,Total,90,400
+2021/22,Kirklees,E08000034,English Level 2,Total,380,1340
+2021/22,Leeds,E08000035,English Level 2,Total,770,2770
+2021/22,Richmondshire,E07000166,English Level 2,Total,360,790
+2021/22,Ryedale,E07000167,English Level 2,Total,30,120
+2021/22,Scarborough,E07000168,English Level 2,Total,100,390
+2021/22,Selby,E07000169,English Level 2,Total,70,260
+2021/22,Wakefield,E08000036,English Level 2,Total,330,1120
+2021/22,Bradford,E08000032,ESOL,Total,1710,1880
+2021/22,Calderdale,E08000033,ESOL,Total,350,370
+2021/22,Craven,E07000163,ESOL,Total,20,20
+2021/22,Hambleton,E07000164,ESOL,Total,20,20
+2021/22,Harrogate,E07000165,ESOL,Total,70,90
+2021/22,Kirklees,E08000034,ESOL,Total,950,1200
+2021/22,Leeds,E08000035,ESOL,Total,3110,3360
+2021/22,Richmondshire,E07000166,ESOL,Total,10,10
+2021/22,Ryedale,E07000167,ESOL,Total,10,10
+2021/22,Scarborough,E07000168,ESOL,Total,30,30
+2021/22,Selby,E07000169,ESOL,Total,30,40
+2021/22,Wakefield,E08000036,ESOL,Total,460,540
+2021/22,Bradford,E08000032,ESOL Entry Level,Total,1610,1770
+2021/22,Calderdale,E08000033,ESOL Entry Level,Total,330,350
+2021/22,Craven,E07000163,ESOL Entry Level,Total,20,20
+2021/22,Hambleton,E07000164,ESOL Entry Level,Total,10,20
+2021/22,Harrogate,E07000165,ESOL Entry Level,Total,60,70
+2021/22,Kirklees,E08000034,ESOL Entry Level,Total,740,940
+2021/22,Leeds,E08000035,ESOL Entry Level,Total,2860,3060
+2021/22,Richmondshire,E07000166,ESOL Entry Level,Total,10,10
+2021/22,Ryedale,E07000167,ESOL Entry Level,Total,10,10
+2021/22,Scarborough,E07000168,ESOL Entry Level,Total,20,20
+2021/22,Selby,E07000169,ESOL Entry Level,Total,20,30
+2021/22,Wakefield,E08000036,ESOL Entry Level,Total,350,420
+2021/22,Bradford,E08000032,ESOL Level 1,Total,130,150
+2021/22,Calderdale,E08000033,ESOL Level 1,Total,30,30
+2021/22,Craven,E07000163,ESOL Level 1,Total,0,low
+2021/22,Hambleton,E07000164,ESOL Level 1,Total,low,10
+2021/22,Harrogate,E07000165,ESOL Level 1,Total,10,20
+2021/22,Kirklees,E08000034,ESOL Level 1,Total,150,200
+2021/22,Leeds,E08000035,ESOL Level 1,Total,220,280
+2021/22,Richmondshire,E07000166,ESOL Level 1,Total,low,low
+2021/22,Ryedale,E07000167,ESOL Level 1,Total,low,10
+2021/22,Scarborough,E07000168,ESOL Level 1,Total,10,10
+2021/22,Selby,E07000169,ESOL Level 1,Total,10,10
+2021/22,Wakefield,E08000036,ESOL Level 1,Total,100,110
+2021/22,Bradford,E08000032,ESOL Level 2,Total,10,10
+2021/22,Calderdale,E08000033,ESOL Level 2,Total,0,0
+2021/22,Craven,E07000163,ESOL Level 2,Total,0,0
+2021/22,Hambleton,E07000164,ESOL Level 2,Total,0,0
+2021/22,Harrogate,E07000165,ESOL Level 2,Total,10,10
+2021/22,Kirklees,E08000034,ESOL Level 2,Total,100,120
+2021/22,Leeds,E08000035,ESOL Level 2,Total,40,40
+2021/22,Richmondshire,E07000166,ESOL Level 2,Total,0,0
+2021/22,Ryedale,E07000167,ESOL Level 2,Total,0,0
+2021/22,Scarborough,E07000168,ESOL Level 2,Total,low,low
+2021/22,Selby,E07000169,ESOL Level 2,Total,low,low
+2021/22,Wakefield,E08000036,ESOL Level 2,Total,30,30
+2021/22,Bradford,E08000032,Essential Digital Skills,Total,140,280
+2021/22,Calderdale,E08000033,Essential Digital Skills,Total,30,50
+2021/22,Craven,E07000163,Essential Digital Skills,Total,10,10
+2021/22,Hambleton,E07000164,Essential Digital Skills,Total,low,low
+2021/22,Harrogate,E07000165,Essential Digital Skills,Total,low,10
+2021/22,Kirklees,E08000034,Essential Digital Skills,Total,110,200
+2021/22,Leeds,E08000035,Essential Digital Skills,Total,120,200
+2021/22,Richmondshire,E07000166,Essential Digital Skills,Total,low,low
+2021/22,Ryedale,E07000167,Essential Digital Skills,Total,low,low
+2021/22,Scarborough,E07000168,Essential Digital Skills,Total,low,low
+2021/22,Selby,E07000169,Essential Digital Skills,Total,low,10
+2021/22,Wakefield,E08000036,Essential Digital Skills,Total,40,70
+2021/22,Bradford,E08000032,Essential Digital Skills Entry Level,Total,120,220
+2021/22,Calderdale,E08000033,Essential Digital Skills Entry Level,Total,20,40
+2021/22,Craven,E07000163,Essential Digital Skills Entry Level,Total,10,10
+2021/22,Hambleton,E07000164,Essential Digital Skills Entry Level,Total,0,0
+2021/22,Harrogate,E07000165,Essential Digital Skills Entry Level,Total,low,low
+2021/22,Kirklees,E08000034,Essential Digital Skills Entry Level,Total,80,140
+2021/22,Leeds,E08000035,Essential Digital Skills Entry Level,Total,80,130
+2021/22,Richmondshire,E07000166,Essential Digital Skills Entry Level,Total,0,0
+2021/22,Ryedale,E07000167,Essential Digital Skills Entry Level,Total,0,low
+2021/22,Scarborough,E07000168,Essential Digital Skills Entry Level,Total,low,low
+2021/22,Selby,E07000169,Essential Digital Skills Entry Level,Total,low,low
+2021/22,Wakefield,E08000036,Essential Digital Skills Entry Level,Total,10,20
+2021/22,Bradford,E08000032,Essential Digital Skills Level 1,Total,20,60
+2021/22,Calderdale,E08000033,Essential Digital Skills Level 1,Total,10,20
+2021/22,Craven,E07000163,Essential Digital Skills Level 1,Total,low,10
+2021/22,Hambleton,E07000164,Essential Digital Skills Level 1,Total,low,low
+2021/22,Harrogate,E07000165,Essential Digital Skills Level 1,Total,low,low
+2021/22,Kirklees,E08000034,Essential Digital Skills Level 1,Total,60,90
+2021/22,Leeds,E08000035,Essential Digital Skills Level 1,Total,50,80
+2021/22,Richmondshire,E07000166,Essential Digital Skills Level 1,Total,low,low
+2021/22,Ryedale,E07000167,Essential Digital Skills Level 1,Total,low,low
+2021/22,Scarborough,E07000168,Essential Digital Skills Level 1,Total,low,low
+2021/22,Selby,E07000169,Essential Digital Skills Level 1,Total,low,10
+2021/22,Wakefield,E08000036,Essential Digital Skills Level 1,Total,30,50
+2021/22,Bradford,E08000032,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Calderdale,E08000033,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Craven,E07000163,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Hambleton,E07000164,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Harrogate,E07000165,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Kirklees,E08000034,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Leeds,E08000035,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Richmondshire,E07000166,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Ryedale,E07000167,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Scarborough,E07000168,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Selby,E07000169,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Wakefield,E08000036,Essential Digital Skills Level 2,Total,NA,NA
+2021/22,Bradford,E08000032,Maths,Total,1710,3840
+2021/22,Calderdale,E08000033,Maths,Total,310,970
+2021/22,Craven,E07000163,Maths,Total,70,220
+2021/22,Hambleton,E07000164,Maths,Total,90,350
+2021/22,Harrogate,E07000165,Maths,Total,110,510
+2021/22,Kirklees,E08000034,Maths,Total,1000,2380
+2021/22,Leeds,E08000035,Maths,Total,1740,4150
+2021/22,Richmondshire,E07000166,Maths,Total,860,1740
+2021/22,Ryedale,E07000167,Maths,Total,50,160
+2021/22,Scarborough,E07000168,Maths,Total,120,550
+2021/22,Selby,E07000169,Maths,Total,100,350
+2021/22,Wakefield,E08000036,Maths,Total,570,1680
+2021/22,Bradford,E08000032,Maths Entry Level,Total,760,900
+2021/22,Calderdale,E08000033,Maths Entry Level,Total,60,70
+2021/22,Craven,E07000163,Maths Entry Level,Total,20,30
+2021/22,Hambleton,E07000164,Maths Entry Level,Total,10,10
+2021/22,Harrogate,E07000165,Maths Entry Level,Total,low,low
+2021/22,Kirklees,E08000034,Maths Entry Level,Total,370,470
+2021/22,Leeds,E08000035,Maths Entry Level,Total,510,640
+2021/22,Richmondshire,E07000166,Maths Entry Level,Total,180,190
+2021/22,Ryedale,E07000167,Maths Entry Level,Total,low,10
+2021/22,Scarborough,E07000168,Maths Entry Level,Total,10,10
+2021/22,Selby,E07000169,Maths Entry Level,Total,10,10
+2021/22,Wakefield,E08000036,Maths Entry Level,Total,120,160
+2021/22,Bradford,E08000032,Maths Level 1,Total,480,720
+2021/22,Calderdale,E08000033,Maths Level 1,Total,90,170
+2021/22,Craven,E07000163,Maths Level 1,Total,10,30
+2021/22,Hambleton,E07000164,Maths Level 1,Total,20,30
+2021/22,Harrogate,E07000165,Maths Level 1,Total,40,70
+2021/22,Kirklees,E08000034,Maths Level 1,Total,320,350
+2021/22,Leeds,E08000035,Maths Level 1,Total,660,680
+2021/22,Richmondshire,E07000166,Maths Level 1,Total,410,850
+2021/22,Ryedale,E07000167,Maths Level 1,Total,10,20
+2021/22,Scarborough,E07000168,Maths Level 1,Total,30,80
+2021/22,Selby,E07000169,Maths Level 1,Total,30,50
+2021/22,Wakefield,E08000036,Maths Level 1,Total,220,330
+2021/22,Bradford,E08000032,Maths Level 2,Total,540,2380
+2021/22,Calderdale,E08000033,Maths Level 2,Total,170,770
+2021/22,Craven,E07000163,Maths Level 2,Total,40,190
+2021/22,Hambleton,E07000164,Maths Level 2,Total,70,310
+2021/22,Harrogate,E07000165,Maths Level 2,Total,70,450
+2021/22,Kirklees,E08000034,Maths Level 2,Total,320,1630
+2021/22,Leeds,E08000035,Maths Level 2,Total,620,2990
+2021/22,Richmondshire,E07000166,Maths Level 2,Total,370,810
+2021/22,Ryedale,E07000167,Maths Level 2,Total,30,140
+2021/22,Scarborough,E07000168,Maths Level 2,Total,90,480
+2021/22,Selby,E07000169,Maths Level 2,Total,60,300
+2021/22,Wakefield,E08000036,Maths Level 2,Total,270,1300

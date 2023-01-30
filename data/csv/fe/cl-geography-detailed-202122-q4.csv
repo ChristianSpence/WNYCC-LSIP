@@ -1,0 +1,2017 @@
+date,geography_code,geography_name,age_detailed,sex,ethnicity_group,personal_and_community_development_learning,neighbourhood_learning_in_deprived_communities,family_english_maths_and_language,wider_family_learning,total,ach_total,ach_personal_and_community_development_learning,ach_neighbourhood_learning_in_deprived_communities,ach_family_english_maths_and_language,ach_wider_family_learning
+2021/22,E07000163,Craven,19-24,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Female,Total,10,low,low,low,10,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,19-24,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,19-24,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,19-24,Total,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,19-24,Total,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,25-34,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,25-34,Female,Total,50,low,low,low,50,50,50,low,low,low
+2021/22,E07000163,Craven,25-34,Female,White,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000163,Craven,25-34,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,25-34,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,25-34,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,25-34,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,25-34,Total,Total,60,low,low,low,60,50,50,low,low,low
+2021/22,E07000163,Craven,25-34,Total,White,50,low,low,low,50,40,40,low,low,low
+2021/22,E07000163,Craven,35-44,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Female,Total,60,low,low,low,60,60,60,low,low,low
+2021/22,E07000163,Craven,35-44,Female,White,50,low,low,low,50,50,50,low,low,low
+2021/22,E07000163,Craven,35-44,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,35-44,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,35-44,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,35-44,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,35-44,Total,Total,70,low,low,low,80,70,70,low,low,low
+2021/22,E07000163,Craven,35-44,Total,White,60,low,low,low,60,60,60,low,low,low
+2021/22,E07000163,Craven,45-59,Female,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,45-59,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Female,Total,70,low,low,low,70,70,70,low,low,low
+2021/22,E07000163,Craven,45-59,Female,White,70,low,low,low,70,60,60,low,low,low
+2021/22,E07000163,Craven,45-59,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Male,Total,40,low,low,low,40,30,30,low,low,low
+2021/22,E07000163,Craven,45-59,Male,White,40,low,low,low,40,30,30,low,low,low
+2021/22,E07000163,Craven,45-59,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,45-59,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,45-59,Total,Total,110,low,low,low,110,110,110,low,low,low
+2021/22,E07000163,Craven,45-59,Total,White,100,low,low,low,100,100,100,low,low,low
+2021/22,E07000163,Craven,60+,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Female,Total,40,low,low,low,40,30,30,low,low,low
+2021/22,E07000163,Craven,60+,Female,White,40,low,low,low,40,30,30,low,low,low
+2021/22,E07000163,Craven,60+,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,60+,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,60+,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,60+,Total,Total,50,low,low,low,50,40,40,low,low,low
+2021/22,E07000163,Craven,60+,Total,White,50,low,low,low,50,40,40,low,low,low
+2021/22,E07000163,Craven,Total,Female,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,Total,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Total,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Total,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Total,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,Total,Female,Total,230,low,low,low,230,210,210,low,low,low
+2021/22,E07000163,Craven,Total,Female,White,200,low,low,low,200,190,180,low,low,low
+2021/22,E07000163,Craven,Total,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Total,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Total,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Total,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Total,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Total,Male,Total,80,low,low,low,80,70,70,low,low,low
+2021/22,E07000163,Craven,Total,Male,White,70,low,low,low,70,70,70,low,low,low
+2021/22,E07000163,Craven,Total,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,Total,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Total,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Total,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Total,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000163,Craven,Total,Total,Total,310,low,low,low,310,290,280,low,low,low
+2021/22,E07000163,Craven,Total,Total,White,270,low,low,low,280,250,250,low,low,low
+2021/22,E07000163,Craven,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Under 19,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000163,Craven,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Female,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000164,Hambleton,19-24,Female,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000164,Hambleton,19-24,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000164,Hambleton,19-24,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000164,Hambleton,19-24,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,19-24,Total,Total,20,low,low,low,20,10,10,low,low,low
+2021/22,E07000164,Hambleton,19-24,Total,White,10,low,low,low,20,10,10,low,low,low
+2021/22,E07000164,Hambleton,25-34,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Female,Total,40,10,low,10,50,40,30,low,low,10
+2021/22,E07000164,Hambleton,25-34,Female,White,30,10,low,10,40,40,30,low,low,10
+2021/22,E07000164,Hambleton,25-34,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Male,Total,10,low,low,low,20,10,10,low,low,low
+2021/22,E07000164,Hambleton,25-34,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000164,Hambleton,25-34,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,25-34,Total,Total,50,10,low,10,70,60,50,low,low,10
+2021/22,E07000164,Hambleton,25-34,Total,White,40,10,low,10,60,50,40,low,low,10
+2021/22,E07000164,Hambleton,35-44,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Female,Total,40,low,low,10,50,40,30,low,low,10
+2021/22,E07000164,Hambleton,35-44,Female,White,40,low,low,10,50,40,30,low,low,10
+2021/22,E07000164,Hambleton,35-44,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000164,Hambleton,35-44,Male,White,low,low,low,low,10,10,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Total,Asian/ Asian British,low,low,low,low,10,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,35-44,Total,Total,50,low,low,10,60,50,40,low,low,10
+2021/22,E07000164,Hambleton,35-44,Total,White,40,low,low,10,50,50,30,low,low,10
+2021/22,E07000164,Hambleton,45-59,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Female,Total,60,low,low,low,70,60,60,low,low,low
+2021/22,E07000164,Hambleton,45-59,Female,White,60,low,low,low,70,60,60,low,low,low
+2021/22,E07000164,Hambleton,45-59,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Male,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000164,Hambleton,45-59,Male,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000164,Hambleton,45-59,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,45-59,Total,Total,80,low,low,low,90,80,80,low,low,low
+2021/22,E07000164,Hambleton,45-59,Total,White,80,low,low,low,90,80,80,low,low,low
+2021/22,E07000164,Hambleton,60+,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Female,Total,90,low,low,low,90,80,80,low,low,low
+2021/22,E07000164,Hambleton,60+,Female,White,80,low,low,low,90,80,80,low,low,low
+2021/22,E07000164,Hambleton,60+,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Male,Total,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000164,Hambleton,60+,Male,White,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000164,Hambleton,60+,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,60+,Total,Total,130,low,low,low,130,120,120,low,low,low
+2021/22,E07000164,Hambleton,60+,Total,White,130,low,low,low,130,120,120,low,low,low
+2021/22,E07000164,Hambleton,Total,Female,Asian/ Asian British,10,low,low,low,10,10,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Female,Total,240,10,low,20,270,240,210,10,low,20
+2021/22,E07000164,Hambleton,Total,Female,White,220,10,low,20,250,230,200,10,low,20
+2021/22,E07000164,Hambleton,Total,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Male,Total,90,low,low,low,90,90,90,low,low,low
+2021/22,E07000164,Hambleton,Total,Male,White,80,low,low,low,90,80,80,low,low,low
+2021/22,E07000164,Hambleton,Total,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000164,Hambleton,Total,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Total,Total,Total,330,10,low,20,370,330,300,10,low,20
+2021/22,E07000164,Hambleton,Total,Total,White,310,10,low,20,340,310,280,10,low,20
+2021/22,E07000164,Hambleton,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Under 19,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000164,Hambleton,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Female,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000165,Harrogate,19-24,Female,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000165,Harrogate,19-24,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000165,Harrogate,19-24,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000165,Harrogate,19-24,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,19-24,Total,Total,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000165,Harrogate,19-24,Total,White,30,low,low,low,30,30,20,low,low,low
+2021/22,E07000165,Harrogate,25-34,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Female,Total,50,low,low,low,50,50,50,low,low,low
+2021/22,E07000165,Harrogate,25-34,Female,White,50,low,low,low,50,50,40,low,low,low
+2021/22,E07000165,Harrogate,25-34,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Male,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000165,Harrogate,25-34,Male,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000165,Harrogate,25-34,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000165,Harrogate,25-34,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,25-34,Total,Total,70,low,low,low,80,70,70,low,low,low
+2021/22,E07000165,Harrogate,25-34,Total,White,60,low,low,low,70,60,60,low,low,low
+2021/22,E07000165,Harrogate,35-44,Female,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000165,Harrogate,35-44,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Female,Total,60,low,low,low,70,70,60,low,low,low
+2021/22,E07000165,Harrogate,35-44,Female,White,60,low,low,low,60,60,50,low,low,low
+2021/22,E07000165,Harrogate,35-44,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Male,Total,10,low,low,low,20,10,10,low,low,low
+2021/22,E07000165,Harrogate,35-44,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000165,Harrogate,35-44,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000165,Harrogate,35-44,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,35-44,Total,Total,80,low,10,low,90,80,70,low,10,low
+2021/22,E07000165,Harrogate,35-44,Total,White,70,low,10,low,80,70,60,low,10,low
+2021/22,E07000165,Harrogate,45-59,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Female,Total,100,low,10,low,110,100,100,low,10,low
+2021/22,E07000165,Harrogate,45-59,Female,White,100,low,10,low,100,90,90,low,10,low
+2021/22,E07000165,Harrogate,45-59,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Male,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000165,Harrogate,45-59,Male,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000165,Harrogate,45-59,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,45-59,Total,Total,120,low,10,low,130,120,120,low,10,low
+2021/22,E07000165,Harrogate,45-59,Total,White,120,low,10,low,120,110,110,low,10,low
+2021/22,E07000165,Harrogate,60+,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Female,Total,90,low,low,low,100,90,90,low,low,low
+2021/22,E07000165,Harrogate,60+,Female,White,90,low,low,low,90,90,90,low,low,low
+2021/22,E07000165,Harrogate,60+,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Male,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000165,Harrogate,60+,Male,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000165,Harrogate,60+,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,60+,Total,Total,120,low,low,low,120,110,110,low,low,low
+2021/22,E07000165,Harrogate,60+,Total,White,110,low,low,low,120,110,110,low,low,low
+2021/22,E07000165,Harrogate,Total,Female,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000165,Harrogate,Total,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Total,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000165,Harrogate,Total,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Total,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Total,Female,Total,330,10,10,low,350,330,310,10,10,low
+2021/22,E07000165,Harrogate,Total,Female,White,310,10,10,low,320,310,290,10,10,low
+2021/22,E07000165,Harrogate,Total,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Total,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Total,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Total,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Total,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Total,Male,Total,90,low,low,low,90,80,80,low,low,low
+2021/22,E07000165,Harrogate,Total,Male,White,80,low,low,low,80,70,70,low,low,low
+2021/22,E07000165,Harrogate,Total,Total,Asian/ Asian British,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000165,Harrogate,Total,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Total,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000165,Harrogate,Total,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Total,Total,Other Ethnic Group,10,low,low,low,10,low,low,low,low,low
+2021/22,E07000165,Harrogate,Total,Total,Total,420,10,10,low,440,410,390,10,10,low
+2021/22,E07000165,Harrogate,Total,Total,White,380,10,10,low,400,380,360,10,10,low
+2021/22,E07000165,Harrogate,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Under 19,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000165,Harrogate,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Female,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Female,White,low,low,low,low,10,10,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Total,Total,20,low,low,low,20,10,10,low,low,low
+2021/22,E07000166,Richmondshire,19-24,Total,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Female,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Female,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Male,Total,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Male,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Total,Total,60,low,low,low,60,60,60,low,low,low
+2021/22,E07000166,Richmondshire,25-34,Total,White,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Female,Total,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Female,White,30,low,low,low,30,20,20,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Male,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Total,Total,50,low,low,low,50,50,40,low,low,low
+2021/22,E07000166,Richmondshire,35-44,Total,White,30,low,low,low,40,30,30,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Female,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Female,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Male,Total,10,low,low,low,10,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Total,Total,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000166,Richmondshire,45-59,Total,White,30,low,low,low,30,20,20,low,low,low
+2021/22,E07000166,Richmondshire,60+,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Female,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,60+,Female,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,60+,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,60+,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,60+,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,60+,Total,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000166,Richmondshire,60+,Total,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000166,Richmondshire,Total,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Total,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Total,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Total,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Total,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Total,Female,Total,90,low,low,low,90,90,90,low,low,low
+2021/22,E07000166,Richmondshire,Total,Female,White,80,low,low,low,90,80,80,low,low,low
+2021/22,E07000166,Richmondshire,Total,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,Total,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Total,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Total,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Total,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,Total,Male,Total,70,low,low,low,70,70,70,low,low,low
+2021/22,E07000166,Richmondshire,Total,Male,White,50,low,low,low,50,40,40,low,low,low
+2021/22,E07000166,Richmondshire,Total,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,Total,Total,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,Total,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Total,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Total,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000166,Richmondshire,Total,Total,Total,160,low,low,low,170,160,150,low,low,low
+2021/22,E07000166,Richmondshire,Total,Total,White,130,low,low,low,130,120,120,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Under 19,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000166,Richmondshire,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Female,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000167,Ryedale,19-24,Female,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000167,Ryedale,19-24,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,19-24,Total,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000167,Ryedale,19-24,Total,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000167,Ryedale,25-34,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Female,Total,20,low,low,low,20,10,10,low,low,low
+2021/22,E07000167,Ryedale,25-34,Female,White,20,low,low,low,20,10,10,low,low,low
+2021/22,E07000167,Ryedale,25-34,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000167,Ryedale,25-34,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000167,Ryedale,25-34,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,25-34,Total,Total,30,low,low,low,30,20,20,low,low,low
+2021/22,E07000167,Ryedale,25-34,Total,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000167,Ryedale,35-44,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Female,Total,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000167,Ryedale,35-44,Female,White,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000167,Ryedale,35-44,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000167,Ryedale,35-44,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000167,Ryedale,35-44,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,35-44,Total,Total,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000167,Ryedale,35-44,Total,White,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000167,Ryedale,45-59,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Female,Total,50,low,low,low,50,50,50,low,low,low
+2021/22,E07000167,Ryedale,45-59,Female,White,50,low,low,low,50,50,50,low,low,low
+2021/22,E07000167,Ryedale,45-59,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Male,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000167,Ryedale,45-59,Male,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000167,Ryedale,45-59,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,45-59,Total,Total,70,low,low,low,70,70,70,low,low,low
+2021/22,E07000167,Ryedale,45-59,Total,White,70,low,low,low,70,60,60,low,low,low
+2021/22,E07000167,Ryedale,60+,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Female,Total,60,low,low,low,60,50,50,low,low,low
+2021/22,E07000167,Ryedale,60+,Female,White,60,low,low,low,60,50,50,low,low,low
+2021/22,E07000167,Ryedale,60+,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Male,Total,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000167,Ryedale,60+,Male,White,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000167,Ryedale,60+,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,60+,Total,Total,90,low,low,low,90,80,80,low,low,low
+2021/22,E07000167,Ryedale,60+,Total,White,90,low,low,low,90,80,80,low,low,low
+2021/22,E07000167,Ryedale,Total,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Female,Total,180,low,low,low,180,160,160,low,low,low
+2021/22,E07000167,Ryedale,Total,Female,White,170,low,low,low,170,160,150,low,low,low
+2021/22,E07000167,Ryedale,Total,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Male,Total,70,low,low,low,70,60,60,low,low,low
+2021/22,E07000167,Ryedale,Total,Male,White,70,low,low,low,70,60,60,low,low,low
+2021/22,E07000167,Ryedale,Total,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Total,Total,Total,240,low,low,low,250,220,220,low,low,low
+2021/22,E07000167,Ryedale,Total,Total,White,240,low,low,low,240,220,220,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Under 19,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000167,Ryedale,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,19-24,Female,Total,50,low,low,low,60,50,50,low,low,low
+2021/22,E07000168,Scarborough,19-24,Female,White,40,low,low,low,50,40,40,low,low,low
+2021/22,E07000168,Scarborough,19-24,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Male,Total,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000168,Scarborough,19-24,Male,White,20,low,low,low,30,30,20,low,low,low
+2021/22,E07000168,Scarborough,19-24,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,19-24,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,19-24,Total,Total,80,low,low,10,80,80,70,low,low,10
+2021/22,E07000168,Scarborough,19-24,Total,White,70,low,low,10,70,70,60,low,low,10
+2021/22,E07000168,Scarborough,25-34,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Female,Total,50,low,low,40,90,90,50,low,low,40
+2021/22,E07000168,Scarborough,25-34,Female,White,50,low,low,40,80,80,40,low,low,40
+2021/22,E07000168,Scarborough,25-34,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,25-34,Male,Total,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000168,Scarborough,25-34,Male,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000168,Scarborough,25-34,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,25-34,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,25-34,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,25-34,Total,Total,80,low,low,40,120,120,80,low,low,40
+2021/22,E07000168,Scarborough,25-34,Total,White,60,low,low,40,100,100,60,low,low,40
+2021/22,E07000168,Scarborough,35-44,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Female,Total,80,low,low,20,100,90,70,low,low,20
+2021/22,E07000168,Scarborough,35-44,Female,White,70,low,low,20,100,90,60,low,low,20
+2021/22,E07000168,Scarborough,35-44,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,35-44,Male,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000168,Scarborough,35-44,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,35-44,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,35-44,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,35-44,Total,Total,90,low,low,30,120,110,90,low,low,30
+2021/22,E07000168,Scarborough,35-44,Total,White,80,low,low,30,110,100,80,low,low,30
+2021/22,E07000168,Scarborough,45-59,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Female,Total,110,low,low,10,120,100,100,low,low,10
+2021/22,E07000168,Scarborough,45-59,Female,White,110,low,low,10,110,100,90,low,low,10
+2021/22,E07000168,Scarborough,45-59,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Male,Total,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000168,Scarborough,45-59,Male,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000168,Scarborough,45-59,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,45-59,Total,Total,140,low,low,10,150,130,120,low,low,10
+2021/22,E07000168,Scarborough,45-59,Total,White,130,low,low,10,140,120,110,low,low,10
+2021/22,E07000168,Scarborough,60+,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Female,Total,90,low,low,low,90,80,80,low,low,low
+2021/22,E07000168,Scarborough,60+,Female,White,90,low,low,low,90,80,80,low,low,low
+2021/22,E07000168,Scarborough,60+,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Male,Total,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000168,Scarborough,60+,Male,White,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000168,Scarborough,60+,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,60+,Total,Total,140,low,low,low,140,120,120,low,low,low
+2021/22,E07000168,Scarborough,60+,Total,White,130,low,low,low,130,120,120,low,low,low
+2021/22,E07000168,Scarborough,Total,Female,Asian/ Asian British,10,low,low,low,10,low,low,low,low,low
+2021/22,E07000168,Scarborough,Total,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Total,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,Total,Female,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,Total,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,Total,Female,Total,390,low,low,70,460,420,350,low,low,70
+2021/22,E07000168,Scarborough,Total,Female,White,360,low,low,70,430,390,320,low,low,70
+2021/22,E07000168,Scarborough,Total,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,Total,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Total,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Total,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Total,Male,Other Ethnic Group,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000168,Scarborough,Total,Male,Total,150,low,low,low,150,140,140,low,low,low
+2021/22,E07000168,Scarborough,Total,Male,White,110,low,low,low,120,110,110,low,low,low
+2021/22,E07000168,Scarborough,Total,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,Total,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Total,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,Total,Total,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000168,Scarborough,Total,Total,Other Ethnic Group,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000168,Scarborough,Total,Total,Total,530,low,low,80,610,560,480,low,low,80
+2021/22,E07000168,Scarborough,Total,Total,White,470,low,low,80,550,500,430,low,low,80
+2021/22,E07000168,Scarborough,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Under 19,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000168,Scarborough,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Female,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Female,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000169,Selby,19-24,Female,White,10,low,low,low,20,10,10,low,low,low
+2021/22,E07000169,Selby,19-24,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Male,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000169,Selby,19-24,Male,White,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000169,Selby,19-24,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,19-24,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,19-24,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,19-24,Total,Total,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000169,Selby,19-24,Total,White,30,low,low,low,30,30,20,low,low,low
+2021/22,E07000169,Selby,25-34,Female,Asian/ Asian British,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000169,Selby,25-34,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,25-34,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,25-34,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,25-34,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,25-34,Female,Total,60,low,low,10,70,70,50,low,low,10
+2021/22,E07000169,Selby,25-34,Female,White,30,low,low,10,40,40,30,low,low,10
+2021/22,E07000169,Selby,25-34,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,25-34,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,25-34,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,25-34,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,25-34,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,25-34,Male,Total,10,low,low,low,20,10,10,low,low,low
+2021/22,E07000169,Selby,25-34,Male,White,10,low,low,low,10,low,low,low,low,low
+2021/22,E07000169,Selby,25-34,Total,Asian/ Asian British,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000169,Selby,25-34,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,25-34,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,25-34,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,25-34,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,25-34,Total,Total,70,low,low,10,80,80,70,low,low,10
+2021/22,E07000169,Selby,25-34,Total,White,40,low,low,10,50,40,30,low,low,10
+2021/22,E07000169,Selby,35-44,Female,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,35-44,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,35-44,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,35-44,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,35-44,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,35-44,Female,Total,40,low,low,20,70,60,40,low,low,20
+2021/22,E07000169,Selby,35-44,Female,White,30,low,low,20,50,50,30,low,low,20
+2021/22,E07000169,Selby,35-44,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,35-44,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,35-44,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,35-44,Male,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000169,Selby,35-44,Male,White,10,low,low,low,20,10,10,low,low,low
+2021/22,E07000169,Selby,35-44,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,35-44,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,35-44,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,35-44,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,35-44,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,35-44,Total,Total,60,low,low,20,90,80,60,low,low,20
+2021/22,E07000169,Selby,35-44,Total,White,40,low,low,20,70,60,40,low,low,20
+2021/22,E07000169,Selby,45-59,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Female,Total,40,low,low,10,40,40,30,low,low,10
+2021/22,E07000169,Selby,45-59,Female,White,30,low,low,10,40,40,30,low,low,10
+2021/22,E07000169,Selby,45-59,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Male,Total,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000169,Selby,45-59,Male,White,10,low,low,low,20,10,10,low,low,low
+2021/22,E07000169,Selby,45-59,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,45-59,Total,Total,50,low,low,10,60,60,50,low,low,10
+2021/22,E07000169,Selby,45-59,Total,White,50,low,low,10,50,50,40,low,low,10
+2021/22,E07000169,Selby,60+,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Female,Total,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000169,Selby,60+,Female,White,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000169,Selby,60+,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Male,Total,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,60+,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,60+,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,60+,Total,Total,50,low,low,low,50,50,40,low,low,low
+2021/22,E07000169,Selby,60+,Total,White,50,low,low,low,50,50,40,low,low,low
+2021/22,E07000169,Selby,Total,Female,Asian/ Asian British,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000169,Selby,Total,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Total,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Total,Female,Not Provided,low,low,low,low,10,10,low,low,low,low
+2021/22,E07000169,Selby,Total,Female,Other Ethnic Group,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000169,Selby,Total,Female,Total,190,low,low,40,240,230,180,low,low,40
+2021/22,E07000169,Selby,Total,Female,White,140,low,low,40,180,170,130,low,low,40
+2021/22,E07000169,Selby,Total,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E07000169,Selby,Total,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Total,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Total,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Total,Male,Other Ethnic Group,20,low,low,low,20,20,20,low,low,low
+2021/22,E07000169,Selby,Total,Male,Total,80,low,low,low,90,80,70,low,low,low
+2021/22,E07000169,Selby,Total,Male,White,60,low,low,low,60,50,50,low,low,low
+2021/22,E07000169,Selby,Total,Total,Asian/ Asian British,40,low,low,low,40,40,40,low,low,low
+2021/22,E07000169,Selby,Total,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Total,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Total,Total,Not Provided,low,low,low,low,10,10,low,low,low,low
+2021/22,E07000169,Selby,Total,Total,Other Ethnic Group,30,low,low,low,30,30,30,low,low,low
+2021/22,E07000169,Selby,Total,Total,Total,280,low,low,50,320,300,250,low,low,50
+2021/22,E07000169,Selby,Total,Total,White,200,low,low,50,250,220,180,low,low,50
+2021/22,E07000169,Selby,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Under 19,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E07000169,Selby,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,19-24,Female,Asian/ Asian British,110,low,low,60,180,170,110,low,low,60
+2021/22,E08000032,Bradford,19-24,Female,Black/African/Caribbean/Black British,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000032,Bradford,19-24,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,19-24,Female,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,19-24,Female,Other Ethnic Group,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000032,Bradford,19-24,Female,Total,240,low,10,110,360,350,230,low,low,110
+2021/22,E08000032,Bradford,19-24,Female,White,70,low,low,40,120,120,70,low,low,40
+2021/22,E08000032,Bradford,19-24,Male,Asian/ Asian British,100,low,10,70,170,170,100,low,low,70
+2021/22,E08000032,Bradford,19-24,Male,Black/African/Caribbean/Black British,20,low,low,10,30,30,20,low,low,10
+2021/22,E08000032,Bradford,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,10,10,10,low,low,low,10
+2021/22,E08000032,Bradford,19-24,Male,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,19-24,Male,Other Ethnic Group,30,low,low,10,30,30,30,low,low,10
+2021/22,E08000032,Bradford,19-24,Male,Total,240,low,10,170,420,410,240,low,10,170
+2021/22,E08000032,Bradford,19-24,Male,White,100,low,10,80,170,170,100,low,low,80
+2021/22,E08000032,Bradford,19-24,Total,Asian/ Asian British,210,low,10,140,350,340,210,low,10,140
+2021/22,E08000032,Bradford,19-24,Total,Black/African/Caribbean/Black British,40,low,low,10,50,40,30,low,low,10
+2021/22,E08000032,Bradford,19-24,Total,Mixed/ Multiple Ethnic Group,10,low,low,10,20,20,10,low,low,10
+2021/22,E08000032,Bradford,19-24,Total,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,19-24,Total,Other Ethnic Group,40,low,low,10,50,50,40,low,low,10
+2021/22,E08000032,Bradford,19-24,Total,Total,490,low,20,280,770,760,470,low,10,280
+2021/22,E08000032,Bradford,19-24,Total,White,170,low,10,120,290,290,170,low,low,120
+2021/22,E08000032,Bradford,25-34,Female,Asian/ Asian British,160,low,10,60,220,210,150,low,low,50
+2021/22,E08000032,Bradford,25-34,Female,Black/African/Caribbean/Black British,30,low,low,low,30,30,20,low,low,low
+2021/22,E08000032,Bradford,25-34,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,20,20,10,low,low,low
+2021/22,E08000032,Bradford,25-34,Female,Not Provided,10,low,low,low,20,20,10,low,low,low
+2021/22,E08000032,Bradford,25-34,Female,Other Ethnic Group,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000032,Bradford,25-34,Female,Total,320,10,20,100,440,400,290,10,10,90
+2021/22,E08000032,Bradford,25-34,Female,White,90,low,10,30,130,120,80,low,low,30
+2021/22,E08000032,Bradford,25-34,Male,Asian/ Asian British,30,low,low,low,30,30,30,low,low,low
+2021/22,E08000032,Bradford,25-34,Male,Black/African/Caribbean/Black British,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000032,Bradford,25-34,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,25-34,Male,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,25-34,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,25-34,Male,Total,120,low,low,10,130,120,120,low,low,10
+2021/22,E08000032,Bradford,25-34,Male,White,50,low,low,low,60,50,50,low,low,low
+2021/22,E08000032,Bradford,25-34,Total,Asian/ Asian British,190,low,10,60,260,240,180,low,low,60
+2021/22,E08000032,Bradford,25-34,Total,Black/African/Caribbean/Black British,50,low,low,low,50,50,40,low,low,low
+2021/22,E08000032,Bradford,25-34,Total,Mixed/ Multiple Ethnic Group,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000032,Bradford,25-34,Total,Not Provided,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000032,Bradford,25-34,Total,Other Ethnic Group,30,low,low,low,30,30,30,low,low,low
+2021/22,E08000032,Bradford,25-34,Total,Total,440,10,20,110,570,520,400,10,10,100
+2021/22,E08000032,Bradford,25-34,Total,White,140,low,10,40,180,170,120,low,10,40
+2021/22,E08000032,Bradford,35-44,Female,Asian/ Asian British,270,low,10,70,350,300,230,low,10,70
+2021/22,E08000032,Bradford,35-44,Female,Black/African/Caribbean/Black British,30,low,low,10,40,40,30,low,low,low
+2021/22,E08000032,Bradford,35-44,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,35-44,Female,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,35-44,Female,Other Ethnic Group,30,low,low,10,40,30,30,low,low,10
+2021/22,E08000032,Bradford,35-44,Female,Total,460,10,20,110,580,520,400,10,20,100
+2021/22,E08000032,Bradford,35-44,Female,White,110,low,low,20,140,130,100,low,low,20
+2021/22,E08000032,Bradford,35-44,Male,Asian/ Asian British,30,low,low,low,40,40,30,low,low,low
+2021/22,E08000032,Bradford,35-44,Male,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,35-44,Male,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,35-44,Male,Other Ethnic Group,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000032,Bradford,35-44,Male,Total,110,low,low,10,120,110,100,low,low,10
+2021/22,E08000032,Bradford,35-44,Male,White,40,low,low,low,40,40,40,low,low,low
+2021/22,E08000032,Bradford,35-44,Total,Asian/ Asian British,300,low,10,80,390,340,260,low,10,70
+2021/22,E08000032,Bradford,35-44,Total,Black/African/Caribbean/Black British,40,low,low,10,50,50,40,low,low,low
+2021/22,E08000032,Bradford,35-44,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,35-44,Total,Not Provided,10,low,low,low,20,20,10,low,low,low
+2021/22,E08000032,Bradford,35-44,Total,Other Ethnic Group,50,low,low,10,60,50,40,low,low,10
+2021/22,E08000032,Bradford,35-44,Total,Total,560,10,20,110,700,630,500,10,20,110
+2021/22,E08000032,Bradford,35-44,Total,White,150,low,low,20,180,160,140,low,low,20
+2021/22,E08000032,Bradford,45-59,Female,Asian/ Asian British,210,low,low,20,230,200,190,low,low,10
+2021/22,E08000032,Bradford,45-59,Female,Black/African/Caribbean/Black British,30,low,low,low,30,30,30,low,low,low
+2021/22,E08000032,Bradford,45-59,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,45-59,Female,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,45-59,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,45-59,Female,Total,420,low,10,30,460,410,370,low,10,30
+2021/22,E08000032,Bradford,45-59,Female,White,160,low,low,10,170,160,140,low,low,10
+2021/22,E08000032,Bradford,45-59,Male,Asian/ Asian British,40,low,low,low,40,40,40,low,low,low
+2021/22,E08000032,Bradford,45-59,Male,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,45-59,Male,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,45-59,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,45-59,Male,Total,160,low,low,10,160,150,150,low,low,low
+2021/22,E08000032,Bradford,45-59,Male,White,80,low,low,low,90,80,80,low,low,low
+2021/22,E08000032,Bradford,45-59,Total,Asian/ Asian British,260,low,low,20,280,240,230,low,low,10
+2021/22,E08000032,Bradford,45-59,Total,Black/African/Caribbean/Black British,40,low,low,low,50,40,40,low,low,low
+2021/22,E08000032,Bradford,45-59,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,low,low,low,low
+2021/22,E08000032,Bradford,45-59,Total,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,45-59,Total,Other Ethnic Group,20,low,low,low,30,20,20,low,low,low
+2021/22,E08000032,Bradford,45-59,Total,Total,580,low,10,40,630,560,520,low,10,30
+2021/22,E08000032,Bradford,45-59,Total,White,240,low,low,20,260,240,220,low,low,10
+2021/22,E08000032,Bradford,60+,Female,Asian/ Asian British,60,low,low,low,60,50,50,low,low,low
+2021/22,E08000032,Bradford,60+,Female,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,60+,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,60+,Female,Total,180,low,low,low,180,160,160,low,low,low
+2021/22,E08000032,Bradford,60+,Female,White,110,low,low,low,110,90,90,low,low,low
+2021/22,E08000032,Bradford,60+,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,60+,Male,Total,70,low,low,low,70,70,60,low,low,low
+2021/22,E08000032,Bradford,60+,Male,White,50,low,low,low,60,50,50,low,low,low
+2021/22,E08000032,Bradford,60+,Total,Asian/ Asian British,70,low,low,low,70,60,60,low,low,low
+2021/22,E08000032,Bradford,60+,Total,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000032,Bradford,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,60+,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,60+,Total,Total,240,low,low,10,250,230,220,low,low,10
+2021/22,E08000032,Bradford,60+,Total,White,160,low,low,10,160,140,140,low,low,10
+2021/22,E08000032,Bradford,Total,Female,Asian/ Asian British,810,10,30,210,1040,940,720,10,20,200
+2021/22,E08000032,Bradford,Total,Female,Black/African/Caribbean/Black British,120,low,low,10,130,120,110,low,low,10
+2021/22,E08000032,Bradford,Total,Female,Mixed/ Multiple Ethnic Group,30,low,low,10,40,40,30,low,low,10
+2021/22,E08000032,Bradford,Total,Female,Not Provided,40,low,low,10,50,40,40,low,low,10
+2021/22,E08000032,Bradford,Total,Female,Other Ethnic Group,80,low,10,10,90,90,70,low,10,10
+2021/22,E08000032,Bradford,Total,Female,Total,1620,20,50,350,2020,1840,1450,20,40,340
+2021/22,E08000032,Bradford,Total,Female,White,540,10,10,110,670,610,480,10,10,110
+2021/22,E08000032,Bradford,Total,Male,Asian/ Asian British,210,low,10,90,300,300,210,low,10,90
+2021/22,E08000032,Bradford,Total,Male,Black/African/Caribbean/Black British,60,low,low,10,70,70,60,low,low,10
+2021/22,E08000032,Bradford,Total,Male,Mixed/ Multiple Ethnic Group,10,low,low,10,20,20,10,low,low,10
+2021/22,E08000032,Bradford,Total,Male,Not Provided,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000032,Bradford,Total,Male,Other Ethnic Group,70,low,low,10,80,80,70,low,low,10
+2021/22,E08000032,Bradford,Total,Male,Total,700,low,20,210,910,880,680,low,10,200
+2021/22,E08000032,Bradford,Total,Male,White,320,low,10,90,410,400,310,low,low,90
+2021/22,E08000032,Bradford,Total,Total,Asian/ Asian British,1020,10,40,290,1340,1240,930,10,30,280
+2021/22,E08000032,Bradford,Total,Total,Black/African/Caribbean/Black British,180,low,low,20,200,190,170,low,low,20
+2021/22,E08000032,Bradford,Total,Total,Mixed/ Multiple Ethnic Group,50,low,low,20,60,60,40,low,low,10
+2021/22,E08000032,Bradford,Total,Total,Not Provided,60,low,low,10,70,70,60,low,low,10
+2021/22,E08000032,Bradford,Total,Total,Other Ethnic Group,140,low,10,20,170,160,140,low,10,20
+2021/22,E08000032,Bradford,Total,Total,Total,2310,20,70,560,2930,2720,2130,20,60,540
+2021/22,E08000032,Bradford,Total,Total,White,860,10,20,200,1080,1000,790,10,20,200
+2021/22,E08000032,Bradford,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Male,Asian/ Asian British,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Male,Total,10,low,low,10,20,20,10,low,low,10
+2021/22,E08000032,Bradford,Under 19,Male,White,low,low,low,10,10,10,low,low,low,10
+2021/22,E08000032,Bradford,Under 19,Total,Asian/ Asian British,10,low,low,10,10,10,10,low,low,10
+2021/22,E08000032,Bradford,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Under 19,Total,Total,10,low,low,10,20,20,10,low,low,10
+2021/22,E08000032,Bradford,Under 19,Total,White,low,low,low,10,10,10,low,low,low,10
+2021/22,E08000032,Bradford,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000032,Bradford,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Female,Asian/ Asian British,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Female,Total,30,30,low,40,90,90,30,30,low,40
+2021/22,E08000033,Calderdale,19-24,Female,White,20,20,low,30,80,80,20,20,low,30
+2021/22,E08000033,Calderdale,19-24,Male,Asian/ Asian British,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Male,Total,20,20,low,low,40,40,20,20,low,low
+2021/22,E08000033,Calderdale,19-24,Male,White,10,20,low,low,30,30,10,10,low,low
+2021/22,E08000033,Calderdale,19-24,Total,Asian/ Asian British,10,10,low,low,10,10,10,10,low,low
+2021/22,E08000033,Calderdale,19-24,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000033,Calderdale,19-24,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,19-24,Total,Total,40,50,low,40,130,130,40,50,low,40
+2021/22,E08000033,Calderdale,19-24,Total,White,30,40,low,40,110,100,30,40,low,40
+2021/22,E08000033,Calderdale,25-34,Female,Asian/ Asian British,10,10,low,30,50,50,10,10,low,30
+2021/22,E08000033,Calderdale,25-34,Female,Black/African/Caribbean/Black British,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,25-34,Female,Mixed/ Multiple Ethnic Group,low,low,low,10,10,10,low,low,low,10
+2021/22,E08000033,Calderdale,25-34,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,25-34,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,25-34,Female,Total,60,80,20,380,530,520,60,80,20,380
+2021/22,E08000033,Calderdale,25-34,Female,White,50,60,20,350,460,450,40,60,20,350
+2021/22,E08000033,Calderdale,25-34,Male,Asian/ Asian British,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,25-34,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,25-34,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,25-34,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,25-34,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,25-34,Male,Total,20,30,low,30,90,80,20,30,low,30
+2021/22,E08000033,Calderdale,25-34,Male,White,10,30,low,30,70,70,10,30,low,30
+2021/22,E08000033,Calderdale,25-34,Total,Asian/ Asian British,20,10,low,30,60,50,10,10,low,30
+2021/22,E08000033,Calderdale,25-34,Total,Black/African/Caribbean/Black British,low,low,low,10,10,10,low,low,low,10
+2021/22,E08000033,Calderdale,25-34,Total,Mixed/ Multiple Ethnic Group,low,low,low,10,10,10,low,low,low,10
+2021/22,E08000033,Calderdale,25-34,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,25-34,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,25-34,Total,Total,80,110,20,420,620,600,70,110,20,420
+2021/22,E08000033,Calderdale,25-34,Total,White,60,90,20,380,530,520,50,90,20,380
+2021/22,E08000033,Calderdale,35-44,Female,Asian/ Asian British,10,20,low,50,70,70,10,20,low,50
+2021/22,E08000033,Calderdale,35-44,Female,Black/African/Caribbean/Black British,low,10,low,10,10,10,low,10,low,10
+2021/22,E08000033,Calderdale,35-44,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,35-44,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,35-44,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,35-44,Female,Total,60,80,30,420,580,570,60,80,30,420
+2021/22,E08000033,Calderdale,35-44,Female,White,50,50,30,370,480,480,50,50,30,370
+2021/22,E08000033,Calderdale,35-44,Male,Asian/ Asian British,10,low,low,10,20,20,10,low,low,10
+2021/22,E08000033,Calderdale,35-44,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,35-44,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,35-44,Male,Total,20,20,low,60,100,100,20,20,low,60
+2021/22,E08000033,Calderdale,35-44,Male,White,10,20,low,50,80,80,10,20,low,50
+2021/22,E08000033,Calderdale,35-44,Total,Asian/ Asian British,20,20,low,50,90,80,10,20,low,50
+2021/22,E08000033,Calderdale,35-44,Total,Black/African/Caribbean/Black British,low,10,low,10,20,20,low,10,low,10
+2021/22,E08000033,Calderdale,35-44,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,35-44,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,35-44,Total,Other Ethnic Group,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,35-44,Total,Total,80,100,30,480,680,670,70,100,30,480
+2021/22,E08000033,Calderdale,35-44,Total,White,60,70,30,420,560,560,60,70,30,420
+2021/22,E08000033,Calderdale,45-59,Female,Asian/ Asian British,20,20,low,low,40,30,10,20,low,low
+2021/22,E08000033,Calderdale,45-59,Female,Black/African/Caribbean/Black British,10,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Female,Total,170,60,low,100,340,320,150,60,low,100
+2021/22,E08000033,Calderdale,45-59,Female,White,150,40,low,90,290,270,130,40,low,90
+2021/22,E08000033,Calderdale,45-59,Male,Asian/ Asian British,10,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Male,Black/African/Caribbean/Black British,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Male,Total,50,30,low,20,100,90,40,30,low,20
+2021/22,E08000033,Calderdale,45-59,Male,White,40,30,low,20,80,80,30,20,low,20
+2021/22,E08000033,Calderdale,45-59,Total,Asian/ Asian British,20,20,low,low,40,40,20,20,low,low
+2021/22,E08000033,Calderdale,45-59,Total,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000033,Calderdale,45-59,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,45-59,Total,Total,220,90,10,120,440,410,190,90,10,120
+2021/22,E08000033,Calderdale,45-59,Total,White,190,70,low,110,370,350,170,60,low,110
+2021/22,E08000033,Calderdale,60+,Female,Asian/ Asian British,low,low,low,low,10,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Female,Total,160,40,low,20,220,190,130,40,low,20
+2021/22,E08000033,Calderdale,60+,Female,White,150,40,low,20,210,180,130,40,low,20
+2021/22,E08000033,Calderdale,60+,Male,Asian/ Asian British,10,low,low,low,10,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Male,Total,60,10,low,10,70,70,50,10,low,10
+2021/22,E08000033,Calderdale,60+,Male,White,50,10,low,10,70,70,50,10,low,10
+2021/22,E08000033,Calderdale,60+,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000033,Calderdale,60+,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,60+,Total,Total,210,50,low,30,290,260,180,50,low,30
+2021/22,E08000033,Calderdale,60+,Total,White,200,50,low,30,280,250,170,50,low,30
+2021/22,E08000033,Calderdale,Total,Female,Asian/ Asian British,50,50,low,80,170,160,40,50,low,80
+2021/22,E08000033,Calderdale,Total,Female,Black/African/Caribbean/Black British,10,10,low,10,30,30,10,10,low,10
+2021/22,E08000033,Calderdale,Total,Female,Mixed/ Multiple Ethnic Group,low,10,low,10,30,30,low,10,low,10
+2021/22,E08000033,Calderdale,Total,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Total,Female,Other Ethnic Group,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,Total,Female,Total,490,290,50,970,1760,1680,420,280,50,960
+2021/22,E08000033,Calderdale,Total,Female,White,420,210,50,860,1510,1460,370,210,50,860
+2021/22,E08000033,Calderdale,Total,Male,Asian/ Asian British,20,10,low,10,40,30,20,10,low,10
+2021/22,E08000033,Calderdale,Total,Male,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000033,Calderdale,Total,Male,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000033,Calderdale,Total,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Total,Male,Other Ethnic Group,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000033,Calderdale,Total,Male,Total,150,110,10,130,400,380,140,110,10,130
+2021/22,E08000033,Calderdale,Total,Male,White,120,100,10,110,340,320,110,90,10,110
+2021/22,E08000033,Calderdale,Total,Total,Asian/ Asian British,70,60,low,90,210,190,50,50,low,90
+2021/22,E08000033,Calderdale,Total,Total,Black/African/Caribbean/Black British,20,10,low,20,50,40,10,10,low,20
+2021/22,E08000033,Calderdale,Total,Total,Mixed/ Multiple Ethnic Group,10,10,low,10,30,30,10,10,low,10
+2021/22,E08000033,Calderdale,Total,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Total,Total,Other Ethnic Group,low,10,low,low,20,10,low,10,low,low
+2021/22,E08000033,Calderdale,Total,Total,Total,640,400,60,1100,2160,2060,560,390,60,1100
+2021/22,E08000033,Calderdale,Total,Total,White,540,310,60,970,1850,1780,480,300,60,970
+2021/22,E08000033,Calderdale,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Under 19,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000033,Calderdale,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,19-24,Female,Asian/ Asian British,30,low,low,10,40,30,30,low,low,10
+2021/22,E08000034,Kirklees,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000034,Kirklees,19-24,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,19-24,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,19-24,Female,Total,60,20,low,10,90,80,60,20,low,10
+2021/22,E08000034,Kirklees,19-24,Female,White,20,10,low,low,40,40,20,10,low,low
+2021/22,E08000034,Kirklees,19-24,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,19-24,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,19-24,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,19-24,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,19-24,Male,Total,40,10,low,10,60,60,40,10,low,10
+2021/22,E08000034,Kirklees,19-24,Male,White,20,10,low,10,30,30,20,10,low,10
+2021/22,E08000034,Kirklees,19-24,Total,Asian/ Asian British,40,10,low,10,50,50,40,10,low,10
+2021/22,E08000034,Kirklees,19-24,Total,Black/African/Caribbean/Black British,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000034,Kirklees,19-24,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,19-24,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,19-24,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,19-24,Total,Total,100,30,low,20,150,140,90,30,low,20
+2021/22,E08000034,Kirklees,19-24,Total,White,40,20,low,10,70,70,40,20,low,10
+2021/22,E08000034,Kirklees,25-34,Female,Asian/ Asian British,120,20,low,50,170,160,100,10,low,50
+2021/22,E08000034,Kirklees,25-34,Female,Black/African/Caribbean/Black British,10,low,low,10,10,10,low,low,low,10
+2021/22,E08000034,Kirklees,25-34,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,20,10,10,low,low,low
+2021/22,E08000034,Kirklees,25-34,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,25-34,Female,Other Ethnic Group,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000034,Kirklees,25-34,Female,Total,280,30,10,80,380,340,240,30,10,80
+2021/22,E08000034,Kirklees,25-34,Female,White,120,10,low,20,150,140,110,10,low,20
+2021/22,E08000034,Kirklees,25-34,Male,Asian/ Asian British,40,low,low,low,40,30,30,low,low,low
+2021/22,E08000034,Kirklees,25-34,Male,Black/African/Caribbean/Black British,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000034,Kirklees,25-34,Male,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,25-34,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,25-34,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,25-34,Male,Total,100,10,low,10,120,110,100,10,low,10
+2021/22,E08000034,Kirklees,25-34,Male,White,50,low,low,10,60,60,50,low,low,10
+2021/22,E08000034,Kirklees,25-34,Total,Asian/ Asian British,150,20,low,50,210,190,140,10,low,50
+2021/22,E08000034,Kirklees,25-34,Total,Black/African/Caribbean/Black British,10,low,low,10,20,20,10,low,low,10
+2021/22,E08000034,Kirklees,25-34,Total,Mixed/ Multiple Ethnic Group,20,low,low,low,20,20,10,low,low,low
+2021/22,E08000034,Kirklees,25-34,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,25-34,Total,Other Ethnic Group,30,10,low,low,30,30,30,low,low,low
+2021/22,E08000034,Kirklees,25-34,Total,Total,380,40,10,90,500,450,340,30,10,90
+2021/22,E08000034,Kirklees,25-34,Total,White,170,10,low,30,210,190,160,10,low,30
+2021/22,E08000034,Kirklees,35-44,Female,Asian/ Asian British,190,20,low,40,230,220,180,20,low,40
+2021/22,E08000034,Kirklees,35-44,Female,Black/African/Caribbean/Black British,10,low,low,10,20,20,10,low,low,10
+2021/22,E08000034,Kirklees,35-44,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,35-44,Female,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,35-44,Female,Other Ethnic Group,30,low,low,10,30,30,30,low,low,10
+2021/22,E08000034,Kirklees,35-44,Female,Total,400,30,10,90,500,460,370,30,10,90
+2021/22,E08000034,Kirklees,35-44,Female,White,160,10,low,40,200,170,140,10,low,30
+2021/22,E08000034,Kirklees,35-44,Male,Asian/ Asian British,40,low,low,10,40,40,40,low,low,10
+2021/22,E08000034,Kirklees,35-44,Male,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,35-44,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,35-44,Male,Total,90,10,low,10,100,100,80,low,low,10
+2021/22,E08000034,Kirklees,35-44,Male,White,30,low,low,10,40,40,30,low,low,10
+2021/22,E08000034,Kirklees,35-44,Total,Asian/ Asian British,230,20,low,50,270,260,210,20,low,40
+2021/22,E08000034,Kirklees,35-44,Total,Black/African/Caribbean/Black British,20,low,low,10,30,20,20,low,low,10
+2021/22,E08000034,Kirklees,35-44,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,35-44,Total,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,35-44,Total,Other Ethnic Group,30,low,low,10,40,40,30,low,low,10
+2021/22,E08000034,Kirklees,35-44,Total,Total,490,30,10,110,600,550,450,30,10,100
+2021/22,E08000034,Kirklees,35-44,Total,White,190,10,low,40,240,220,170,10,low,40
+2021/22,E08000034,Kirklees,45-59,Female,Asian/ Asian British,90,20,low,20,120,110,80,20,low,20
+2021/22,E08000034,Kirklees,45-59,Female,Black/African/Caribbean/Black British,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000034,Kirklees,45-59,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,low,low,low,low
+2021/22,E08000034,Kirklees,45-59,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,45-59,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,45-59,Female,Total,350,50,low,60,430,390,310,40,low,50
+2021/22,E08000034,Kirklees,45-59,Female,White,220,20,low,30,270,240,200,20,low,30
+2021/22,E08000034,Kirklees,45-59,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,45-59,Male,Black/African/Caribbean/Black British,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000034,Kirklees,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,45-59,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,45-59,Male,Other Ethnic Group,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000034,Kirklees,45-59,Male,Total,80,20,low,10,110,100,70,20,low,10
+2021/22,E08000034,Kirklees,45-59,Male,White,60,20,low,10,80,70,50,20,low,10
+2021/22,E08000034,Kirklees,45-59,Total,Asian/ Asian British,100,20,low,20,130,120,90,20,low,20
+2021/22,E08000034,Kirklees,45-59,Total,Black/African/Caribbean/Black British,20,10,low,low,30,30,20,low,low,low
+2021/22,E08000034,Kirklees,45-59,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,45-59,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,45-59,Total,Other Ethnic Group,10,low,low,low,20,20,10,low,low,low
+2021/22,E08000034,Kirklees,45-59,Total,Total,430,70,low,60,540,490,380,60,low,60
+2021/22,E08000034,Kirklees,45-59,Total,White,280,40,low,40,350,310,250,40,low,30
+2021/22,E08000034,Kirklees,60+,Female,Asian/ Asian British,30,10,low,low,30,30,30,10,low,low
+2021/22,E08000034,Kirklees,60+,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Female,Not Provided,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Female,Total,190,10,low,20,210,200,180,10,low,20
+2021/22,E08000034,Kirklees,60+,Female,White,150,10,low,10,170,160,140,low,low,10
+2021/22,E08000034,Kirklees,60+,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Male,Total,50,20,low,low,70,70,50,20,low,low
+2021/22,E08000034,Kirklees,60+,Male,White,50,20,low,low,70,70,50,20,low,low
+2021/22,E08000034,Kirklees,60+,Total,Asian/ Asian British,30,10,low,low,30,30,30,10,low,low
+2021/22,E08000034,Kirklees,60+,Total,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000034,Kirklees,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Total,Not Provided,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,60+,Total,Total,240,30,low,20,280,270,230,30,low,20
+2021/22,E08000034,Kirklees,60+,Total,White,200,20,low,20,240,220,190,20,low,20
+2021/22,E08000034,Kirklees,Total,Female,Asian/ Asian British,450,60,10,120,580,540,410,60,10,120
+2021/22,E08000034,Kirklees,Total,Female,Black/African/Caribbean/Black British,40,10,low,10,60,50,40,10,low,10
+2021/22,E08000034,Kirklees,Total,Female,Mixed/ Multiple Ethnic Group,30,10,low,10,50,40,20,10,low,10
+2021/22,E08000034,Kirklees,Total,Female,Not Provided,20,low,low,10,30,20,20,low,low,10
+2021/22,E08000034,Kirklees,Total,Female,Other Ethnic Group,60,10,low,10,70,70,60,10,low,10
+2021/22,E08000034,Kirklees,Total,Female,Total,1280,140,20,260,1610,1460,1160,130,10,250
+2021/22,E08000034,Kirklees,Total,Female,White,680,60,low,100,820,740,610,50,low,100
+2021/22,E08000034,Kirklees,Total,Male,Asian/ Asian British,90,10,low,10,110,100,90,10,low,10
+2021/22,E08000034,Kirklees,Total,Male,Black/African/Caribbean/Black British,20,10,low,low,20,20,20,10,low,low
+2021/22,E08000034,Kirklees,Total,Male,Mixed/ Multiple Ethnic Group,10,low,low,low,20,20,10,low,low,low
+2021/22,E08000034,Kirklees,Total,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Total,Male,Other Ethnic Group,30,10,low,low,30,20,20,low,low,low
+2021/22,E08000034,Kirklees,Total,Male,Total,360,70,low,40,470,440,340,60,low,40
+2021/22,E08000034,Kirklees,Total,Male,White,210,50,low,30,280,270,200,40,low,30
+2021/22,E08000034,Kirklees,Total,Total,Asian/ Asian British,540,70,10,130,690,640,500,70,10,130
+2021/22,E08000034,Kirklees,Total,Total,Black/African/Caribbean/Black British,60,10,low,20,80,70,50,10,low,10
+2021/22,E08000034,Kirklees,Total,Total,Mixed/ Multiple Ethnic Group,40,10,low,10,60,50,40,10,low,10
+2021/22,E08000034,Kirklees,Total,Total,Not Provided,20,low,low,10,30,20,20,low,low,10
+2021/22,E08000034,Kirklees,Total,Total,Other Ethnic Group,90,10,low,10,100,90,80,10,low,10
+2021/22,E08000034,Kirklees,Total,Total,Total,1640,210,20,300,2070,1900,1490,190,20,290
+2021/22,E08000034,Kirklees,Total,Total,White,890,100,10,130,1110,1010,800,90,low,130
+2021/22,E08000034,Kirklees,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Under 19,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000034,Kirklees,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,19-24,Female,Asian/ Asian British,10,40,low,low,50,40,10,30,low,low
+2021/22,E08000035,Leeds,19-24,Female,Black/African/Caribbean/Black British,20,30,low,low,50,40,20,30,low,low
+2021/22,E08000035,Leeds,19-24,Female,Mixed/ Multiple Ethnic Group,10,10,low,low,20,10,low,10,low,low
+2021/22,E08000035,Leeds,19-24,Female,Not Provided,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000035,Leeds,19-24,Female,Other Ethnic Group,low,20,low,low,20,20,low,10,low,low
+2021/22,E08000035,Leeds,19-24,Female,Total,90,160,10,10,260,220,70,140,10,low
+2021/22,E08000035,Leeds,19-24,Female,White,50,60,10,10,120,100,40,60,10,low
+2021/22,E08000035,Leeds,19-24,Male,Asian/ Asian British,low,10,low,low,10,10,low,10,low,low
+2021/22,E08000035,Leeds,19-24,Male,Black/African/Caribbean/Black British,20,10,low,low,30,20,10,10,low,low
+2021/22,E08000035,Leeds,19-24,Male,Mixed/ Multiple Ethnic Group,10,10,low,low,10,10,10,10,low,low
+2021/22,E08000035,Leeds,19-24,Male,Not Provided,10,low,low,low,10,low,low,low,low,low
+2021/22,E08000035,Leeds,19-24,Male,Other Ethnic Group,20,20,low,low,40,30,10,10,low,low
+2021/22,E08000035,Leeds,19-24,Male,Total,80,80,low,low,160,130,60,60,low,low
+2021/22,E08000035,Leeds,19-24,Male,White,30,30,low,low,60,60,30,30,low,low
+2021/22,E08000035,Leeds,19-24,Total,Asian/ Asian British,10,50,low,low,60,50,10,40,low,low
+2021/22,E08000035,Leeds,19-24,Total,Black/African/Caribbean/Black British,30,40,low,low,80,60,30,30,low,low
+2021/22,E08000035,Leeds,19-24,Total,Mixed/ Multiple Ethnic Group,10,10,low,low,30,20,10,10,low,low
+2021/22,E08000035,Leeds,19-24,Total,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000035,Leeds,19-24,Total,Other Ethnic Group,20,40,low,low,60,50,20,30,low,low
+2021/22,E08000035,Leeds,19-24,Total,Total,170,240,20,10,420,350,140,200,10,10
+2021/22,E08000035,Leeds,19-24,Total,White,80,90,10,10,180,160,70,80,10,10
+2021/22,E08000035,Leeds,25-34,Female,Asian/ Asian British,30,150,60,low,230,180,20,130,40,low
+2021/22,E08000035,Leeds,25-34,Female,Black/African/Caribbean/Black British,50,130,20,low,200,170,40,110,20,low
+2021/22,E08000035,Leeds,25-34,Female,Mixed/ Multiple Ethnic Group,20,20,low,low,40,30,20,20,low,low
+2021/22,E08000035,Leeds,25-34,Female,Not Provided,10,10,low,low,10,10,low,low,low,low
+2021/22,E08000035,Leeds,25-34,Female,Other Ethnic Group,20,90,10,low,110,100,20,80,low,low
+2021/22,E08000035,Leeds,25-34,Female,Total,260,540,130,low,900,760,210,470,100,low
+2021/22,E08000035,Leeds,25-34,Female,White,130,140,40,low,310,270,110,130,40,low
+2021/22,E08000035,Leeds,25-34,Male,Asian/ Asian British,30,20,low,low,50,40,20,20,low,low
+2021/22,E08000035,Leeds,25-34,Male,Black/African/Caribbean/Black British,20,70,low,low,80,60,10,50,low,low
+2021/22,E08000035,Leeds,25-34,Male,Mixed/ Multiple Ethnic Group,10,10,low,low,10,10,10,10,low,low
+2021/22,E08000035,Leeds,25-34,Male,Not Provided,10,low,low,low,10,10,low,low,low,low
+2021/22,E08000035,Leeds,25-34,Male,Other Ethnic Group,10,40,low,low,40,20,low,20,low,low
+2021/22,E08000035,Leeds,25-34,Male,Total,140,170,10,low,300,220,110,120,10,low
+2021/22,E08000035,Leeds,25-34,Male,White,70,30,low,low,100,80,60,20,low,low
+2021/22,E08000035,Leeds,25-34,Total,Asian/ Asian British,60,180,60,low,280,230,50,150,40,low
+2021/22,E08000035,Leeds,25-34,Total,Black/African/Caribbean/Black British,60,200,20,low,280,230,50,160,20,low
+2021/22,E08000035,Leeds,25-34,Total,Mixed/ Multiple Ethnic Group,20,30,low,low,50,40,20,20,low,low
+2021/22,E08000035,Leeds,25-34,Total,Not Provided,10,10,low,low,20,10,10,10,low,low
+2021/22,E08000035,Leeds,25-34,Total,Other Ethnic Group,30,120,10,low,160,120,20,100,low,low
+2021/22,E08000035,Leeds,25-34,Total,Total,390,710,130,low,1200,990,320,590,110,low
+2021/22,E08000035,Leeds,25-34,Total,White,210,170,50,low,410,360,180,150,40,low
+2021/22,E08000035,Leeds,35-44,Female,Asian/ Asian British,50,170,60,low,260,220,40,140,40,low
+2021/22,E08000035,Leeds,35-44,Female,Black/African/Caribbean/Black British,40,130,20,low,170,140,30,110,10,low
+2021/22,E08000035,Leeds,35-44,Female,Mixed/ Multiple Ethnic Group,20,20,low,low,40,30,10,10,low,low
+2021/22,E08000035,Leeds,35-44,Female,Not Provided,10,20,low,low,20,20,10,10,low,low
+2021/22,E08000035,Leeds,35-44,Female,Other Ethnic Group,40,100,low,low,140,110,30,70,low,low
+2021/22,E08000035,Leeds,35-44,Female,Total,310,520,120,10,930,760,250,430,100,10
+2021/22,E08000035,Leeds,35-44,Female,White,150,100,40,10,290,240,130,80,30,10
+2021/22,E08000035,Leeds,35-44,Male,Asian/ Asian British,20,40,10,low,60,40,10,20,10,low
+2021/22,E08000035,Leeds,35-44,Male,Black/African/Caribbean/Black British,10,40,low,low,50,40,10,30,low,low
+2021/22,E08000035,Leeds,35-44,Male,Mixed/ Multiple Ethnic Group,low,10,low,low,10,10,low,10,low,low
+2021/22,E08000035,Leeds,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,35-44,Male,Other Ethnic Group,10,40,low,low,50,40,10,30,low,low
+2021/22,E08000035,Leeds,35-44,Male,Total,110,140,10,low,260,200,80,110,10,low
+2021/22,E08000035,Leeds,35-44,Male,White,60,20,low,low,90,70,50,20,low,low
+2021/22,E08000035,Leeds,35-44,Total,Asian/ Asian British,70,210,60,low,320,250,50,170,50,low
+2021/22,E08000035,Leeds,35-44,Total,Black/African/Caribbean/Black British,50,160,20,low,220,190,40,140,20,low
+2021/22,E08000035,Leeds,35-44,Total,Mixed/ Multiple Ethnic Group,20,20,low,low,50,40,10,20,low,low
+2021/22,E08000035,Leeds,35-44,Total,Not Provided,10,20,low,low,30,20,10,10,low,low
+2021/22,E08000035,Leeds,35-44,Total,Other Ethnic Group,50,140,low,low,200,150,40,100,low,low
+2021/22,E08000035,Leeds,35-44,Total,Total,410,670,140,20,1190,960,330,540,110,10
+2021/22,E08000035,Leeds,35-44,Total,White,210,120,50,10,380,320,180,100,40,10
+2021/22,E08000035,Leeds,45-59,Female,Asian/ Asian British,30,80,10,low,120,90,20,70,10,low
+2021/22,E08000035,Leeds,45-59,Female,Black/African/Caribbean/Black British,40,60,10,low,100,80,30,50,10,low
+2021/22,E08000035,Leeds,45-59,Female,Mixed/ Multiple Ethnic Group,20,10,low,low,30,30,20,10,low,low
+2021/22,E08000035,Leeds,45-59,Female,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000035,Leeds,45-59,Female,Other Ethnic Group,20,40,low,low,50,50,20,30,low,low
+2021/22,E08000035,Leeds,45-59,Female,Total,360,260,30,low,630,510,290,210,20,low
+2021/22,E08000035,Leeds,45-59,Female,White,250,70,10,low,330,260,200,50,10,low
+2021/22,E08000035,Leeds,45-59,Male,Asian/ Asian British,10,20,low,low,40,30,10,20,low,low
+2021/22,E08000035,Leeds,45-59,Male,Black/African/Caribbean/Black British,10,20,low,low,30,30,10,20,low,low
+2021/22,E08000035,Leeds,45-59,Male,Mixed/ Multiple Ethnic Group,low,10,low,low,10,low,low,low,low,low
+2021/22,E08000035,Leeds,45-59,Male,Not Provided,low,low,low,low,10,low,low,low,low,low
+2021/22,E08000035,Leeds,45-59,Male,Other Ethnic Group,10,30,low,low,30,30,10,20,low,low
+2021/22,E08000035,Leeds,45-59,Male,Total,150,110,10,low,250,210,130,80,low,low
+2021/22,E08000035,Leeds,45-59,Male,White,110,20,low,low,130,110,100,20,low,low
+2021/22,E08000035,Leeds,45-59,Total,Asian/ Asian British,40,110,10,low,150,120,30,90,10,low
+2021/22,E08000035,Leeds,45-59,Total,Black/African/Caribbean/Black British,40,90,10,low,130,110,40,70,10,low
+2021/22,E08000035,Leeds,45-59,Total,Mixed/ Multiple Ethnic Group,20,20,low,low,40,30,20,20,low,low
+2021/22,E08000035,Leeds,45-59,Total,Not Provided,10,10,low,low,20,10,10,low,low,low
+2021/22,E08000035,Leeds,45-59,Total,Other Ethnic Group,20,60,low,low,90,70,20,50,low,low
+2021/22,E08000035,Leeds,45-59,Total,Total,500,370,30,low,880,710,420,290,30,low
+2021/22,E08000035,Leeds,45-59,Total,White,370,90,10,low,460,370,300,70,10,low
+2021/22,E08000035,Leeds,60+,Female,Asian/ Asian British,10,10,low,low,20,20,10,10,low,low
+2021/22,E08000035,Leeds,60+,Female,Black/African/Caribbean/Black British,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000035,Leeds,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,60+,Female,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000035,Leeds,60+,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000035,Leeds,60+,Female,Total,380,50,low,low,410,360,330,40,low,low
+2021/22,E08000035,Leeds,60+,Female,White,330,30,low,low,350,300,290,30,low,low
+2021/22,E08000035,Leeds,60+,Male,Asian/ Asian British,10,10,low,low,20,10,10,10,low,low
+2021/22,E08000035,Leeds,60+,Male,Black/African/Caribbean/Black British,10,10,low,low,10,10,10,low,low,low
+2021/22,E08000035,Leeds,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,60+,Male,Other Ethnic Group,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000035,Leeds,60+,Male,Total,130,40,low,low,160,140,110,30,low,low
+2021/22,E08000035,Leeds,60+,Male,White,110,20,low,low,130,110,90,20,low,low
+2021/22,E08000035,Leeds,60+,Total,Asian/ Asian British,20,10,low,low,40,30,20,10,low,low
+2021/22,E08000035,Leeds,60+,Total,Black/African/Caribbean/Black British,20,10,low,low,30,30,20,10,low,low
+2021/22,E08000035,Leeds,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,60+,Total,Not Provided,10,10,low,low,20,20,10,10,low,low
+2021/22,E08000035,Leeds,60+,Total,Other Ethnic Group,10,10,low,low,10,10,10,10,low,low
+2021/22,E08000035,Leeds,60+,Total,Total,510,80,low,low,580,500,440,80,low,low
+2021/22,E08000035,Leeds,60+,Total,White,440,50,low,low,480,410,380,40,low,low
+2021/22,E08000035,Leeds,Total,Female,Asian/ Asian British,130,460,120,10,680,550,100,380,90,low
+2021/22,E08000035,Leeds,Total,Female,Black/African/Caribbean/Black British,150,360,50,low,530,450,120,300,40,low
+2021/22,E08000035,Leeds,Total,Female,Mixed/ Multiple Ethnic Group,60,60,10,low,120,100,50,50,10,low
+2021/22,E08000035,Leeds,Total,Female,Not Provided,30,30,low,low,60,50,30,20,low,low
+2021/22,E08000035,Leeds,Total,Female,Other Ethnic Group,90,240,10,low,340,280,80,200,low,low
+2021/22,E08000035,Leeds,Total,Female,Total,1380,1540,290,20,3140,2620,1150,1300,230,20
+2021/22,E08000035,Leeds,Total,Female,White,920,410,110,20,1400,1190,770,350,90,10
+2021/22,E08000035,Leeds,Total,Male,Asian/ Asian British,70,100,10,low,180,140,60,70,10,low
+2021/22,E08000035,Leeds,Total,Male,Black/African/Caribbean/Black British,60,150,low,low,210,160,50,110,low,low
+2021/22,E08000035,Leeds,Total,Male,Mixed/ Multiple Ethnic Group,20,20,low,low,40,30,20,20,low,low
+2021/22,E08000035,Leeds,Total,Male,Not Provided,20,10,low,low,30,20,10,10,low,low
+2021/22,E08000035,Leeds,Total,Male,Other Ethnic Group,40,130,low,low,180,120,30,90,low,low
+2021/22,E08000035,Leeds,Total,Male,Total,600,530,30,10,1140,900,490,400,20,10
+2021/22,E08000035,Leeds,Total,Male,White,390,120,10,10,510,430,330,100,10,10
+2021/22,E08000035,Leeds,Total,Total,Asian/ Asian British,200,560,130,10,860,690,160,450,100,low
+2021/22,E08000035,Leeds,Total,Total,Black/African/Caribbean/Black British,210,500,50,low,740,610,170,410,40,low
+2021/22,E08000035,Leeds,Total,Total,Mixed/ Multiple Ethnic Group,80,80,10,low,160,130,60,70,10,low
+2021/22,E08000035,Leeds,Total,Total,Not Provided,60,40,low,low,90,70,40,30,low,low
+2021/22,E08000035,Leeds,Total,Total,Other Ethnic Group,140,370,10,low,510,400,110,290,10,low
+2021/22,E08000035,Leeds,Total,Total,Total,1980,2080,320,30,4280,3520,1640,1700,260,20
+2021/22,E08000035,Leeds,Total,Total,White,1300,530,120,20,1910,1620,1100,450,100,20
+2021/22,E08000035,Leeds,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Female,Total,low,10,low,low,10,10,low,10,low,low
+2021/22,E08000035,Leeds,Under 19,Female,White,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Male,Total,low,10,low,low,10,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Under 19,Total,Total,low,10,low,low,10,10,low,10,low,low
+2021/22,E08000035,Leeds,Under 19,Total,White,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000035,Leeds,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Female,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,10,10,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Female,Total,90,low,10,10,100,90,80,low,low,10
+2021/22,E08000036,Wakefield,19-24,Female,White,80,low,low,low,90,80,70,low,low,low
+2021/22,E08000036,Wakefield,19-24,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Male,Total,50,low,low,low,50,50,50,low,low,low
+2021/22,E08000036,Wakefield,19-24,Male,White,50,low,low,low,50,40,40,low,low,low
+2021/22,E08000036,Wakefield,19-24,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,19-24,Total,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,19-24,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,19-24,Total,Total,140,low,10,10,150,140,130,low,10,10
+2021/22,E08000036,Wakefield,19-24,Total,White,120,low,low,low,130,120,110,low,low,low
+2021/22,E08000036,Wakefield,25-34,Female,Asian/ Asian British,20,low,low,low,20,10,10,low,low,low
+2021/22,E08000036,Wakefield,25-34,Female,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,25-34,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,25-34,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,25-34,Female,Other Ethnic Group,10,low,low,low,20,10,10,low,low,low
+2021/22,E08000036,Wakefield,25-34,Female,Total,250,low,low,60,300,290,230,low,low,60
+2021/22,E08000036,Wakefield,25-34,Female,White,200,low,low,60,250,240,190,low,low,60
+2021/22,E08000036,Wakefield,25-34,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,25-34,Male,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,25-34,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,25-34,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,25-34,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,25-34,Male,Total,100,low,10,10,110,100,90,low,low,10
+2021/22,E08000036,Wakefield,25-34,Male,White,70,low,low,10,90,80,70,low,low,10
+2021/22,E08000036,Wakefield,25-34,Total,Asian/ Asian British,20,low,low,low,30,20,20,low,low,low
+2021/22,E08000036,Wakefield,25-34,Total,Black/African/Caribbean/Black British,10,low,low,low,20,20,10,low,low,low
+2021/22,E08000036,Wakefield,25-34,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,25-34,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,25-34,Total,Other Ethnic Group,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000036,Wakefield,25-34,Total,Total,340,low,10,70,420,390,320,low,10,70
+2021/22,E08000036,Wakefield,25-34,Total,White,280,low,low,70,340,320,260,low,low,70
+2021/22,E08000036,Wakefield,35-44,Female,Asian/ Asian British,50,low,low,10,60,50,50,low,low,10
+2021/22,E08000036,Wakefield,35-44,Female,Black/African/Caribbean/Black British,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000036,Wakefield,35-44,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,35-44,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,35-44,Female,Other Ethnic Group,20,low,low,low,20,20,10,low,low,low
+2021/22,E08000036,Wakefield,35-44,Female,Total,290,low,10,60,360,340,270,low,10,60
+2021/22,E08000036,Wakefield,35-44,Female,White,200,low,low,50,250,250,190,low,low,50
+2021/22,E08000036,Wakefield,35-44,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,35-44,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,35-44,Male,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,35-44,Male,Total,80,low,low,20,110,100,70,low,low,20
+2021/22,E08000036,Wakefield,35-44,Male,White,60,low,low,20,90,80,50,low,low,20
+2021/22,E08000036,Wakefield,35-44,Total,Asian/ Asian British,60,low,low,10,70,60,50,low,low,10
+2021/22,E08000036,Wakefield,35-44,Total,Black/African/Caribbean/Black British,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000036,Wakefield,35-44,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,35-44,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,35-44,Total,Other Ethnic Group,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000036,Wakefield,35-44,Total,Total,370,low,10,90,470,440,350,low,10,90
+2021/22,E08000036,Wakefield,35-44,Total,White,260,low,low,80,340,320,240,low,low,80
+2021/22,E08000036,Wakefield,45-59,Female,Asian/ Asian British,30,low,low,low,30,30,30,low,low,low
+2021/22,E08000036,Wakefield,45-59,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,45-59,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,45-59,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,45-59,Female,Other Ethnic Group,10,low,low,low,10,low,low,low,low,low
+2021/22,E08000036,Wakefield,45-59,Female,Total,270,low,low,20,300,280,260,low,low,20
+2021/22,E08000036,Wakefield,45-59,Female,White,230,low,low,20,250,240,220,low,low,20
+2021/22,E08000036,Wakefield,45-59,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,45-59,Male,Black/African/Caribbean/Black British,low,low,low,low,10,low,low,low,low,low
+2021/22,E08000036,Wakefield,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,45-59,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,45-59,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,45-59,Male,Total,120,low,low,10,130,120,110,low,low,10
+2021/22,E08000036,Wakefield,45-59,Male,White,100,low,low,10,110,100,90,low,low,10
+2021/22,E08000036,Wakefield,45-59,Total,Asian/ Asian British,40,low,low,low,40,40,30,low,low,low
+2021/22,E08000036,Wakefield,45-59,Total,Black/African/Caribbean/Black British,10,low,low,low,10,10,low,low,low,low
+2021/22,E08000036,Wakefield,45-59,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,45-59,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,45-59,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,45-59,Total,Total,390,low,10,30,430,400,360,low,10,30
+2021/22,E08000036,Wakefield,45-59,Total,White,330,low,low,30,360,340,310,low,low,30
+2021/22,E08000036,Wakefield,60+,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Female,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Female,Total,330,low,low,10,340,320,320,low,low,10
+2021/22,E08000036,Wakefield,60+,Female,White,320,low,low,10,320,310,300,low,low,10
+2021/22,E08000036,Wakefield,60+,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Male,Total,80,low,low,low,80,70,70,low,low,low
+2021/22,E08000036,Wakefield,60+,Male,White,70,low,low,low,70,60,60,low,low,low
+2021/22,E08000036,Wakefield,60+,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,60+,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Total,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,60+,Total,Total,410,low,low,10,420,390,380,low,low,10
+2021/22,E08000036,Wakefield,60+,Total,White,390,low,low,10,400,370,360,low,low,10
+2021/22,E08000036,Wakefield,Total,Female,Asian/ Asian British,100,low,10,10,110,110,90,low,10,10
+2021/22,E08000036,Wakefield,Total,Female,Black/African/Caribbean/Black British,30,low,low,10,40,40,30,low,low,10
+2021/22,E08000036,Wakefield,Total,Female,Mixed/ Multiple Ethnic Group,20,low,low,low,30,20,20,low,low,low
+2021/22,E08000036,Wakefield,Total,Female,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,Total,Female,Other Ethnic Group,40,low,low,low,40,30,30,low,low,low
+2021/22,E08000036,Wakefield,Total,Female,Total,1230,10,20,160,1400,1330,1160,low,20,160
+2021/22,E08000036,Wakefield,Total,Female,White,1020,10,10,140,1170,1120,970,low,10,140
+2021/22,E08000036,Wakefield,Total,Male,Asian/ Asian British,30,low,low,low,30,30,30,low,low,low
+2021/22,E08000036,Wakefield,Total,Male,Black/African/Caribbean/Black British,20,low,low,low,20,20,10,low,low,low
+2021/22,E08000036,Wakefield,Total,Male,Mixed/ Multiple Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E08000036,Wakefield,Total,Male,Not Provided,low,low,low,low,10,low,low,low,low,low
+2021/22,E08000036,Wakefield,Total,Male,Other Ethnic Group,20,low,low,low,20,20,10,low,low,low
+2021/22,E08000036,Wakefield,Total,Male,Total,430,low,10,40,480,440,380,low,10,40
+2021/22,E08000036,Wakefield,Total,Male,White,350,low,low,40,400,360,320,low,low,40
+2021/22,E08000036,Wakefield,Total,Total,Asian/ Asian British,130,low,10,10,150,140,120,low,10,10
+2021/22,E08000036,Wakefield,Total,Total,Black/African/Caribbean/Black British,50,low,10,10,60,60,40,low,10,10
+2021/22,E08000036,Wakefield,Total,Total,Mixed/ Multiple Ethnic Group,30,low,low,low,30,30,30,low,low,low
+2021/22,E08000036,Wakefield,Total,Total,Not Provided,20,low,low,low,20,20,20,low,low,low
+2021/22,E08000036,Wakefield,Total,Total,Other Ethnic Group,50,low,low,low,60,50,40,low,low,low
+2021/22,E08000036,Wakefield,Total,Total,Total,1650,10,30,200,1880,1760,1530,low,30,200
+2021/22,E08000036,Wakefield,Total,Total,White,1380,10,10,180,1570,1480,1290,low,10,180
+2021/22,E08000036,Wakefield,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Under 19,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E08000036,Wakefield,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low

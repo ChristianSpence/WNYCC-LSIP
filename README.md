@@ -26,7 +26,7 @@ Each downloaded .zip file contains a `data` folder and a `data-guidance` folder.
 - KS4 local authority data
 Original file: `data-raw/key-stage-4-performance-revised_2021-22.zip`
 Unzipped data: `data/KS4`
-Processed data (wide): `data/csv/ks4.csv`
+Processed data (wide): `data/csv/ks4/`
 Processed data (long): `data/app/ks4.rds`
 
 #### A-level
@@ -34,7 +34,7 @@ Processed data (long): `data/app/ks4.rds`
 
 Original file: `data-raw/a-level-and-other-16-to-18-results_2021-22.zip`
 Unzipped data: `data/A-level`
-Processed data (wide): `data/csv/a-level.csv`
+Processed data (wide): `data/csv/a-level/`
 Processed data (long): `data/app/a-level.rds`
 
 #### FE
@@ -43,8 +43,8 @@ Processed data (long): `data/app/a-level.rds`
 
 Original file: `data-raw/further-education-and-skills_2021-22.zip`
 Unzipped file: `data/FE`
-Processed data (wide): `data/csv/a-level.csv`
-Processed data (long): `data/app/a-level.rds`
+Processed data (wide): `data/csv/fe/`
+Processed data (long): `data/app/fe.rds`
 
 #### FE Destination Measures:
 
@@ -52,7 +52,7 @@ Processed data (long): `data/app/a-level.rds`
 
 Original file: `data-raw/16-18-destination-measures_2020-21.zip`
 Unzipped file: `data/FE_destination`
-Processed data (wide): `data/csv/fe_dest.csv`
+Processed data (wide): `data/csv/fe_dest/`
 Processed data (long): `data/app/fe_dest.rds`
 
 ### HESA
