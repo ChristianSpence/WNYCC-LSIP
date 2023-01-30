@@ -164,6 +164,7 @@ Included: all files with regional data and provider data
 Variables:
 
 Basic skills total participation and total achievements geographical breakdowns.
+<<<<<<< HEAD
 - Achievements
 - Age (under 19/19+)
 - Participation
@@ -285,6 +286,128 @@ Adult (19+) Education and training learner participation and achievements detail
 - Participation Level 4+
 - Participation No level assigned
 - Total Participation
+=======
+achievements     |  Achievements
+age_youth_adult  |  Age (under 19/19+)
+participation    |  Participation
+subject_level    |  Subject and level
+
+Community learning geographical breakdowns
+ach_family_english_maths_and_language               |  Achievements Family english maths and language
+ach_neighbourhood_learning_in_deprived_communities  |  Achievements Neighbourhood learning in deprived communities
+ach_personal_and_community_development_learning     |  Achievements Personal and community development learning
+ach_total                                           |  Total Achievements
+ach_wider_family_learning                           |  Achievements Wider family learning
+age_detailed                                        |  Age group (with unknowns)
+ethnicity_group                                     |  Ethnicity group
+family_english_maths_and_language                   |  Participation Family english maths and language
+neighbourhood_learning_in_deprived_communities      |  Participation Neighbourhood learning in deprived communities
+personal_and_community_development_learning         |  Participation Personal and community development learning
+sex                                                 |  Sex
+total                                               |  Total Participation
+wider_family_learning                               |  Participation Wider family learning
+
+Community learning detailed provider breakdowns
+ach_feml   |  Achievement - Family english, maths and language
+ach_nldc   |  Achievement - Neighbourhood learning in deprived communities
+ach_pcdl   |  Achievement - Personal and community development learning
+ach_total  |  Achievement - All community learning
+ach_wfl    |  Achievement - Wider family learning
+p_feml     |  Participation - Family english, maths and language
+p_nldc     |  Participation - Neighbourhood learning in deprived communities
+p_pcdl     |  Participation - Personal and community development learning
+p_total    |  Participation - All community learning
+p_wfl      |  Participation - Wider family learning
+
+Adult (19+) Education and training learner participation and achievements detailed provider file
+ach_basic_skills           |  Achievements Basic skills (Aug to Jul)
+ach_bl2_ex_basic_skills    |  Achievements Below level 2 (excluding basic skills) (Aug to Jul)
+ach_full_l2                |  Achievements Full level 2 (Aug to Jul)
+ach_full_l3                |  Achievements Full level 3 (Aug to Jul)
+ach_l2                     |  Achievements Level 2 (Aug to Jul)
+ach_l3                     |  Achievements Level 3 (Aug to Jul)
+ach_l4plus                 |  Achievements Level 4+ (Aug to Jul)
+ach_no_lx                  |  Achievements No level assigned (Aug to Jul)
+ach_total                  |  Total Achievements (Aug to Jul)
+age_summary_with_unknowns  |  Age group (with unknowns)
+ethnicity_group            |  Ethnicity group
+p_basic_skills             |  Participation Basic skills (Aug to Jul)
+p_bl2_ex_basic_skills      |  Participation Below level 2 (excluding basic skills) (Aug to Jul)
+p_full_l2                  |  Participation Full level 2 (Aug to Jul)
+p_full_l3                  |  Participation Full level 3 (Aug to Jul)
+p_l2                       |  Participation Level 2 (Aug to Jul)
+p_l3                       |  Participation Level 3 (Aug to Jul)
+p_l4plus                   |  Participation Level 4+ (Aug to Jul)
+p_no_lx                    |  Participation No level assigned (Aug to Jul)
+p_total                    |  Total Participation (Aug to Jul)
+sex                        |  Sex
+
+Adult (19+) Education and Training aim enrolments and and achievements English devolved area breakdowns
+e_and_t_aims_ach         |  Aim Achievements (Aug to Jul)
+e_and_t_aims_enrolments  |  Aim Enrolments (Aug to Jul)
+ethnicity_group          |  Ethnicity group
+notional_nvq_level       |  Detailed level
+sex                      |  Sex
+ssa_t1_desc              |  Sector subject area (tier 1)
+
+Adult (19+) Education and Training aim enrolments detailed provider breakdowns
+enrols       |  Enrolments
+level        |  Level
+ssa_t1_desc  |  Sector subject area (tier 1)
+
+Further education and skills detailed geography summary. The file figures for adult (19+) Further education and skills, 19+ Education and training, Community Learning, and all age apprenticeships.
+achievements                              |  Achievements
+achievements_rate_per_100000_population   |  Indicative achievements rate per 100,000 population
+age_group                                 |  Age group
+apprenticeships_or_further_education      |  Apprenticeships or further education
+level_or_type                             |  Level or type
+participation                             |  Participation
+participation_rate_per_100000_population  |  Indicative participation rate per 100,000 population
+starts                                    |  Starts
+starts_rate_per_100000_population         |  Indicative starts rate per 100,000 population
+
+Adult (19+) Further education and skills learner participation by region summary.
+p_basic_skills         |  Participation Basic skills (Aug to Jul)
+p_bl2_ex_basic_skills  |  Participation Below level 2 (excluding basic skills) (Aug to Jul)
+p_full_l2              |  Participation Full level 2 (Aug to Jul)
+p_full_l3              |  Participation Full level 3 (Aug to Jul)
+p_l2                   |  Participation Level 2 (Aug to Jul)
+p_l3                   |  Participation Level 3 (Aug to Jul)
+p_l4plus               |  Participation Level 4+ (Aug to Jul)
+p_no_lx                |  Participation No level assigned (Aug to Jul)
+p_total                |  Total Participation (Aug to Jul)
+
+Free courses for jobs detailed
+employment_status                  |  Employment status
+ethnicity                          |  Ethnicity
+lldd                               |  LLDD
+prior_attainment_group             |  Prior attainment group
+sex                                |  Sex
+ssa_t1                             |  Sector subject area (tier 1)
+ssa_t2                             |  Sector subject area (tier 2)
+start_age                          |  Start age
+total_takeup_extended_adult_offer  |  Free courses for jobs total starts including extended offer (April 21 to July 22)
+total_takeup_original_adult_offer  |  Free courses for jobs total starts under original offer (April 21 to July 22)
+
+Adult (19+) Education and training learner participation and achievements detailed provider file
+ach_basic_skills         |  Achievements Basic skills
+ach_bl2_ex_basic_skills  |  Achievements Below level 2 (excluding basic skills)
+ach_full_l2              |  Achievements Full level 2
+ach_full_l3              |  Achievements Full level 3
+ach_l2                   |  Achievements Level 2
+ach_l3                   |  Achievements Level 3
+ach_l4plus               |  Achievements Level 4+
+ach_no_lx                |  Achievements No level assigned
+ach_total                |  Total Achievements
+p_basic_skills           |  Participation Basic skills
+p_bl2_ex_basic_skills    |  Participation Below level 2 (excluding basic skills)
+p_full_l2                |  Participation Full level 2
+p_full_l3                |  Participation Full level 3
+p_l2                     |  Participation Level 2
+p_l3                     |  Participation Level 3
+p_l4plus                 |  Participation Level 4+
+p_no_lx                  |  Participation No level assigned
+p_total                  |  Total Participation
 
 #### FE Destination Measures:
 
@@ -300,6 +423,7 @@ Included: all files with regional data and provider data
 Variables:
 
 Local authority level destinations data for students leaving 16 to 18 study for different characteristic groups, provider types, and qualification levels.
+
 - Not recorded as a sustained destination
 - Activity not captured
 - Sustained employment destination
