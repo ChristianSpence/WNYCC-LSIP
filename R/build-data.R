@@ -209,7 +209,6 @@ fe_dest |>
 
 # HESA --------------------------------------------------------------------
 
-
 # HESA 51 -----------------------------------------------------------------
 
 #table51.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-51.csv"
@@ -289,3 +288,85 @@ table13 <- lapply(table13.files, function(file) {
 
 readr::write_csv(table13, "data/csv/he/table13.csv")
 saveRDS(table13, "data/app/hesa13.rds")
+
+
+# Table 49 - HE student enrolments by HE provider and subject of study 2019/20 to 2020/21
+
+# table49.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-49.csv"
+#
+# download.file(table49.url, "data-raw/HESA/table-49.zip", mode = "wb")
+# unzip("data-raw/HESA/table-49.zip", exdir = "data/HESA/table-49")
+
+table49.files <- list.files("data/HESA/table-49", full.names = TRUE)
+
+table49 <- lapply(table49.files, function(file) {
+  temp <- readr::read_csv(file, col_names = FALSE, n_max = 50)
+  skip <- which(grepl("UKPRN", temp$X1)) - 1
+  readr::read_csv(file, skip = skip) |>
+    dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+}) |>
+  dplyr::bind_rows()
+
+readr::write_csv(table49, "data/csv/he/table49.csv")
+saveRDS(table49, "data/app/hesa49.rds")
+
+
+
+# HESA Graduates ----------------------------------------------------------
+
+grad.table1.url <- "https://www.hesa.ac.uk/data-and-analysis/graduates/table-1.csv"
+download.file(grad.table1.url, "data-raw/HESA/grad-table-1.zip", mode = "wb")
+unzip("data-raw/HESA/grad-table-1.zip", exdir = "data/HESA/grad-table-1")
+
+grad.table1.files <- list.files("data/HESA/grad-table-1", full.names = TRUE)
+
+grad.table1 <- lapply(grad.table1.files, function(file) {
+  temp <- readr::read_csv(file, col_names = FALSE, n_max = 50)
+  skip <- which(grepl("UKPRN", temp$X1)) - 1
+  readr::read_csv(file, skip = skip) |>
+    dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+}) |>
+  dplyr::bind_rows()
+
+readr::write_csv(grad.table1, "data/csv/he/grad-table-1.csv")
+saveRDS(grad.table1, "data/app/hesa-grad-table-1.rds")
+
+#########
+
+grad.table6.url <- "https://www.hesa.ac.uk/data-and-analysis/graduates/table-6.csv"
+download.file(grad.table6.url, "data-raw/HESA/grad-table-6.zip", mode = "wb")
+unzip("data-raw/HESA/grad-table-6.zip", exdir = "data/HESA/grad-table-6")
+
+grad.table6.files <- list.files("data/HESA/grad-table-6", full.names = TRUE)
+
+grad.table6 <- lapply(grad.table6.files, function(file) {
+  temp <- readr::read_csv(file, col_names = FALSE, n_max = 50)
+  skip <- which(grepl("UKPRN", temp$X1)) - 1
+  readr::read_csv(file, skip = skip) |>
+    dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+}) |>
+  dplyr::bind_rows()
+
+readr::write_csv(grad.table6, "data/csv/he/grad-table-6.csv")
+saveRDS(grad.table6, "data/app/hesa-grad-table-6.rds")
+
+####
+
+####
+
+grad.table28.url <- "https://www.hesa.ac.uk/data-and-analysis/graduates/table-28.csv"
+download.file(grad.table28.url, "data-raw/HESA/grad-table-28.zip", mode = "wb")
+unzip("data-raw/HESA/grad-table-28.zip", exdir = "data/HESA/grad-table-28")
+
+grad.table28.files <- list.files("data/HESA/grad-table-28", full.names = TRUE)
+
+grad.table28 <- lapply(grad.table28.files, function(file) {
+  temp <- readr::read_csv(file, col_names = FALSE, n_max = 50)
+  skip <- which(grepl("UKPRN", temp$X1)) - 1
+  readr::read_csv(file, skip = skip) |>
+    dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+}) |>
+  dplyr::bind_rows()
+
+readr::write_csv(grad.table28, "data/csv/he/grad-table-28.csv")
+saveRDS(grad.table28, "data/app/hesa-grad-table-28.rds")
