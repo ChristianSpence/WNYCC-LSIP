@@ -22,6 +22,10 @@ DfE data is not directly queryable, instead selected from menus  [https://explor
 Each downloaded .zip file contains a `data` folder and a `data-guidance` folder. The latter includes meta data and variable name lookups which are extracted in the scripts for each data source and joined to the `data` file.
 
 #### Key Stage 4
+
+Local authority and regional level headline entry and attainment measures for the latest year broken down gender. State-funded schools only.
+
+- URL: `https://explore-education-statistics.service.gov.uk/find-statistics/key-stage-4-performance-revised/2021-22`
 - Original file: `data-raw/key-stage-4-performance-revised_2021-22.zip`
 - Unzipped data: `data/KS4`
 - Processed data (wide): `data/csv/ks4/`
@@ -70,6 +74,8 @@ NB Three types of student record data file exist: 051, 054, 056
 - 051 (student record) has been used for historic data, up to and including 18/19.
 - 054 (alternative student record) is used for 19/20 to current latest (20/21), but 051 is also available for this period. Main difference is a different course classification system.
 - 056 will be introduced for Future publications (21/22 onwards, due to drop in Feb 23) and will not have options of 051 or 054 available.
+
+### HESA Students
 
 #### Table 1 - HE student enrolments by HE provider 2014/15 to 2020/21 (051, 054)
 
@@ -120,3 +126,35 @@ NB Three types of student record data file exist: 051, 054, 056
 
 - URL: `https://www.hesa.ac.uk/data-and-analysis/graduates/table-28.csv`
 
+### ONS/NOMIS
+
+#### Business Register and Employment Survey
+
+- Employees by sector and geography
+
+#### United Kingdom Business Counts
+
+- Number of enterprises by employees, sector and geography
+- Number of enterprises by turnover, sector and geography
+- Number of local units by employees, sector and geography
+
+#### Annual Population Survey
+
+- Number of employed, self-employed, unemployed, inactive, etc.
+
+#### Workforce Jobs
+
+- Number of jobs (official ONS measure)
+
+### The Data City (and Lightcast)
+
+Job Postings - Top Title & Skills by Sector / Geography
+
+- Total Job Postings by Sector
+- Total Job Postings by LA district
+- Total Unique Job Postings by Sector
+- Top 10 Titles
+- Top 20 Skills
+- Skills / Job Titles by Sector
+- Ability to filter skills to specialized, common or certifications
+- Ability to filter to LA district level
