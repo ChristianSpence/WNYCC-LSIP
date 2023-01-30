@@ -1,0 +1,4 @@
+[core]
+    remote = lsip
+['remote "lsip"']
+    url = s3://open-innovations-filestash/lsip
