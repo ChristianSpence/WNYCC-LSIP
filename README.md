@@ -22,22 +22,20 @@ DfE data is not directly queryable, instead selected from menus  [https://explor
 Each downloaded .zip file contains a `data` folder and a `data-guidance` folder. The latter includes meta data and variable name lookups which are extracted in the scripts for each data source and joined to the `data` file.
 
 #### Key Stage 4
-
-- KS4 local authority data
-Original file: `data-raw/key-stage-4-performance-revised_2021-22.zip`
-Unzipped data: `data/KS4`
-Processed data (wide): `data/csv/ks4/`
-Processed data (long): `data/app/ks4.rds`
+- Original file: `data-raw/key-stage-4-performance-revised_2021-22.zip`
+- Unzipped data: `data/KS4`
+- Processed data (wide): `data/csv/ks4/`
+- Processed data (long): `data/app/ks4.rds`
 
 #### A-level
 [https://explore-education-statistics.service.gov.uk/find-statistics/a-level-and-other-16-to-18-results](Source)
 
 Included: all files with regional data
 
-Original file: `data-raw/a-level-and-other-16-to-18-results_2021-22.zip`
-Unzipped data: `data/A-level`
-Processed data (wide): `data/csv/a-level/`
-Processed data (long): `data/app/a-level.rds`
+- Original file: `data-raw/a-level-and-other-16-to-18-results_2021-22.zip`
+- Unzipped data: `data/A-level`
+- Processed data (wide): `data/csv/a-level/`
+- Processed data (long): `data/app/a-level.rds`
 
 #### FE
 
@@ -45,10 +43,10 @@ Processed data (long): `data/app/a-level.rds`
 
 Included: all files with regional data and provider data
 
-Original file: `data-raw/further-education-and-skills_2021-22.zip`
-Unzipped file: `data/FE`
-Processed data (wide): `data/csv/fe/`
-Processed data (long): `data/app/fe.rds`
+- Original file: `data-raw/further-education-and-skills_2021-22.zip`
+- Unzipped file: `data/FE`
+- Processed data (wide): `data/csv/fe/`
+- Processed data (long): `data/app/fe.rds`
 
 #### FE Destination Measures:
 
@@ -56,10 +54,10 @@ Processed data (long): `data/app/fe.rds`
 
 Included: all files with regional data and provider data
 
-Original file: `data-raw/16-18-destination-measures_2020-21.zip`
-Unzipped file: `data/FE_destination`
-Processed data (wide): `data/csv/fe_dest/`
-Processed data (long): `data/app/fe_dest.rds`
+- Original file: `data-raw/16-18-destination-measures_2020-21.zip`
+- Unzipped file: `data/FE_destination`
+- Processed data (wide): `data/csv/fe_dest/`
+- Processed data (long): `data/app/fe_dest.rds`
 
 ### HESA
 
@@ -75,50 +73,50 @@ NB Three types of student record data file exist: 051, 054, 056
 
 #### Table 1 - HE student enrolments by HE provider 2014/15 to 2020/21 (051, 054)
 
-URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-1.csv`
-Original file: `data/HESA/table-1/`
-Processed: `data/csv/he/table1.csv`
-Processed: `data/app/hesa1.rds`
+- URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-1.csv`
+- Original file: `data/HESA/table-1/`
+- Processed: `data/csv/he/table1.csv`
+- Processed: `data/app/hesa1.rds`
 
 #### Table 19 - HE qualifiers by HE provider and subject of study 2014/15 to 2018/19 (051)
 
-URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-19.csv`
-Original file: `data/HESA/table-19/`
-Processed: `data/csv/he/table19.csv`
-Processed: `data/app/hesa19.rds`
+- URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-19.csv`
+- Original file: `data/HESA/table-19/`
+- Processed: `data/csv/he/table19.csv`
+- Processed: `data/app/hesa19.rds`
 
 #### Table 51 - HE qualifiers by HE provider and subject of study 2019/20 to 2020/21 (051, 054)
 
-URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-51.csv`, `https://www.hesa.ac.uk/data-and-analysis/students/table-51-051.csv`
-Original file: `data/HESA/table-51/`, `data/HESA/table-51-051/`
-Processed: `data/csv/he/table51.csv`, `data/csv/he/table51-051.csv`
-Processed: `data/app/hesa51.rds`, `data/app/hesa51-051.rds`
+- URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-51.csv`, `https://www.hesa.ac.uk/data-and-analysis/students/table-51-051.csv`
+- Original file: `data/HESA/table-51/`, `data/HESA/table-51-051/`
+- Processed: `data/csv/he/table51.csv`, `data/csv/he/table51-051.csv`
+- Processed: `data/app/hesa51.rds`, `data/app/hesa51-051.rds`
 
 #### Table 13 - HE student enrolments by HE provider and subject of study 2014/15 to 2018/19 (051)
 
-URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-13.csv`
-Original file: `data/HESA/table-13/`
-Processed: `data/csv/he/table13.csv`
-Processed: `data/app/hesa13.rds`
+- URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-13.csv`
+- Original file: `data/HESA/table-13/`
+- Processed: `data/csv/he/table13.csv`
+- Processed: `data/app/hesa13.rds`
 
 #### Table 49 - HE student enrolments by HE provider and subject of study 2019/20 to 2020/21 (051, 054)
 
-URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-49.csv`, `https://www.hesa.ac.uk/data-and-analysis/students/table-49-051.csv`
-Original file: `data/HESA/table-49/`, `data/HESA/table-49-051.csv`
-Processed: `data/csv/he/table49.csv/`, `data/csv/he/table49-051.csv`
-Processed: `data/app/hesa49.rds`, `data/app/hesa49-051.rds`
+- URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-49.csv`, `https://www.hesa.ac.uk/data-and-analysis/students/table-49-051.csv`
+- Original file: `data/HESA/table-49/`, `data/HESA/table-49-051.csv`
+- Processed: `data/csv/he/table49.csv/`, `data/csv/he/table49-051.csv`
+- Processed: `data/app/hesa49.rds`, `data/app/hesa49-051.rds`
 
 #### HESA Graduates
 
 #### Graduates Table 1 - Graduate activities by provider and sex
 
-URL: `https://www.hesa.ac.uk/data-and-analysis/graduates/table-1.csv`
+- URL: `https://www.hesa.ac.uk/data-and-analysis/graduates/table-1.csv`
 
 #### Graduates Table 6 - Graduate activities by provider
 
-URL: `https://www.hesa.ac.uk/data-and-analysis/graduates/table-6.csv`
+- URL: `https://www.hesa.ac.uk/data-and-analysis/graduates/table-6.csv`
 
 #### Graduates Table 28 - Graduate activities by provider and subject area of degree
 
-URL: `https://www.hesa.ac.uk/data-and-analysis/graduates/table-28.csv`
+- URL: `https://www.hesa.ac.uk/data-and-analysis/graduates/table-28.csv`
 
