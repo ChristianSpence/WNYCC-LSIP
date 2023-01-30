@@ -1,0 +1,269 @@
+---
+title: "Data sources"
+output: html_document
+---
+
+## Data sources
+
+### Geography codes
+
+```{r}
+# unzip("data-raw/key-stage-4-performance-revised_2021-22.zip",
+#       exdir = "data/KS4")
+geogs <- readr::read_csv("data/KS4/data/2122_lad_pr_data.csv")
+
+geogs |>
+  dplyr::filter(region_code == "E12000003") |> 
+  dplyr::select(region_code, region_name, lad_code, lad_name) |> 
+  unique() |> 
+  View()
+```
+
+## UKPRN full lookup is here: https://get-information-schools.service.gov.uk/Establishments/Search?tok=8TQILM6z
+
+```{r ukprn-lookup}
+# unzip("data-raw/Schools etc UKPRN full register lookup.zip", exdir = "data/UKPRN_lookup.csv")
+
+ukprn <- readr::read_csv("data/UKPRN_lookup.csv/results.csv")
+
+onspd <- readr::read_csv("~/Data/Geodata/ONSPD/ONSPD_NOV_2022_UK/Data/ONSPD_NOV_2022_UK.csv")
+
+ukprn |> dplyr::left_join(onspd, by = c("Postcode" = "pcds")) |> 
+  dplyr::filter(is.na(oslaua)) |> View()
+
+
+dplyr::inner_join(fe$`fes-et-provider-enrolments-202122-q4.csv`,
+                  ukprn,
+                  by = c("provider_ukprn" = "UKPRN"))
+```
+
+
+
+
+```{r}
+geog_codes <- list(wy = paste0("E080000", 32:36),
+                   ny = c("E0600000014", # York
+                          paste0("E070001", 63:69) # Craven:Selby
+                   )
+)
+```
+
+### Leicester and Leicestershire LSIP
+Dashboard: https://www.insight-unlocked.co.uk/
+Report: https://www.insight-unlocked.co.uk/pdfs/leicester-and-leicestershire-lsip-report.pdf
+Annex: https://www.insight-unlocked.co.uk/pdfs/leicester-and-leicestershire-lsip-annexes.pdf
+
+#### Skills supply
+Key stage 4: https://explore-education-statistics.service.gov.uk/find-statistics/key-stage-4-performance-revised
+
+```{r}
+ks4 <- readr::read_csv("data/KS4/data/2122_lad_pr_data.csv") |> 
+  dplyr::filter(lad_code %in% c(geog_codes$wy, geog_codes$ny))
+```
+
+
+A-level: https://explore-education-statistics.service.gov.uk/find-statistics/a-level-and-other-16-to-18-results
+
+```{r}
+# unzip("data-raw/a-level-and-other-16-to-18-results_2021-22.zip",
+#       exdir = "data/A-level")
+
+a_level <- lapply(list.files("data/A-level/data", full.names = TRUE),
+                  function(file) {
+                    readr::read_csv(file) |> 
+                      dplyr::filter(new_la_code %in% c(geog_codes$wy, geog_codes$ny))
+                  }) |> 
+  setNames(basename(list.files("data/A-level/data")))
+```
+
+FE: https://explore-education-statistics.service.gov.uk/find-statistics/further-education-and-skills
+
+```{r}
+# unzip("data-raw/further-education-and-skills_2021-22.zip",
+#       exdir = "data/FE")
+
+fe <- lapply(list.files("data/FE/data", full.names = TRUE),
+             function(file) {
+               df <- readr::read_csv(file)
+               if ("lad_code" %in% names(df)) {
+                 df <- dplyr::filter(df, lad_code %in% c(geog_codes$wy, geog_codes$ny))
+               }
+               return(df)
+             }) |> 
+  setNames(basename(list.files("data/FE/data")))
+```
+
+
+16-18 Destination Measures: https://explore-education-statistics.service.gov.uk/find-statistics/16-18-destination-measures
+
+```{r}
+# unzip("data-raw/16-18-destination-measures_2020-21.zip",
+#       exdir = "data/FE_destination")
+
+fe_dest <- lapply(list.files("data/FE_destination/data", full.names = TRUE),
+                  function(file) {
+                    readr::read_csv(file) |>
+                      dplyr::filter(new_la_code %in% c(geog_codes$wy, geog_codes$ny))
+                  }) |> 
+  setNames(basename(list.files("data/FE_destination/data")))
+```
+
+Higher education: https://www.hesa.ac.uk/support/definitions/students
+
+### Change of data definitions
+NB Three types of student record data file exist: 051, 054, 056
+051 (student record) has been used for historic data, up to and including 18/19.
+054 (alternative student record) is used for 19/20 to current latest (20/21), but 051 is also available for this period. Main difference is a different course classification system.
+056 will be introduced for Future publications (21/22 onwards, due to drop in Feb 23) and will not have options of 051 or 054 available.
+
+### Available detailed tables (HESA)
+
+```{r hesa-tables-available}
+hesa_tables <- rvest::read_html("https://www.hesa.ac.uk/data-and-analysis/students/releases") |> 
+  rvest::html_elements("#detailedtables") |> 
+  rvest::html_table()
+```
+
+## ID UKPRN of providers in the two areas
+
+```{r}
+ukprn_he_yorks <- table51 |> dplyr::select(UKPRN, `HE provider`, `Region of HE provider`) |> 
+  dplyr::filter(`Region of HE provider` == "Yorkshire and The Humber") |> 
+  dplyr::distinct() |> 
+  dplyr::mutate(LSIP = dplyr::case_when(UKPRN %in% c("10007785",
+                                                     "10007148",
+                                                     "10021682",
+                                                     "10003854",
+                                                     "10003861",
+                                                     "10034449",
+                                                     "10007795",
+                                                     "10003863") ~ "WY",
+                                        UKPRN %in% c("10004740",
+                                                     "10007713",
+                                                     "10007167") ~ "NY",
+                                        TRUE ~ NA_character_)) |> 
+  dplyr::filter(!is.na(LSIP))
+```
+
+
+
+```{r}
+# Table 1
+table1.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-1.csv"
+
+download.file(table1.url, file.path("data-raw", "HESA", "table-1.zip"), mode = "wb")
+
+unzip("data-raw/HESA/table-1.zip", exdir = "data/HESA/table-1")
+
+table1.files <- list.files("data/HESA/table-1", full.names = TRUE)
+
+table1 <- lapply(table1.files, function(file) {
+  readr::read_csv(file, skip = 14)
+}) |> dplyr::bind_rows()
+```
+
+
+```{r table-13-49}
+
+# Table 13 - HE student enrolments by HE provider and subject of study 2014/15 to 2018/19
+
+table13.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-13.csv"
+
+download.file(table13.url, "data-raw/HESA/table-13.zip", mode = "wb")
+unzip("data-raw/HESA/table-13.zip", exdir = "data/HESA/table-13")
+
+table13.files <- list.files("data/HESA/table-13", full.names = TRUE)
+table13 <- lapply(table13.files, function(file) {
+  readr::read_csv(file, skip = 14)
+}) |> 
+  dplyr::bind_rows()
+
+# Table 49 - HE student enrolments by HE provider and subject of study 2019/20 to 2020/21
+
+table49.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-49.csv"
+
+download.file(table49.url, "data-raw/HESA/table-49.zip", mode = "wb")
+unzip("data-raw/HESA/table-49.zip", exdir = "data/HESA/table-49")
+
+table49.files <- list.files("data/HESA/table-49", full.names = TRUE)
+
+table49 <- lapply(table49.files, function(file) {
+  readr::read_csv(file, skip = 14)
+})
+```
+
+```{r}
+
+# Table 19 - HE qualifiers by HE provider and subject of study 2014/15 to 2018/19 (051)
+# Table 51 - HE qualifiers by HE provider and subject of study 2019/20 to 2020/21 (051, 054)
+
+table19.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-19.csv"
+table19.zip <- "data-raw/HESA/table-19.zip"
+table19.path <- "data/HESA/table-19"
+
+download.file(table19.url, table19.zip, mode = "wb")
+unzip(table19.zip, exdir = table19.path)
+
+table19.files <- list.files(table19.path, full.names = TRUE)
+
+table19 <- lapply(table19.files, function(file) {
+  readr::read_csv(file, skip = 14)
+}) |> 
+  dplyr::bind_rows()
+
+table51.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-51.csv"
+download.file(table51.url, "data-raw/HESA/table-51.zip", mode = "wb")
+unzip("data-raw/HESA/table-51.zip", exdir = "data/HESA/table-51")
+table51.files <- list.files("data/HESA/table-51", full.names = TRUE)
+
+table51 <- lapply(table51.files, function(file) {
+  readr::read_csv(table51.files, skip = 13)
+}) |> 
+  dplyr::bind_rows()
+  
+table51_051.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-51-051.csv"
+download.file(table51_051.url, "data-raw/HESA/table-51-051.zip", mode = "wb")
+unzip("data-raw/HESA/table-51-051.zip", exdir = "data/HESA/table-51-051")
+table51_051.files <- list.files("data/HESA/table-51-051", full.names = TRUE)
+table51_051 <- lapply(table51_051.files, function(file) {
+  readr::read_csv(file, skip = 13)
+}) |> 
+  dplyr::bind_rows()
+
+```
+
+
+No of students by provider
+Science/non-science
+full-time/part-time
+Number by subject and level (first degree UG, other UG, PGR, PGT)
+Number by subject of study (CAH level 1 and 3)
+Top ten major subject areas (level 1)
+No of students by level of study
+Students by HE provider
+
+Enrolments by gender
+EU, non-EU, UK
+
+
+
+
+IfATE KSBs (Knowledge, Skills, Behaviours); https://www.instituteforapprenticeships.org/apprenticeship-standards/?
+
+#### Skills Demand
+
+HE graduates: https://www.hesa.ac.uk/support/definitions/graduates
+
+Businesses, Jobs and Skills: Companies House, NOMIS, Lightcast advertised in place/radius
+
+Industry Forecast: Lightcast (jobs and historical establishments (UKBC?))
+
+Occupation Forecast: Lightcast (Jobs, Growth, Replacements, Openings) + forecast
+
+Top Title and Skills: Lightcast (Common skills, special skills, certifications)
+
+Sentiment: IfATE website, word cloud on common traits, etc.
+
+#### Business Survey results
+
+Ask Ruth to share their data for inclusion?
