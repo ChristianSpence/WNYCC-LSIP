@@ -59,3 +59,34 @@ Processed data (long): `data/app/fe_dest.rds`
 
 HESA data is stored at persistent URLs.
 
+[https://www.hesa.ac.uk/support/definitions/students](Source)
+
+#### Change of data definitions
+NB Three types of student record data file exist: 051, 054, 056
+- 051 (student record) has been used for historic data, up to and including 18/19.
+- 054 (alternative student record) is used for 19/20 to current latest (20/21), but 051 is also available for this period. Main difference is a different course classification system.
+- 056 will be introduced for Future publications (21/22 onwards, due to drop in Feb 23) and will not have options of 051 or 054 available.
+
+#### Table 51
+
+URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-51.csv`
+Original file: `data/HESA/table-51/`
+Processed: `data/csv/he/table51.csv`
+Processed: `data/app/hesa51.rds`
+
+#### Table 1
+
+URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-1.csv`
+Original file: `data/HESA/table-1/`
+Processed: `data/csv/he/table1.csv`
+Processed: `data/app/hesa1.rds`
+
+#### Table 13
+
+URL: `https://www.hesa.ac.uk/data-and-analysis/students/table-13.csv`
+Original file: `data/HESA/table-13`
+Processed: `data/csv/he/table13.csv`
+Processed: `data/app/hesa13.rds`
+
+
+

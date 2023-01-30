@@ -182,14 +182,110 @@ fe_dest <- lapply(list.files("data/FE_destination/data", full.names = TRUE),
                                     geography_name = la_name) |>
                       dplyr::mutate(date = academic_year(date)) |>
                       dplyr::filter(geography_code %in% c(geog_codes$wy,
-                                                          geog_codes$ny)) |>
-                      tidyr::pivot_longer(cols = -(dplyr::any_of(dimensions)),
-                                          names_to = "variable_code") |>
-                      dplyr::left_join(fe_dest_lookup,
-                                       by = c("variable_code" = "Variable name")) |>
-                      dplyr::rename(variable_name = `Variable description`)
+                                                          geog_codes$ny))
                   }) |>
   setNames(basename(list.files("data/FE_destination/data")))
 
-saveRDS(fe_dest, "data/app/fe_dest.rds")
+for (i in seq_along(fe_dest)) {
+  if (is.data.frame(fe_dest[[i]])) {
+    readr::write_csv(fe_dest[[i]], paste0("data/csv/fe_dest/",
+                                          names(fe_dest[i])))
+  }
+}
 
+fe_dest |>
+  lapply(function(df) {
+    if (is.data.frame(df)) {
+      df |>
+        tidyr::pivot_longer(cols = -(dplyr::any_of(dimensions)),
+                            names_to = "variable_code") |>
+        dplyr::left_join(fe_dest_lookup,
+                         by = c("variable_code" = "Variable name")) |>
+        dplyr::rename(variable_name = `Variable description`)
+    }
+  }) |>
+  saveRDS("data/app/fe_dest.rds")
+
+
+# HESA --------------------------------------------------------------------
+
+
+# HESA 51 -----------------------------------------------------------------
+
+#table51.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-51.csv"
+#download.file(table51.url, "data-raw/HESA/table-51.zip", mode = "wb")
+#unzip("data-raw/HESA/table-51.zip", exdir = "data/HESA/table-51")
+table51.files <- list.files("data/HESA/table-51", full.names = TRUE)
+
+table51 <- lapply(table51.files, function(file) {
+  readr::read_csv(table51.files, skip = 13)
+}) |>
+  dplyr::bind_rows()
+
+# Generate list of UKPRNs in the areas we care about
+ukprn_he_yorks <- table51 |> dplyr::select(UKPRN, `HE provider`, `Region of HE provider`) |>
+  dplyr::filter(`Region of HE provider` == "Yorkshire and The Humber") |>
+  dplyr::distinct() |>
+  dplyr::mutate(LSIP = dplyr::case_when(UKPRN %in% c("10007785",
+                                                     "10007148",
+                                                     "10021682",
+                                                     "10003854",
+                                                     "10003861",
+                                                     "10034449",
+                                                     "10007795",
+                                                     "10003863") ~ "WY",
+                                        UKPRN %in% c("10004740",
+                                                     "10007713",
+                                                     "10007167") ~ "NY",
+                                        TRUE ~ NA_character_)) |>
+  dplyr::filter(!is.na(LSIP))
+
+# Filter table 51
+
+table51_filtered <- table51 |>
+  dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+
+readr::write_csv(table51_filtered, "data/csv/he/table51.csv")
+saveRDS(table51_filtered, "data/app/hesa51.rds")
+
+# table51_051.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-51-051.csv"
+# download.file(table51_051.url, "data-raw/HESA/table-51-051.zip", mode = "wb")
+# unzip("data-raw/HESA/table-51-051.zip", exdir = "data/HESA/table-51-051")
+# table51_051.files <- list.files("data/HESA/table-51-051", full.names = TRUE)
+# table51_051 <- lapply(table51_051.files, function(file) {
+#   readr::read_csv(file, skip = 13)
+# }) |>
+#   dplyr::bind_rows()
+
+
+# Table 1
+# table1.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-1.csv"
+# download.file(table1.url, file.path("data-raw", "HESA", "table-1.zip"), mode = "wb")
+# unzip("data-raw/HESA/table-1.zip", exdir = "data/HESA/table-1")
+
+table1.files <- list.files("data/HESA/table-1", full.names = TRUE)
+
+table1 <- lapply(table1.files, function(file) {
+  readr::read_csv(file, skip = 14)
+}) |> dplyr::bind_rows() |>
+  dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+
+readr::write_csv(table1, "data/csv/he/table1.csv")
+saveRDS(table1, "data/app/hesa1.rds")
+
+# Table 13 - HE student enrolments by HE provider and subject of study 2014/15 to 2018/19
+
+# table13.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-13.csv"
+#
+# download.file(table13.url, "data-raw/HESA/table-13.zip", mode = "wb")
+# unzip("data-raw/HESA/table-13.zip", exdir = "data/HESA/table-13")
+
+table13.files <- list.files("data/HESA/table-13", full.names = TRUE)
+table13 <- lapply(table13.files, function(file) {
+  readr::read_csv(file, skip = 14)
+}) |>
+  dplyr::bind_rows() |>
+  dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+
+readr::write_csv(table13, "data/csv/he/table13.csv")
+saveRDS(table13, "data/app/hesa13.rds")
