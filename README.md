@@ -31,6 +31,26 @@ Local authority and regional level headline entry and attainment measures for th
 - Processed data (wide): `data/csv/ks4/`
 - Processed data (long): `data/app/ks4.rds`
 
+Variables:
+- Average Attainment 8 score of all pupils
+- Average EBacc APS score per pupil
+- Percentage of pupils achieving the English Baccalaureate (grades 4 or above in English and maths, A*-C in unreformed subjects)
+- Percentage of pupils achieving the English Baccalaureate (grades 5 or above in English and maths, A*-C in unreformed subjects)
+- Percentage of pupils entering the English Baccalaureate
+- Percentage of pupils entering English and Mathematics GCSEs
+- Percentage of pupils achieving grades 4 or above in English and Mathematics GCSEs
+- Percentage of pupils achieving grades 5 or above in English and Mathematics GCSEs
+- Total sum of pupils Attainment 8 scores
+- Total number of pupils achieving the English Baccalaureate (grades 4 or above in English and maths, A*-C in unreformed subjects)
+- Total number of pupils achieving the English Baccalaureate (grades 5 or above in English and maths, A*-C in unreformed subjects)
+- Total number of pupils entering the English Baccalaureate
+- Total EBacc APS score of pupils
+- Total number of pupils entering English and Mathematics GCSEs
+- Total number of pupils achieving grades 4 or above in English and Mathematics GCSEs
+- Total number of pupils achieving grades 5 or above in English and Mathematics GCSEs
+- Total number of pupils at the end of key stage 4
+- Total number of schools
+
 #### A-level
 [https://explore-education-statistics.service.gov.uk/find-statistics/a-level-and-other-16-to-18-results](Source)
 
@@ -40,6 +60,95 @@ Included: all files with regional data
 - Unzipped data: `data/A-level`
 - Processed data (wide): `data/csv/a-level/`
 - Processed data (long): `data/app/a-level.rds`
+
+Variables:
+
+- APS per academic entry
+- APS per applied general entry
+- APS per A level entry
+- APS per 'Best 3' entries
+- Average academic result
+- Average applied general result
+- Average A level result
+- APS per 'Best 3' entries (grade)
+- Average technical certificate result
+- Average tech level result
+- APS per entry technical certificate students
+- APS per tech level entry
+- Characteristic
+- Number of students entered for any level 3 vocational (excluding applied generals)
+- Number of students entered for any level 3 vocational (excluding tech levels)
+- Number of students entered for ≥ 1 A level
+- Number of students entered for ≥ 1 A level or applied A level
+- Number of academic students
+- Number of applied general students
+- Number of A level students
+- Number of students with level 2 as highest entry
+- Number of level 3 students
+- Students at end of 16-18 study
+- Number of technical certificate students
+- Number of tech level students
+- % achieving 3 A* to A
+- % achieving ≥ AAB
+- % achieving ≥ AAB for a minimum of 2 facilitating A levels
+- % achieving ≥ 2 A levels
+- % achieving ≥ 2 substantial level 3 results
+- % achieving ≥ 2 academic results
+- % level 2 students entered for technical certificate
+- % level 3 vocational students (excluding tech levels) who entered applied general
+- % level 3 vocational students (excluding applied generals) who entered tech levels
+- Institution
+
+Single academic year:
+- Number at grade A.
+- Number at grade A*.
+- Number at grade B.
+- Number at grade C.
+- Number at grade D.
+- Number at grade E.
+- Exam entries
+- Percent achieving grade A* - A
+- Percent achieving grade A* - B
+- Percent achieving grade A* - C
+- Percent achieving grade A* - D
+- Percent achieving grade A* - E
+- Percent achieving grade A*
+- Qualification
+- Institution
+- Subject
+- Number at grade U.
+
+End of study:
+- Number at grade A.
+- Number at grade A*.
+- Number at grade B.
+- Number at grade C.
+- Number at grade D.
+- Number at grade E.
+- Percent achieving grade A* - A
+- Percent achieving grade A* - B
+- Percent achieving grade A* - C
+- Percent achieving grade A* - D
+- Percent achieving grade A* - E
+- Percent achieving grade A*
+- Institution
+- Subject
+- Total number of students
+- Number at grade U.
+
+- Number of students
+- Percent entered for 1 or more STEM subjects
+- Percent entered for 2 or more STEM subjects
+- Percent entered for 3 or more STEM subjects
+- Percent entered for 4 or more STEM subjects
+- Percent entered for 5 or more STEM subjects
+- Percent entered for biology
+- Percent entered for chemistry
+- Percent entered for computing
+- Percent entered for further maths
+- Percent entered for maths
+- Percent not entered for a STEM subject
+- Percent entered for physics
 
 #### FE
 
@@ -52,6 +161,131 @@ Included: all files with regional data and provider data
 - Processed data (wide): `data/csv/fe/`
 - Processed data (long): `data/app/fe.rds`
 
+Variables:
+
+Basic skills total participation and total achievements geographical breakdowns.
+- Achievements
+- Age (under 19/19+)
+- Participation
+- Subject and level
+
+Community learning geographical breakdowns
+- Achievements Family english maths and language
+- Achievements Neighbourhood learning in deprived communities
+- Achievements Personal and community development learning
+- Total Achievements
+- Achievements Wider family learning
+- Age group (with unknowns)
+- Ethnicity group
+- Participation Family english maths and language
+- Participation Neighbourhood learning in deprived communities
+- Participation Personal and community development learning
+- Sex
+- Total Participation
+- Participation Wider family learning
+
+Community learning detailed provider breakdowns
+- Achievement - Family english, maths and language
+- Achievement - Neighbourhood learning in deprived communities
+- Achievement - Personal and community development learning
+- Achievement - All community learning
+- Achievement - Wider family learning
+- Participation - Family english, maths and language
+- Participation - Neighbourhood learning in deprived communities
+- Participation - Personal and community development learning
+- Participation - All community learning
+- Participation - Wider family learning
+
+Adult (19+) Education and training learner participation and achievements detailed provider file
+- Achievements Basic skills (Aug to Jul)
+- Achievements Below level 2 (excluding basic skills) (Aug to Jul)
+- Achievements Full level 2 (Aug to Jul)
+- Achievements Full level 3 (Aug to Jul)
+- Achievements Level 2 (Aug to Jul)
+- Achievements Level 3 (Aug to Jul)
+- Achievements Level 4+ (Aug to Jul)
+- Achievements No level assigned (Aug to Jul)
+- Total Achievements (Aug to Jul)
+- Age group (with unknowns)
+- Ethnicity group
+- Participation Basic skills (Aug to Jul)
+- Participation Below level 2 (excluding basic skills) (Aug to Jul)
+- Participation Full level 2 (Aug to Jul)
+- Participation Full level 3 (Aug to Jul)
+- Participation Level 2 (Aug to Jul)
+- Participation Level 3 (Aug to Jul)
+- Participation Level 4+ (Aug to Jul)
+- Participation No level assigned (Aug to Jul)
+- Total Participation (Aug to Jul)
+- Sex
+
+Adult (19+) Education and Training aim enrolments and and achievements English devolved area breakdowns
+- Aim Achievements (Aug to Jul)
+- Aim Enrolments (Aug to Jul)
+- Ethnicity group
+- Detailed level
+- Sex
+- Sector subject area (tier 1)
+
+Adult (19+) Education and Training aim enrolments detailed provider breakdowns
+- Enrolments
+- Level
+- Sector subject area (tier 1)
+
+Further education and skills detailed geography summary. The file figures for adult (19+) Further education and skills, 19+ Education and training, Community Learning, and all age apprenticeships.
+- Achievements
+- Indicative achievements rate per 100,000 population
+- Age group
+- Apprenticeships or further education
+- Level or type
+- Participation
+- Indicative participation rate per 100,000 population
+- Starts
+- Indicative starts rate per 100,000 population
+
+Adult (19+) Further education and skills learner participation by region summary.
+- Participation Basic skills (Aug to Jul)
+- Participation Below level 2 (excluding basic skills) (Aug to Jul)
+- Participation Full level 2 (Aug to Jul)
+- Participation Full level 3 (Aug to Jul)
+- Participation Level 2 (Aug to Jul)
+- Participation Level 3 (Aug to Jul)
+- Participation Level 4+ (Aug to Jul)
+- Participation No level assigned (Aug to Jul)
+- Total Participation (Aug to Jul)
+
+Free courses for jobs detailed
+- Employment status
+- Ethnicity
+- LLDD
+- Prior attainment group
+- Sex
+- Sector subject area (tier 1)
+- Sector subject area (tier 2)
+- Start age
+- Free courses for jobs total starts including extended offer (April 21 to July 22)
+- Free courses for jobs total starts under original offer (April 21 to July 22)
+
+Adult (19+) Education and training learner participation and achievements detailed provider file
+- Achievements Basic skills
+- Achievements Below level 2 (excluding basic skills)
+- Achievements Full level 2
+- Achievements Full level 3
+- Achievements Level 2
+- Achievements Level 3
+- Achievements Level 4+
+- Achievements No level assigned
+- Total Achievements
+- Participation Basic skills
+- Participation Below level 2 (excluding basic skills)
+- Participation Full level 2
+- Participation Full level 3
+- Participation Level 2
+- Participation Level 3
+- Participation Level 4+
+- Participation No level assigned
+- Total Participation
+
 #### FE Destination Measures:
 
 [https://explore-education-statistics.service.gov.uk/find-statistics/16-18-destination-measures](Source)
@@ -62,6 +296,31 @@ Included: all files with regional data and provider data
 - Unzipped file: `data/FE_destination`
 - Processed data (wide): `data/csv/fe_dest/`
 - Processed data (long): `data/app/fe_dest.rds`
+
+Variables:
+
+Local authority level destinations data for students leaving 16 to 18 study for different characteristic groups, provider types, and qualification levels.
+- Not recorded as a sustained destination
+- Activity not captured
+- Sustained employment destination
+- Intermediate apprenticeships (level 2)
+- Advanced apprenticeships (level 3)
+- Higher and degree apprenticeships (level 4 and above)
+- Sustained apprenticeships
+- Student characteristic
+- Number of pupils completing 16-18 study
+- Qualification level
+- Data type
+- Sustained education destination
+- Further education
+- FE entry level and no identified level
+- FE Level 2
+- FE Level 3
+- UK higher education institution
+- Institution group
+- Level based on LEA area or provider location
+- Other education destinations
+- Sustained education, apprenticeship or employment
 
 ### HESA
 
