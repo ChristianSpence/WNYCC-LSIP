@@ -515,15 +515,63 @@ NB Three types of student record data file exist: 051, 054, 056
 
 - Employees by sector and geography
 
+- URL: `https://www.nomisweb.co.uk/api/v01/dataset/NM_189_1.data.csv?geography=1811939398,1811939399,1811939387...1811939389,1811939400,1811939401,1811939390...1811939393,1811939402,1811939386&industry=150994945...150994965&employment_status=4&measure=1&measures=20100`
+- Original file: `data-raw/NOMIS/bres.csv`
+
+
 #### United Kingdom Business Counts
 
 - Number of enterprises by employees, sector and geography
+
+- URL: `https://www.nomisweb.co.uk/api/v01/dataset/NM_142_1.data.csv?geography=1811939398,1811939399,1811939387...1811939389,1811939400,1811939401,1811939390...1811939393,1811939402,1811939386&industry=150994945...150994965&employment_sizeband=0,10,20,30,40&legal_status=0&measures=20100`
+- Original file: `data-raw/NOMIS/ukbc-emp`
+
 - Number of enterprises by turnover, sector and geography
+- URL: `https://www.nomisweb.co.uk/api/v01/dataset/NM_199_1.data.csv?geography=1811939398,1811939399,1811939387...1811939389,1811939400,1811939401,1811939390...1811939393,1811939402,1811939386&industry=150994945...150994965&turnover_sizeband=0...10&legal_status=0&measures=20100`
+- Original file: `data-raw/NOMIS/ukbc-turn.csv`
+
 - Number of local units by employees, sector and geography
+
+- URL: `https://www.nomisweb.co.uk/api/v01/dataset/NM_141_1.data.csv?geography=1811939398,1811939399,1811939387...1811939389,1811939400,1811939401,1811939390...1811939393,1811939402,1811939386&industry=150994945...150994965&employment_sizeband=10,20,30,40&legal_status=0&measures=20100`
+- Original file: `data-raw/NOMIS/ukbc-lu-emp.csv`
 
 #### Annual Population Survey
 
-- Number of employed, self-employed, unemployed, inactive, etc.
+Number of employed, self-employed, unemployed, inactive, etc.
+
+Variables:
+
+- Economic activity by age
+- Economic activity by disability (Disability Discrimination Act) 16-64
+- Economic activity by disability (Equality Act) 16-64
+- Economic activity of those with health problems lasting more than 12 months
+- Economic activity of those with health conditions or illnesses lasting more than 12 months
+- Economic activity by ethnic group and country of birth
+- Economic activity by ethnic group and nationality
+- Economic activity from age of 18
+- Economic inactivity
+- Employment by age and full-time/part-time
+- Employment by occupation (SOC2020) sub-major group and full-time/part-time
+- Employment by occupation (SOC2020) and industry (SIC 2007)
+- Employment by occupation (SOC2020) and flexibility
+- Employment by occupation (SOC2020) and ethnic group
+- Employment by occupation (SOC2010) sub-major group and full-time/part-time
+- Employment by occupation (SOC2010) and industry (SIC 2007)
+- Employment by age and industry (SIC 2007)
+- Employment by occupation (SOC2010) and flexibility
+- Employment by industry (SIC 2007) and flexibility
+- Employment by industry (SIC 2007) and ethnic group
+- Employment by occupation (SOC2010) and ethnic group
+- Second jobs by industry (SIC 2007)
+- Usual hours worked
+- Ethnicity by age
+- Qualification by age - NVQ
+- Qualification by age - GCSE
+- Job related training (SIC 2007)
+- Methods of jobsearch by age
+- National Identity
+- Welsh Language
+- Employment by public/private sector
 
 #### Workforce Jobs
 
