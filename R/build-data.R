@@ -59,8 +59,9 @@ dims_to_remove <- c("time_identifier", "geographic_level",
 # KS4 ---------------------------------------------------------------------
 ks4_lookup <- readr::read_delim("data/KS4/data-guidance/data-guidance.txt",
                                 delim = "|", trim_ws = TRUE,
-                                skip = 26, n_max = 19)
-ks4_lookup <- ks4_lookup[-1, ]
+                                skip = 26) |>
+  dplyr::filter(!is.na(`Variable description`), !grepl("---", `Variable description`), `Variable description` != "Variable description") |>
+  dplyr::distinct()
 
 ks4 <- readr::read_csv("data/KS4/data/2122_lad_pr_data.csv") |>
   dplyr::filter(lad_code %in% c(geog_codes$wy, geog_codes$ny)) |>
@@ -87,7 +88,8 @@ ks4 |>
 a_level_lookup <- readr::read_delim("data/A-level/data-guidance/data-guidance.txt",
                                     delim = "|", trim_ws = TRUE,
                                     skip = 28) |>
-  dplyr::filter(!is.na(`Variable description`), !grepl("---", `Variable description`), `Variable description` != "Variable description")
+  dplyr::filter(!is.na(`Variable description`), !grepl("---", `Variable description`), `Variable description` != "Variable description") |>
+  dplyr::distinct()
 
 
 a_level <- lapply(list.files("data/A-level/data", full.names = TRUE),
@@ -105,7 +107,8 @@ a_level <- lapply(list.files("data/A-level/data", full.names = TRUE),
   setNames(basename(list.files("data/A-level/data")))
 
 for (i in seq_along(a_level)) {
-  readr::write_csv(a_level[[i]], paste0("data/csv/a-level/",names(a_level[i])))
+  rename_variables(a_level[[i]], a_level_lookup) |>
+  readr::write_csv(paste0("data/csv/a-level/",names(a_level[i])))
 }
 
 a_level |>
@@ -124,7 +127,8 @@ a_level |>
 fe_lookup <- readr::read_delim("data/FE/data-guidance/data-guidance.txt",
                                delim = "|", trim_ws = TRUE,
                                skip = 28) |>
-  dplyr::filter(!is.na(`Variable description`), !grepl("---", `Variable description`), `Variable description` != "Variable description")
+  dplyr::filter(!is.na(`Variable description`), !grepl("---", `Variable description`), `Variable description` != "Variable description") |>
+  dplyr::distinct()
 
 fe <- lapply(list.files("data/FE/data", full.names = TRUE),
              function(file) {
@@ -148,6 +152,7 @@ fe <- lapply(list.files("data/FE/data", full.names = TRUE),
 
 for (i in seq_along(fe)) {
   if (is.data.frame(fe[[i]])) {
+    # not currently running rename_variables as there are duplicate issues in the lookup table
     readr::write_csv(fe[[i]], paste0("data/csv/fe/",names(fe[i])))
   }
 }
@@ -170,7 +175,8 @@ fe |>
 fe_dest_lookup <- readr::read_delim("data/FE_destination/data-guidance/data-guidance.txt",
                                     delim = "|", trim_ws = TRUE,
                                     skip = 52) |>
-  dplyr::filter(!is.na(`Variable description`), !grepl("---", `Variable description`), `Variable description` != "Variable description")
+  dplyr::filter(!is.na(`Variable description`), !grepl("---", `Variable description`), `Variable description` != "Variable description") |>
+  dplyr::distinct()
 
 fe_dest <- lapply(list.files("data/FE_destination/data", full.names = TRUE),
                   function(file) {
@@ -188,8 +194,8 @@ fe_dest <- lapply(list.files("data/FE_destination/data", full.names = TRUE),
 
 for (i in seq_along(fe_dest)) {
   if (is.data.frame(fe_dest[[i]])) {
-    readr::write_csv(fe_dest[[i]], paste0("data/csv/fe_dest/",
-                                          names(fe_dest[i])))
+    rename_variables(fe_dest[[i]], fe_dest_lookup) |>
+    readr::write_csv(paste0("data/csv/fe_dest/", names(fe_dest[i])))
   }
 }
 
