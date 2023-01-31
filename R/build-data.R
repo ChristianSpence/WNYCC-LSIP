@@ -213,6 +213,11 @@ fe_dest |>
   saveRDS("data/app/fe_dest.rds")
 
 
+
+
+
+
+
 # HESA --------------------------------------------------------------------
 
 # HESA 51 -----------------------------------------------------------------
@@ -223,7 +228,9 @@ fe_dest |>
 table51.files <- list.files("data/HESA/table-51", full.names = TRUE)
 
 table51 <- lapply(table51.files, function(file) {
-  readr::read_csv(table51.files, skip = 13)
+  temp <- readr::read_csv(file, col_names = FALSE, n_max = 50)
+  skip <- which(grepl("UKPRN", temp$X1)) - 1
+  readr::read_csv(file, skip = skip)
 }) |>
   dplyr::bind_rows()
 
@@ -253,14 +260,40 @@ table51_filtered <- table51 |>
 readr::write_csv(table51_filtered, "data/csv/he/table51.csv")
 saveRDS(table51_filtered, "data/app/hesa51.rds")
 
-# table51_051.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-51-051.csv"
-# download.file(table51_051.url, "data-raw/HESA/table-51-051.zip", mode = "wb")
-# unzip("data-raw/HESA/table-51-051.zip", exdir = "data/HESA/table-51-051")
-# table51_051.files <- list.files("data/HESA/table-51-051", full.names = TRUE)
-# table51_051 <- lapply(table51_051.files, function(file) {
-#   readr::read_csv(file, skip = 13)
-# }) |>
-#   dplyr::bind_rows()
+
+
+table51_051.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-51-051.csv"
+download.file(table51_051.url, "data-raw/HESA/table-51-051.zip", mode = "wb")
+unzip("data-raw/HESA/table-51-051.zip", exdir = "data/HESA/table-51-051")
+table51_051.files <- list.files("data/HESA/table-51-051", full.names = TRUE)
+table51_051 <- lapply(table51_051.files, function(file) {
+  temp <- readr::read_csv(file, col_names = FALSE, n_max = 50)
+  skip <- which(grepl("UKPRN", temp$X1)) - 1
+  readr::read_csv(file, skip = skip) |>
+    dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+}) |>
+  dplyr::bind_rows()
+
+readr::write_csv(table51_051, "data/csv/he/table51-051.csv")
+saveRDS(table51_051, "data/app/hesa51-051.rds")
+
+
+table19.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-19.csv"
+download.file(table19.url, "data-raw/HESA/table-51-051.zip", mode = "wb")
+unzip("data-raw/HESA/table-51-051.zip", exdir = "data/HESA/table-51-051")
+table19.files <- list.files("data/HESA/table-51-051", full.names = TRUE)
+table19 <- lapply(table19.files, function(file) {
+  temp <- readr::read_csv(file, col_names = FALSE, n_max = 50)
+  skip <- which(grepl("UKPRN", temp$X1)) - 1
+  readr::read_csv(file, skip = skip) |>
+    dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+}) |>
+  dplyr::bind_rows()
+
+readr::write_csv(table19, "data/csv/he/table19.csv")
+saveRDS(table19, "data/app/hesa19.rds")
+
+
 
 
 # Table 1
@@ -271,9 +304,11 @@ saveRDS(table51_filtered, "data/app/hesa51.rds")
 table1.files <- list.files("data/HESA/table-1", full.names = TRUE)
 
 table1 <- lapply(table1.files, function(file) {
-  readr::read_csv(file, skip = 14)
-}) |> dplyr::bind_rows() |>
-  dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+  temp <- readr::read_csv(file, col_names = FALSE, n_max = 50)
+  skip <- which(grepl("UKPRN", temp$X1)) - 1
+  readr::read_csv(file, skip = skip) |>
+    dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+}) |> dplyr::bind_rows()
 
 readr::write_csv(table1, "data/csv/he/table1.csv")
 saveRDS(table1, "data/app/hesa1.rds")
@@ -287,10 +322,12 @@ saveRDS(table1, "data/app/hesa1.rds")
 
 table13.files <- list.files("data/HESA/table-13", full.names = TRUE)
 table13 <- lapply(table13.files, function(file) {
-  readr::read_csv(file, skip = 14)
+  temp <- readr::read_csv(file, col_names = FALSE, n_max = 50)
+  skip <- which(grepl("UKPRN", temp$X1)) - 1
+  readr::read_csv(file, skip = skip) |>
+    dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
 }) |>
-  dplyr::bind_rows() |>
-  dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+  dplyr::bind_rows()
 
 readr::write_csv(table13, "data/csv/he/table13.csv")
 saveRDS(table13, "data/app/hesa13.rds")
@@ -315,6 +352,25 @@ table49 <- lapply(table49.files, function(file) {
 
 readr::write_csv(table49, "data/csv/he/table49.csv")
 saveRDS(table49, "data/app/hesa49.rds")
+
+
+table49_051.url <- "https://www.hesa.ac.uk/data-and-analysis/students/table-49-051.csv"
+download.file(table49_051.url, "data-raw/HESA/table-49-051.zip", mode = "wb")
+unzip("data-raw/HESA/table-49-051.zip", exdir = "data/HESA/table-49-051")
+
+table49_051.files <- list.files("data/HESA/table-49-051", full.names = TRUE)
+
+table49_051 <- lapply(table49_051.files, function(file) {
+  temp <- readr::read_csv(file, col_names = FALSE, n_max = 50)
+  skip <- which(grepl("UKPRN", temp$X1)) - 1
+  readr::read_csv(file, skip = skip) |>
+    dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
+}) |>
+  dplyr::bind_rows()
+
+readr::write_csv(table49_051, "data/csv/he/table49_051.csv")
+saveRDS(table49_051, "data/app/hesa49_051.rds")
+
 
 
 
