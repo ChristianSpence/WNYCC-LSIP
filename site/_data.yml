@@ -1,1 +1,15 @@
 layout: layouts/base.njk
+
+metas:
+  # type: The page type (by default is website).
+  site: Open Innovations LSIP sites
+  title: "=title"
+  lang: en
+  description: "=description"
+  # image: The main image of the page, article, post, etc.
+  # icon: The logotype or icon of the site.
+  # keywords: Best practice to not include this!
+  # twitter: The twitter username.
+  # color: The color theme of the website.
+  # robots: Configuration for search engines (a boolean to enable/disable or a string with a custom value).
+  generator: true

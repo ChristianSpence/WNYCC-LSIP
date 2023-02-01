@@ -2,6 +2,7 @@ import lume from "lume/mod.ts";
 import base_path from "lume/plugins/base_path.ts";
 import date from "lume/plugins/date.ts";
 import inline from "lume/plugins/inline.ts";
+import metas from "lume/plugins/metas.ts";
 import minify_html from "lume/plugins/minify_html.ts";
 import postcss from "lume/plugins/postcss.ts";
 import oiCharts from "oi-lume-charts/mod.ts";
@@ -14,12 +15,14 @@ const site = lume({
 site.use(base_path());
 site.use(date());
 site.use(inline());
-site.use(minify_html());
+site.use(metas());
 site.use(postcss());
 site.use(oiCharts({
   assetPath: "assets/oi",
   componentNamespace: "oi",
 }));
+
+site.use(minify_html());
 
 site.loadData([".csv"], csvLoader);
 
