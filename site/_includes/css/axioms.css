@@ -1,0 +1,17 @@
+body {
+  font-size: 100%;
+  font-family: sans-serif;
+  padding: 0.5rem;
+  & * + * {
+    margin-top: 1.25rem;
+  }
+}
+
+.smaller {
+  font-size: 0.8em;
+}
+
+.wrapper {
+  max-width: 80rem;
+  margin: auto;
+}

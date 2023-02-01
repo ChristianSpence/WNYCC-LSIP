@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "lume/": "https://deno.land/x/lume@v1.15.1/",
+    "std/": "https://deno.land/std@0.130.0/",
+    "oi-lume-charts/": "https://deno.land/x/oi_lume_charts@v0.4.0/",
+    "oi-lume-utils/": "https://cdn.jsdelivr.net/gh/open-innovations/oi-lume-utils@v0.2.0-pre/"
+  }
+}

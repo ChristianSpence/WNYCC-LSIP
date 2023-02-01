@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+
+# Lume built artefacts
+_site/
