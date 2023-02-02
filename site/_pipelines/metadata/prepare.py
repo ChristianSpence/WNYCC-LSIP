@@ -27,6 +27,7 @@ class SourceFile(object):
         return {
             "path": self.filename,
             "columns": data.columns.to_list(),
+            "types": [str(t).replace('object', 'string') for t in data.dtypes],
         }
 
     def save_metadata(self, root=''):

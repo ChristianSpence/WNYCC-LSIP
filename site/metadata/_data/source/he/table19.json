@@ -12,5 +12,18 @@
     "Number",
     "CAH level marker",
     "CAH level subject"
+  ],
+  "types": [
+    "int64",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "int64",
+    "string",
+    "string"
   ]
 }

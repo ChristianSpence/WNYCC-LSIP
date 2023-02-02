@@ -15,5 +15,21 @@
     "starts_rate_per_100000_population",
     "participation_rate_per_100000_population",
     "achievements_rate_per_100000_population"
+  ],
+  "types": [
+    "string",
+    "float64",
+    "float64",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string"
   ]
 }

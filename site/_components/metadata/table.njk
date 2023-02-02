@@ -48,7 +48,7 @@ css: |
     <th>Columns</th>
     <td>
       <ul class="blocklist">
-        {% for c in metadata.columns %}<li>{{ c }}</li>{% endfor %}
+        {% for c in metadata.columns %}<li>{{ c }} ({{ metadata.types[loop.index0] }})</li>{% endfor %}
       </ul>
     </td>
   </tr>

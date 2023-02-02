@@ -1,0 +1,17 @@
+schema: '2.0'
+stages:
+  metadata:
+    cmd: python site/_pipelines/metadata/prepare.py
+    deps:
+    - path: data/csv/
+      md5: 0478e57eae490239ce9f45606e785fc6.dir
+      size: 353900661
+      nfiles: 22
+    - path: site/_pipelines/metadata/prepare.py
+      md5: 4e44e544866c7596191e04ca327889af
+      size: 1504
+    outs:
+    - path: site/metadata/_data/source
+      md5: ca6386a780900f4cc5fc42eca1103d89.dir
+      size: 18151
+      nfiles: 22

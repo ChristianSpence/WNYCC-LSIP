@@ -10,5 +10,16 @@
     "Mode of former study",
     "Academic year",
     "Number"
+  ],
+  "types": [
+    "int64",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "int64"
   ]
 }

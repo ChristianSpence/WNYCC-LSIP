@@ -8,5 +8,14 @@
     "age_youth_adult",
     "achievements",
     "participation"
+  ],
+  "types": [
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string"
   ]
 }

@@ -25,5 +25,31 @@
     "ach_l3",
     "ach_l4plus",
     "ach_no_lx"
+  ],
+  "types": [
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string"
   ]
 }

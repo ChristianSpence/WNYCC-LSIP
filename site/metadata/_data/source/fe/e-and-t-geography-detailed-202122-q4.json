@@ -10,5 +10,16 @@
     "notional_nvq_level",
     "e_and_t_aims_enrolments",
     "e_and_t_aims_ach"
+  ],
+  "types": [
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string"
   ]
 }

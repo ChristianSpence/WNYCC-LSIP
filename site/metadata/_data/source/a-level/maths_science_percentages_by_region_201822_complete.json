@@ -19,5 +19,25 @@
     "Percent entered for 3 or more STEM subjects",
     "Percent entered for 4 or more STEM subjects",
     "Percent entered for 5 or more STEM subjects"
+  ],
+  "types": [
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "int64",
+    "float64",
+    "float64",
+    "float64",
+    "float64",
+    "float64",
+    "float64",
+    "float64",
+    "float64",
+    "float64",
+    "float64",
+    "float64",
+    "float64"
   ]
 }

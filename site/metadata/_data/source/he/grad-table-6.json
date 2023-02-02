@@ -13,5 +13,19 @@
     "Number",
     "Percent",
     "95% confidence interval"
+  ],
+  "types": [
+    "int64",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "int64",
+    "string",
+    "string"
   ]
 }

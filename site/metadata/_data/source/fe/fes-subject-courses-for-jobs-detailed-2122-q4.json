@@ -14,5 +14,20 @@
     "ssa_t2",
     "total_takeup_original_adult_offer",
     "total_takeup_extended_adult_offer"
+  ],
+  "types": [
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "int64",
+    "int64"
   ]
 }

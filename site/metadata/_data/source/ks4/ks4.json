@@ -27,5 +27,33 @@
     "avg_p8score",
     "p8score_CI_low",
     "p8score_CI_upp"
+  ],
+  "types": [
+    "string",
+    "string",
+    "string",
+    "int64",
+    "int64",
+    "float64",
+    "float64",
+    "int64",
+    "float64",
+    "int64",
+    "float64",
+    "int64",
+    "float64",
+    "int64",
+    "float64",
+    "float64",
+    "float64",
+    "int64",
+    "float64",
+    "int64",
+    "float64",
+    "int64",
+    "float64",
+    "float64",
+    "float64",
+    "float64"
   ]
 }

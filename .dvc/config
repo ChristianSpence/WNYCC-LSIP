@@ -1,4 +1,5 @@
 [core]
     remote = lsip
+    autostage = true
 ['remote "lsip"']
     url = s3://open-innovations-filestash/lsip

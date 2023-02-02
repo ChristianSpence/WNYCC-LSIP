@@ -11,5 +11,17 @@
     "CAH level subject",
     "Academic Year",
     "Number"
+  ],
+  "types": [
+    "int64",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "string",
+    "int64"
   ]
 }
