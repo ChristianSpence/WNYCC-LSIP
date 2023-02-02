@@ -1,12 +1,25 @@
 {
   "path": "data/csv/he/table19.csv",
+  "indexes": [
+    {
+      "name": "Academic Year",
+      "categories": [
+        "2014/15",
+        "2015/16",
+        "2016/17",
+        "2017/18",
+        "2018/19",
+        "2019/20",
+        "2020/21"
+      ]
+    }
+  ],
   "columns": [
     "UKPRN",
     "HE provider",
     "Level of qualification obtained",
     "Country of HE provider",
     "Region of HE provider",
-    "Academic Year",
     "Subject of study marker",
     "Subject of study",
     "Number",
@@ -15,7 +28,6 @@
   ],
   "types": [
     "int64",
-    "string",
     "string",
     "string",
     "string",

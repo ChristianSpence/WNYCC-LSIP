@@ -6,26 +6,49 @@ import logging
 import pandas as pd
 
 logging.basicConfig(
-  format="%(levelname)s:%(funcName)s:%(message)s",
-  level=logging.DEBUG
+    format="%(levelname)s:%(funcName)s:%(message)s",
+    level=logging.DEBUG
 )
 
 SOURCE_PATH = os.path.join('data/csv')
 META_DIR = os.path.join('site', 'metadata', '_data', 'source')
+INDEX_NAMES = [
+    'date',
+    'Academic year',
+    'Academic Year',
+    "geography_name",
+    "geography_code",
+]
 
 
 class SourceFile(object):
-    def __init__(self, path, base='', reader=pd.read_csv):
+    def __init__(self, path, base='', reader=pd.read_csv, indexes=[]):
         self.filename = path
-        self.metafilename = os.path.splitext(re.sub(r"^" + base + "/{0,1}", "", path))[0] + '.json'
-        
+        self.metafilename = os.path.splitext(
+            re.sub(r"^" + base + "/{0,1}", "", path))[0] + '.json'
+        self.indexes = indexes
+
         self.reader = reader
 
     def metadata(self):
         logging.debug("Reading %s", self.filename)
         data = self.reader(self.filename, engine='python')
+        columns = data.columns.to_list()
+
+        indexes = [c for c in columns if c in self.indexes]
+        data.set_index(indexes, inplace=True)
+
+        def get_index_metadata(l):
+            index = data.index.get_level_values(l).astype('category')
+            return {
+                "name": index.name,
+                "categories": index.categories.to_list()
+            }
+        index_meta = [get_index_metadata(l) for l in range(data.index.nlevels)]
+
         return {
             "path": self.filename,
+            "indexes": index_meta,
             "columns": data.columns.to_list(),
             "types": [str(t).replace('object', 'string') for t in data.dtypes],
         }
@@ -44,7 +67,7 @@ def get_tree(path, ext='csv'):
 
 
 def build_metadata_files(source_path):
-    metadata = [SourceFile(f, base=SOURCE_PATH)
+    metadata = [SourceFile(f, base=SOURCE_PATH, indexes=INDEX_NAMES)
                 for f in get_tree(source_path)]
     for m in metadata:
         m.save_metadata(root=META_DIR)

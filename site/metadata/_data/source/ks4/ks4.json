@@ -1,9 +1,48 @@
 {
   "path": "data/csv/ks4/ks4.csv",
+  "indexes": [
+    {
+      "name": "date",
+      "categories": [
+        "2021/22"
+      ]
+    },
+    {
+      "name": "geography_name",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Craven",
+        "Hambleton",
+        "Harrogate",
+        "Kirklees",
+        "Leeds",
+        "Richmondshire",
+        "Ryedale",
+        "Scarborough",
+        "Selby",
+        "Wakefield"
+      ]
+    },
+    {
+      "name": "geography_code",
+      "categories": [
+        "E07000163",
+        "E07000164",
+        "E07000165",
+        "E07000166",
+        "E07000167",
+        "E07000168",
+        "E07000169",
+        "E08000032",
+        "E08000033",
+        "E08000034",
+        "E08000035",
+        "E08000036"
+      ]
+    }
+  ],
   "columns": [
-    "date",
-    "geography_name",
-    "geography_code",
     "Total number of schools",
     "Total number of pupils at the end of key stage 4",
     "Total sum of pupils Attainment 8 scores",
@@ -29,9 +68,6 @@
     "p8score_CI_upp"
   ],
   "types": [
-    "string",
-    "string",
-    "string",
     "int64",
     "int64",
     "float64",

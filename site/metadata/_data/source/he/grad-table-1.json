@@ -1,5 +1,15 @@
 {
   "path": "data/csv/he/grad-table-1.csv",
+  "indexes": [
+    {
+      "name": "Academic year",
+      "categories": [
+        "2017/18",
+        "2018/19",
+        "2019/20"
+      ]
+    }
+  ],
   "columns": [
     "UKPRN",
     "Provider name",
@@ -10,7 +20,6 @@
     "Interim study",
     "Sex",
     "Activity",
-    "Academic year",
     "Number",
     "...12",
     "...13",
@@ -21,7 +30,6 @@
   ],
   "types": [
     "int64",
-    "string",
     "string",
     "string",
     "string",

@@ -1,9 +1,48 @@
 {
   "path": "data/csv/fe/cl-geography-detailed-202122-q4.csv",
+  "indexes": [
+    {
+      "name": "date",
+      "categories": [
+        "2021/22"
+      ]
+    },
+    {
+      "name": "geography_code",
+      "categories": [
+        "E07000163",
+        "E07000164",
+        "E07000165",
+        "E07000166",
+        "E07000167",
+        "E07000168",
+        "E07000169",
+        "E08000032",
+        "E08000033",
+        "E08000034",
+        "E08000035",
+        "E08000036"
+      ]
+    },
+    {
+      "name": "geography_name",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Craven",
+        "Hambleton",
+        "Harrogate",
+        "Kirklees",
+        "Leeds",
+        "Richmondshire",
+        "Ryedale",
+        "Scarborough",
+        "Selby",
+        "Wakefield"
+      ]
+    }
+  ],
   "columns": [
-    "date",
-    "geography_code",
-    "geography_name",
     "age_detailed",
     "sex",
     "ethnicity_group",
@@ -19,9 +58,6 @@
     "ach_wider_family_learning"
   ],
   "types": [
-    "string",
-    "string",
-    "string",
     "string",
     "string",
     "string",

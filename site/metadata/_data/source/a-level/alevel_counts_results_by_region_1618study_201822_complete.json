@@ -1,9 +1,38 @@
 {
   "path": "data/csv/a-level/alevel_counts_results_by_region_1618study_201822_complete.csv",
+  "indexes": [
+    {
+      "name": "date",
+      "categories": [
+        "2017/18",
+        "2018/19",
+        "2019/20",
+        "2020/21",
+        "2021/22"
+      ]
+    },
+    {
+      "name": "geography_name",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Kirklees",
+        "Leeds",
+        "Wakefield"
+      ]
+    },
+    {
+      "name": "geography_code",
+      "categories": [
+        "E08000032",
+        "E08000033",
+        "E08000034",
+        "E08000035",
+        "E08000036"
+      ]
+    }
+  ],
   "columns": [
-    "date",
-    "geography_name",
-    "geography_code",
     "school_type_group",
     "Institution",
     "subject_area",
@@ -35,9 +64,6 @@
     "Percent achieving grade A* - E"
   ],
   "types": [
-    "string",
-    "string",
-    "string",
     "string",
     "string",
     "string",

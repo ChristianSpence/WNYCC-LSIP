@@ -1,9 +1,44 @@
 {
   "path": "data/csv/fe_dest/1618_dm_ud_202021_la_prov.csv",
+  "indexes": [
+    {
+      "name": "date",
+      "categories": [
+        "2010/11",
+        "2011/12",
+        "2012/13",
+        "2013/14",
+        "2014/15",
+        "2015/16",
+        "2016/17",
+        "2017/18",
+        "2018/19",
+        "2019/20",
+        "2020/21"
+      ]
+    },
+    {
+      "name": "geography_code",
+      "categories": [
+        "E08000032",
+        "E08000033",
+        "E08000034",
+        "E08000035",
+        "E08000036"
+      ]
+    },
+    {
+      "name": "geography_name",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Kirklees",
+        "Leeds",
+        "Wakefield"
+      ]
+    }
+  ],
   "columns": [
-    "date",
-    "geography_code",
-    "geography_name",
     "Institution group",
     "institution_type",
     "Qualification level",
@@ -29,9 +64,6 @@
     "Activity not captured"
   ],
   "types": [
-    "string",
-    "string",
-    "string",
     "string",
     "string",
     "string",

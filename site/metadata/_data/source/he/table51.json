@@ -1,5 +1,14 @@
 {
   "path": "data/csv/he/table51.csv",
+  "indexes": [
+    {
+      "name": "Academic Year",
+      "categories": [
+        "2019/20",
+        "2020/21"
+      ]
+    }
+  ],
   "columns": [
     "UKPRN",
     "HE provider",
@@ -8,12 +17,10 @@
     "Region of HE provider",
     "CAH level marker",
     "CAH level subject",
-    "Academic Year",
     "Number"
   ],
   "types": [
     "int64",
-    "string",
     "string",
     "string",
     "string",

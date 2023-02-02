@@ -1,5 +1,13 @@
 {
   "path": "data/csv/he/grad-table-28.csv",
+  "indexes": [
+    {
+      "name": "Academic year",
+      "categories": [
+        "2019/20"
+      ]
+    }
+  ],
   "columns": [
     "UKPRN",
     "Provider name",
@@ -8,12 +16,10 @@
     "Interim study",
     "Level of qualification obtained",
     "Mode of former study",
-    "Academic year",
     "Number"
   ],
   "types": [
     "int64",
-    "string",
     "string",
     "string",
     "string",

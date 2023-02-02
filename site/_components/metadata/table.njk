@@ -1,16 +1,26 @@
 ---
 css: |
-  table.metadata {
-    border-collapse: collapse;
-    width: 100%;
+  .metadata {
     & * + * {
       margin-top: 0;
+    }
+    & table {
+      border-collapse: collapse;
+      width: 100%;
     }
     & :is(td, th) {
       padding: 0.5rem;
       border: 1px solid black;
       & > * {
         margin: 0;
+      }
+    }
+    & dl {
+      display: grid;
+      grid-template-columns: 10em auto;
+      gap: 1rem;
+      & dd {
+        grid-column: 2;
       }
     }
     & .blocklist {
@@ -32,24 +42,45 @@ css: |
     }
   }
 ---
-<table class="metadata">
-  <thead>
-    <tr>
-      <th>Key</th>
-      <th>Value</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <th>Filename</th>
-    <td>{{ metadata.path }}</td>
-  </tr>
-  <tr>
-    <th>Columns</th>
-    <td>
-      <ul class="blocklist">
-        {% for c in metadata.columns %}<li>{{ c }} ({{ metadata.types[loop.index0] }})</li>{% endfor %}
-      </ul>
-    </td>
-  </tr>
-</table>
+<div class="metadata">
+  <table>
+    <thead>
+      <tr>
+        <th>Key</th>
+        <th>Value</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Filename</th>
+        <td>{{ metadata.path }}</td>
+      </tr>
+      <tr>
+        <th>Indexes</th>
+        <td>
+          <dl>
+            {% for index in metadata.indexes %}
+              <dt style="display: table-cell;">{{ index.name }}</dt>
+              <dd style="display: table-cell;">
+                <ul class="blocklist" style="--colour: darkgreen;">
+                  {% for c in index.categories %}
+                    <li>{{ c }}</li>
+                  {% endfor %}
+                </ul>
+              </dd>
+            {% endfor %}
+          </dl>
+        </td>
+      </tr>
+      <tr>
+        <th>Columns</th>
+        <td>
+          <ul class="blocklist">
+            {% for c in metadata.columns %}
+              <li>{{ c }} ({{ metadata.types[loop.index0] }})</li>
+            {% endfor %}
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </div>
