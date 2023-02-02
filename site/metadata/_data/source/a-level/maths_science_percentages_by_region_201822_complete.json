@@ -1,0 +1,23 @@
+{
+  "path": "data/csv/a-level/maths_science_percentages_by_region_201822_complete.csv",
+  "columns": [
+    "date",
+    "geography_name",
+    "geography_code",
+    "characteristic_type",
+    "Characteristic",
+    "Number of students",
+    "Percent entered for maths",
+    "Percent entered for further maths",
+    "Percent entered for biology",
+    "Percent entered for chemistry",
+    "Percent entered for physics",
+    "Percent entered for computing",
+    "Percent not entered for a STEM subject",
+    "Percent entered for 1 or more STEM subjects",
+    "Percent entered for 2 or more STEM subjects",
+    "Percent entered for 3 or more STEM subjects",
+    "Percent entered for 4 or more STEM subjects",
+    "Percent entered for 5 or more STEM subjects"
+  ]
+}

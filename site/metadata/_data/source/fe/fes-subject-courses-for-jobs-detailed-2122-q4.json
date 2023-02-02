@@ -1,0 +1,18 @@
+{
+  "path": "data/csv/fe/fes-subject-courses-for-jobs-detailed-2122-q4.csv",
+  "columns": [
+    "date",
+    "geography_code",
+    "geography_name",
+    "start_age",
+    "prior_attainment_group",
+    "employment_status",
+    "sex",
+    "lldd",
+    "ethnicity",
+    "ssa_t1",
+    "ssa_t2",
+    "total_takeup_original_adult_offer",
+    "total_takeup_extended_adult_offer"
+  ]
+}

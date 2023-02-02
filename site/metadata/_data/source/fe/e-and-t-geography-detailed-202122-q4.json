@@ -1,0 +1,14 @@
+{
+  "path": "data/csv/fe/e-and-t-geography-detailed-202122-q4.csv",
+  "columns": [
+    "date",
+    "geography_code",
+    "geography_name",
+    "ssa_t1_desc",
+    "sex",
+    "ethnicity_group",
+    "notional_nvq_level",
+    "e_and_t_aims_enrolments",
+    "e_and_t_aims_ach"
+  ]
+}

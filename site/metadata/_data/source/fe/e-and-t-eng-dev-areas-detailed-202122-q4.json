@@ -1,0 +1,29 @@
+{
+  "path": "data/csv/fe/e-and-t-eng-dev-areas-detailed-202122-q4.csv",
+  "columns": [
+    "date",
+    "geography_code",
+    "geography_name",
+    "age_summary_with_unknowns",
+    "sex",
+    "ethnicity_group",
+    "p_total",
+    "p_bl2_ex_basic_skills",
+    "p_basic_skills",
+    "p_full_l2",
+    "p_full_l3",
+    "p_l2",
+    "p_l3",
+    "p_l4plus",
+    "p_no_lx",
+    "ach_total",
+    "ach_bl2_ex_basic_skills",
+    "ach_basic_skills",
+    "ach_full_l2",
+    "ach_full_l3",
+    "ach_l2",
+    "ach_l3",
+    "ach_l4plus",
+    "ach_no_lx"
+  ]
+}

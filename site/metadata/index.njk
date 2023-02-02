@@ -1,0 +1,7 @@
+{% for origin, item in source %}
+  <h2>Origin: <code>{{ origin }}</code></h2>
+  {% for s, metadata in item %}
+    <h3>Source: {{ s }}</h3>
+    {{ comp.metadata.table({ metadata: metadata }) | safe }}
+  {% endfor %}
+{% endfor %}

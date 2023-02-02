@@ -1,0 +1,55 @@
+---
+css: |
+  table.metadata {
+    border-collapse: collapse;
+    width: 100%;
+    & * + * {
+      margin-top: 0;
+    }
+    & :is(td, th) {
+      padding: 0.5rem;
+      border: 1px solid black;
+      & > * {
+        margin: 0;
+      }
+    }
+    & .blocklist {
+      padding: 0;
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      font-size: 0.9em;
+      font-family: monospace;
+      --colour: darkred;
+      & > * {
+        display: block;
+        color: white;
+        background: var(--colour);
+        padding: 0.5em 1em;
+        border-radius: 2em;
+      }
+    }
+  }
+---
+<table class="metadata">
+  <thead>
+    <tr>
+      <th>Key</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <th>Filename</th>
+    <td>{{ metadata.path }}</td>
+  </tr>
+  <tr>
+    <th>Columns</th>
+    <td>
+      <ul class="blocklist">
+        {% for c in metadata.columns %}<li>{{ c }}</li>{% endfor %}
+      </ul>
+    </td>
+  </tr>
+</table>

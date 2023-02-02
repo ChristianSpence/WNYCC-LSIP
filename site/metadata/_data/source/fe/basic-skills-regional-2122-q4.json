@@ -1,0 +1,12 @@
+{
+  "path": "data/csv/fe/basic-skills-regional-2122-q4.csv",
+  "columns": [
+    "date",
+    "geography_name",
+    "geography_code",
+    "subject_level",
+    "age_youth_adult",
+    "achievements",
+    "participation"
+  ]
+}

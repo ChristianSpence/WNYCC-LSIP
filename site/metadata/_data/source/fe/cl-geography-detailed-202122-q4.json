@@ -1,0 +1,21 @@
+{
+  "path": "data/csv/fe/cl-geography-detailed-202122-q4.csv",
+  "columns": [
+    "date",
+    "geography_code",
+    "geography_name",
+    "age_detailed",
+    "sex",
+    "ethnicity_group",
+    "personal_and_community_development_learning",
+    "neighbourhood_learning_in_deprived_communities",
+    "family_english_maths_and_language",
+    "wider_family_learning",
+    "total",
+    "ach_total",
+    "ach_personal_and_community_development_learning",
+    "ach_neighbourhood_learning_in_deprived_communities",
+    "ach_family_english_maths_and_language",
+    "ach_wider_family_learning"
+  ]
+}

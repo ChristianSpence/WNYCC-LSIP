@@ -1,0 +1,22 @@
+{
+  "path": "data/csv/he/grad-table-1.csv",
+  "columns": [
+    "UKPRN",
+    "Provider name",
+    "Country of provider",
+    "Domicile",
+    "Level of qualification obtained",
+    "Mode of former study",
+    "Interim study",
+    "Sex",
+    "Activity",
+    "Academic year",
+    "Number",
+    "...12",
+    "...13",
+    "...14",
+    "...15",
+    "...16",
+    "...17"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "path": "data/csv/he/table49_051.csv",
+  "columns": [
+    "UKPRN",
+    "HE provider",
+    "Level of study",
+    "Mode of study",
+    "Country of HE provider",
+    "Region of HE provider",
+    "Academic Year",
+    "CAH level marker",
+    "CAH level subject",
+    "Number"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "path": "data/csv/fe_dest/1618_dm_ud_202021_la_prov.csv",
+  "columns": [
+    "date",
+    "geography_code",
+    "geography_name",
+    "Institution group",
+    "institution_type",
+    "Qualification level",
+    "cohort_level",
+    "characteristic_group",
+    "Student characteristic",
+    "Data type",
+    "Number of pupils completing 16-18 study",
+    "Sustained education, apprenticeship or employment",
+    "Sustained education destination",
+    "UK higher education institution",
+    "Further education",
+    "FE Level 3",
+    "FE Level 2",
+    "FE entry level and no identified level",
+    "Other education destinations",
+    "Sustained apprenticeships",
+    "Higher and degree apprenticeships (level 4 and above)",
+    "Advanced apprenticeships (level 3)",
+    "Intermediate apprenticeships (level 2)",
+    "Sustained employment destination",
+    "Not recorded as a sustained destination",
+    "Activity not captured"
+  ]
+}

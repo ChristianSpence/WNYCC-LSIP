@@ -1,0 +1,31 @@
+{
+  "path": "data/csv/ks4/ks4.csv",
+  "columns": [
+    "date",
+    "geography_name",
+    "geography_code",
+    "Total number of schools",
+    "Total number of pupils at the end of key stage 4",
+    "Total sum of pupils Attainment 8 scores",
+    "Average Attainment 8 score of all pupils",
+    "Total number of pupils entering English and Mathematics GCSEs",
+    "Percentage of pupils entering English and Mathematics GCSEs",
+    "Total number of pupils achieving grades 5 or above in English and Mathematics GCSEs",
+    "Percentage of pupils achieving grades 5 or above in English and Mathematics GCSEs",
+    "Total number of pupils achieving grades 4 or above in English and Mathematics GCSEs",
+    "Percentage of pupils achieving grades 4 or above in English and Mathematics GCSEs",
+    "Total number of pupils entering the English Baccalaureate",
+    "Percentage of pupils entering the English Baccalaureate",
+    "Total EBacc APS score of pupils",
+    "Average EBacc APS score per pupil",
+    "Total number of pupils achieving the English Baccalaureate (grades 5 or above in English and maths, A*-C in unreformed subjects)",
+    "Percentage of pupils achieving the English Baccalaureate (grades 5 or above in English and maths, A*-C in unreformed subjects)",
+    "Total number of pupils achieving the English Baccalaureate (grades 4 or above in English and maths, A*-C in unreformed subjects)",
+    "Percentage of pupils achieving the English Baccalaureate (grades 4 or above in English and maths, A*-C in unreformed subjects)",
+    "t_inp8calc",
+    "t_p8score",
+    "avg_p8score",
+    "p8score_CI_low",
+    "p8score_CI_upp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "path": "data/csv/he/grad-table-6.csv",
+  "columns": [
+    "UKPRN",
+    "Provider name",
+    "Country of provider",
+    "Domicile",
+    "Level of qualification obtained",
+    "Mode of former study",
+    "Interim study",
+    "Activity",
+    "Academic year",
+    "Number",
+    "Percent",
+    "95% confidence interval"
+  ]
+}
