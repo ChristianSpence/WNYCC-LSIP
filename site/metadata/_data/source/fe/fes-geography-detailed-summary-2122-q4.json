@@ -13,6 +13,14 @@
       ]
     },
     {
+      "name": "new_la_code",
+      "categories": []
+    },
+    {
+      "name": "la_name",
+      "categories": []
+    },
+    {
       "name": "geography_code",
       "categories": [
         "E07000163",
@@ -45,14 +53,59 @@
         "Selby",
         "Wakefield"
       ]
+    },
+    {
+      "name": "apprenticeships_or_further_education",
+      "categories": [
+        "Apprenticeships",
+        "Community Learning",
+        "Education and training",
+        "Further education and skills"
+      ]
+    },
+    {
+      "name": "level_or_type",
+      "categories": [
+        "Apprenticeships: Advanced",
+        "Apprenticeships: Higher",
+        "Apprenticeships: Intermediate",
+        "Apprenticeships: Total",
+        "Community learning: Family english maths and language",
+        "Community learning: Neighbourhood learning in deprived communities",
+        "Community learning: Personal and community development learning",
+        "Community learning: Total",
+        "Community learning: Wider family learning",
+        "Education and training: Basic Skills",
+        "Education and training: Below Level 2 (excluding Basic Skills)",
+        "Education and training: Full Level 2",
+        "Education and training: Full Level 3",
+        "Education and training: Level 2",
+        "Education and training: Level 3",
+        "Education and training: Level 4+",
+        "Education and training: No Level Assigned",
+        "Education and training: Total",
+        "Further education and skills: Basic Skills",
+        "Further education and skills: Below Level 2 (excluding Basic Skills)",
+        "Further education and skills: Full Level 2",
+        "Further education and skills: Full Level 3",
+        "Further education and skills: Level 2",
+        "Further education and skills: Level 3",
+        "Further education and skills: Level 4+",
+        "Further education and skills: No Level Assigned",
+        "Further education and skills: Total"
+      ]
+    },
+    {
+      "name": "age_group",
+      "categories": [
+        "19-24",
+        "25+",
+        "Total",
+        "Under 19"
+      ]
     }
   ],
   "columns": [
-    "new_la_code",
-    "la_name",
-    "apprenticeships_or_further_education",
-    "level_or_type",
-    "age_group",
     "starts",
     "participation",
     "achievements",
@@ -61,11 +114,6 @@
     "achievements_rate_per_100000_population"
   ],
   "types": [
-    "float64",
-    "float64",
-    "string",
-    "string",
-    "string",
     "string",
     "string",
     "string",

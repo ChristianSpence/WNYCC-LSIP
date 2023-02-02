@@ -2,6 +2,80 @@
   "path": "data/csv/he/table1.csv",
   "indexes": [
     {
+      "name": "UKPRN",
+      "categories": [
+        10003854,
+        10003861,
+        10003863,
+        10004740,
+        10007148,
+        10007167,
+        10007713,
+        10007785,
+        10007795,
+        10021682,
+        10034449
+      ]
+    },
+    {
+      "name": "HE provider",
+      "categories": [
+        "Kaplan Open Learning",
+        "Leeds Arts University",
+        "Leeds Beckett University",
+        "Leeds Conservatoire",
+        "Leeds Trinity University",
+        "Northern College of Acupuncture",
+        "The University of Bradford",
+        "The University of Huddersfield",
+        "The University of Leeds",
+        "The University of York",
+        "York St John University"
+      ]
+    },
+    {
+      "name": "Country of HE provider",
+      "categories": [
+        "All",
+        "England"
+      ]
+    },
+    {
+      "name": "Region of HE provider",
+      "categories": [
+        "All",
+        "Yorkshire and The Humber"
+      ]
+    },
+    {
+      "name": "First year marker",
+      "categories": [
+        "All",
+        "First year",
+        "Other years"
+      ]
+    },
+    {
+      "name": "Level of study",
+      "categories": [
+        "All",
+        "All postgraduate",
+        "All undergraduate",
+        "First degree",
+        "Other undergraduate",
+        "Postgraduate (research)",
+        "Postgraduate (taught)"
+      ]
+    },
+    {
+      "name": "Mode of study",
+      "categories": [
+        "All",
+        "Full-time",
+        "Part-time"
+      ]
+    },
+    {
       "name": "Academic Year",
       "categories": [
         "2014/15",
@@ -12,30 +86,39 @@
         "2019/20",
         "2020/21"
       ]
+    },
+    {
+      "name": "Category marker",
+      "categories": [
+        "Domicile",
+        "Sex",
+        "Total"
+      ]
+    },
+    {
+      "name": "Category",
+      "categories": [
+        "England",
+        "European Union",
+        "Female",
+        "Male",
+        "Non-European Union",
+        "Northern Ireland",
+        "Not known",
+        "Other",
+        "Other UK",
+        "Scotland",
+        "Total",
+        "Total Non-UK",
+        "Total UK",
+        "Wales"
+      ]
     }
   ],
   "columns": [
-    "UKPRN",
-    "HE provider",
-    "Country of HE provider",
-    "Region of HE provider",
-    "First year marker",
-    "Level of study",
-    "Mode of study",
-    "Category marker",
-    "Category",
     "Number"
   ],
   "types": [
-    "int64",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
     "int64"
   ]
 }

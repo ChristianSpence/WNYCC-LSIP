@@ -30,13 +30,67 @@
         "E08000035",
         "E08000036"
       ]
+    },
+    {
+      "name": "school_type_group",
+      "categories": [
+        "State-funded institutions"
+      ]
+    },
+    {
+      "name": "Institution",
+      "categories": [
+        "All state-funded schools",
+        "All state-funded schools and colleges"
+      ]
+    },
+    {
+      "name": "characteristic_type",
+      "categories": [
+        "All Students",
+        "Disadvantage",
+        "Ethnicity",
+        "FSM",
+        "First Language",
+        "Gender",
+        "Prior Attainment",
+        "SEN Provision"
+      ]
+    },
+    {
+      "name": "Characteristic",
+      "categories": [
+        "All state-funded students",
+        "Any other ethnic group",
+        "Asian or Asian British",
+        "Black or Black British",
+        "Chinese",
+        "Disadvantaged",
+        "Eligible for FSM",
+        "English language",
+        "Female",
+        "Male",
+        "Mixed Dual background",
+        "Non-Disadvantaged",
+        "Not eligible for FSM",
+        "Other than English language",
+        "Priors 0 to < 4",
+        "Priors 4 to < 7",
+        "Priors 7+",
+        "Total EHC plans and statements of SEN",
+        "Total No identified SEN",
+        "Total SEN support",
+        "Total Unknown SEN status",
+        "Unknown FSM eligibility",
+        "Unknown disadvantaged status",
+        "Unknown ethnicity",
+        "Unknown first language",
+        "Unknown prior attainment",
+        "White"
+      ]
     }
   ],
   "columns": [
-    "school_type_group",
-    "Institution",
-    "characteristic_type",
-    "Characteristic",
     "Students at end of 16-18 study",
     "Number of level 3 students",
     "Number of A level students",
@@ -72,10 +126,6 @@
     "Average technical certificate result"
   ],
   "types": [
-    "string",
-    "string",
-    "string",
-    "string",
     "float64",
     "float64",
     "float64",

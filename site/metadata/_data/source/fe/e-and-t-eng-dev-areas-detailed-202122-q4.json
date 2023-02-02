@@ -40,12 +40,38 @@
         "Selby",
         "Wakefield"
       ]
+    },
+    {
+      "name": "age_summary_with_unknowns",
+      "categories": [
+        "19-24",
+        "25-49",
+        "50+",
+        "Total"
+      ]
+    },
+    {
+      "name": "sex",
+      "categories": [
+        "Female",
+        "Male",
+        "Total"
+      ]
+    },
+    {
+      "name": "ethnicity_group",
+      "categories": [
+        "Asian/ Asian British",
+        "Black/African/Caribbean/Black British",
+        "Mixed/ Multiple Ethnic Group",
+        "Not Provided",
+        "Other Ethnic Group",
+        "Total",
+        "White"
+      ]
     }
   ],
   "columns": [
-    "age_summary_with_unknowns",
-    "sex",
-    "ethnicity_group",
     "p_total",
     "p_bl2_ex_basic_skills",
     "p_basic_skills",
@@ -66,9 +92,6 @@
     "ach_no_lx"
   ],
   "types": [
-    "string",
-    "string",
-    "string",
     "string",
     "string",
     "string",

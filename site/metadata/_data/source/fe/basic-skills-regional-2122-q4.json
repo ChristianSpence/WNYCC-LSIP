@@ -40,17 +40,44 @@
         "E08000035",
         "E08000036"
       ]
+    },
+    {
+      "name": "subject_level",
+      "categories": [
+        "Basic Skills (Excluding digital skills)",
+        "Basic Skills (Including digital skills)",
+        "ESOL",
+        "ESOL Entry Level",
+        "ESOL Level 1",
+        "ESOL Level 2",
+        "English",
+        "English Entry Level",
+        "English Level 1",
+        "English Level 2",
+        "Essential Digital Skills",
+        "Essential Digital Skills Entry Level",
+        "Essential Digital Skills Level 1",
+        "Essential Digital Skills Level 2",
+        "Maths",
+        "Maths Entry Level",
+        "Maths Level 1",
+        "Maths Level 2"
+      ]
+    },
+    {
+      "name": "age_youth_adult",
+      "categories": [
+        "Adult",
+        "Total",
+        "Youth"
+      ]
     }
   ],
   "columns": [
-    "subject_level",
-    "age_youth_adult",
     "achievements",
     "participation"
   ],
   "types": [
-    "string",
-    "string",
     "string",
     "string"
   ]

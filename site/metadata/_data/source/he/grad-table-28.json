@@ -2,6 +2,110 @@
   "path": "data/csv/he/grad-table-28.csv",
   "indexes": [
     {
+      "name": "UKPRN",
+      "categories": [
+        10003854,
+        10003861,
+        10003863,
+        10004740,
+        10007148,
+        10007167,
+        10007713,
+        10007785,
+        10007795,
+        10021682,
+        10034449
+      ]
+    },
+    {
+      "name": "Provider name",
+      "categories": [
+        "Kaplan Open Learning",
+        "Leeds Arts University",
+        "Leeds Beckett University",
+        "Leeds Conservatoire",
+        "Leeds Trinity University",
+        "Northern College of Acupuncture",
+        "The University of Bradford",
+        "The University of Huddersfield",
+        "The University of Leeds",
+        "The University of York",
+        "York St John University"
+      ]
+    },
+    {
+      "name": "Subject area of degree",
+      "categories": [
+        "01 Medicine and dentistry",
+        "02 Subjects allied to medicine",
+        "03 Biological and sport sciences",
+        "04 Psychology",
+        "06 Agriculture, food and related studies",
+        "07 Physical sciences",
+        "09 Mathematical sciences",
+        "10 Engineering and technology",
+        "11 Computing",
+        "13 Architecture, building and planning",
+        "15 Social sciences",
+        "16 Law",
+        "17 Business and management",
+        "19 Language and area studies",
+        "20 Historical, philosophical and religious studies",
+        "22 Education and teaching",
+        "23 Combined and general studies",
+        "24 Media, journalism and communications",
+        "25 Design, and creative and performing arts",
+        "26 Geography, earth and environmental studies (natural sciences)",
+        "26 Geography, earth and environmental studies (social sciences)",
+        "Total",
+        "Total non-science CAH level 1",
+        "Total science CAH level 1"
+      ]
+    },
+    {
+      "name": "Activity",
+      "categories": [
+        "Employment\u00a0and further study",
+        "Full-time employment",
+        "Full-time further study",
+        "Non-respondents",
+        "Other including travel, caring for someone or retired",
+        "Part-time employment",
+        "Part-time further study",
+        "Total",
+        "Total with known outcomes",
+        "Unemployed",
+        "Unemployed and due to start further study",
+        "Unemployed and due to start work",
+        "Unknown pattern of employment",
+        "Unknown pattern of further study",
+        "Voluntary or unpaid work"
+      ]
+    },
+    {
+      "name": "Interim study",
+      "categories": [
+        "Exclude significant interim study",
+        "Include significant interim study"
+      ]
+    },
+    {
+      "name": "Level of qualification obtained",
+      "categories": [
+        "All",
+        "Postgraduate",
+        "Undergraduate"
+      ]
+    },
+    {
+      "name": "Mode of former study",
+      "categories": [
+        "All",
+        "Full-time",
+        "Part-time"
+      ]
+    },
+    {
       "name": "Academic year",
       "categories": [
         "2019/20"
@@ -9,23 +113,9 @@
     }
   ],
   "columns": [
-    "UKPRN",
-    "Provider name",
-    "Subject area of degree",
-    "Activity",
-    "Interim study",
-    "Level of qualification obtained",
-    "Mode of former study",
     "Number"
   ],
   "types": [
-    "int64",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
     "int64"
   ]
 }

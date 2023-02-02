@@ -4,6 +4,7 @@ stages:
     wdir: ../..
     deps:
       - site/_pipelines/metadata/prepare.py
+      - site/_pipelines/metadata/vars.py
       - data/csv/
     outs:
       - site/metadata/_data/source:

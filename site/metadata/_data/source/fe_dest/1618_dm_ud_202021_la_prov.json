@@ -36,16 +36,73 @@
         "Leeds",
         "Wakefield"
       ]
+    },
+    {
+      "name": "Institution group",
+      "categories": [
+        "State-funded mainstream colleges",
+        "State-funded mainstream schools",
+        "State-funded mainstream schools & colleges"
+      ]
+    },
+    {
+      "name": "institution_type",
+      "categories": [
+        "Total"
+      ]
+    },
+    {
+      "name": "Qualification level",
+      "categories": [
+        "All other qualifications",
+        "Level 2",
+        "Level 3",
+        "Total"
+      ]
+    },
+    {
+      "name": "cohort_level",
+      "categories": [
+        "Level 3 approved",
+        "Total"
+      ]
+    },
+    {
+      "name": "characteristic_group",
+      "categories": [
+        "Disadvantage Y11 Status",
+        "FSM Y11 Status",
+        "Gender",
+        "LLDD Provision",
+        "SEN Provision",
+        "Total"
+      ]
+    },
+    {
+      "name": "Student characteristic",
+      "categories": [
+        "Disadvantaged",
+        "FSM eligible",
+        "FSM not eligible",
+        "Female",
+        "Identified LLDD",
+        "Identified SEN",
+        "Male",
+        "No identified LLDD",
+        "No identified SEN",
+        "Not Disadvantaged",
+        "Total"
+      ]
+    },
+    {
+      "name": "Data type",
+      "categories": [
+        "Number of pupils",
+        "Percentage"
+      ]
     }
   ],
   "columns": [
-    "Institution group",
-    "institution_type",
-    "Qualification level",
-    "cohort_level",
-    "characteristic_group",
-    "Student characteristic",
-    "Data type",
     "Number of pupils completing 16-18 study",
     "Sustained education, apprenticeship or employment",
     "Sustained education destination",
@@ -64,13 +121,6 @@
     "Activity not captured"
   ],
   "types": [
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
     "float64",
     "float64",
     "float64",

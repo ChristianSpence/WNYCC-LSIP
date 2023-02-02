@@ -40,21 +40,67 @@
         "Selby",
         "Wakefield"
       ]
+    },
+    {
+      "name": "ssa_t1_desc",
+      "categories": [
+        "Agriculture, Horticulture and Animal Care",
+        "Arts, Media and Publishing",
+        "Business, Administration and Law",
+        "Construction, Planning and the Built Environment",
+        "Education and Training",
+        "Engineering and Manufacturing Technologies",
+        "Health, Public Services and Care",
+        "History, Philosophy and Theology",
+        "Information and Communication Technology",
+        "Languages, Literature and Culture",
+        "Leisure, Travel and Tourism",
+        "Not Applicable/ Not Known",
+        "Preparation for Life and Work",
+        "Retail and Commercial Enterprise",
+        "Science and Mathematics",
+        "Social Sciences",
+        "Total"
+      ]
+    },
+    {
+      "name": "sex",
+      "categories": [
+        "Female",
+        "Male",
+        "Total"
+      ]
+    },
+    {
+      "name": "ethnicity_group",
+      "categories": [
+        "Asian/ Asian British",
+        "Black/African/Caribbean/Black British",
+        "Mixed/ Multiple Ethnic Group",
+        "Not Provided",
+        "Other Ethnic Group",
+        "Total",
+        "White"
+      ]
+    },
+    {
+      "name": "notional_nvq_level",
+      "categories": [
+        "1",
+        "2",
+        "3",
+        "4+",
+        "E",
+        "Not Assigned",
+        "Total"
+      ]
     }
   ],
   "columns": [
-    "ssa_t1_desc",
-    "sex",
-    "ethnicity_group",
-    "notional_nvq_level",
     "e_and_t_aims_enrolments",
     "e_and_t_aims_ach"
   ],
   "types": [
-    "string",
-    "string",
-    "string",
-    "string",
     "string",
     "string"
   ]

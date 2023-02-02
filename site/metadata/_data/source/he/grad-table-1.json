@@ -2,6 +2,105 @@
   "path": "data/csv/he/grad-table-1.csv",
   "indexes": [
     {
+      "name": "UKPRN",
+      "categories": [
+        10003854,
+        10003861,
+        10003863,
+        10004740,
+        10007148,
+        10007167,
+        10007713,
+        10007785,
+        10007795,
+        10021682,
+        10034449
+      ]
+    },
+    {
+      "name": "Provider name",
+      "categories": [
+        "Kaplan Open Learning",
+        "Leeds Arts University",
+        "Leeds Beckett University",
+        "Leeds Conservatoire",
+        "Leeds Trinity University",
+        "Northern College of Acupuncture",
+        "The University of Bradford",
+        "The University of Huddersfield",
+        "The University of Leeds",
+        "The University of York",
+        "York St John University"
+      ]
+    },
+    {
+      "name": "Country of provider",
+      "categories": [
+        "All",
+        "England"
+      ]
+    },
+    {
+      "name": "Domicile",
+      "categories": [
+        "All",
+        "Non-UK",
+        "UK"
+      ]
+    },
+    {
+      "name": "Level of qualification obtained",
+      "categories": [
+        "All",
+        "Postgraduate",
+        "Undergraduate"
+      ]
+    },
+    {
+      "name": "Mode of former study",
+      "categories": [
+        "All",
+        "Full-time",
+        "Part-time"
+      ]
+    },
+    {
+      "name": "Interim study",
+      "categories": [
+        "Exclude significant interim study",
+        "Include significant interim study"
+      ]
+    },
+    {
+      "name": "Sex",
+      "categories": [
+        "All",
+        "Female",
+        "Male",
+        "Other"
+      ]
+    },
+    {
+      "name": "Activity",
+      "categories": [
+        "Employment\u00a0and further study",
+        "Full-time employment",
+        "Full-time further study",
+        "Non-respondents",
+        "Other including travel, caring for someone or retired",
+        "Part-time employment",
+        "Part-time further study",
+        "Total",
+        "Total with known outcomes",
+        "Unemployed",
+        "Unemployed and due to start further study",
+        "Unemployed and due to start work",
+        "Unknown pattern of employment",
+        "Unknown pattern of further study",
+        "Voluntary or unpaid work"
+      ]
+    },
+    {
       "name": "Academic year",
       "categories": [
         "2017/18",
@@ -11,15 +110,6 @@
     }
   ],
   "columns": [
-    "UKPRN",
-    "Provider name",
-    "Country of provider",
-    "Domicile",
-    "Level of qualification obtained",
-    "Mode of former study",
-    "Interim study",
-    "Sex",
-    "Activity",
     "Number",
     "...12",
     "...13",
@@ -29,15 +119,6 @@
     "...17"
   ],
   "types": [
-    "int64",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
     "int64",
     "float64",
     "float64",

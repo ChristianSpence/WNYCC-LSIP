@@ -4,6 +4,8 @@ import glob
 import json
 import logging
 import pandas as pd
+from vars import INDEX_NAMES
+
 
 logging.basicConfig(
     format="%(levelname)s:%(funcName)s:%(message)s",
@@ -12,13 +14,6 @@ logging.basicConfig(
 
 SOURCE_PATH = os.path.join('data/csv')
 META_DIR = os.path.join('site', 'metadata', '_data', 'source')
-INDEX_NAMES = [
-    'date',
-    'Academic year',
-    'Academic Year',
-    "geography_name",
-    "geography_code",
-]
 
 
 class SourceFile(object):

@@ -30,11 +30,21 @@
         "E08000035",
         "E08000036"
       ]
+    },
+    {
+      "name": "characteristic_type",
+      "categories": [
+        "All Students"
+      ]
+    },
+    {
+      "name": "Characteristic",
+      "categories": [
+        "All state-funded students"
+      ]
     }
   ],
   "columns": [
-    "characteristic_type",
-    "Characteristic",
     "Number of students",
     "Percent entered for maths",
     "Percent entered for further maths",
@@ -50,8 +60,6 @@
     "Percent entered for 5 or more STEM subjects"
   ],
   "types": [
-    "string",
-    "string",
     "int64",
     "float64",
     "float64",

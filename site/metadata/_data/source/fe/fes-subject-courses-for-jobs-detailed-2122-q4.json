@@ -40,29 +40,61 @@
         "Selby",
         "Wakefield"
       ]
+    },
+    {
+      "name": "start_age",
+      "categories": [
+        "Total"
+      ]
+    },
+    {
+      "name": "prior_attainment_group",
+      "categories": [
+        "Total"
+      ]
+    },
+    {
+      "name": "employment_status",
+      "categories": [
+        "Total"
+      ]
+    },
+    {
+      "name": "sex",
+      "categories": [
+        "Total"
+      ]
+    },
+    {
+      "name": "lldd",
+      "categories": [
+        "Total"
+      ]
+    },
+    {
+      "name": "ethnicity",
+      "categories": [
+        "Total"
+      ]
+    },
+    {
+      "name": "ssa_t1",
+      "categories": [
+        "Total"
+      ]
+    },
+    {
+      "name": "ssa_t2",
+      "categories": [
+        "Total"
+      ]
     }
   ],
   "columns": [
-    "start_age",
-    "prior_attainment_group",
-    "employment_status",
-    "sex",
-    "lldd",
-    "ethnicity",
-    "ssa_t1",
-    "ssa_t2",
     "total_takeup_original_adult_offer",
     "total_takeup_extended_adult_offer"
   ],
   "types": [
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
     "int64",
     "int64"
   ]
