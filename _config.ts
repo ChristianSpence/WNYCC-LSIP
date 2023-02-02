@@ -10,6 +10,7 @@ import csvLoader from "oi-lume-utils/loaders/csv-loader.ts";
 
 const site = lume({
   src: "site",
+  location: new URL('https://open-innovations.github.io/WNYCC-LSIP'),
 });
 
 site.use(base_path());
