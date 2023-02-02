@@ -1,50 +1,8 @@
-<div class="wrapper">
-<main>
-  <h2>Example charts</h2>
+<p>
+  Prototype site for LSIP dashboards being created by
+  <a href="https://open-innovations.org">Open Innovations</a>
+</p>
 
-  <p>
-    This shows stats from the KS4 data (referenced as <code>source.ks4.ks4</code>).
-  </p>
-
-  <h3>Number of schools by local authority</h3>
-
-  {{ comp.oi.chart.bar({
-    config: {
-      category: "geography_name",
-      series: [
-        {
-          title: "Total schools",
-          value: "Total number of schools"
-        }
-      ],
-      axis: {
-        x: {
-          tickSize: 10
-        }
-      },
-      data: source.ks4.ks4.rows
-    }
-  }) | safe }}
-
-  <h3>Number of pupils at end of KS4 by local authority</h3>
-
-  {{ comp.oi.chart.bar({
-    config: {
-      category: "geography_name",
-      series: [
-        {
-          title: "Total pupils at end of KS4",
-          value: "Total number of pupils at the end of key stage 4"
-        }
-      ],
-      axis: {
-        x: {
-          tickSize: 1000
-        }
-      },
-      data: source.ks4.ks4.rows
-    }
-  }) | safe }}
-
-</main>
-</div>
+<ul>
+  <li><a href="/metadata/">Metadata</a></li>
+<ul>
