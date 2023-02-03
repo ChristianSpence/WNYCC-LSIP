@@ -115,10 +115,10 @@
       ]
     }
   ],
-  "columns": [
-    "Number"
-  ],
-  "types": [
-    "int64"
+  "values": [
+    {
+      "name": "Number",
+      "data_type": "int64"
+    }
   ]
 }

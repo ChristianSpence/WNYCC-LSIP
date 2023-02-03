@@ -199,58 +199,106 @@
       ]
     }
   ],
-  "columns": [
-    "Number at grade A*.",
-    "Number at grade A.",
-    "Number at grade B.",
-    "Number at grade C.",
-    "Number at grade D.",
-    "Number at grade E.",
-    "Number at grade U.",
-    "q_grade_achieved",
-    "Total number of students",
-    "astar_a_grade_achieved",
-    "astar_b_grade_achieved",
-    "astar_c_grade_achieved",
-    "astar_d_grade_achieved",
-    "astar_e_grade_achieved",
-    "Percent achieving grade A*",
-    "perc_a_grade_achieved",
-    "perc_b_grade_achieved",
-    "perc_c_grade_achieved",
-    "perc_d_grade_achieved",
-    "perc_e_grade_achieved",
-    "Percent achieving grade A* - A",
-    "Percent achieving grade A* - B",
-    "Percent achieving grade A* - C",
-    "Percent achieving grade A* - D",
-    "Percent achieving grade A* - E"
-  ],
-  "types": [
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64"
+  "values": [
+    {
+      "name": "Number at grade A*.",
+      "data_type": "float64"
+    },
+    {
+      "name": "Number at grade A.",
+      "data_type": "float64"
+    },
+    {
+      "name": "Number at grade B.",
+      "data_type": "float64"
+    },
+    {
+      "name": "Number at grade C.",
+      "data_type": "float64"
+    },
+    {
+      "name": "Number at grade D.",
+      "data_type": "float64"
+    },
+    {
+      "name": "Number at grade E.",
+      "data_type": "float64"
+    },
+    {
+      "name": "Number at grade U.",
+      "data_type": "float64"
+    },
+    {
+      "name": "q_grade_achieved",
+      "data_type": "float64"
+    },
+    {
+      "name": "Total number of students",
+      "data_type": "float64"
+    },
+    {
+      "name": "astar_a_grade_achieved",
+      "data_type": "float64"
+    },
+    {
+      "name": "astar_b_grade_achieved",
+      "data_type": "float64"
+    },
+    {
+      "name": "astar_c_grade_achieved",
+      "data_type": "float64"
+    },
+    {
+      "name": "astar_d_grade_achieved",
+      "data_type": "float64"
+    },
+    {
+      "name": "astar_e_grade_achieved",
+      "data_type": "float64"
+    },
+    {
+      "name": "Percent achieving grade A*",
+      "data_type": "float64"
+    },
+    {
+      "name": "perc_a_grade_achieved",
+      "data_type": "float64"
+    },
+    {
+      "name": "perc_b_grade_achieved",
+      "data_type": "float64"
+    },
+    {
+      "name": "perc_c_grade_achieved",
+      "data_type": "float64"
+    },
+    {
+      "name": "perc_d_grade_achieved",
+      "data_type": "float64"
+    },
+    {
+      "name": "perc_e_grade_achieved",
+      "data_type": "float64"
+    },
+    {
+      "name": "Percent achieving grade A* - A",
+      "data_type": "float64"
+    },
+    {
+      "name": "Percent achieving grade A* - B",
+      "data_type": "float64"
+    },
+    {
+      "name": "Percent achieving grade A* - C",
+      "data_type": "float64"
+    },
+    {
+      "name": "Percent achieving grade A* - D",
+      "data_type": "float64"
+    },
+    {
+      "name": "Percent achieving grade A* - E",
+      "data_type": "float64"
+    }
   ]
 }

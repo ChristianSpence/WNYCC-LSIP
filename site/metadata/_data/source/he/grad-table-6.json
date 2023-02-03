@@ -100,14 +100,18 @@
       ]
     }
   ],
-  "columns": [
-    "Number",
-    "Percent",
-    "95% confidence interval"
-  ],
-  "types": [
-    "int64",
-    "string",
-    "string"
+  "values": [
+    {
+      "name": "Number",
+      "data_type": "int64"
+    },
+    {
+      "name": "Percent",
+      "data_type": "object"
+    },
+    {
+      "name": "95% confidence interval",
+      "data_type": "object"
+    }
   ]
 }

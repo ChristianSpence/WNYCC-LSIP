@@ -41,11 +41,18 @@ class SourceFile(object):
             }
         index_meta = [get_index_metadata(l) for l in range(data.index.nlevels)]
 
+        def get_column_metadata(column_name):
+            data_type = str(data[column_name].dtype)
+            return {
+              "name": column_name,
+              "data_type": data_type,
+            }
+        value_meta = [get_column_metadata(c) for c in data.columns.to_list()]
+
         return {
             "path": self.filename,
             "indexes": index_meta,
-            "columns": data.columns.to_list(),
-            "types": [str(t).replace('object', 'string') for t in data.dtypes],
+            "values": value_meta,
         }
 
     def save_metadata(self, root=''):

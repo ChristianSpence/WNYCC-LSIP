@@ -102,40 +102,70 @@
       ]
     }
   ],
-  "columns": [
-    "Number of pupils completing 16-18 study",
-    "Sustained education, apprenticeship or employment",
-    "Sustained education destination",
-    "UK higher education institution",
-    "Further education",
-    "FE Level 3",
-    "FE Level 2",
-    "FE entry level and no identified level",
-    "Other education destinations",
-    "Sustained apprenticeships",
-    "Higher and degree apprenticeships (level 4 and above)",
-    "Advanced apprenticeships (level 3)",
-    "Intermediate apprenticeships (level 2)",
-    "Sustained employment destination",
-    "Not recorded as a sustained destination",
-    "Activity not captured"
-  ],
-  "types": [
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64",
-    "float64"
+  "values": [
+    {
+      "name": "Number of pupils completing 16-18 study",
+      "data_type": "float64"
+    },
+    {
+      "name": "Sustained education, apprenticeship or employment",
+      "data_type": "float64"
+    },
+    {
+      "name": "Sustained education destination",
+      "data_type": "float64"
+    },
+    {
+      "name": "UK higher education institution",
+      "data_type": "float64"
+    },
+    {
+      "name": "Further education",
+      "data_type": "float64"
+    },
+    {
+      "name": "FE Level 3",
+      "data_type": "float64"
+    },
+    {
+      "name": "FE Level 2",
+      "data_type": "float64"
+    },
+    {
+      "name": "FE entry level and no identified level",
+      "data_type": "float64"
+    },
+    {
+      "name": "Other education destinations",
+      "data_type": "float64"
+    },
+    {
+      "name": "Sustained apprenticeships",
+      "data_type": "float64"
+    },
+    {
+      "name": "Higher and degree apprenticeships (level 4 and above)",
+      "data_type": "float64"
+    },
+    {
+      "name": "Advanced apprenticeships (level 3)",
+      "data_type": "float64"
+    },
+    {
+      "name": "Intermediate apprenticeships (level 2)",
+      "data_type": "float64"
+    },
+    {
+      "name": "Sustained employment destination",
+      "data_type": "float64"
+    },
+    {
+      "name": "Not recorded as a sustained destination",
+      "data_type": "float64"
+    },
+    {
+      "name": "Activity not captured",
+      "data_type": "float64"
+    }
   ]
 }

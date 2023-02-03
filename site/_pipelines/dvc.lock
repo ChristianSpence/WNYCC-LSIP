@@ -8,13 +8,13 @@ stages:
       size: 353900661
       nfiles: 22
     - path: site/_pipelines/metadata/prepare.py
-      md5: bcae67fb10432f8b9b45b19d85e142f5
-      size: 2105
+      md5: 65227623d8a772e3bf84971bb55b7402
+      size: 2298
     - path: site/_pipelines/metadata/vars.py
       md5: 6c998a7e2cc2a5918a9b7a9be11ce3ed
       size: 1368
     outs:
     - path: site/metadata/_data/source
-      md5: e8ef2e1a34c7be7b76136b7d4420b096.dir
-      size: 112526
+      md5: 0bca0aed4bc74b837a0a63826515619b.dir
+      size: 119234
       nfiles: 22

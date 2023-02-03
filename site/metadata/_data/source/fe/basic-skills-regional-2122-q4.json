@@ -73,12 +73,14 @@
       ]
     }
   ],
-  "columns": [
-    "achievements",
-    "participation"
-  ],
-  "types": [
-    "string",
-    "string"
+  "values": [
+    {
+      "name": "achievements",
+      "data_type": "object"
+    },
+    {
+      "name": "participation",
+      "data_type": "object"
+    }
   ]
 }

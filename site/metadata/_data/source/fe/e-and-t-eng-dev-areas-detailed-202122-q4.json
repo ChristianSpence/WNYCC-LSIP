@@ -71,44 +71,78 @@
       ]
     }
   ],
-  "columns": [
-    "p_total",
-    "p_bl2_ex_basic_skills",
-    "p_basic_skills",
-    "p_full_l2",
-    "p_full_l3",
-    "p_l2",
-    "p_l3",
-    "p_l4plus",
-    "p_no_lx",
-    "ach_total",
-    "ach_bl2_ex_basic_skills",
-    "ach_basic_skills",
-    "ach_full_l2",
-    "ach_full_l3",
-    "ach_l2",
-    "ach_l3",
-    "ach_l4plus",
-    "ach_no_lx"
-  ],
-  "types": [
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string"
+  "values": [
+    {
+      "name": "p_total",
+      "data_type": "object"
+    },
+    {
+      "name": "p_bl2_ex_basic_skills",
+      "data_type": "object"
+    },
+    {
+      "name": "p_basic_skills",
+      "data_type": "object"
+    },
+    {
+      "name": "p_full_l2",
+      "data_type": "object"
+    },
+    {
+      "name": "p_full_l3",
+      "data_type": "object"
+    },
+    {
+      "name": "p_l2",
+      "data_type": "object"
+    },
+    {
+      "name": "p_l3",
+      "data_type": "object"
+    },
+    {
+      "name": "p_l4plus",
+      "data_type": "object"
+    },
+    {
+      "name": "p_no_lx",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_total",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_bl2_ex_basic_skills",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_basic_skills",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_full_l2",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_full_l3",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_l2",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_l3",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_l4plus",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_no_lx",
+      "data_type": "object"
+    }
   ]
 }

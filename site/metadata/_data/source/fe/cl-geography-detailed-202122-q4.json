@@ -75,28 +75,46 @@
       ]
     }
   ],
-  "columns": [
-    "personal_and_community_development_learning",
-    "neighbourhood_learning_in_deprived_communities",
-    "family_english_maths_and_language",
-    "wider_family_learning",
-    "total",
-    "ach_total",
-    "ach_personal_and_community_development_learning",
-    "ach_neighbourhood_learning_in_deprived_communities",
-    "ach_family_english_maths_and_language",
-    "ach_wider_family_learning"
-  ],
-  "types": [
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string"
+  "values": [
+    {
+      "name": "personal_and_community_development_learning",
+      "data_type": "object"
+    },
+    {
+      "name": "neighbourhood_learning_in_deprived_communities",
+      "data_type": "object"
+    },
+    {
+      "name": "family_english_maths_and_language",
+      "data_type": "object"
+    },
+    {
+      "name": "wider_family_learning",
+      "data_type": "object"
+    },
+    {
+      "name": "total",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_total",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_personal_and_community_development_learning",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_neighbourhood_learning_in_deprived_communities",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_family_english_maths_and_language",
+      "data_type": "object"
+    },
+    {
+      "name": "ach_wider_family_learning",
+      "data_type": "object"
+    }
   ]
 }

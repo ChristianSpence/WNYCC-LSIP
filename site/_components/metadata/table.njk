@@ -33,60 +33,38 @@ css: |
       }
     }
   }
-  [hidden] {
-    display: none;
-  }
-js: |
-  addEventListener('DOMContentLoaded', () => {
-    var targets = document.querySelectorAll("button[aria-expanded]");
-    targets.forEach(t => t.addEventListener('click', function() {
-      let n = this.getAttribute("aria-expanded") === "true" || !1;
-      this.setAttribute("aria-expanded", !n);
-      this.innerHTML = n ? "Expand" : "Collapse";
-      let e = this.nextElementSibling;
-      e.hidden = !e.hidden
-    }));
-  });
 ---
 <div class="metadata">
   <table>
-    <thead>
-      <tr>
-        <th>Key</th>
-        <th>Value</th>
-      </tr>
-    </thead>
     <tbody>
       <tr>
         <th>Filename</th>
         <td>{{ metadata.path }}</td>
       </tr>
       <tr>
-        <th>Indexes</th>
+        <th colspan="2">Categories</th>
+      </tr>
+      {% for index in metadata.indexes %}
+      <tr>
+        <td>
+          {{ index.name }}
+        </td>
         <td>
           <ul class="blocklist" style="--colour: darkgreen;">
-            {% for index in metadata.indexes %}
-              <li>
-                {{ index.name }}
-                <button aria-expanded="false">Expand</button>
-                <div style="margin-top: 0.5rem;" hidden>
-                  <ul class="blocklist" style="--colour: darkorange;">
-                    {% for c in index.categories %}
-                      <li>{{ c }}</li>
-                    {% endfor %}
-                  </ul>
-                </div>
-              </li>
+            {% for c in index.categories %}
+              <li>{{ c }}</li>
             {% endfor %}
           </ul>
         </td>
       </tr>
+      {% endfor %}
       <tr>
-        <th>Columns</th>
-        <td>
+        <th colspan="2">Values</th>
+      <tr>
+        <td colspan=2>
           <ul class="blocklist">
-            {% for c in metadata.columns %}
-              <li>{{ c }} ({{ metadata.types[loop.index0] }})</li>
+            {% for c in metadata.values %}
+              <li>{{ c.name }} ({{ c.data_type }})</li>
             {% endfor %}
           </ul>
         </td>

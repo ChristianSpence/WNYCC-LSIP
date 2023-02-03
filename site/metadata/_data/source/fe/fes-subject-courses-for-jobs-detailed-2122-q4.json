@@ -90,12 +90,14 @@
       ]
     }
   ],
-  "columns": [
-    "total_takeup_original_adult_offer",
-    "total_takeup_extended_adult_offer"
-  ],
-  "types": [
-    "int64",
-    "int64"
+  "values": [
+    {
+      "name": "total_takeup_original_adult_offer",
+      "data_type": "int64"
+    },
+    {
+      "name": "total_takeup_extended_adult_offer",
+      "data_type": "int64"
+    }
   ]
 }

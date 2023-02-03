@@ -105,20 +105,30 @@
       ]
     }
   ],
-  "columns": [
-    "starts",
-    "participation",
-    "achievements",
-    "starts_rate_per_100000_population",
-    "participation_rate_per_100000_population",
-    "achievements_rate_per_100000_population"
-  ],
-  "types": [
-    "string",
-    "string",
-    "string",
-    "string",
-    "string",
-    "string"
+  "values": [
+    {
+      "name": "starts",
+      "data_type": "object"
+    },
+    {
+      "name": "participation",
+      "data_type": "object"
+    },
+    {
+      "name": "achievements",
+      "data_type": "object"
+    },
+    {
+      "name": "starts_rate_per_100000_population",
+      "data_type": "object"
+    },
+    {
+      "name": "participation_rate_per_100000_population",
+      "data_type": "object"
+    },
+    {
+      "name": "achievements_rate_per_100000_population",
+      "data_type": "object"
+    }
   ]
 }

@@ -96,12 +96,14 @@
       ]
     }
   ],
-  "columns": [
-    "e_and_t_aims_enrolments",
-    "e_and_t_aims_ach"
-  ],
-  "types": [
-    "string",
-    "string"
+  "values": [
+    {
+      "name": "e_and_t_aims_enrolments",
+      "data_type": "object"
+    },
+    {
+      "name": "e_and_t_aims_ach",
+      "data_type": "object"
+    }
   ]
 }
