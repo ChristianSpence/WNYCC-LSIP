@@ -1,7 +1,22 @@
-{% for origin, item in source %}
-  <h2>Origin: <code>{{ origin }}</code></h2>
-  {% for s, metadata in item %}
-    <h3>Source: <code>{{ s }}</code></h3>
-    {{ comp.metadata.table({ metadata: metadata }) | safe }}
-  {% endfor %}
+---
+title: Metadata Catalogue
+---
+
+<main>
+<h1>{{ title }}</h1>
+
+<p>
+  These pages list the metadata associated with the data sets available
+  in the data microsite.
+</p>
+
+<p>
+  Metadata is available for the following datasets.
+</p>
+
+<ul>
+{% for metadata_page in search.pages("metadata", "title") %}
+  <li><a href="{{ metadata_page.url }}">{{ metadata_page.title }}</a></li>
 {% endfor %}
+</ul>
+</main>

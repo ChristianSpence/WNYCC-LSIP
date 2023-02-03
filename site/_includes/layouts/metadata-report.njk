@@ -1,0 +1,10 @@
+---
+layout: layouts/base.njk
+---
+<main>
+  <h1>Metadata Catalogue</h1>
+  <a href="/metadata/">&larr; return to full catalogue</a>
+
+  <h2>{{ title }}</h2>
+  {{ comp.metadata.table({ metadata: metadata }) | safe }}
+</main>

@@ -8,10 +8,11 @@ import postcss from "lume/plugins/postcss.ts";
 import oiCharts from "oi-lume-charts/mod.ts";
 import csvLoader from "oi-lume-utils/loaders/csv-loader.ts";
 
+const search = { returnPageData: true };
 const site = lume({
   src: "site",
   location: new URL('https://open-innovations.github.io/WNYCC-LSIP'),
-});
+}, { search });
 
 site.use(base_path());
 site.use(date());
