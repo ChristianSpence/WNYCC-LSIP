@@ -15,14 +15,6 @@ css: |
         margin: 0;
       }
     }
-    & dl {
-      display: grid;
-      grid-template-columns: 10em auto;
-      gap: 1rem;
-      & dd {
-        grid-column: 2;
-      }
-    }
     & .blocklist {
       padding: 0;
       list-style: none;
@@ -37,10 +29,24 @@ css: |
         color: white;
         background: var(--colour);
         padding: 0.5em 1em;
-        border-radius: 2em;
+        border-radius: 1em;
       }
     }
   }
+  [hidden] {
+    display: none;
+  }
+js: |
+  addEventListener('DOMContentLoaded', () => {
+    var targets = document.querySelectorAll("button[aria-expanded]");
+    targets.forEach(t => t.addEventListener('click', function() {
+      let n = this.getAttribute("aria-expanded") === "true" || !1;
+      this.setAttribute("aria-expanded", !n);
+      this.innerHTML = n ? "Expand" : "Collapse";
+      let e = this.nextElementSibling;
+      e.hidden = !e.hidden
+    }));
+  });
 ---
 <div class="metadata">
   <table>
@@ -58,18 +64,21 @@ css: |
       <tr>
         <th>Indexes</th>
         <td>
-          <dl>
+          <ul class="blocklist" style="--colour: darkgreen;">
             {% for index in metadata.indexes %}
-              <dt style="display: table-cell;">{{ index.name }}</dt>
-              <dd style="display: table-cell;">
-                <ul class="blocklist" style="--colour: darkgreen;">
-                  {% for c in index.categories %}
-                    <li>{{ c }}</li>
-                  {% endfor %}
-                </ul>
-              </dd>
+              <li>
+                {{ index.name }}
+                <button aria-expanded="false">Expand</button>
+                <div style="margin-top: 0.5rem;" hidden>
+                  <ul class="blocklist" style="--colour: darkorange;">
+                    {% for c in index.categories %}
+                      <li>{{ c }}</li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </li>
             {% endfor %}
-          </dl>
+          </ul>
         </td>
       </tr>
       <tr>
