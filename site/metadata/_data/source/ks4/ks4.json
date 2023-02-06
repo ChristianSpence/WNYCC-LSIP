@@ -45,95 +45,95 @@
   "facts": [
     {
       "name": "Total number of schools",
-      "data_type": "int64"
+      "data_type": "integer"
     },
     {
       "name": "Total number of pupils at the end of key stage 4",
-      "data_type": "int64"
+      "data_type": "integer"
     },
     {
       "name": "Total sum of pupils Attainment 8 scores",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Average Attainment 8 score of all pupils",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Total number of pupils entering English and Mathematics GCSEs",
-      "data_type": "int64"
+      "data_type": "integer"
     },
     {
       "name": "Percentage of pupils entering English and Mathematics GCSEs",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Total number of pupils achieving grades 5 or above in English and Mathematics GCSEs",
-      "data_type": "int64"
+      "data_type": "integer"
     },
     {
       "name": "Percentage of pupils achieving grades 5 or above in English and Mathematics GCSEs",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Total number of pupils achieving grades 4 or above in English and Mathematics GCSEs",
-      "data_type": "int64"
+      "data_type": "integer"
     },
     {
       "name": "Percentage of pupils achieving grades 4 or above in English and Mathematics GCSEs",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Total number of pupils entering the English Baccalaureate",
-      "data_type": "int64"
+      "data_type": "integer"
     },
     {
       "name": "Percentage of pupils entering the English Baccalaureate",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Total EBacc APS score of pupils",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Average EBacc APS score per pupil",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Total number of pupils achieving the English Baccalaureate (grades 5 or above in English and maths, A*-C in unreformed subjects)",
-      "data_type": "int64"
+      "data_type": "integer"
     },
     {
       "name": "Percentage of pupils achieving the English Baccalaureate (grades 5 or above in English and maths, A*-C in unreformed subjects)",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Total number of pupils achieving the English Baccalaureate (grades 4 or above in English and maths, A*-C in unreformed subjects)",
-      "data_type": "int64"
+      "data_type": "integer"
     },
     {
       "name": "Percentage of pupils achieving the English Baccalaureate (grades 4 or above in English and maths, A*-C in unreformed subjects)",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "t_inp8calc",
-      "data_type": "int64"
+      "data_type": "integer"
     },
     {
       "name": "t_p8score",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "avg_p8score",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "p8score_CI_low",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "p8score_CI_upp",
-      "data_type": "float64"
+      "data_type": "floating"
     }
   ]
 }

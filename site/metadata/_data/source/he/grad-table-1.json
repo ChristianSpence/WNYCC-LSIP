@@ -112,31 +112,31 @@
   "facts": [
     {
       "name": "Number",
-      "data_type": "int64"
+      "data_type": "integer"
     },
     {
       "name": "...12",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "...13",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "...14",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "...15",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "...16",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "...17",
-      "data_type": "float64"
+      "data_type": "floating"
     }
   ]
 }

@@ -47,55 +47,55 @@
   "facts": [
     {
       "name": "Number of students",
-      "data_type": "int64"
+      "data_type": "integer"
     },
     {
       "name": "Percent entered for maths",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Percent entered for further maths",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Percent entered for biology",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Percent entered for chemistry",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Percent entered for physics",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Percent entered for computing",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Percent not entered for a STEM subject",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Percent entered for 1 or more STEM subjects",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Percent entered for 2 or more STEM subjects",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Percent entered for 3 or more STEM subjects",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Percent entered for 4 or more STEM subjects",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Percent entered for 5 or more STEM subjects",
-      "data_type": "float64"
+      "data_type": "floating"
     }
   ]
 }

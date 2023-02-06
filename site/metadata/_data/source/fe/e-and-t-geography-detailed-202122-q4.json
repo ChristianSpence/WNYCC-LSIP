@@ -99,11 +99,11 @@
   "facts": [
     {
       "name": "e_and_t_aims_enrolments",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "e_and_t_aims_ach",
-      "data_type": "object"
+      "data_type": "string"
     }
   ]
 }

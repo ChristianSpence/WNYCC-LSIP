@@ -105,67 +105,67 @@
   "facts": [
     {
       "name": "Number of pupils completing 16-18 study",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Sustained education, apprenticeship or employment",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Sustained education destination",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "UK higher education institution",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Further education",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "FE Level 3",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "FE Level 2",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "FE entry level and no identified level",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Other education destinations",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Sustained apprenticeships",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Higher and degree apprenticeships (level 4 and above)",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Advanced apprenticeships (level 3)",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Intermediate apprenticeships (level 2)",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Sustained employment destination",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Not recorded as a sustained destination",
-      "data_type": "float64"
+      "data_type": "floating"
     },
     {
       "name": "Activity not captured",
-      "data_type": "float64"
+      "data_type": "floating"
     }
   ]
 }

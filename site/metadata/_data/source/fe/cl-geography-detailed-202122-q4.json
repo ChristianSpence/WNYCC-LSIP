@@ -78,43 +78,43 @@
   "facts": [
     {
       "name": "personal_and_community_development_learning",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "neighbourhood_learning_in_deprived_communities",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "family_english_maths_and_language",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "wider_family_learning",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "total",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "ach_total",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "ach_personal_and_community_development_learning",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "ach_neighbourhood_learning_in_deprived_communities",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "ach_family_english_maths_and_language",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "ach_wider_family_learning",
-      "data_type": "object"
+      "data_type": "string"
     }
   ]
 }

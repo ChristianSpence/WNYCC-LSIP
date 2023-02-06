@@ -76,11 +76,11 @@
   "facts": [
     {
       "name": "achievements",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "participation",
-      "data_type": "object"
+      "data_type": "string"
     }
   ]
 }

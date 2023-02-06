@@ -13,14 +13,6 @@
       ]
     },
     {
-      "name": "new_la_code",
-      "categories": []
-    },
-    {
-      "name": "la_name",
-      "categories": []
-    },
-    {
       "name": "geography_code",
       "categories": [
         "E07000163",
@@ -107,28 +99,36 @@
   ],
   "facts": [
     {
+      "name": "new_la_code",
+      "data_type": "floating"
+    },
+    {
+      "name": "la_name",
+      "data_type": "floating"
+    },
+    {
       "name": "starts",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "participation",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "achievements",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "starts_rate_per_100000_population",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "participation_rate_per_100000_population",
-      "data_type": "object"
+      "data_type": "string"
     },
     {
       "name": "achievements_rate_per_100000_population",
-      "data_type": "object"
+      "data_type": "string"
     }
   ]
 }
