@@ -1,6 +1,6 @@
 {
   "path": "data/csv/fe/e-and-t-geography-detailed-202122-q4.csv",
-  "indexes": [
+  "dimensions": [
     {
       "name": "date",
       "categories": [
@@ -96,7 +96,7 @@
       ]
     }
   ],
-  "values": [
+  "facts": [
     {
       "name": "e_and_t_aims_enrolments",
       "data_type": "object"

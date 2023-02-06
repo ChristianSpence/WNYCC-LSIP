@@ -1,4 +1,4 @@
-INDEX_NAMES = [
+DIMENSION_NAMES = [
     'Academic year',
     'Academic Year',
     'Activity',

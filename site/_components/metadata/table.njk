@@ -42,16 +42,16 @@ css: |
         <td>{{ metadata.path }}</td>
       </tr>
       <tr>
-        <th colspan="2">Categories</th>
+        <th colspan="2">Dimensions</th>
       </tr>
-      {% for index in metadata.indexes %}
+      {% for dimension in metadata.dimensions %}
       <tr>
         <td>
-          {{ index.name }}
+          {{ dimension.name }}
         </td>
         <td>
           <ul class="blocklist" style="--colour: darkgreen;">
-            {% for c in index.categories %}
+            {% for c in dimension.categories %}
               <li>{{ c }}</li>
             {% endfor %}
           </ul>
@@ -59,12 +59,12 @@ css: |
       </tr>
       {% endfor %}
       <tr>
-        <th colspan="2">Values</th>
+        <th colspan="2">Facts</th>
       <tr>
         <td colspan=2>
           <ul class="blocklist">
-            {% for c in metadata.values %}
-              <li>{{ c.name }} ({{ c.data_type }})</li>
+            {% for fact in metadata.facts %}
+              <li>{{ fact.name }} ({{ fact.data_type }})</li>
             {% endfor %}
           </ul>
         </td>

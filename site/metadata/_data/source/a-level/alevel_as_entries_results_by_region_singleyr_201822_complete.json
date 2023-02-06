@@ -1,6 +1,6 @@
 {
   "path": "data/csv/a-level/alevel_as_entries_results_by_region_singleyr_201822_complete.csv",
-  "indexes": [
+  "dimensions": [
     {
       "name": "date",
       "categories": [
@@ -208,7 +208,7 @@
       ]
     }
   ],
-  "values": [
+  "facts": [
     {
       "name": "Number at grade A*.",
       "data_type": "float64"

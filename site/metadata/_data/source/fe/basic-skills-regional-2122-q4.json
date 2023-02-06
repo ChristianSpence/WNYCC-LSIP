@@ -1,6 +1,6 @@
 {
   "path": "data/csv/fe/basic-skills-regional-2122-q4.csv",
-  "indexes": [
+  "dimensions": [
     {
       "name": "date",
       "categories": [
@@ -73,7 +73,7 @@
       ]
     }
   ],
-  "values": [
+  "facts": [
     {
       "name": "achievements",
       "data_type": "object"

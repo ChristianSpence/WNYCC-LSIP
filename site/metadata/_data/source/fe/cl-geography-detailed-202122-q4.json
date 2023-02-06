@@ -1,6 +1,6 @@
 {
   "path": "data/csv/fe/cl-geography-detailed-202122-q4.csv",
-  "indexes": [
+  "dimensions": [
     {
       "name": "date",
       "categories": [
@@ -75,7 +75,7 @@
       ]
     }
   ],
-  "values": [
+  "facts": [
     {
       "name": "personal_and_community_development_learning",
       "data_type": "object"

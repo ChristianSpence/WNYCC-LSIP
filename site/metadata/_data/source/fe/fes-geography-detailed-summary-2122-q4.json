@@ -1,6 +1,6 @@
 {
   "path": "data/csv/fe/fes-geography-detailed-summary-2122-q4.csv",
-  "indexes": [
+  "dimensions": [
     {
       "name": "date",
       "categories": [
@@ -105,7 +105,7 @@
       ]
     }
   ],
-  "values": [
+  "facts": [
     {
       "name": "starts",
       "data_type": "object"

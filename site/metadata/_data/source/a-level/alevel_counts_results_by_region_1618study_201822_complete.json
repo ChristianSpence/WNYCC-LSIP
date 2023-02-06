@@ -1,6 +1,6 @@
 {
   "path": "data/csv/a-level/alevel_counts_results_by_region_1618study_201822_complete.csv",
-  "indexes": [
+  "dimensions": [
     {
       "name": "date",
       "categories": [
@@ -199,7 +199,7 @@
       ]
     }
   ],
-  "values": [
+  "facts": [
     {
       "name": "Number at grade A*.",
       "data_type": "float64"

@@ -1,6 +1,6 @@
 {
   "path": "data/csv/a-level/maths_science_percentages_by_region_201822_complete.csv",
-  "indexes": [
+  "dimensions": [
     {
       "name": "date",
       "categories": [
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "values": [
+  "facts": [
     {
       "name": "Number of students",
       "data_type": "int64"

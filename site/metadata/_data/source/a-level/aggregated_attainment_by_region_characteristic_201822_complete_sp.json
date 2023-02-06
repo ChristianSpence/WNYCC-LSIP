@@ -1,6 +1,6 @@
 {
   "path": "data/csv/a-level/aggregated_attainment_by_region_characteristic_201822_complete_sp.csv",
-  "indexes": [
+  "dimensions": [
     {
       "name": "date",
       "categories": [
@@ -90,7 +90,7 @@
       ]
     }
   ],
-  "values": [
+  "facts": [
     {
       "name": "Students at end of 16-18 study",
       "data_type": "float64"

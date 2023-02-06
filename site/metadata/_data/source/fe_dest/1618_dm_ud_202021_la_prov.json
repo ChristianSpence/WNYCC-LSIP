@@ -1,6 +1,6 @@
 {
   "path": "data/csv/fe_dest/1618_dm_ud_202021_la_prov.csv",
-  "indexes": [
+  "dimensions": [
     {
       "name": "date",
       "categories": [
@@ -102,7 +102,7 @@
       ]
     }
   ],
-  "values": [
+  "facts": [
     {
       "name": "Number of pupils completing 16-18 study",
       "data_type": "float64"

@@ -1,6 +1,6 @@
 {
   "path": "data/csv/he/table1.csv",
-  "indexes": [
+  "dimensions": [
     {
       "name": "UKPRN",
       "categories": [
@@ -115,7 +115,7 @@
       ]
     }
   ],
-  "values": [
+  "facts": [
     {
       "name": "Number",
       "data_type": "int64"

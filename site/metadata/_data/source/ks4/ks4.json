@@ -1,6 +1,6 @@
 {
   "path": "data/csv/ks4/ks4.csv",
-  "indexes": [
+  "dimensions": [
     {
       "name": "date",
       "categories": [
@@ -42,7 +42,7 @@
       ]
     }
   ],
-  "values": [
+  "facts": [
     {
       "name": "Total number of schools",
       "data_type": "int64"
