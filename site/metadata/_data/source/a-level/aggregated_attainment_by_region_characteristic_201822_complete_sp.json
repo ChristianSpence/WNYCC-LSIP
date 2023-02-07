@@ -93,135 +93,564 @@
   "facts": [
     {
       "name": "Students at end of 16-18 study",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-8.77 to 877.3": 0.61037,
+        "877.3 to 1754.6": 0.128148,
+        "1754.6 to 2631.9": 0.091111,
+        "2631.9 to 3509.2": 0.053333,
+        "3509.2 to 4386.5": 0.036296,
+        "4386.5 to 5263.8": 0.00963,
+        "5263.8 to 6141.1": 0.012593,
+        "6141.1 to 7018.4": 0.005185,
+        "7018.4 to 7895.7": 0.004444,
+        "7895.7 to 8773.0": 0.004444
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "Number of level 3 students",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-4.58 to 457.8": 0.582963,
+        "457.8 to 915.6": 0.117037,
+        "915.6 to 1373.4": 0.083704,
+        "1373.4 to 1831.2": 0.057037,
+        "1831.2 to 2289.0": 0.042222,
+        "2289.0 to 2746.8": 0.04,
+        "2746.8 to 3204.6": 0.012593,
+        "3204.6 to 3662.4": 0.008148,
+        "3662.4 to 4120.2": 0.007407,
+        "4120.2 to 4578.0": 0.004444
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "Number of A level students",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-3.67 to 366.8": 0.575556,
+        "366.8 to 733.6": 0.12,
+        "733.6 to 1100.4": 0.079259,
+        "1100.4 to 1467.2": 0.065185,
+        "1467.2 to 1834.0": 0.037037,
+        "1834.0 to 2200.8": 0.026667,
+        "2200.8 to 2567.6": 0.025926,
+        "2567.6 to 2934.4": 0.012593,
+        "2934.4 to 3301.2": 0.006667,
+        "3301.2 to 3668.0": 0.006667
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "Number of academic students",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-3.7 to 369.7": 0.574815,
+        "369.7 to 739.4": 0.121481,
+        "739.4 to 1109.1": 0.078519,
+        "1109.1 to 1478.8": 0.065185,
+        "1478.8 to 1848.5": 0.037037,
+        "1848.5 to 2218.2": 0.026667,
+        "2218.2 to 2587.9": 0.025926,
+        "2587.9 to 2957.6": 0.012593,
+        "2957.6 to 3327.3": 0.005926,
+        "3327.3 to 3697.0": 0.007407
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "Number of applied general students",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-1.7 to 169.6": 0.631852,
+        "169.6 to 339.2": 0.118519,
+        "339.2 to 508.8": 0.074815,
+        "508.8 to 678.4": 0.037778,
+        "678.4 to 848.0": 0.036296,
+        "848.0 to 1017.6": 0.025926,
+        "1017.6 to 1187.2": 0.013333,
+        "1187.2 to 1356.8": 0.00963,
+        "1356.8 to 1526.4": 0.005185,
+        "1526.4 to 1696.0": 0.002222
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "Number of tech level students",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-0.64 to 63.8": 0.747407,
+        "63.8 to 127.6": 0.076296,
+        "127.6 to 191.4": 0.071852,
+        "191.4 to 255.2": 0.028889,
+        "255.2 to 319.0": 0.014074,
+        "319.0 to 382.8": 0.008148,
+        "382.8 to 446.6": 0.005185,
+        "446.6 to 510.4": 0.001481,
+        "510.4 to 574.2": 0.001481,
+        "574.2 to 638.0": 0.000741
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "APS per A level entry",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "6.62 to 11.39": 0.002963,
+        "11.39 to 16.11": 0.0,
+        "16.11 to 20.84": 0.005926,
+        "20.84 to 25.56": 0.041481,
+        "25.56 to 30.28": 0.151852,
+        "30.28 to 35.01": 0.274815,
+        "35.01 to 39.73": 0.299259,
+        "39.73 to 44.46": 0.117778,
+        "44.46 to 49.18": 0.042222,
+        "49.18 to 53.9": 0.011111
+      },
+      "proportion_in_top_10": 0.947407
     },
     {
       "name": "Average A level result",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "B-": 0.22674,
+        "C+": 0.202502,
+        "C": 0.176701,
+        "B": 0.170446,
+        "C-": 0.086787,
+        "B+": 0.049257,
+        "A-": 0.03362,
+        "D+": 0.02111,
+        "A": 0.017201,
+        "D": 0.010946
+      },
+      "proportion_in_top_10": 0.995309
     },
     {
       "name": "APS per academic entry",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "6.62 to 11.39": 0.002963,
+        "11.39 to 16.11": 0.0,
+        "16.11 to 20.84": 0.005926,
+        "20.84 to 25.56": 0.04,
+        "25.56 to 30.28": 0.151111,
+        "30.28 to 35.01": 0.278519,
+        "35.01 to 39.73": 0.297037,
+        "39.73 to 44.46": 0.118519,
+        "44.46 to 49.18": 0.042222,
+        "49.18 to 53.9": 0.011111
+      },
+      "proportion_in_top_10": 0.947407
     },
     {
       "name": "Average academic result",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "B-": 0.219703,
+        "C+": 0.202502,
+        "C": 0.18061,
+        "B": 0.174355,
+        "C-": 0.083659,
+        "B+": 0.047694,
+        "A-": 0.034402,
+        "D+": 0.024238,
+        "A": 0.017201,
+        "D": 0.010946
+      },
+      "proportion_in_top_10": 0.995309
     },
     {
       "name": "APS per applied general entry",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "14.96 to 18.5": 0.008889,
+        "18.5 to 22.0": 0.007407,
+        "22.0 to 25.5": 0.068148,
+        "25.5 to 29.0": 0.196296,
+        "29.0 to 32.5": 0.231111,
+        "32.5 to 36.0": 0.243704,
+        "36.0 to 39.5": 0.06963,
+        "39.5 to 43.0": 0.022963,
+        "43.0 to 46.5": 0.014074,
+        "46.5 to 50.0": 0.011852
+      },
+      "proportion_in_top_10": 0.874074
     },
     {
       "name": "Average applied general result",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "Merit+": 0.261864,
+        "Dist-": 0.241525,
+        "Dist": 0.231356,
+        "Merit": 0.122034,
+        "Dist+": 0.075424,
+        "Dist*-": 0.025424,
+        "Merit-": 0.018644,
+        "Dist*": 0.012712,
+        "Pass": 0.005932,
+        "Pass+": 0.005085
+      },
+      "proportion_in_top_10": 1.0
     },
     {
       "name": "APS per tech level entry",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "11.07 to 15.0": 0.001481,
+        "15.0 to 18.89": 0.001481,
+        "18.89 to 22.78": 0.011852,
+        "22.78 to 26.67": 0.062963,
+        "26.67 to 30.56": 0.141481,
+        "30.56 to 34.44": 0.232593,
+        "34.44 to 38.33": 0.144444,
+        "38.33 to 42.22": 0.073333,
+        "42.22 to 46.11": 0.024444,
+        "46.11 to 50.0": 0.020741
+      },
+      "proportion_in_top_10": 0.714815
     },
     {
       "name": "Average tech level result",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "Dist-": 0.27772,
+        "Dist": 0.235233,
+        "Dist+": 0.172021,
+        "Merit+": 0.137824,
+        "Merit": 0.083938,
+        "Dist*-": 0.043523,
+        "Dist*": 0.02487,
+        "Merit-": 0.017617,
+        "Pass+": 0.004145,
+        "Pass-": 0.002073
+      },
+      "proportion_in_top_10": 0.998964
     },
     {
       "name": "% achieving \u2265 2 substantial level 3 results",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "33.26 to 40.0": 0.002222,
+        "40.0 to 46.67": 0.002222,
+        "46.67 to 53.33": 0.015556,
+        "53.33 to 60.0": 0.012593,
+        "60.0 to 66.67": 0.028148,
+        "66.67 to 73.33": 0.06,
+        "73.33 to 80.0": 0.123704,
+        "80.0 to 86.67": 0.206667,
+        "86.67 to 93.33": 0.162222,
+        "93.33 to 100.0": 0.338519
+      },
+      "proportion_in_top_10": 0.951852
     },
     {
       "name": "% achieving \u2265 2 A levels",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-0.1 to 10.0": 0.002963,
+        "10.0 to 20.0": 0.0,
+        "20.0 to 30.0": 0.008148,
+        "30.0 to 40.0": 0.011111,
+        "40.0 to 50.0": 0.019259,
+        "50.0 to 60.0": 0.031111,
+        "60.0 to 70.0": 0.119259,
+        "70.0 to 80.0": 0.295556,
+        "80.0 to 90.0": 0.316296,
+        "90.0 to 100.0": 0.143704
+      },
+      "proportion_in_top_10": 0.947407
     },
     {
       "name": "% achieving \u2265 2 academic results",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-0.1 to 10.0": 0.002963,
+        "10.0 to 20.0": 0.000741,
+        "20.0 to 30.0": 0.007407,
+        "30.0 to 40.0": 0.011852,
+        "40.0 to 50.0": 0.022963,
+        "50.0 to 60.0": 0.040741,
+        "60.0 to 70.0": 0.125185,
+        "70.0 to 80.0": 0.322222,
+        "80.0 to 90.0": 0.285926,
+        "90.0 to 100.0": 0.127407
+      },
+      "proportion_in_top_10": 0.947407
     },
     {
       "name": "Number of students entered for \u2265 1 A level or applied A level",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-2.66 to 266.4": 0.591852,
+        "266.4 to 532.8": 0.117778,
+        "532.8 to 799.2": 0.062222,
+        "799.2 to 1065.6": 0.072593,
+        "1065.6 to 1332.0": 0.038519,
+        "1332.0 to 1598.4": 0.017037,
+        "1598.4 to 1864.8": 0.022222,
+        "1864.8 to 2131.2": 0.018519,
+        "2131.2 to 2397.6": 0.008148,
+        "2397.6 to 2664.0": 0.006667
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "APS per 'Best 3' entries",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "6.62 to 11.39": 0.001481,
+        "11.39 to 16.11": 0.004444,
+        "16.11 to 20.83": 0.023704,
+        "20.83 to 25.56": 0.051111,
+        "25.56 to 30.28": 0.148148,
+        "30.28 to 35.0": 0.303704,
+        "35.0 to 39.72": 0.259259,
+        "39.72 to 44.44": 0.102222,
+        "44.44 to 49.17": 0.025926,
+        "49.17 to 53.89": 0.017778
+      },
+      "proportion_in_top_10": 0.937778
     },
     {
       "name": "APS per 'Best 3' entries (grade)",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "C": 0.21248,
+        "C+": 0.194313,
+        "B-": 0.190363,
+        "B": 0.154818,
+        "C-": 0.086098,
+        "B+": 0.047393,
+        "D+": 0.035545,
+        "A-": 0.022117,
+        "A": 0.019747,
+        "D": 0.016588
+      },
+      "proportion_in_top_10": 0.979463
     },
     {
       "name": "% achieving 3 A* to A",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-0.08 to 8.33": 0.337037,
+        "8.33 to 16.67": 0.265185,
+        "16.67 to 25.0": 0.19037,
+        "25.0 to 33.33": 0.082222,
+        "33.33 to 41.67": 0.019259,
+        "41.67 to 50.0": 0.008889,
+        "50.0 to 58.33": 0.031852,
+        "58.33 to 66.67": 0.001481,
+        "66.67 to 75.0": 0.000741,
+        "75.0 to 83.33": 0.000741
+      },
+      "proportion_in_top_10": 0.937778
     },
     {
       "name": "% achieving \u2265 AAB",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-0.1 to 10.0": 0.171852,
+        "10.0 to 20.0": 0.296296,
+        "20.0 to 30.0": 0.225926,
+        "30.0 to 40.0": 0.134074,
+        "40.0 to 50.0": 0.062222,
+        "50.0 to 60.0": 0.013333,
+        "60.0 to 70.0": 0.015556,
+        "70.0 to 80.0": 0.014074,
+        "80.0 to 90.0": 0.000741,
+        "90.0 to 100.0": 0.003704
+      },
+      "proportion_in_top_10": 0.937778
     },
     {
       "name": "Number of students entered for \u2265 1 A level",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-2.64 to 263.8": 0.591111,
+        "263.8 to 527.6": 0.118519,
+        "527.6 to 791.4": 0.06,
+        "791.4 to 1055.2": 0.07037,
+        "1055.2 to 1319.0": 0.042963,
+        "1319.0 to 1582.8": 0.016296,
+        "1582.8 to 1846.6": 0.020741,
+        "1846.6 to 2110.4": 0.020741,
+        "2110.4 to 2374.2": 0.006667,
+        "2374.2 to 2638.0": 0.008148
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "% achieving \u2265 AAB for a minimum of 2 facilitating A levels",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-0.1 to 10.0": 0.30963,
+        "10.0 to 20.0": 0.341481,
+        "20.0 to 30.0": 0.183704,
+        "30.0 to 40.0": 0.044444,
+        "40.0 to 50.0": 0.037778,
+        "50.0 to 60.0": 0.00963,
+        "60.0 to 70.0": 0.014074,
+        "70.0 to 80.0": 0.001481,
+        "80.0 to 90.0": 0.0,
+        "90.0 to 100.0": 0.004444
+      },
+      "proportion_in_top_10": 0.946667
     },
     {
       "name": "Number of students entered for any level 3 vocational (excluding applied generals)",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-1.67 to 166.9": 0.656296,
+        "166.9 to 333.8": 0.111111,
+        "333.8 to 500.7": 0.054074,
+        "500.7 to 667.6": 0.023704,
+        "667.6 to 834.5": 0.04,
+        "834.5 to 1001.4": 0.013333,
+        "1001.4 to 1168.3": 0.019259,
+        "1168.3 to 1335.2": 0.021481,
+        "1335.2 to 1502.1": 0.011111,
+        "1502.1 to 1669.0": 0.005185
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "% level 3 vocational students (excluding applied generals) who entered tech levels",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-0.1 to 10.0": 0.257037,
+        "10.0 to 20.0": 0.12,
+        "20.0 to 30.0": 0.116296,
+        "30.0 to 40.0": 0.094815,
+        "40.0 to 50.0": 0.097037,
+        "50.0 to 60.0": 0.057778,
+        "60.0 to 70.0": 0.034815,
+        "70.0 to 80.0": 0.034815,
+        "80.0 to 90.0": 0.025185,
+        "90.0 to 100.0": 0.034815
+      },
+      "proportion_in_top_10": 0.872593
     },
     {
       "name": "Number of students entered for any level 3 vocational (excluding tech levels)",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-2.51 to 251.4": 0.596296,
+        "251.4 to 502.8": 0.103704,
+        "502.8 to 754.2": 0.078519,
+        "754.2 to 1005.6": 0.062963,
+        "1005.6 to 1257.0": 0.047407,
+        "1257.0 to 1508.4": 0.027407,
+        "1508.4 to 1759.8": 0.017778,
+        "1759.8 to 2011.2": 0.011852,
+        "2011.2 to 2262.6": 0.006667,
+        "2262.6 to 2514.0": 0.002963
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "% level 3 vocational students (excluding tech levels) who entered applied general",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-0.1 to 10.0": 0.059259,
+        "10.0 to 20.0": 0.097037,
+        "20.0 to 30.0": 0.062963,
+        "30.0 to 40.0": 0.045185,
+        "40.0 to 50.0": 0.044444,
+        "50.0 to 60.0": 0.085185,
+        "60.0 to 70.0": 0.091852,
+        "70.0 to 80.0": 0.074074,
+        "80.0 to 90.0": 0.107407,
+        "90.0 to 100.0": 0.255556
+      },
+      "proportion_in_top_10": 0.922963
     },
     {
       "name": "Number of students with level 2 as highest entry",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-1.53 to 153.3": 0.794074,
+        "153.3 to 306.6": 0.065185,
+        "306.6 to 459.9": 0.026667,
+        "459.9 to 613.2": 0.025185,
+        "613.2 to 766.5": 0.021481,
+        "766.5 to 919.8": 0.008148,
+        "919.8 to 1073.1": 0.007407,
+        "1073.1 to 1226.4": 0.004444,
+        "1226.4 to 1379.7": 0.001481,
+        "1379.7 to 1533.0": 0.001481
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "% level 2 students entered for technical certificate",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-0.1 to 10.0": 0.527407,
+        "10.0 to 20.0": 0.062222,
+        "20.0 to 30.0": 0.035556,
+        "30.0 to 40.0": 0.045926,
+        "40.0 to 50.0": 0.038519,
+        "50.0 to 60.0": 0.008889,
+        "60.0 to 70.0": 0.002963,
+        "70.0 to 80.0": 0.002963,
+        "80.0 to 90.0": 0.000741,
+        "90.0 to 100.0": 0.011852
+      },
+      "proportion_in_top_10": 0.737037
     },
     {
       "name": "Number of technical certificate students",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "-0.5 to 49.9": 0.897037,
+        "49.9 to 99.8": 0.016296,
+        "99.8 to 149.7": 0.012593,
+        "149.7 to 199.6": 0.008148,
+        "199.6 to 249.5": 0.004444,
+        "249.5 to 299.4": 0.004444,
+        "299.4 to 349.3": 0.004444,
+        "349.3 to 399.2": 0.004444,
+        "399.2 to 449.1": 0.000741,
+        "449.1 to 499.0": 0.002963
+      },
+      "proportion_in_top_10": 0.955556
     },
     {
       "name": "APS per entry technical certificate students",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {
+        "3.12 to 3.61": 0.000741,
+        "3.61 to 4.1": 0.001481,
+        "4.1 to 4.59": 0.007407,
+        "4.59 to 5.08": 0.054815,
+        "5.08 to 5.56": 0.060741,
+        "5.56 to 6.05": 0.175556,
+        "6.05 to 6.54": 0.064444,
+        "6.54 to 7.02": 0.02,
+        "7.02 to 7.51": 0.020741,
+        "7.51 to 8.0": 0.002963
+      },
+      "proportion_in_top_10": 0.408889
     },
     {
       "name": "Average technical certificate result",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "L2Merit": 0.28442,
+        "L2Merit-": 0.253623,
+        "L2Pass": 0.128623,
+        "L2Pass+": 0.088768,
+        "L2Dist-": 0.077899,
+        "L2Dist": 0.050725,
+        "L2Merit+": 0.041667,
+        "L2Dist*-": 0.025362,
+        "L2Pass-": 0.025362,
+        "L1Dist+": 0.009058
+      },
+      "proportion_in_top_10": 0.985507
     }
   ]
 }

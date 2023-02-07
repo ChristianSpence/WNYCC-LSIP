@@ -78,43 +78,173 @@
   "facts": [
     {
       "name": "personal_and_community_development_learning",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.616071,
+        "10": 0.111607,
+        "20": 0.051091,
+        "30": 0.027282,
+        "40": 0.024802,
+        "50": 0.021329,
+        "60": 0.017361,
+        "80": 0.011905,
+        "70": 0.011905,
+        "90": 0.009425
+      },
+      "proportion_in_top_10": 0.902778
     },
     {
       "name": "neighbourhood_learning_in_deprived_communities",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.876488,
+        "10": 0.042163,
+        "20": 0.019841,
+        "30": 0.008433,
+        "40": 0.007937,
+        "50": 0.00496,
+        "60": 0.004464,
+        "70": 0.003472,
+        "100": 0.002976,
+        "90": 0.002976
+      },
+      "proportion_in_top_10": 0.97371
     },
     {
       "name": "family_english_maths_and_language",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.936508,
+        "10": 0.03621,
+        "20": 0.009425,
+        "30": 0.004464,
+        "50": 0.003472,
+        "60": 0.002976,
+        "40": 0.001488,
+        "130": 0.001488,
+        "120": 0.001488,
+        "70": 0.000496
+      },
+      "proportion_in_top_10": 0.998016
     },
     {
       "name": "wider_family_learning",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.863591,
+        "10": 0.058532,
+        "20": 0.019345,
+        "40": 0.009425,
+        "30": 0.008433,
+        "50": 0.004464,
+        "60": 0.004464,
+        "110": 0.003968,
+        "80": 0.003472,
+        "90": 0.003472
+      },
+      "proportion_in_top_10": 0.979167
     },
     {
       "name": "total",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.590278,
+        "10": 0.112599,
+        "20": 0.047123,
+        "30": 0.026786,
+        "40": 0.02381,
+        "50": 0.020337,
+        "70": 0.015377,
+        "60": 0.014881,
+        "90": 0.014881,
+        "80": 0.008433
+      },
+      "proportion_in_top_10": 0.874504
     },
     {
       "name": "ach_total",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.597718,
+        "10": 0.114583,
+        "20": 0.045139,
+        "30": 0.02877,
+        "40": 0.025794,
+        "50": 0.018849,
+        "80": 0.014881,
+        "70": 0.014385,
+        "60": 0.012401,
+        "120": 0.008929
+      },
+      "proportion_in_top_10": 0.881448
     },
     {
       "name": "ach_personal_and_community_development_learning",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.625496,
+        "10": 0.112103,
+        "20": 0.047123,
+        "30": 0.03125,
+        "40": 0.027778,
+        "50": 0.018849,
+        "60": 0.014881,
+        "70": 0.012401,
+        "80": 0.010417,
+        "110": 0.007937
+      },
+      "proportion_in_top_10": 0.908234
     },
     {
       "name": "ach_neighbourhood_learning_in_deprived_communities",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.885417,
+        "10": 0.037202,
+        "20": 0.019345,
+        "30": 0.010417,
+        "50": 0.005952,
+        "40": 0.00496,
+        "60": 0.003968,
+        "70": 0.003968,
+        "80": 0.003472,
+        "110": 0.002976
+      },
+      "proportion_in_top_10": 0.977679
     },
     {
       "name": "ach_family_english_maths_and_language",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.943948,
+        "10": 0.032242,
+        "20": 0.00744,
+        "40": 0.004464,
+        "30": 0.003968,
+        "100": 0.001984,
+        "60": 0.001488,
+        "50": 0.001488,
+        "110": 0.000992,
+        "90": 0.000992
+      },
+      "proportion_in_top_10": 0.999008
     },
     {
       "name": "ach_wider_family_learning",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.867063,
+        "10": 0.058532,
+        "20": 0.016369,
+        "30": 0.009425,
+        "40": 0.008433,
+        "50": 0.00496,
+        "90": 0.003968,
+        "70": 0.003472,
+        "60": 0.003472,
+        "80": 0.002976
+      },
+      "proportion_in_top_10": 0.978671
     }
   ]
 }

@@ -1,0 +1,41 @@
+---
+css: |
+  .value-hist {
+    --font-size: 6px;
+    --bar-fill: blue;
+    text-align: center;
+    & text {
+      font-size: var(--font-size);
+    }
+    & figcaption {
+      font-weight: bold;      
+    }
+    & .series path {
+      fill: var(--bar-fill);
+    }
+    & .axis {
+      fill: none;
+      stroke: black;
+      stroke-width: 0.5px;
+    }
+  }
+---
+{% set count = items | length -%}
+{% set bar_height = bar_height or 8 -%}
+{% set chart_width = 100 -%}
+{% set margin = 2 -%}
+{% set text_margin = chart_width -%}
+<figure class="value-hist" style="--font-size: {{ bar_height * 0.75 }}px;">
+  <figcaption>Value distributions</figcaption>
+  <svg viewBox="-{{ text_margin + margin }} -{{ margin }} {{ chart_width + text_margin + margin * 2 }} {{ count * bar_height + margin * 2 }}">
+    <path class="axis" d="M0 0 V{{ count * bar_height }} M{{ chart_width }} 0 V{{ count * bar_height }}"></path>
+    {% for value, proportion in items -%}
+      <g class="series" transform="translate(0 {{ loop.index0 * bar_height }})">
+      <path d="M0 1 v{{ bar_height - 2 }} H{{ proportion * chart_width }} v-{{ bar_height - 2 }} Z">
+        <title>Value {{ value }} occurs in {{ (proportion * 100) | round(2) }}% of rows</title>
+      </path>
+      <text x="0" y="0" dx="-5" dy="{{ bar_height / 2 }}" text-anchor="end" dominant-baseline="middle">{{ value }}</text>
+      </g>
+    {% endfor -%}
+  </svg>
+</figure>

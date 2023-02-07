@@ -100,35 +100,117 @@
   "facts": [
     {
       "name": "new_la_code",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {},
+      "proportion_in_top_10": 0.0
     },
     {
       "name": "la_name",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {},
+      "proportion_in_top_10": 0.0
     },
     {
       "name": "starts",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "50": 0.041667,
+        "60": 0.038194,
+        "30": 0.03559,
+        "10": 0.034722,
+        "40": 0.032986,
+        "80": 0.032986,
+        "90": 0.029514,
+        "20": 0.02691,
+        "110": 0.024306,
+        "140": 0.022569
+      },
+      "proportion_in_top_10": 0.319444
     },
     {
       "name": "participation",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.047627,
+        "10": 0.046968,
+        "20": 0.035597,
+        "30": 0.030488,
+        "40": 0.02472,
+        "80": 0.019117,
+        "50": 0.018952,
+        "60": 0.017469,
+        "110": 0.016809,
+        "70": 0.01648
+      },
+      "proportion_in_top_10": 0.274225
     },
     {
       "name": "achievements",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "10": 0.078609,
+        "low": 0.066249,
+        "20": 0.053395,
+        "30": 0.043507,
+        "40": 0.038398,
+        "50": 0.032301,
+        "70": 0.028345,
+        "60": 0.027851,
+        "80": 0.023401,
+        "90": 0.020929
+      },
+      "proportion_in_top_10": 0.412986
     },
     {
       "name": "starts_rate_per_100000_population",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.019097,
+        "118": 0.006076,
+        "138": 0.005208,
+        "290": 0.00434,
+        "125": 0.003472,
+        "188": 0.003472,
+        "225": 0.003472,
+        "121": 0.003472,
+        "193": 0.003472,
+        "655": 0.003472
+      },
+      "proportion_in_top_10": 0.055556
     },
     {
       "name": "participation_rate_per_100000_population",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.047627,
+        "67": 0.002307,
+        "64": 0.001978,
+        "70": 0.001978,
+        "46": 0.001978,
+        "68": 0.001978,
+        "50": 0.001978,
+        "55": 0.001813,
+        "44": 0.001813,
+        "7": 0.001648
+      },
+      "proportion_in_top_10": 0.065096
     },
     {
       "name": "achievements_rate_per_100000_population",
-      "data_type": "string"
+      "data_type": "string",
+      "value_distribution": {
+        "low": 0.066249,
+        "53": 0.003955,
+        "64": 0.003626,
+        "29": 0.003461,
+        "23": 0.003296,
+        "36": 0.003131,
+        "18": 0.003131,
+        "54": 0.002966,
+        "13": 0.002966,
+        "15": 0.002966
+      },
+      "proportion_in_top_10": 0.095748
     }
   ]
 }

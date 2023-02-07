@@ -112,31 +112,56 @@
   "facts": [
     {
       "name": "Number",
-      "data_type": "integer"
+      "data_type": "integer",
+      "value_distribution": {
+        "-13.0 to 1300.0": 0.973648,
+        "1300.0 to 2600.0": 0.017353,
+        "2600.0 to 3900.0": 0.005322,
+        "3900.0 to 5200.0": 0.002031,
+        "5200.0 to 6500.0": 0.001001,
+        "6500.0 to 7800.0": 0.000429,
+        "7800.0 to 9100.0": 4.3e-05,
+        "9100.0 to 10400.0": 2.9e-05,
+        "10400.0 to 11700.0": 7.2e-05,
+        "11700.0 to 13000.0": 7.2e-05
+      },
+      "proportion_in_top_10": 1.0
     },
     {
       "name": "...12",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {},
+      "proportion_in_top_10": 0.0
     },
     {
       "name": "...13",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {},
+      "proportion_in_top_10": 0.0
     },
     {
       "name": "...14",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {},
+      "proportion_in_top_10": 0.0
     },
     {
       "name": "...15",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {},
+      "proportion_in_top_10": 0.0
     },
     {
       "name": "...16",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {},
+      "proportion_in_top_10": 0.0
     },
     {
       "name": "...17",
-      "data_type": "floating"
+      "data_type": "floating",
+      "value_distribution": {},
+      "proportion_in_top_10": 0.0
     }
   ]
 }

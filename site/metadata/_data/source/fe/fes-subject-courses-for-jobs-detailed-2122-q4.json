@@ -93,11 +93,37 @@
   "facts": [
     {
       "name": "total_takeup_original_adult_offer",
-      "data_type": "integer"
+      "data_type": "integer",
+      "value_distribution": {
+        "9.81 to 29.0": 0.25,
+        "29.0 to 48.0": 0.416667,
+        "48.0 to 67.0": 0.083333,
+        "67.0 to 86.0": 0.0,
+        "86.0 to 105.0": 0.083333,
+        "105.0 to 124.0": 0.0,
+        "124.0 to 143.0": 0.0,
+        "143.0 to 162.0": 0.0,
+        "162.0 to 181.0": 0.083333,
+        "181.0 to 200.0": 0.083333
+      },
+      "proportion_in_top_10": 1.0
     },
     {
       "name": "total_takeup_extended_adult_offer",
-      "data_type": "integer"
+      "data_type": "integer",
+      "value_distribution": {
+        "9.81 to 29.0": 0.166667,
+        "29.0 to 48.0": 0.5,
+        "48.0 to 67.0": 0.083333,
+        "67.0 to 86.0": 0.0,
+        "86.0 to 105.0": 0.083333,
+        "105.0 to 124.0": 0.0,
+        "124.0 to 143.0": 0.0,
+        "143.0 to 162.0": 0.0,
+        "162.0 to 181.0": 0.083333,
+        "181.0 to 200.0": 0.083333
+      },
+      "proportion_in_top_10": 1.0
     }
   ]
 }

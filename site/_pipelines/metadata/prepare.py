@@ -32,7 +32,7 @@ class SourceFile(object):
         if self.data.empty:
             logging.debug("Reading %s", self.filename)
             self.data = pd.read_csv(
-                self.filename, engine='python', na_values=['NA'])
+                self.filename, engine='python')
 
     def dimension_metadata(self, l):
         self.load_data()
@@ -45,9 +45,21 @@ class SourceFile(object):
     def fact_metadata(self, column_name):
         self.load_data()
         data_type = pd.api.types.infer_dtype(self.data[column_name])
+
+        try:
+            value_counts = self.data[column_name].value_counts(
+                normalize=True, sort=False, bins=10)
+            value_counts.index = value_counts.index.to_tuples().map(
+                lambda x: ' to '.join(map(lambda v: str(round(v, 2)), x)))
+        except (ValueError, TypeError):
+            value_counts = self.data[column_name].value_counts(
+                normalize=True).sort_values(ascending=False, kind='stable').head(10)
+
         return {
             "name": column_name,
             "data_type": data_type,
+            "value_distribution": value_counts.round(6).to_dict(),
+            "proportion_in_top_10": value_counts.sum().round(6),
         }
 
     def metadata(self):
@@ -98,7 +110,8 @@ class SourceFile(object):
         })
 
         model['test_forced_dimension'] = model.column_name.isin(overrides)
-        model['test_likely_types'] = (model.type == 'string') | (model.type == 'integer')
+        model['test_likely_types'] = (
+            model.type == 'string') | (model.type == 'integer')
         model['test_column_names'] = model.column_name.str.match(
             r"(average|total|number of|count of)", case=False)
         model['test_num_as_string'] = (model.type == 'string') & (
@@ -109,13 +122,13 @@ class SourceFile(object):
 
         # Try to guess which are levels
         dimensions = model[
-            ( model.test_forced_dimension == True ) | (
-              (model.test_likely_types == True) &
-              ~(
-                (model.test_column_names == True) |
-                (model.test_num_as_string == True) |
-                (model.test_long_tail == True)
-              )
+            (model.test_forced_dimension == True) | (
+                (model.test_likely_types == True) &
+                ~(
+                    (model.test_column_names == True) |
+                    (model.test_num_as_string == True) |
+                    (model.test_long_tail == True)
+                )
             )
         ]
 
