@@ -92,7 +92,9 @@ class SourceFile(object):
         # First pass - let's check the data type
         types = [pd.api.types.infer_dtype(series) for _, series in df.items()]
         count_non_numeric = [len(series[pd.to_numeric(
-            series, errors='coerce').isna()].unique()) for _, series in df.items()]
+          series.map(str).str.replace(r'[%]$', ''),
+            errors='coerce'
+        ).isna()].unique()) for _, series in df.items()]
 
         # Second pass - count the number of unique values in each column
         levels = [len(series.unique()) for _, series in df.items()]
@@ -110,24 +112,30 @@ class SourceFile(object):
         })
 
         model['test_forced_dimension'] = model.column_name.isin(overrides)
-        model['test_likely_types'] = (
-            model.type == 'string') | (model.type == 'integer')
+        model['test_string_types'] = model.type == 'string'
         model['test_column_names'] = model.column_name.str.match(
             r"(average|total|number of|count of)", case=False)
         model['test_num_as_string'] = (model.type == 'string') & (
             model.count_non_numeric != model.levels) & (model.count_non_numeric/model.levels < 0.5)
         model['test_long_tail'] = model.value_count_kurtosis > SourceFile.kurtosis_clip
 
+        model['test_categorical_integers'] = (model.type == 'integer') & (
+            model.value_count_kurtosis < SourceFile.kurtosis_clip)
+
         logging.debug('Model contents \n%s', model)
 
         # Try to guess which are levels
         dimensions = model[
-            (model.test_forced_dimension == True) | (
-                (model.test_likely_types == True) &
+            (
+                model.test_forced_dimension == True
+            ) | (
+                (model.test_categorical_integers == True) &
+                ~(model.test_column_names == True)
+            ) | (
+                (model.test_string_types == True) &
                 ~(
                     (model.test_column_names == True) |
-                    (model.test_num_as_string == True) |
-                    (model.test_long_tail == True)
+                    (model.test_num_as_string == True)
                 )
             )
         ]
