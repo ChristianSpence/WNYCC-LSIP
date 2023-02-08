@@ -53,13 +53,17 @@ class SourceFile(object):
                 lambda x: ' to '.join(map(lambda v: str(round(v, 2)), x)))
         except (ValueError, TypeError):
             value_counts = self.data[column_name].value_counts(
-                normalize=True).sort_values(ascending=False, kind='stable').head(10)
+                normalize=True, sort=True).head(10)
+
+        value_counts = pd.DataFrame(value_counts).round(6)
+        value_counts.index.name = 'value'
+        value_counts.columns = ['count']
+        value_counts.reset_index(inplace=True)
 
         return {
             "name": column_name,
             "data_type": data_type,
-            "value_distribution": value_counts.round(6).to_dict(),
-            "proportion_in_top_10": value_counts.sum().round(6),
+            "value_distribution": value_counts.to_dict(orient='records')
         }
 
     def metadata(self):
@@ -92,7 +96,7 @@ class SourceFile(object):
         # First pass - let's check the data type
         types = [pd.api.types.infer_dtype(series) for _, series in df.items()]
         count_non_numeric = [len(series[pd.to_numeric(
-          series.map(str).str.replace(r'[%]$', ''),
+          series.map(str).str.replace(r'[%]$', '', regex=True),
             errors='coerce'
         ).isna()].unique()) for _, series in df.items()]
 

@@ -46,393 +46,1060 @@
     {
       "name": "Total number of schools",
       "data_type": "integer",
-      "value_distribution": {
-        "16.91 to 26.2": 0.333333,
-        "26.2 to 35.4": 0.083333,
-        "35.4 to 44.6": 0.25,
-        "44.6 to 53.8": 0.0,
-        "53.8 to 63.0": 0.0,
-        "63.0 to 72.2": 0.083333,
-        "72.2 to 81.4": 0.083333,
-        "81.4 to 90.6": 0.0,
-        "90.6 to 99.8": 0.083333,
-        "99.8 to 109.0": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "16.91 to 26.2",
+          "count": 0.333333
+        },
+        {
+          "value": "26.2 to 35.4",
+          "count": 0.083333
+        },
+        {
+          "value": "35.4 to 44.6",
+          "count": 0.25
+        },
+        {
+          "value": "44.6 to 53.8",
+          "count": 0.0
+        },
+        {
+          "value": "53.8 to 63.0",
+          "count": 0.0
+        },
+        {
+          "value": "63.0 to 72.2",
+          "count": 0.083333
+        },
+        {
+          "value": "72.2 to 81.4",
+          "count": 0.083333
+        },
+        {
+          "value": "81.4 to 90.6",
+          "count": 0.0
+        },
+        {
+          "value": "90.6 to 99.8",
+          "count": 0.083333
+        },
+        {
+          "value": "99.8 to 109.0",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Total number of pupils at the end of key stage 4",
       "data_type": "integer",
-      "value_distribution": {
-        "439.93 to 1254.8": 0.5,
-        "1254.8 to 2061.6": 0.083333,
-        "2061.6 to 2868.4": 0.083333,
-        "2868.4 to 3675.2": 0.0,
-        "3675.2 to 4482.0": 0.083333,
-        "4482.0 to 5288.8": 0.083333,
-        "5288.8 to 6095.6": 0.0,
-        "6095.6 to 6902.4": 0.0,
-        "6902.4 to 7709.2": 0.083333,
-        "7709.2 to 8516.0": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "439.93 to 1254.8",
+          "count": 0.5
+        },
+        {
+          "value": "1254.8 to 2061.6",
+          "count": 0.083333
+        },
+        {
+          "value": "2061.6 to 2868.4",
+          "count": 0.083333
+        },
+        {
+          "value": "2868.4 to 3675.2",
+          "count": 0.0
+        },
+        {
+          "value": "3675.2 to 4482.0",
+          "count": 0.083333
+        },
+        {
+          "value": "4482.0 to 5288.8",
+          "count": 0.083333
+        },
+        {
+          "value": "5288.8 to 6095.6",
+          "count": 0.0
+        },
+        {
+          "value": "6095.6 to 6902.4",
+          "count": 0.0
+        },
+        {
+          "value": "6902.4 to 7709.2",
+          "count": 0.083333
+        },
+        {
+          "value": "7709.2 to 8516.0",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Total sum of pupils Attainment 8 scores",
       "data_type": "floating",
-      "value_distribution": {
-        "21897.79 to 61334.38": 0.5,
-        "61334.38 to 100380.5": 0.083333,
-        "100380.5 to 139426.62": 0.083333,
-        "139426.62 to 178472.75": 0.083333,
-        "178472.75 to 217518.88": 0.0,
-        "217518.88 to 256565.0": 0.083333,
-        "256565.0 to 295611.12": 0.0,
-        "295611.12 to 334657.25": 0.0,
-        "334657.25 to 373703.38": 0.083333,
-        "373703.38 to 412749.5": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "21897.79 to 61334.38",
+          "count": 0.5
+        },
+        {
+          "value": "61334.38 to 100380.5",
+          "count": 0.083333
+        },
+        {
+          "value": "100380.5 to 139426.62",
+          "count": 0.083333
+        },
+        {
+          "value": "139426.62 to 178472.75",
+          "count": 0.083333
+        },
+        {
+          "value": "178472.75 to 217518.88",
+          "count": 0.0
+        },
+        {
+          "value": "217518.88 to 256565.0",
+          "count": 0.083333
+        },
+        {
+          "value": "256565.0 to 295611.12",
+          "count": 0.0
+        },
+        {
+          "value": "295611.12 to 334657.25",
+          "count": 0.0
+        },
+        {
+          "value": "334657.25 to 373703.38",
+          "count": 0.083333
+        },
+        {
+          "value": "373703.38 to 412749.5",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Average Attainment 8 score of all pupils",
       "data_type": "floating",
-      "value_distribution": {
-        "42.89 to 43.91": 0.083333,
-        "43.91 to 44.92": 0.083333,
-        "44.92 to 45.93": 0.0,
-        "45.93 to 46.94": 0.083333,
-        "46.94 to 47.95": 0.083333,
-        "47.95 to 48.96": 0.25,
-        "48.96 to 49.97": 0.25,
-        "49.97 to 50.98": 0.0,
-        "50.98 to 51.99": 0.083333,
-        "51.99 to 53.0": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "42.89 to 43.91",
+          "count": 0.083333
+        },
+        {
+          "value": "43.91 to 44.92",
+          "count": 0.083333
+        },
+        {
+          "value": "44.92 to 45.93",
+          "count": 0.0
+        },
+        {
+          "value": "45.93 to 46.94",
+          "count": 0.083333
+        },
+        {
+          "value": "46.94 to 47.95",
+          "count": 0.083333
+        },
+        {
+          "value": "47.95 to 48.96",
+          "count": 0.25
+        },
+        {
+          "value": "48.96 to 49.97",
+          "count": 0.25
+        },
+        {
+          "value": "49.97 to 50.98",
+          "count": 0.0
+        },
+        {
+          "value": "50.98 to 51.99",
+          "count": 0.083333
+        },
+        {
+          "value": "51.99 to 53.0",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Total number of pupils entering English and Mathematics GCSEs",
       "data_type": "integer",
-      "value_distribution": {
-        "434.27 to 1215.0": 0.5,
-        "1215.0 to 1988.0": 0.083333,
-        "1988.0 to 2761.0": 0.083333,
-        "2761.0 to 3534.0": 0.0,
-        "3534.0 to 4307.0": 0.083333,
-        "4307.0 to 5080.0": 0.0,
-        "5080.0 to 5853.0": 0.083333,
-        "5853.0 to 6626.0": 0.0,
-        "6626.0 to 7399.0": 0.083333,
-        "7399.0 to 8172.0": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "434.27 to 1215.0",
+          "count": 0.5
+        },
+        {
+          "value": "1215.0 to 1988.0",
+          "count": 0.083333
+        },
+        {
+          "value": "1988.0 to 2761.0",
+          "count": 0.083333
+        },
+        {
+          "value": "2761.0 to 3534.0",
+          "count": 0.0
+        },
+        {
+          "value": "3534.0 to 4307.0",
+          "count": 0.083333
+        },
+        {
+          "value": "4307.0 to 5080.0",
+          "count": 0.0
+        },
+        {
+          "value": "5080.0 to 5853.0",
+          "count": 0.083333
+        },
+        {
+          "value": "5853.0 to 6626.0",
+          "count": 0.0
+        },
+        {
+          "value": "6626.0 to 7399.0",
+          "count": 0.083333
+        },
+        {
+          "value": "7399.0 to 8172.0",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Percentage of pupils entering English and Mathematics GCSEs",
       "data_type": "floating",
-      "value_distribution": {
-        "95.2 to 95.55": 0.166667,
-        "95.55 to 95.9": 0.083333,
-        "95.9 to 96.25": 0.083333,
-        "96.25 to 96.6": 0.083333,
-        "96.6 to 96.95": 0.25,
-        "96.95 to 97.3": 0.166667,
-        "97.3 to 97.65": 0.083333,
-        "97.65 to 98.0": 0.0,
-        "98.0 to 98.35": 0.0,
-        "98.35 to 98.7": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "95.2 to 95.55",
+          "count": 0.166667
+        },
+        {
+          "value": "95.55 to 95.9",
+          "count": 0.083333
+        },
+        {
+          "value": "95.9 to 96.25",
+          "count": 0.083333
+        },
+        {
+          "value": "96.25 to 96.6",
+          "count": 0.083333
+        },
+        {
+          "value": "96.6 to 96.95",
+          "count": 0.25
+        },
+        {
+          "value": "96.95 to 97.3",
+          "count": 0.166667
+        },
+        {
+          "value": "97.3 to 97.65",
+          "count": 0.083333
+        },
+        {
+          "value": "97.65 to 98.0",
+          "count": 0.0
+        },
+        {
+          "value": "98.0 to 98.35",
+          "count": 0.0
+        },
+        {
+          "value": "98.35 to 98.7",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Total number of pupils achieving grades 5 or above in English and Mathematics GCSEs",
       "data_type": "integer",
-      "value_distribution": {
-        "211.77 to 638.5": 0.5,
-        "638.5 to 1061.0": 0.083333,
-        "1061.0 to 1483.5": 0.083333,
-        "1483.5 to 1906.0": 0.083333,
-        "1906.0 to 2328.5": 0.0,
-        "2328.5 to 2751.0": 0.083333,
-        "2751.0 to 3173.5": 0.0,
-        "3173.5 to 3596.0": 0.083333,
-        "3596.0 to 4018.5": 0.0,
-        "4018.5 to 4441.0": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "211.77 to 638.5",
+          "count": 0.5
+        },
+        {
+          "value": "638.5 to 1061.0",
+          "count": 0.083333
+        },
+        {
+          "value": "1061.0 to 1483.5",
+          "count": 0.083333
+        },
+        {
+          "value": "1483.5 to 1906.0",
+          "count": 0.083333
+        },
+        {
+          "value": "1906.0 to 2328.5",
+          "count": 0.0
+        },
+        {
+          "value": "2328.5 to 2751.0",
+          "count": 0.083333
+        },
+        {
+          "value": "2751.0 to 3173.5",
+          "count": 0.0
+        },
+        {
+          "value": "3173.5 to 3596.0",
+          "count": 0.083333
+        },
+        {
+          "value": "3596.0 to 4018.5",
+          "count": 0.0
+        },
+        {
+          "value": "4018.5 to 4441.0",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Percentage of pupils achieving grades 5 or above in English and Mathematics GCSEs",
       "data_type": "floating",
-      "value_distribution": {
-        "40.08 to 42.05": 0.083333,
-        "42.05 to 44.0": 0.083333,
-        "44.0 to 45.95": 0.0,
-        "45.95 to 47.9": 0.083333,
-        "47.9 to 49.85": 0.166667,
-        "49.85 to 51.8": 0.166667,
-        "51.8 to 53.75": 0.166667,
-        "53.75 to 55.7": 0.166667,
-        "55.7 to 57.65": 0.0,
-        "57.65 to 59.6": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "40.08 to 42.05",
+          "count": 0.083333
+        },
+        {
+          "value": "42.05 to 44.0",
+          "count": 0.083333
+        },
+        {
+          "value": "44.0 to 45.95",
+          "count": 0.0
+        },
+        {
+          "value": "45.95 to 47.9",
+          "count": 0.083333
+        },
+        {
+          "value": "47.9 to 49.85",
+          "count": 0.166667
+        },
+        {
+          "value": "49.85 to 51.8",
+          "count": 0.166667
+        },
+        {
+          "value": "51.8 to 53.75",
+          "count": 0.166667
+        },
+        {
+          "value": "53.75 to 55.7",
+          "count": 0.166667
+        },
+        {
+          "value": "55.7 to 57.65",
+          "count": 0.0
+        },
+        {
+          "value": "57.65 to 59.6",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Total number of pupils achieving grades 4 or above in English and Mathematics GCSEs",
       "data_type": "integer",
-      "value_distribution": {
-        "313.45 to 873.6": 0.5,
-        "873.6 to 1428.2": 0.083333,
-        "1428.2 to 1982.8": 0.083333,
-        "1982.8 to 2537.4": 0.0,
-        "2537.4 to 3092.0": 0.083333,
-        "3092.0 to 3646.6": 0.083333,
-        "3646.6 to 4201.2": 0.0,
-        "4201.2 to 4755.8": 0.083333,
-        "4755.8 to 5310.4": 0.0,
-        "5310.4 to 5865.0": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "313.45 to 873.6",
+          "count": 0.5
+        },
+        {
+          "value": "873.6 to 1428.2",
+          "count": 0.083333
+        },
+        {
+          "value": "1428.2 to 1982.8",
+          "count": 0.083333
+        },
+        {
+          "value": "1982.8 to 2537.4",
+          "count": 0.0
+        },
+        {
+          "value": "2537.4 to 3092.0",
+          "count": 0.083333
+        },
+        {
+          "value": "3092.0 to 3646.6",
+          "count": 0.083333
+        },
+        {
+          "value": "3646.6 to 4201.2",
+          "count": 0.0
+        },
+        {
+          "value": "4201.2 to 4755.8",
+          "count": 0.083333
+        },
+        {
+          "value": "4755.8 to 5310.4",
+          "count": 0.0
+        },
+        {
+          "value": "5310.4 to 5865.0",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Percentage of pupils achieving grades 4 or above in English and Mathematics GCSEs",
       "data_type": "floating",
-      "value_distribution": {
-        "60.88 to 62.52": 0.166667,
-        "62.52 to 64.14": 0.0,
-        "64.14 to 65.76": 0.0,
-        "65.76 to 67.38": 0.0,
-        "67.38 to 69.0": 0.333333,
-        "69.0 to 70.62": 0.083333,
-        "70.62 to 72.24": 0.25,
-        "72.24 to 73.86": 0.083333,
-        "73.86 to 75.48": 0.0,
-        "75.48 to 77.1": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "60.88 to 62.52",
+          "count": 0.166667
+        },
+        {
+          "value": "62.52 to 64.14",
+          "count": 0.0
+        },
+        {
+          "value": "64.14 to 65.76",
+          "count": 0.0
+        },
+        {
+          "value": "65.76 to 67.38",
+          "count": 0.0
+        },
+        {
+          "value": "67.38 to 69.0",
+          "count": 0.333333
+        },
+        {
+          "value": "69.0 to 70.62",
+          "count": 0.083333
+        },
+        {
+          "value": "70.62 to 72.24",
+          "count": 0.25
+        },
+        {
+          "value": "72.24 to 73.86",
+          "count": 0.083333
+        },
+        {
+          "value": "73.86 to 75.48",
+          "count": 0.0
+        },
+        {
+          "value": "75.48 to 77.1",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Total number of pupils entering the English Baccalaureate",
       "data_type": "integer",
-      "value_distribution": {
-        "194.63 to 534.9": 0.5,
-        "534.9 to 871.8": 0.166667,
-        "871.8 to 1208.7": 0.083333,
-        "1208.7 to 1545.6": 0.0,
-        "1545.6 to 1882.5": 0.0,
-        "1882.5 to 2219.4": 0.083333,
-        "2219.4 to 2556.3": 0.0,
-        "2556.3 to 2893.2": 0.083333,
-        "2893.2 to 3230.1": 0.0,
-        "3230.1 to 3567.0": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "194.63 to 534.9",
+          "count": 0.5
+        },
+        {
+          "value": "534.9 to 871.8",
+          "count": 0.166667
+        },
+        {
+          "value": "871.8 to 1208.7",
+          "count": 0.083333
+        },
+        {
+          "value": "1208.7 to 1545.6",
+          "count": 0.0
+        },
+        {
+          "value": "1545.6 to 1882.5",
+          "count": 0.0
+        },
+        {
+          "value": "1882.5 to 2219.4",
+          "count": 0.083333
+        },
+        {
+          "value": "2219.4 to 2556.3",
+          "count": 0.0
+        },
+        {
+          "value": "2556.3 to 2893.2",
+          "count": 0.083333
+        },
+        {
+          "value": "2893.2 to 3230.1",
+          "count": 0.0
+        },
+        {
+          "value": "3230.1 to 3567.0",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Percentage of pupils entering the English Baccalaureate",
       "data_type": "floating",
-      "value_distribution": {
-        "23.58 to 25.76": 0.083333,
-        "25.76 to 27.92": 0.083333,
-        "27.92 to 30.08": 0.083333,
-        "30.08 to 32.24": 0.0,
-        "32.24 to 34.4": 0.083333,
-        "34.4 to 36.56": 0.166667,
-        "36.56 to 38.72": 0.083333,
-        "38.72 to 40.88": 0.0,
-        "40.88 to 43.04": 0.166667,
-        "43.04 to 45.2": 0.25
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "23.58 to 25.76",
+          "count": 0.083333
+        },
+        {
+          "value": "25.76 to 27.92",
+          "count": 0.083333
+        },
+        {
+          "value": "27.92 to 30.08",
+          "count": 0.083333
+        },
+        {
+          "value": "30.08 to 32.24",
+          "count": 0.0
+        },
+        {
+          "value": "32.24 to 34.4",
+          "count": 0.083333
+        },
+        {
+          "value": "34.4 to 36.56",
+          "count": 0.166667
+        },
+        {
+          "value": "36.56 to 38.72",
+          "count": 0.083333
+        },
+        {
+          "value": "38.72 to 40.88",
+          "count": 0.0
+        },
+        {
+          "value": "40.88 to 43.04",
+          "count": 0.166667
+        },
+        {
+          "value": "43.04 to 45.2",
+          "count": 0.25
+        }
+      ]
     },
     {
       "name": "Total EBacc APS score of pupils",
       "data_type": "floating",
-      "value_distribution": {
-        "1943.96 to 5435.3": 0.5,
-        "5435.3 to 8892.07": 0.083333,
-        "8892.07 to 12348.84": 0.083333,
-        "12348.84 to 15805.61": 0.083333,
-        "15805.61 to 19262.38": 0.0,
-        "19262.38 to 22719.15": 0.083333,
-        "22719.15 to 26175.92": 0.0,
-        "26175.92 to 29632.69": 0.083333,
-        "29632.69 to 33089.46": 0.0,
-        "33089.46 to 36546.23": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "1943.96 to 5435.3",
+          "count": 0.5
+        },
+        {
+          "value": "5435.3 to 8892.07",
+          "count": 0.083333
+        },
+        {
+          "value": "8892.07 to 12348.84",
+          "count": 0.083333
+        },
+        {
+          "value": "12348.84 to 15805.61",
+          "count": 0.083333
+        },
+        {
+          "value": "15805.61 to 19262.38",
+          "count": 0.0
+        },
+        {
+          "value": "19262.38 to 22719.15",
+          "count": 0.083333
+        },
+        {
+          "value": "22719.15 to 26175.92",
+          "count": 0.0
+        },
+        {
+          "value": "26175.92 to 29632.69",
+          "count": 0.083333
+        },
+        {
+          "value": "29632.69 to 33089.46",
+          "count": 0.0
+        },
+        {
+          "value": "33089.46 to 36546.23",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Average EBacc APS score per pupil",
       "data_type": "floating",
-      "value_distribution": {
-        "3.66 to 3.77": 0.083333,
-        "3.77 to 3.88": 0.083333,
-        "3.88 to 3.99": 0.0,
-        "3.99 to 4.1": 0.083333,
-        "4.1 to 4.21": 0.166667,
-        "4.21 to 4.32": 0.166667,
-        "4.32 to 4.43": 0.166667,
-        "4.43 to 4.54": 0.166667,
-        "4.54 to 4.65": 0.0,
-        "4.65 to 4.76": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "3.66 to 3.77",
+          "count": 0.083333
+        },
+        {
+          "value": "3.77 to 3.88",
+          "count": 0.083333
+        },
+        {
+          "value": "3.88 to 3.99",
+          "count": 0.0
+        },
+        {
+          "value": "3.99 to 4.1",
+          "count": 0.083333
+        },
+        {
+          "value": "4.1 to 4.21",
+          "count": 0.166667
+        },
+        {
+          "value": "4.21 to 4.32",
+          "count": 0.166667
+        },
+        {
+          "value": "4.32 to 4.43",
+          "count": 0.166667
+        },
+        {
+          "value": "4.43 to 4.54",
+          "count": 0.166667
+        },
+        {
+          "value": "4.54 to 4.65",
+          "count": 0.0
+        },
+        {
+          "value": "4.65 to 4.76",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Total number of pupils achieving the English Baccalaureate (grades 5 or above in English and maths, A*-C in unreformed subjects)",
       "data_type": "integer",
-      "value_distribution": {
-        "95.18 to 279.4": 0.5,
-        "279.4 to 461.8": 0.083333,
-        "461.8 to 644.2": 0.166667,
-        "644.2 to 826.6": 0.0,
-        "826.6 to 1009.0": 0.083333,
-        "1009.0 to 1191.4": 0.083333,
-        "1191.4 to 1373.8": 0.0,
-        "1373.8 to 1556.2": 0.0,
-        "1556.2 to 1738.6": 0.0,
-        "1738.6 to 1921.0": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "95.18 to 279.4",
+          "count": 0.5
+        },
+        {
+          "value": "279.4 to 461.8",
+          "count": 0.083333
+        },
+        {
+          "value": "461.8 to 644.2",
+          "count": 0.166667
+        },
+        {
+          "value": "644.2 to 826.6",
+          "count": 0.0
+        },
+        {
+          "value": "826.6 to 1009.0",
+          "count": 0.083333
+        },
+        {
+          "value": "1009.0 to 1191.4",
+          "count": 0.083333
+        },
+        {
+          "value": "1191.4 to 1373.8",
+          "count": 0.0
+        },
+        {
+          "value": "1373.8 to 1556.2",
+          "count": 0.0
+        },
+        {
+          "value": "1556.2 to 1738.6",
+          "count": 0.0
+        },
+        {
+          "value": "1738.6 to 1921.0",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Percentage of pupils achieving the English Baccalaureate (grades 5 or above in English and maths, A*-C in unreformed subjects)",
       "data_type": "floating",
-      "value_distribution": {
-        "13.88 to 15.6": 0.166667,
-        "15.6 to 17.3": 0.25,
-        "17.3 to 19.0": 0.083333,
-        "19.0 to 20.7": 0.0,
-        "20.7 to 22.4": 0.166667,
-        "22.4 to 24.1": 0.083333,
-        "24.1 to 25.8": 0.166667,
-        "25.8 to 27.5": 0.0,
-        "27.5 to 29.2": 0.0,
-        "29.2 to 30.9": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "13.88 to 15.6",
+          "count": 0.166667
+        },
+        {
+          "value": "15.6 to 17.3",
+          "count": 0.25
+        },
+        {
+          "value": "17.3 to 19.0",
+          "count": 0.083333
+        },
+        {
+          "value": "19.0 to 20.7",
+          "count": 0.0
+        },
+        {
+          "value": "20.7 to 22.4",
+          "count": 0.166667
+        },
+        {
+          "value": "22.4 to 24.1",
+          "count": 0.083333
+        },
+        {
+          "value": "24.1 to 25.8",
+          "count": 0.166667
+        },
+        {
+          "value": "25.8 to 27.5",
+          "count": 0.0
+        },
+        {
+          "value": "27.5 to 29.2",
+          "count": 0.0
+        },
+        {
+          "value": "29.2 to 30.9",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Total number of pupils achieving the English Baccalaureate (grades 4 or above in English and maths, A*-C in unreformed subjects)",
       "data_type": "integer",
-      "value_distribution": {
-        "133.68 to 367.9": 0.5,
-        "367.9 to 599.8": 0.083333,
-        "599.8 to 831.7": 0.166667,
-        "831.7 to 1063.6": 0.0,
-        "1063.6 to 1295.5": 0.083333,
-        "1295.5 to 1527.4": 0.0,
-        "1527.4 to 1759.3": 0.083333,
-        "1759.3 to 1991.2": 0.0,
-        "1991.2 to 2223.1": 0.0,
-        "2223.1 to 2455.0": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "133.68 to 367.9",
+          "count": 0.5
+        },
+        {
+          "value": "367.9 to 599.8",
+          "count": 0.083333
+        },
+        {
+          "value": "599.8 to 831.7",
+          "count": 0.166667
+        },
+        {
+          "value": "831.7 to 1063.6",
+          "count": 0.0
+        },
+        {
+          "value": "1063.6 to 1295.5",
+          "count": 0.083333
+        },
+        {
+          "value": "1295.5 to 1527.4",
+          "count": 0.0
+        },
+        {
+          "value": "1527.4 to 1759.3",
+          "count": 0.083333
+        },
+        {
+          "value": "1759.3 to 1991.2",
+          "count": 0.0
+        },
+        {
+          "value": "1991.2 to 2223.1",
+          "count": 0.0
+        },
+        {
+          "value": "2223.1 to 2455.0",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "Percentage of pupils achieving the English Baccalaureate (grades 4 or above in English and maths, A*-C in unreformed subjects)",
       "data_type": "floating",
-      "value_distribution": {
-        "17.88 to 19.94": 0.083333,
-        "19.94 to 21.98": 0.333333,
-        "21.98 to 24.02": 0.083333,
-        "24.02 to 26.06": 0.0,
-        "26.06 to 28.1": 0.0,
-        "28.1 to 30.14": 0.166667,
-        "30.14 to 32.18": 0.25,
-        "32.18 to 34.22": 0.0,
-        "34.22 to 36.26": 0.0,
-        "36.26 to 38.3": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "17.88 to 19.94",
+          "count": 0.083333
+        },
+        {
+          "value": "19.94 to 21.98",
+          "count": 0.333333
+        },
+        {
+          "value": "21.98 to 24.02",
+          "count": 0.083333
+        },
+        {
+          "value": "24.02 to 26.06",
+          "count": 0.0
+        },
+        {
+          "value": "26.06 to 28.1",
+          "count": 0.0
+        },
+        {
+          "value": "28.1 to 30.14",
+          "count": 0.166667
+        },
+        {
+          "value": "30.14 to 32.18",
+          "count": 0.25
+        },
+        {
+          "value": "32.18 to 34.22",
+          "count": 0.0
+        },
+        {
+          "value": "34.22 to 36.26",
+          "count": 0.0
+        },
+        {
+          "value": "36.26 to 38.3",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "t_inp8calc",
       "data_type": "integer",
-      "value_distribution": {
-        "419.37 to 1189.6": 0.5,
-        "1189.6 to 1952.2": 0.083333,
-        "1952.2 to 2714.8": 0.083333,
-        "2714.8 to 3477.4": 0.0,
-        "3477.4 to 4240.0": 0.083333,
-        "4240.0 to 5002.6": 0.0,
-        "5002.6 to 5765.2": 0.083333,
-        "5765.2 to 6527.8": 0.0,
-        "6527.8 to 7290.4": 0.083333,
-        "7290.4 to 8053.0": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "419.37 to 1189.6",
+          "count": 0.5
+        },
+        {
+          "value": "1189.6 to 1952.2",
+          "count": 0.083333
+        },
+        {
+          "value": "1952.2 to 2714.8",
+          "count": 0.083333
+        },
+        {
+          "value": "2714.8 to 3477.4",
+          "count": 0.0
+        },
+        {
+          "value": "3477.4 to 4240.0",
+          "count": 0.083333
+        },
+        {
+          "value": "4240.0 to 5002.6",
+          "count": 0.0
+        },
+        {
+          "value": "5002.6 to 5765.2",
+          "count": 0.083333
+        },
+        {
+          "value": "5765.2 to 6527.8",
+          "count": 0.0
+        },
+        {
+          "value": "6527.8 to 7290.4",
+          "count": 0.083333
+        },
+        {
+          "value": "7290.4 to 8053.0",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "t_p8score",
       "data_type": "floating",
-      "value_distribution": {
-        "-1345.08 to -1090.46": 0.083333,
-        "-1090.46 to -838.36": 0.0,
-        "-838.36 to -586.26": 0.0,
-        "-586.26 to -334.16": 0.083333,
-        "-334.16 to -82.06": 0.083333,
-        "-82.06 to 170.04": 0.5,
-        "170.04 to 422.14": 0.166667,
-        "422.14 to 674.24": 0.0,
-        "674.24 to 926.34": 0.0,
-        "926.34 to 1178.44": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "-1345.08 to -1090.46",
+          "count": 0.083333
+        },
+        {
+          "value": "-1090.46 to -838.36",
+          "count": 0.0
+        },
+        {
+          "value": "-838.36 to -586.26",
+          "count": 0.0
+        },
+        {
+          "value": "-586.26 to -334.16",
+          "count": 0.083333
+        },
+        {
+          "value": "-334.16 to -82.06",
+          "count": 0.083333
+        },
+        {
+          "value": "-82.06 to 170.04",
+          "count": 0.5
+        },
+        {
+          "value": "170.04 to 422.14",
+          "count": 0.166667
+        },
+        {
+          "value": "422.14 to 674.24",
+          "count": 0.0
+        },
+        {
+          "value": "674.24 to 926.34",
+          "count": 0.0
+        },
+        {
+          "value": "926.34 to 1178.44",
+          "count": 0.083333
+        }
+      ]
     },
     {
       "name": "avg_p8score",
       "data_type": "floating",
-      "value_distribution": {
-        "-0.26 to -0.22": 0.166667,
-        "-0.22 to -0.17": 0.083333,
-        "-0.17 to -0.13": 0.0,
-        "-0.13 to -0.08": 0.0,
-        "-0.08 to -0.04": 0.083333,
-        "-0.04 to 0.0": 0.0,
-        "0.0 to 0.05": 0.166667,
-        "0.05 to 0.09": 0.166667,
-        "0.09 to 0.14": 0.083333,
-        "0.14 to 0.18": 0.25
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "-0.26 to -0.22",
+          "count": 0.166667
+        },
+        {
+          "value": "-0.22 to -0.17",
+          "count": 0.083333
+        },
+        {
+          "value": "-0.17 to -0.13",
+          "count": 0.0
+        },
+        {
+          "value": "-0.13 to -0.08",
+          "count": 0.0
+        },
+        {
+          "value": "-0.08 to -0.04",
+          "count": 0.083333
+        },
+        {
+          "value": "-0.04 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.05",
+          "count": 0.166667
+        },
+        {
+          "value": "0.05 to 0.09",
+          "count": 0.166667
+        },
+        {
+          "value": "0.09 to 0.14",
+          "count": 0.083333
+        },
+        {
+          "value": "0.14 to 0.18",
+          "count": 0.25
+        }
+      ]
     },
     {
       "name": "p8score_CI_low",
       "data_type": "floating",
-      "value_distribution": {
-        "-0.35 to -0.3": 0.083333,
-        "-0.3 to -0.26": 0.083333,
-        "-0.26 to -0.21": 0.083333,
-        "-0.21 to -0.16": 0.0,
-        "-0.16 to -0.12": 0.083333,
-        "-0.12 to -0.07": 0.083333,
-        "-0.07 to -0.02": 0.083333,
-        "-0.02 to 0.03": 0.25,
-        "0.03 to 0.07": 0.083333,
-        "0.07 to 0.12": 0.166667
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "-0.35 to -0.3",
+          "count": 0.083333
+        },
+        {
+          "value": "-0.3 to -0.26",
+          "count": 0.083333
+        },
+        {
+          "value": "-0.26 to -0.21",
+          "count": 0.083333
+        },
+        {
+          "value": "-0.21 to -0.16",
+          "count": 0.0
+        },
+        {
+          "value": "-0.16 to -0.12",
+          "count": 0.083333
+        },
+        {
+          "value": "-0.12 to -0.07",
+          "count": 0.083333
+        },
+        {
+          "value": "-0.07 to -0.02",
+          "count": 0.083333
+        },
+        {
+          "value": "-0.02 to 0.03",
+          "count": 0.25
+        },
+        {
+          "value": "0.03 to 0.07",
+          "count": 0.083333
+        },
+        {
+          "value": "0.07 to 0.12",
+          "count": 0.166667
+        }
+      ]
     },
     {
       "name": "p8score_CI_upp",
       "data_type": "floating",
-      "value_distribution": {
-        "-0.18 to -0.13": 0.25,
-        "-0.13 to -0.08": 0.0,
-        "-0.08 to -0.03": 0.0,
-        "-0.03 to 0.02": 0.0,
-        "0.02 to 0.07": 0.166667,
-        "0.07 to 0.12": 0.083333,
-        "0.12 to 0.17": 0.166667,
-        "0.17 to 0.22": 0.166667,
-        "0.22 to 0.27": 0.083333,
-        "0.27 to 0.32": 0.083333
-      },
-      "proportion_in_top_10": 1.0
+      "value_distribution": [
+        {
+          "value": "-0.18 to -0.13",
+          "count": 0.25
+        },
+        {
+          "value": "-0.13 to -0.08",
+          "count": 0.0
+        },
+        {
+          "value": "-0.08 to -0.03",
+          "count": 0.0
+        },
+        {
+          "value": "-0.03 to 0.02",
+          "count": 0.0
+        },
+        {
+          "value": "0.02 to 0.07",
+          "count": 0.166667
+        },
+        {
+          "value": "0.07 to 0.12",
+          "count": 0.083333
+        },
+        {
+          "value": "0.12 to 0.17",
+          "count": 0.166667
+        },
+        {
+          "value": "0.17 to 0.22",
+          "count": 0.166667
+        },
+        {
+          "value": "0.22 to 0.27",
+          "count": 0.083333
+        },
+        {
+          "value": "0.27 to 0.32",
+          "count": 0.083333
+        }
+      ]
     }
   ]
 }
