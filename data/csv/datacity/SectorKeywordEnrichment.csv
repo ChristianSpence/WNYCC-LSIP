@@ -1,0 +1,281 @@
+Thing,Count
+beccs,9.19
+flood resilience,2.03
+demand side response,1.19
+textile,0.92
+biologic,0.83
+biosimilar,0.82
+flood defence,0.71
+food manufacturing,0.66
+recyling,0.65
+software and data,0.59
+contaminated land,0.57
+data insight,0.54
+flood risk,0.53
+pre-fabrication,0.48
+eco house,0.42
+offsite construction,0.41
+flameproof,0.39
+online identity,0.36
+customer journey,0.34
+regenerative medicine,0.33
+solid wall insulation,0.32
+connected communities,0.29
+digital supply chain,0.27
+biomass,0.26
+coatings,0.25
+factory,0.24
+aerosol,0.23
+low emission vehicles,0.23
+manufacturing,0.22
+waste water,0.22
+energy saving,0.21
+water treatment,0.19
+carbon fibre,0.19
+cad,0.18
+ev,0.18
+prefab,0.17
+insulation,0.16
+nutraceutical,0.15
+bim,0.14
+heat recovery,0.14
+environmental management,0.13
+hazardous waste,0.13
+carbon capture and storage,0.12
+electric vehicle,0.11
+pollution control,0.11
+carbon markets,0.11
+lighting,0.1
+concrete,0.1
+protective,0.1
+hydroelectric,0.1
+pharmaceutical manufacturing,0.1
+hybrid vehicle,0.1
+waste,0.09
+noise,0.09
+ecommerce,0.09
+energy efficiency,0.09
+plug-in,0.09
+surface,0.08
+chemicals,0.08
+elderly,0.08
+wind power,0.08
+gasification,0.08
+materials,0.07
+testing,0.07
+branding,0.07
+membranes,0.07
+energy from waste,0.07
+water,0.06
+wifi,0.06
+health & social care,0.06
+land remediation,0.06
+design,0.05
+care,0.05
+storage,0.05
+geothermal,0.05
+green infrastructure,0.05
+glp,0.05
+paper,0.04
+sensors,0.04
+online payments,0.04
+telematics,0.04
+industry,0.03
+environmental,0.03
+battery,0.03
+renewable energy,0.03
+environmental consultancy,0.03
+graphene,0.03
+clean tech,0.03
+dsr,0.03
+marketing,0.02
+construction,0.02
+user experience,0.02
+nuclear,0.02
+health and social care,0.02
+heat pump,0.02
+composites,0.02
+mhra,0.02
+biometrics,0.02
+diode,0.02
+heat pumps,0.01
+3d printing,0.01
+land management,0.01
+compliance,0
+engineering,0
+social media,0
+payments,0
+healthcare,0
+data management,0
+cgi,0
+energy,-0.01
+wind,-0.01
+fda,-0.01
+insurance,-0.02
+age,-0.02
+hybrid,-0.02
+solar,-0.02
+health care,-0.02
+diagnostics,-0.02
+health tech,-0.02
+creative,-0.03
+e-commerce,-0.03
+low carbon,-0.03
+chp,-0.03
+energy generation,-0.04
+prefabrication,-0.04
+data modelling,-0.04
+digital,-0.05
+generation,-0.05
+advertising,-0.05
+energy management,-0.05
+sustainable building,-0.05
+software,-0.06
+animation,-0.06
+ageing,-0.06
+building site,-0.06
+data architecture,-0.06
+media,-0.07
+sustainability,-0.07
+mobility,-0.07
+waste management,-0.07
+medical technologies,-0.07
+identity,-0.08
+video content,-0.08
+automation,-0.09
+resilience,-0.09
+content creation,-0.09
+augmented reality,-0.09
+paas,-0.09
+innovative building,-0.09
+digital health,-0.1
+carbon capture,-0.1
+platforms,-0.11
+hardware,-0.11
+drug,-0.11
+sports betting,-0.11
+pharmaceuticals,-0.12
+additive manufacturing,-0.12
+medicine,-0.13
+gaming,-0.13
+waste treatment,-0.13
+hydropower,-0.13
+aggregators,-0.13
+agri-tech,-0.13
+electronics,-0.14
+connectivity,-0.14
+data analytics,-0.14
+solar power,-0.14
+advanced manufacturing,-0.14
+hydrogen,-0.15
+cloud computing,-0.15
+bioscience,-0.15
+bioavailability,-0.15
+saas,-0.16
+mobile apps,-0.16
+clean energy,-0.16
+circular economy,-0.16
+gamification,-0.16
+innovative construction,-0.16
+land manager,-0.16
+maas,-0.16
+eco home,-0.16
+api,-0.17
+energy storage,-0.17
+edtech,-0.17
+driverless,-0.17
+telehealth,-0.17
+healthtech,-0.17
+peatland,-0.17
+authentication,-0.18
+5g,-0.18
+air pollution,-0.18
+sustainable construction,-0.18
+connected devices,-0.18
+energy intensive,-0.18
+broadcast,-0.19
+forestry,-0.19
+vr,-0.19
+big data,-0.19
+technology development,-0.19
+ccs,-0.19
+software development,-0.21
+cyber,-0.22
+climate change,-0.22
+renewables,-0.22
+virtual reality,-0.22
+video games,-0.22
+old age,-0.22
+cmc,-0.22
+asset management,-0.23
+pharma,-0.23
+data centre,-0.23
+manufacturing technologies,-0.23
+ar,-0.24
+biotech,-0.24
+metadata,-0.24
+energy conservation,-0.24
+resource efficiency,-0.24
+platform as a service,-0.24
+cyber security,-0.25
+photovoltaic,-0.25
+district heating,-0.25
+open data,-0.25
+ai,-0.26
+robotics,-0.26
+data mining,-0.26
+digital transformation,-0.27
+human machine,-0.27
+management consulting,-0.28
+bitcoin,-0.28
+medtech,-0.28
+zero carbon,-0.29
+software as a service,-0.29
+computer programming,-0.29
+iot,-0.31
+autonomous,-0.31
+smart city,-0.31
+insurtech,-0.31
+heat networks,-0.31
+marketing and advertising,-0.32
+smart grid,-0.32
+ageing population,-0.32
+aggregation,-0.33
+advanced materials,-0.33
+alternative fuels,-0.33
+apis,-0.34
+open banking,-0.35
+wearables,-0.35
+nature conservation,-0.35
+crypto,-0.36
+online trading,-0.36
+machine learning,-0.37
+internet of things,-0.37
+health innovation,-0.37
+artificial intelligence,-0.38
+materials science,-0.38
+aml,-0.39
+cryptocurrencies,-0.39
+smart systems,-0.39
+enterprise mobility,-0.39
+deep learning,-0.4
+passive house,-0.4
+non-hazardous waste,-0.4
+biomarkers,-0.41
+industry 4.0,-0.43
+ethereum,-0.44
+natural capital,-0.45
+fintech,-0.46
+visual effects,-0.46
+mobile payments,-0.48
+proptech,-0.49
+language processing,-0.49
+precision medicine,-0.49
+kyc,-0.5
+transport hub,-0.5
+medical affairs,-0.5
+building technology,-0.52
+data science,-0.54
+blockchain,-0.56
+autonomous vehicles,-0.56
+green finance,-0.62

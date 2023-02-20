@@ -1,0 +1,49 @@
+Thing,ID,Count,Quotient
+Business Support Services,RTIC0069,41226,2.49
+Life Sciences,RTIC0078,27240,1.07
+Net Zero,RTIC0055,19915,0.91
+Research and Consulting - Physical Sciences and Engineering,RTIC0070,19557,1.78
+Data Infrastructure,RTIC0007,15458,1.25
+Supply Chain Logistics,RTIC0031,14373,1.3
+Legal Services,RTIC0076,11821,1.37
+Advanced Manufacturing,RTIC0065,10662,1.28
+Modular Construction,RTIC0063,9405,9.05
+CleanTech,RTIC0047,8041,2.13
+FinTech,RTIC0052,7147,0.16
+Software as a Service (SaaS),RTIC0029,6715,1.6
+Digital Creative Industries,RTIC0064,5957,3.31
+Energy Generation,RTIC0011,5641,2.67
+Sensors,RTIC0030,4895,2.48
+Agency Market,RTIC0072,4818,1.85
+Electronics Manufacturing,RTIC0067,4601,0.86
+MedTech,RTIC0058,4553,0.65
+Software Development,RTIC0079,4140,2.28
+Cyber,RTIC0006,4073,0.54
+Omics,RTIC0026,3633,2.82
+Pharma,RTIC0062,3622,0.19
+Food Tech,RTIC0057,3471,0.57
+Land Remediation,RTIC0075,3446,2.21
+Space Economy,RTIC0066,3139,0.35
+Media and Publishing,RTIC0068,3056,1.32
+Telecommunications,RTIC0056,2337,0.55
+Advanced Materials,RTIC0034,2322,0.67
+Rehabilitation,RTIC0073,2238,0.75
+Photonics,RTIC0027,1467,0.93
+Geospatial Economy,RTIC0008,1393,0.98
+EdTech,RTIC0010,1275,0.58
+Energy Management,RTIC0012,1260,0.84
+Energy Storage,RTIC0013,1240,2.4
+E-Commerce,RTIC0074,1181,1.22
+Immersive Technologies,RTIC0018,1075,2.16
+AgriTech,RTIC0003,948,1.11
+Design and Modelling Technologies,RTIC0059,824,0.86
+Artificial Intelligence,RTIC0004,792,0.2
+Computer Hardware,RTIC0005,752,0.64
+Gaming,RTIC0016,606,0.53
+Data Intermediaries,RTIC0077,400,0.61
+AdTech,RTIC0001,356,0.27
+Streaming Economy,RTIC0060,259,0.24
+Internet of Things,RTIC0020,257,0.38
+Cryptocurrency Economy,RTIC0061,194,0.32
+Wearables and Quantified Self,RTIC0033,187,0.42
+Quantum Economy,RTIC0051,67,0.1
