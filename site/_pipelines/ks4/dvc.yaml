@@ -1,0 +1,10 @@
+stages:
+  prep-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/ks4/prepare.py wycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/ks4/prepare.py
+      - data/csv/ks4/ks4.csv
+    outs:
+      - site/wycc/supply/_data/ks4:
+          cache: false
