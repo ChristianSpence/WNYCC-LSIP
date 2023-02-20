@@ -25,3 +25,5 @@ li <- lapply(li_sheets, function(sht) {
 for (i in seq_along(li)) {
   readr::write_csv(li[[i]], paste0("data/csv/linkedin/", names(li)[i], ".csv"))
 }
+
+
