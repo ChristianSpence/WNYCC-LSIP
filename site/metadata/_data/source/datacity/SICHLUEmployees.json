@@ -1,0 +1,125 @@
+{
+  "path": "data/csv/datacity/SICHLUEmployees.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "450.02 to 50745.9",
+          "count": 0.47619
+        },
+        {
+          "value": "50745.9 to 100543.8",
+          "count": 0.190476
+        },
+        {
+          "value": "100543.8 to 150341.7",
+          "count": 0.095238
+        },
+        {
+          "value": "150341.7 to 200139.6",
+          "count": 0.142857
+        },
+        {
+          "value": "200139.6 to 249937.5",
+          "count": 0.0
+        },
+        {
+          "value": "249937.5 to 299735.4",
+          "count": 0.0
+        },
+        {
+          "value": "299735.4 to 349533.3",
+          "count": 0.0
+        },
+        {
+          "value": "349533.3 to 399331.2",
+          "count": 0.047619
+        },
+        {
+          "value": "399331.2 to 449129.1",
+          "count": 0.0
+        },
+        {
+          "value": "449129.1 to 498927.0",
+          "count": 0.047619
+        }
+      ]
+    },
+    {
+      "name": "Quotient",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "0.14 to 0.38",
+          "count": 0.095238
+        },
+        {
+          "value": "0.38 to 0.61",
+          "count": 0.047619
+        },
+        {
+          "value": "0.61 to 0.85",
+          "count": 0.190476
+        },
+        {
+          "value": "0.85 to 1.09",
+          "count": 0.238095
+        },
+        {
+          "value": "1.09 to 1.32",
+          "count": 0.238095
+        },
+        {
+          "value": "1.32 to 1.56",
+          "count": 0.095238
+        },
+        {
+          "value": "1.56 to 1.8",
+          "count": 0.047619
+        },
+        {
+          "value": "1.8 to 2.04",
+          "count": 0.0
+        },
+        {
+          "value": "2.04 to 2.27",
+          "count": 0.0
+        },
+        {
+          "value": "2.27 to 2.51",
+          "count": 0.047619
+        }
+      ]
+    }
+  ]
+}

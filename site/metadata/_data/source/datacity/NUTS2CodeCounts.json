@@ -1,0 +1,96 @@
+{
+  "path": "data/csv/datacity/NUTS2CodeCounts.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "TLC1",
+        "TLC2",
+        "TLD1",
+        "TLD3",
+        "TLD4",
+        "TLD6",
+        "TLD7",
+        "TLE1",
+        "TLE2",
+        "TLE3",
+        "TLE4",
+        "TLF1",
+        "TLF2",
+        "TLF3",
+        "TLG1",
+        "TLG2",
+        "TLG3",
+        "TLH1",
+        "TLH2",
+        "TLH3",
+        "TLI3",
+        "TLI4",
+        "TLI5",
+        "TLI6",
+        "TLI7",
+        "TLJ1",
+        "TLJ2",
+        "TLJ3",
+        "TLJ4",
+        "TLK1",
+        "TLK2",
+        "TLK4",
+        "TLL1",
+        "TLL2",
+        "TLM7",
+        "TLM8",
+        "TLM9",
+        "TLN0"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "-151.06 to 15207.1",
+          "count": 0.947368
+        },
+        {
+          "value": "15207.1 to 30413.2",
+          "count": 0.0
+        },
+        {
+          "value": "30413.2 to 45619.3",
+          "count": 0.0
+        },
+        {
+          "value": "45619.3 to 60825.4",
+          "count": 0.026316
+        },
+        {
+          "value": "60825.4 to 76031.5",
+          "count": 0.0
+        },
+        {
+          "value": "76031.5 to 91237.6",
+          "count": 0.0
+        },
+        {
+          "value": "91237.6 to 106443.7",
+          "count": 0.0
+        },
+        {
+          "value": "106443.7 to 121649.8",
+          "count": 0.0
+        },
+        {
+          "value": "121649.8 to 136855.9",
+          "count": 0.0
+        },
+        {
+          "value": "136855.9 to 152062.0",
+          "count": 0.026316
+        }
+      ]
+    }
+  ]
+}

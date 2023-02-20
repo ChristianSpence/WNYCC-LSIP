@@ -1,0 +1,346 @@
+{
+  "path": "data/csv/datacity/EmployeesByLA.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "Angus",
+        "Ards and North Down",
+        "Armagh City, Banbridge and Craigavon",
+        "Barking and Dagenham",
+        "Barnet",
+        "Barnsley",
+        "Basildon",
+        "Basingstoke and Deane",
+        "Bath and North East Somerset",
+        "Bedford",
+        "Bexley",
+        "Birmingham",
+        "Blackburn with Darwen",
+        "Bolsover",
+        "Bournemouth, Christchurch and Poole",
+        "Bradford",
+        "Braintree",
+        "Brent",
+        "Brighton and Hove",
+        "Bristol, City of",
+        "Broadland",
+        "Bromley",
+        "Burnley",
+        "Caerphilly",
+        "Calderdale",
+        "Cambridge",
+        "Camden",
+        "Cardiff",
+        "Causeway Coast and Glens",
+        "Central Bedfordshire",
+        "Cheshire East",
+        "Chorley",
+        "City of Edinburgh",
+        "City of London",
+        "Colchester",
+        "County Durham",
+        "Craven",
+        "Croydon",
+        "Dacorum",
+        "Darlington",
+        "Dartford",
+        "Derby",
+        "Doncaster",
+        "Dorset",
+        "Ealing",
+        "East Ayrshire",
+        "East Hampshire",
+        "East Hertfordshire",
+        "East Lindsey",
+        "East Riding of Yorkshire",
+        "Eastbourne",
+        "Enfield",
+        "Epsom and Ewell",
+        "Exeter",
+        "Fareham",
+        "Flintshire",
+        "Glasgow City",
+        "Gravesham",
+        "Greenwich",
+        "Guildford",
+        "Hackney",
+        "Halton",
+        "Hambleton",
+        "Harborough",
+        "Harrogate",
+        "Harrow",
+        "Hart",
+        "Havering",
+        "Horsham",
+        "Hyndburn",
+        "Islington",
+        "Kensington and Chelsea",
+        "Kingston upon Hull, City of",
+        "Kirklees",
+        "Leeds",
+        "Leicester",
+        "Lewisham",
+        "Liverpool",
+        "Maidstone",
+        "Manchester",
+        "Medway",
+        "Merton",
+        "Mole Valley",
+        "Newark and Sherwood",
+        "Newham",
+        "Newport",
+        "Newry, Mourne and Down",
+        "North East Derbyshire",
+        "North Hertfordshire",
+        "North Kesteven",
+        "North Lanarkshire",
+        "North Northamptonshire",
+        "North Tyneside",
+        "Northumberland",
+        "Norwich",
+        "Nottingham",
+        "Pendle",
+        "Perth and Kinross",
+        "Preston",
+        "Reading",
+        "Rhondda Cynon Taf",
+        "Richmond upon Thames",
+        "Richmondshire",
+        "Runnymede",
+        "Rushcliffe",
+        "Ryedale",
+        "Sandwell",
+        "Scarborough",
+        "Selby",
+        "Sevenoaks",
+        "Sheffield",
+        "Slough",
+        "South Cambridgeshire",
+        "South Gloucestershire",
+        "South Lakeland",
+        "South Norfolk",
+        "South Oxfordshire",
+        "South Somerset",
+        "South Staffordshire",
+        "Southend-on-Sea",
+        "Southwark",
+        "St Albans",
+        "Stafford",
+        "Stoke-on-Trent",
+        "Sunderland",
+        "Swansea",
+        "Swindon",
+        "Tandridge",
+        "Teignbridge",
+        "Tewkesbury",
+        "Three Rivers",
+        "Thurrock",
+        "Torbay",
+        "Torfaen",
+        "Tower Hamlets",
+        "Trafford",
+        "Uttlesford",
+        "Wakefield",
+        "Walsall",
+        "Wandsworth",
+        "Warrington",
+        "West Lothian",
+        "West Northamptonshire",
+        "West Suffolk",
+        "Westminster",
+        "Wiltshire",
+        "Windsor and Maidenhead",
+        "Wychavon",
+        "Wyre Forest",
+        "York"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "-1068.51 to 106850.9",
+          "count": 0.973333
+        },
+        {
+          "value": "106850.9 to 213701.8",
+          "count": 0.013333
+        },
+        {
+          "value": "213701.8 to 320552.7",
+          "count": 0.006667
+        },
+        {
+          "value": "320552.7 to 427403.6",
+          "count": 0.0
+        },
+        {
+          "value": "427403.6 to 534254.5",
+          "count": 0.0
+        },
+        {
+          "value": "534254.5 to 641105.4",
+          "count": 0.0
+        },
+        {
+          "value": "641105.4 to 747956.3",
+          "count": 0.0
+        },
+        {
+          "value": "747956.3 to 854807.2",
+          "count": 0.0
+        },
+        {
+          "value": "854807.2 to 961658.1",
+          "count": 0.0
+        },
+        {
+          "value": "961658.1 to 1068509.0",
+          "count": 0.006667
+        }
+      ]
+    },
+    {
+      "name": "Quotient",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.04 to 3.43",
+          "count": 0.413333
+        },
+        {
+          "value": "3.43 to 6.86",
+          "count": 0.0
+        },
+        {
+          "value": "6.86 to 10.3",
+          "count": 0.0
+        },
+        {
+          "value": "10.3 to 13.73",
+          "count": 0.0
+        },
+        {
+          "value": "13.73 to 17.16",
+          "count": 0.0
+        },
+        {
+          "value": "17.16 to 20.59",
+          "count": 0.0
+        },
+        {
+          "value": "20.59 to 24.02",
+          "count": 0.006667
+        },
+        {
+          "value": "24.02 to 27.46",
+          "count": 0.073333
+        },
+        {
+          "value": "27.46 to 30.89",
+          "count": 0.0
+        },
+        {
+          "value": "30.89 to 34.32",
+          "count": 0.006667
+        }
+      ]
+    },
+    {
+      "name": "Latitude",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "50.44 to 51.07",
+          "count": 0.073333
+        },
+        {
+          "value": "51.07 to 51.69",
+          "count": 0.366667
+        },
+        {
+          "value": "51.69 to 52.3",
+          "count": 0.1
+        },
+        {
+          "value": "52.3 to 52.92",
+          "count": 0.093333
+        },
+        {
+          "value": "52.92 to 53.54",
+          "count": 0.106667
+        },
+        {
+          "value": "53.54 to 54.16",
+          "count": 0.12
+        },
+        {
+          "value": "54.16 to 54.78",
+          "count": 0.066667
+        },
+        {
+          "value": "54.78 to 55.39",
+          "count": 0.026667
+        },
+        {
+          "value": "55.39 to 56.01",
+          "count": 0.033333
+        },
+        {
+          "value": "56.01 to 56.63",
+          "count": 0.013333
+        }
+      ]
+    },
+    {
+      "name": "Longitude",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-6.69 to -5.88",
+          "count": 0.02
+        },
+        {
+          "value": "-5.88 to -5.08",
+          "count": 0.006667
+        },
+        {
+          "value": "-5.08 to -4.28",
+          "count": 0.006667
+        },
+        {
+          "value": "-4.28 to -3.48",
+          "count": 0.053333
+        },
+        {
+          "value": "-3.48 to -2.68",
+          "count": 0.086667
+        },
+        {
+          "value": "-2.68 to -1.88",
+          "count": 0.173333
+        },
+        {
+          "value": "-1.88 to -1.08",
+          "count": 0.173333
+        },
+        {
+          "value": "-1.08 to -0.28",
+          "count": 0.18
+        },
+        {
+          "value": "-0.28 to 0.52",
+          "count": 0.24
+        },
+        {
+          "value": "0.52 to 1.32",
+          "count": 0.06
+        }
+      ]
+    }
+  ]
+}

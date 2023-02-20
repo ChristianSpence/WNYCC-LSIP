@@ -1,0 +1,75 @@
+{
+  "path": "data/csv/datacity/CompanyGrowthStages.csv",
+  "dimensions": [
+    {
+      "name": "Order",
+      "categories": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "name": "Thing",
+      "categories": [
+        "Established",
+        "Large scale-up",
+        "Scale-up",
+        "Seed",
+        "Start-up",
+        "Unicorn"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "-118.87 to 11886.5",
+          "count": 0.666667
+        },
+        {
+          "value": "11886.5 to 23773.0",
+          "count": 0.166667
+        },
+        {
+          "value": "23773.0 to 35659.5",
+          "count": 0.0
+        },
+        {
+          "value": "35659.5 to 47546.0",
+          "count": 0.0
+        },
+        {
+          "value": "47546.0 to 59432.5",
+          "count": 0.0
+        },
+        {
+          "value": "59432.5 to 71319.0",
+          "count": 0.0
+        },
+        {
+          "value": "71319.0 to 83205.5",
+          "count": 0.0
+        },
+        {
+          "value": "83205.5 to 95092.0",
+          "count": 0.0
+        },
+        {
+          "value": "95092.0 to 106978.5",
+          "count": 0.0
+        },
+        {
+          "value": "106978.5 to 118865.0",
+          "count": 0.166667
+        }
+      ]
+    }
+  ]
+}

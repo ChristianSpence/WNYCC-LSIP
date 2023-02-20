@@ -1,0 +1,125 @@
+{
+  "path": "data/csv/datacity/CountriesOfUltimateOwnershipCounts.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "840",
+        "ANGUILLA",
+        "AUSTRALIA",
+        "AUSTRIA",
+        "BAHAMAS",
+        "BELGIUM",
+        "BELIZE",
+        "BERMUDA",
+        "BULGARIA",
+        "CANADA",
+        "CAYMAN ISL.",
+        "CHANNEL ISL",
+        "CHINA",
+        "CYPRUS",
+        "CZECH REPUB",
+        "DENMARK",
+        "EGYPT",
+        "FALKLAND IS.",
+        "FINLAND",
+        "FRANCE",
+        "GERMANY",
+        "GIBRALTAR",
+        "GUERNSEY",
+        "HONG KONG",
+        "ICELAND",
+        "INDIA",
+        "IRELAND",
+        "ISLE OF MAN",
+        "ISRAEL",
+        "ITALY",
+        "JAPAN",
+        "JERSEY",
+        "KUWAIT",
+        "LEBANON",
+        "LIECHTENST.",
+        "LITHUANIA",
+        "LUXEMBOURG",
+        "MALAYSIA",
+        "MALTA",
+        "MAURITIUS",
+        "MONACO",
+        "MONGOLIA",
+        "NETHERLANDS",
+        "NEW ZEALAND",
+        "NORWAY",
+        "PANAMA",
+        "POLAND",
+        "PORTUGAL",
+        "PUERTO RICO",
+        "SCOTLAND",
+        "SEYCHELLES",
+        "SINGAPORE",
+        "SOUTH AFRICA",
+        "SPAIN",
+        "SRI LANKA",
+        "SWEDEN",
+        "SWITZERLAND",
+        "TAIWAN",
+        "THAILAND",
+        "TURKEY",
+        "U.KINGDOM",
+        "U.S.A.",
+        "UK",
+        "UNKNOWN",
+        "UNT.ARAB EM.",
+        "VIRGIN ISL.",
+        "YEMEN"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "-18.92 to 1992.9",
+          "count": 0.985294
+        },
+        {
+          "value": "1992.9 to 3984.8",
+          "count": 0.0
+        },
+        {
+          "value": "3984.8 to 5976.7",
+          "count": 0.0
+        },
+        {
+          "value": "5976.7 to 7968.6",
+          "count": 0.0
+        },
+        {
+          "value": "7968.6 to 9960.5",
+          "count": 0.0
+        },
+        {
+          "value": "9960.5 to 11952.4",
+          "count": 0.0
+        },
+        {
+          "value": "11952.4 to 13944.3",
+          "count": 0.0
+        },
+        {
+          "value": "13944.3 to 15936.2",
+          "count": 0.0
+        },
+        {
+          "value": "15936.2 to 17928.1",
+          "count": 0.0
+        },
+        {
+          "value": "17928.1 to 19920.0",
+          "count": 0.014706
+        }
+      ]
+    }
+  ]
+}

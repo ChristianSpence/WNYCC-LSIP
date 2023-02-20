@@ -1,0 +1,70 @@
+{
+  "path": "data/csv/datacity/NUTS1CodeCounts.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "TLC",
+        "TLD",
+        "TLE",
+        "TLF",
+        "TLG",
+        "TLH",
+        "TLI",
+        "TLJ",
+        "TLK",
+        "TLL",
+        "TLM",
+        "TLN"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "-195.11 to 20116.8",
+          "count": 0.916667
+        },
+        {
+          "value": "20116.8 to 40227.6",
+          "count": 0.0
+        },
+        {
+          "value": "40227.6 to 60338.4",
+          "count": 0.0
+        },
+        {
+          "value": "60338.4 to 80449.2",
+          "count": 0.0
+        },
+        {
+          "value": "80449.2 to 100560.0",
+          "count": 0.0
+        },
+        {
+          "value": "100560.0 to 120670.8",
+          "count": 0.0
+        },
+        {
+          "value": "120670.8 to 140781.6",
+          "count": 0.0
+        },
+        {
+          "value": "140781.6 to 160892.4",
+          "count": 0.0
+        },
+        {
+          "value": "160892.4 to 181003.2",
+          "count": 0.0
+        },
+        {
+          "value": "181003.2 to 201114.0",
+          "count": 0.083333
+        }
+      ]
+    }
+  ]
+}

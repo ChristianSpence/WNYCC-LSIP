@@ -70,7 +70,8 @@ class SourceFile(object):
         self.load_data()
 
         dimensions = [dimension for dimension in SourceFile.guess_dimensions(
-            self.data, overrides=self.overridden_dimensions) if dimension not in self.overridden_facts]
+            self.data, overrides=self.overridden_dimensions, facts=self.overridden_facts)]
+        print(dimensions)
         self.data.set_index(dimensions, inplace=True)
 
         dimension_metadata = [self.dimension_metadata(
@@ -92,7 +93,7 @@ class SourceFile(object):
             f.write(json.dumps(self.metadata(), indent=2))
 
     @classmethod
-    def guess_dimensions(cls, df, overrides=[]):
+    def guess_dimensions(cls, df, overrides=[], facts=[]):
         # First pass - let's check the data type
         types = [pd.api.types.infer_dtype(series) for _, series in df.items()]
         count_non_numeric = [len(series[pd.to_numeric(
@@ -116,6 +117,7 @@ class SourceFile(object):
         })
 
         model['test_forced_dimension'] = model.column_name.isin(overrides)
+        model['test_forced_fact'] = model.column_name.isin(facts)
         model['test_string_types'] = model.type == 'string'
         model['test_column_names'] = model.column_name.str.match(
             r"(average|total|number of|count of)", case=False)
@@ -131,15 +133,19 @@ class SourceFile(object):
         # Try to guess which are levels
         dimensions = model[
             (
-                model.test_forced_dimension == True
-            ) | (
-                (model.test_categorical_integers == True) &
-                ~(model.test_column_names == True)
-            ) | (
-                (model.test_string_types == True) &
-                ~(
-                    (model.test_column_names == True) |
-                    (model.test_num_as_string == True)
+                model.test_forced_fact == False
+            ) & (
+                (
+                    model.test_forced_dimension == True
+                ) | (
+                    (model.test_categorical_integers == True) &
+                    ~(model.test_column_names == True)
+                ) | (
+                    (model.test_string_types == True) &
+                    ~(
+                        (model.test_column_names == True) |
+                        (model.test_num_as_string == True)
+                    )
                 )
             )
         ]

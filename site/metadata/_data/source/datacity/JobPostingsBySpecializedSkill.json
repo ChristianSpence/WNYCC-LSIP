@@ -1,0 +1,158 @@
+{
+  "path": "data/csv/datacity/JobPostingsBySpecializedSkill.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "Account Management",
+        "Accounting",
+        "Agile Methodology",
+        "Amazon Web Services",
+        "Apple IPad",
+        "Application Programming Interface (API)",
+        "Aromatherapy",
+        "Auditing",
+        "AutoCAD",
+        "Autodesk Revit",
+        "Automation",
+        "Baking",
+        "Building Services Engineering",
+        "Business Development",
+        "Care Standards Act 2000",
+        "Cascading Style Sheets (CSS)",
+        "Civil Engineering",
+        "Clinical Nursing",
+        "Cold Calling",
+        "Construction",
+        "Cooking",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Dementia",
+        "Dementia Care",
+        "DevOps",
+        "Direct Selling",
+        "Discounts And Allowances",
+        "Docker (Software)",
+        "Electronic Systems",
+        "Engineering Design Process",
+        "Environment Health And Safety",
+        "Finance",
+        "Food Preparation",
+        "Food Services",
+        "Furnishing",
+        "Group Policy",
+        "HVAC",
+        "Health And Safety At Work Act",
+        "Home Health Care",
+        "Housekeeping",
+        "Hydrotherapy",
+        "Infection Control",
+        "Information Governance",
+        "Information Privacy",
+        "Invoicing",
+        "Java (Programming Language)",
+        "JavaScript (Programming Language)",
+        "Key Performance Indicators (KPIs)",
+        "Kubernetes",
+        "Machinery",
+        "Maid Services",
+        "Maintenance Engineering",
+        "Marketing",
+        "Meal Service",
+        "Mechanical Engineering",
+        "Medication Administration",
+        "Mental Health",
+        "Merchandising",
+        "Microservices",
+        "Microsoft Azure",
+        "Midwifery",
+        "Network Interface Controllers",
+        "New Product Development",
+        "Numeracy",
+        "Nursing",
+        "Nursing Care",
+        "Operations Management",
+        "Palliative Care",
+        "Personal Care",
+        "Pharmaceuticals",
+        "Presentation Skills",
+        "Procurement",
+        "Product Knowledge",
+        "Product Management",
+        "Project Management",
+        "Psychology",
+        "Purchasing",
+        "Python (Programming Language)",
+        "Regulatory Compliance",
+        "Restaurant Operation",
+        "Risk Analysis",
+        "Risk Management",
+        "SQL (Programming Language)",
+        "Sales Management",
+        "Scalability",
+        "Scrum (Software Development)",
+        "Selling Techniques",
+        "Service Quality",
+        "Smoke Detector",
+        "Software Development",
+        "Software Engineering",
+        "Sports Nutrition",
+        "Stakeholder Management",
+        "Stock Rotation",
+        "Supply Chain",
+        "Surgery",
+        "Toileting",
+        "Warehousing",
+        "Window Cleaning"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "6238.32 to 35596.8",
+          "count": 0.91
+        },
+        {
+          "value": "35596.8 to 64664.6",
+          "count": 0.07
+        },
+        {
+          "value": "64664.6 to 93732.4",
+          "count": 0.0
+        },
+        {
+          "value": "93732.4 to 122800.2",
+          "count": 0.01
+        },
+        {
+          "value": "122800.2 to 151868.0",
+          "count": 0.0
+        },
+        {
+          "value": "151868.0 to 180935.8",
+          "count": 0.0
+        },
+        {
+          "value": "180935.8 to 210003.6",
+          "count": 0.0
+        },
+        {
+          "value": "210003.6 to 239071.4",
+          "count": 0.0
+        },
+        {
+          "value": "239071.4 to 268139.2",
+          "count": 0.0
+        },
+        {
+          "value": "268139.2 to 297207.0",
+          "count": 0.01
+        }
+      ]
+    }
+  ]
+}

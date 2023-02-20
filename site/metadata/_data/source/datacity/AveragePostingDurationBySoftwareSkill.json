@@ -1,0 +1,158 @@
+{
+  "path": "data/csv/datacity/AveragePostingDurationBySoftwareSkill.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "ASP.NET",
+        "ASP.NET MVC Framework",
+        "Adobe Creative Cloud",
+        "Ajax (Programming Language)",
+        "Alteryx",
+        "Amazon Aurora",
+        "Ansys Simulation Software",
+        "Apache Airflow",
+        "Apache Ant",
+        "Appium",
+        "ArcSight Enterprise Security Manager",
+        "Articulate Storyline",
+        "Asana",
+        "AutoCAD",
+        "Autodesk Inventor",
+        "Bitbucket",
+        "Bug Tracking Systems",
+        "Building Management Systems",
+        "Business Intelligence Tools",
+        "Cisco Meraki",
+        "Citrix XenApp",
+        "Cloud Services",
+        "Communications Protocols",
+        "Customer Relationship Management (CRM) Software",
+        "Document Object Model",
+        "Dynamic Host Configuration Protocol (DHCP)",
+        "Electrical CAD",
+        "Embedded C",
+        "Enterprise Application Software",
+        "Espresso (Android Testing Framework)",
+        "Extensible Stylesheet Language Transformations (XSLT)",
+        "Facebook",
+        "Financial Software",
+        "Fusion 360 (CAD Software)",
+        "Gatsby.js",
+        "Github",
+        "Google Search Console",
+        "Google Tools",
+        "Hyper-V",
+        "IBM Basic Assembly Language And Successors",
+        "Integrated Development Environments",
+        "Junit",
+        "Kali Linux",
+        "Knockout.js",
+        "LAMP (Software Bundle)",
+        "LabVIEW",
+        "Looker Analytics",
+        "MRO Software",
+        "Microsoft Access",
+        "Microsoft Deployment Toolkit",
+        "Microsoft Dynamics",
+        "Microsoft Management Console",
+        "Microsoft OneNote",
+        "Microsoft Security Essentials",
+        "Microsoft Software",
+        "Microsoft Windows 8",
+        "Middleware",
+        "Mobile Security",
+        "Octopus Deploy",
+        "Operational Databases",
+        "Oracle E-Business Suite",
+        "PHP Development",
+        "PL/SQL",
+        "Package Management Systems",
+        "Payroll Systems",
+        "Pinterest",
+        "Productivity Software",
+        "Profibus",
+        "Programming Tools",
+        "QuickBooks (Accounting Software)",
+        "Recruitment Software",
+        "Screaming Frog (Website Crawler)",
+        "Security Software",
+        "Shell Script",
+        "Sitecore (Software)",
+        "SketchUp (3D Modeling Software)",
+        "SoapUI",
+        "Software Systems",
+        "Solid Edge",
+        "Splunk",
+        "Symfony",
+        "Teamcity",
+        "TikTok",
+        "Transact-SQL",
+        "Video Editing Software",
+        "Visual Basic .NET (Programming Language)",
+        "Vyond (Video Software)",
+        "Web Applications",
+        "Web Browsers",
+        "WebKit",
+        "Webforms",
+        "Webpack",
+        "Whatsapp",
+        "Windows Communication Foundation",
+        "Windows Forms",
+        "Windows Presentation Foundation",
+        "Windows Remote Assistance",
+        "WooCommerce",
+        "Zendesk",
+        "cURL"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "35.4 to 37.88",
+          "count": 0.39
+        },
+        {
+          "value": "37.88 to 40.34",
+          "count": 0.23
+        },
+        {
+          "value": "40.34 to 42.8",
+          "count": 0.13
+        },
+        {
+          "value": "42.8 to 45.25",
+          "count": 0.1
+        },
+        {
+          "value": "45.25 to 47.71",
+          "count": 0.04
+        },
+        {
+          "value": "47.71 to 50.17",
+          "count": 0.06
+        },
+        {
+          "value": "50.17 to 52.63",
+          "count": 0.02
+        },
+        {
+          "value": "52.63 to 55.08",
+          "count": 0.01
+        },
+        {
+          "value": "55.08 to 57.54",
+          "count": 0.0
+        },
+        {
+          "value": "57.54 to 60.0",
+          "count": 0.02
+        }
+      ]
+    }
+  ]
+}

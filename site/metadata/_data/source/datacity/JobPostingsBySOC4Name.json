@@ -1,0 +1,158 @@
+{
+  "path": "data/csv/datacity/JobPostingsBySOC4Name.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "Authors, writers and translators",
+        "Book-keepers, payroll managers and wages clerks",
+        "Business and financial project management professionals",
+        "Business and related associate professionals n.e.c.",
+        "Business and related research professionals",
+        "Business sales executives",
+        "Buyers and procurement officers",
+        "Care workers and home carers",
+        "Caretakers",
+        "Carpenters and joiners",
+        "Chartered and certified accountants",
+        "Chartered architectural technologists",
+        "Chartered surveyors",
+        "Chefs",
+        "Chief executives and senior officials",
+        "Civil engineers",
+        "Cleaners and domestics",
+        "Cleaning and housekeeping managers and supervisors",
+        "Construction project managers and related professionals",
+        "Cooks",
+        "Customer service managers and supervisors",
+        "Customer service occupations n.e.c.",
+        "Design and development engineers",
+        "Draughtspersons",
+        "Driving instructors",
+        "Electrical and electronic trades n.e.c.",
+        "Electrical engineers",
+        "Electricians and electrical fitters",
+        "Elementary administration occupations n.e.c.",
+        "Elementary construction occupations",
+        "Elementary storage occupations",
+        "Engineering professionals n.e.c.",
+        "Engineering technicians",
+        "Estate agents and auctioneers",
+        "Estimators, valuers and assessors",
+        "Finance and investment analysts and advisers",
+        "Financial managers and directors",
+        "Fitness instructors",
+        "Functional managers and directors n.e.c.",
+        "Health and safety officers",
+        "Health services and public health managers and directors",
+        "Higher education teaching professionals",
+        "Housekeepers and related occupations",
+        "Human resources and industrial relations officers",
+        "IT business analysts, architects and systems designers",
+        "IT operations technicians",
+        "IT project and programme managers",
+        "IT user support technicians",
+        "Information technology and telecommunications professionals n.e.c.",
+        "Kitchen and catering assistants",
+        "Large goods vehicle drivers",
+        "Launderers, dry cleaners and pressers",
+        "Legal associate professionals",
+        "Management consultants and business analysts",
+        "Managers and directors in retail and wholesale",
+        "Managers and proprietors in other services n.e.c.",
+        "Marketing and sales directors",
+        "Marketing associate professionals",
+        "Mechanical engineers",
+        "Medical and dental technicians",
+        "Merchandisers and window dressers",
+        "Metal working machine operatives",
+        "Metal working production and maintenance fitters",
+        "Nursery nurses and assistants",
+        "Nurses",
+        "Nursing auxiliaries and assistants",
+        "Office managers",
+        "Other administrative occupations n.e.c.",
+        "Pharmacists",
+        "Planning, process and production technicians",
+        "Plumbers and heating and ventilating engineers",
+        "Primary and nursery education teaching professionals",
+        "Production managers and directors in construction",
+        "Production managers and directors in manufacturing",
+        "Programmers and software development professionals",
+        "Property, housing and estate managers",
+        "Purchasing managers and directors",
+        "Quality assurance and regulatory professionals",
+        "Quality assurance technicians",
+        "Quality control and planning engineers",
+        "Quantity surveyors",
+        "Receptionists",
+        "Residential, day and domiciliary  care managers and proprietors",
+        "Sales accounts and business development managers",
+        "Sales and retail assistants",
+        "Sales related occupations n.e.c.",
+        "Sales supervisors",
+        "Science, engineering and production technicians n.e.c.",
+        "Secondary education teaching professionals",
+        "Senior care workers",
+        "Senior professionals of educational establishments",
+        "Solicitors",
+        "Sports and leisure assistants",
+        "Teaching and other educational professionals n.e.c.",
+        "Teaching assistants",
+        "Transport and distribution clerks and assistants",
+        "Van drivers",
+        "Vocational and industrial trainers and instructors",
+        "Web design and development professionals",
+        "Welfare and housing associate professionals n.e.c."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "1280.43 to 37091.7",
+          "count": 0.97
+        },
+        {
+          "value": "37091.7 to 72548.4",
+          "count": 0.01
+        },
+        {
+          "value": "72548.4 to 108005.1",
+          "count": 0.0
+        },
+        {
+          "value": "108005.1 to 143461.8",
+          "count": 0.0
+        },
+        {
+          "value": "143461.8 to 178918.5",
+          "count": 0.0
+        },
+        {
+          "value": "178918.5 to 214375.2",
+          "count": 0.01
+        },
+        {
+          "value": "214375.2 to 249831.9",
+          "count": 0.0
+        },
+        {
+          "value": "249831.9 to 285288.6",
+          "count": 0.0
+        },
+        {
+          "value": "285288.6 to 320745.3",
+          "count": 0.0
+        },
+        {
+          "value": "320745.3 to 356202.0",
+          "count": 0.01
+        }
+      ]
+    }
+  ]
+}

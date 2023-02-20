@@ -1,0 +1,100 @@
+{
+  "path": "data/csv/datacity/InnovationKeywordEnrichment.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "achievement",
+        "additive",
+        "apprentice",
+        "apprenticeship scheme",
+        "automation",
+        "collaboration",
+        "conceive",
+        "concept",
+        "continuing professional development (cpd)",
+        "cutting-edge",
+        "degree",
+        "design thinking",
+        "digitisation",
+        "entrepreneur",
+        "export",
+        "family-owned",
+        "family-run",
+        "global",
+        "graduate scheme",
+        "growth",
+        "headquarters",
+        "hiring",
+        "idea",
+        "import",
+        "innovation",
+        "international",
+        "knowledge",
+        "lean",
+        "management",
+        "new",
+        "new market",
+        "original",
+        "overseas",
+        "performance review",
+        "process",
+        "professional development",
+        "promotion",
+        "recruitment",
+        "research",
+        "training",
+        "work experience",
+        "worldwide"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.24 to -0.17",
+          "count": 0.047619
+        },
+        {
+          "value": "-0.17 to -0.11",
+          "count": 0.142857
+        },
+        {
+          "value": "-0.11 to -0.04",
+          "count": 0.214286
+        },
+        {
+          "value": "-0.04 to 0.02",
+          "count": 0.214286
+        },
+        {
+          "value": "0.02 to 0.09",
+          "count": 0.190476
+        },
+        {
+          "value": "0.09 to 0.16",
+          "count": 0.095238
+        },
+        {
+          "value": "0.16 to 0.22",
+          "count": 0.047619
+        },
+        {
+          "value": "0.22 to 0.29",
+          "count": 0.0
+        },
+        {
+          "value": "0.29 to 0.35",
+          "count": 0.02381
+        },
+        {
+          "value": "0.35 to 0.42",
+          "count": 0.02381
+        }
+      ]
+    }
+  ]
+}

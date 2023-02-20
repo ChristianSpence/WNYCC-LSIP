@@ -1,0 +1,86 @@
+{
+  "path": "data/csv/datacity/DealroomFundingRoundsByYear.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        1986,
+        1994,
+        1996,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "0.9 to 10.5",
+          "count": 0.464286
+        },
+        {
+          "value": "10.5 to 20.0",
+          "count": 0.142857
+        },
+        {
+          "value": "20.0 to 29.5",
+          "count": 0.035714
+        },
+        {
+          "value": "29.5 to 39.0",
+          "count": 0.0
+        },
+        {
+          "value": "39.0 to 48.5",
+          "count": 0.035714
+        },
+        {
+          "value": "48.5 to 58.0",
+          "count": 0.035714
+        },
+        {
+          "value": "58.0 to 67.5",
+          "count": 0.142857
+        },
+        {
+          "value": "67.5 to 77.0",
+          "count": 0.071429
+        },
+        {
+          "value": "77.0 to 86.5",
+          "count": 0.035714
+        },
+        {
+          "value": "86.5 to 96.0",
+          "count": 0.035714
+        }
+      ]
+    }
+  ]
+}

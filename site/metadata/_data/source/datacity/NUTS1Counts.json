@@ -1,0 +1,116 @@
+{
+  "path": "data/csv/datacity/NUTS1Counts.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "East",
+        "East Midlands (England)",
+        "London",
+        "North East (England)",
+        "North West (England)",
+        "Northern Ireland",
+        "Scotland",
+        "South East (England)",
+        "South West (England)",
+        "Wales",
+        "West Midlands (England)",
+        "Yorkshire and The Humber"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "-195.11 to 20116.8",
+          "count": 0.916667
+        },
+        {
+          "value": "20116.8 to 40227.6",
+          "count": 0.0
+        },
+        {
+          "value": "40227.6 to 60338.4",
+          "count": 0.0
+        },
+        {
+          "value": "60338.4 to 80449.2",
+          "count": 0.0
+        },
+        {
+          "value": "80449.2 to 100560.0",
+          "count": 0.0
+        },
+        {
+          "value": "100560.0 to 120670.8",
+          "count": 0.0
+        },
+        {
+          "value": "120670.8 to 140781.6",
+          "count": 0.0
+        },
+        {
+          "value": "140781.6 to 160892.4",
+          "count": 0.0
+        },
+        {
+          "value": "160892.4 to 181003.2",
+          "count": 0.0
+        },
+        {
+          "value": "181003.2 to 201114.0",
+          "count": 0.083333
+        }
+      ]
+    },
+    {
+      "name": "Quotient",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.02 to 1.61",
+          "count": 0.916667
+        },
+        {
+          "value": "1.61 to 3.23",
+          "count": 0.0
+        },
+        {
+          "value": "3.23 to 4.84",
+          "count": 0.0
+        },
+        {
+          "value": "4.84 to 6.46",
+          "count": 0.0
+        },
+        {
+          "value": "6.46 to 8.07",
+          "count": 0.0
+        },
+        {
+          "value": "8.07 to 9.68",
+          "count": 0.0
+        },
+        {
+          "value": "9.68 to 11.3",
+          "count": 0.0
+        },
+        {
+          "value": "11.3 to 12.91",
+          "count": 0.0
+        },
+        {
+          "value": "12.91 to 14.53",
+          "count": 0.0
+        },
+        {
+          "value": "14.53 to 16.14",
+          "count": 0.083333
+        }
+      ]
+    }
+  ]
+}

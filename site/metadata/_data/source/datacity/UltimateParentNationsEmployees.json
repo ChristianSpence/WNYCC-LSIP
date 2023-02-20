@@ -1,0 +1,125 @@
+{
+  "path": "data/csv/datacity/UltimateParentNationsEmployees.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "840",
+        "ANGUILLA",
+        "AUSTRALIA",
+        "AUSTRIA",
+        "BAHAMAS",
+        "BELGIUM",
+        "BELIZE",
+        "BERMUDA",
+        "BULGARIA",
+        "CANADA",
+        "CAYMAN ISL.",
+        "CHANNEL ISL",
+        "CHINA",
+        "CYPRUS",
+        "CZECH REPUB",
+        "DENMARK",
+        "EGYPT",
+        "FALKLAND IS.",
+        "FINLAND",
+        "FRANCE",
+        "GERMANY",
+        "GIBRALTAR",
+        "GUERNSEY",
+        "HONG KONG",
+        "ICELAND",
+        "INDIA",
+        "IRELAND",
+        "ISLE OF MAN",
+        "ISRAEL",
+        "ITALY",
+        "JAPAN",
+        "JERSEY",
+        "KUWAIT",
+        "LEBANON",
+        "LIECHTENST.",
+        "LITHUANIA",
+        "LUXEMBOURG",
+        "MALAYSIA",
+        "MALTA",
+        "MAURITIUS",
+        "MONACO",
+        "MONGOLIA",
+        "NETHERLANDS",
+        "NEW ZEALAND",
+        "NORWAY",
+        "PANAMA",
+        "POLAND",
+        "PORTUGAL",
+        "PUERTO RICO",
+        "SCOTLAND",
+        "SEYCHELLES",
+        "SINGAPORE",
+        "SOUTH AFRICA",
+        "SPAIN",
+        "SRI LANKA",
+        "SWEDEN",
+        "SWITZERLAND",
+        "TAIWAN",
+        "THAILAND",
+        "TURKEY",
+        "U.KINGDOM",
+        "U.S.A.",
+        "UK",
+        "UNKNOWN",
+        "UNT.ARAB EM.",
+        "VIRGIN ISL.",
+        "YEMEN"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "-973.63 to 97363.0",
+          "count": 0.970588
+        },
+        {
+          "value": "97363.0 to 194726.0",
+          "count": 0.0
+        },
+        {
+          "value": "194726.0 to 292089.0",
+          "count": 0.0
+        },
+        {
+          "value": "292089.0 to 389452.0",
+          "count": 0.014706
+        },
+        {
+          "value": "389452.0 to 486815.0",
+          "count": 0.0
+        },
+        {
+          "value": "486815.0 to 584178.0",
+          "count": 0.0
+        },
+        {
+          "value": "584178.0 to 681541.0",
+          "count": 0.0
+        },
+        {
+          "value": "681541.0 to 778904.0",
+          "count": 0.0
+        },
+        {
+          "value": "778904.0 to 876267.0",
+          "count": 0.0
+        },
+        {
+          "value": "876267.0 to 973630.0",
+          "count": 0.014706
+        }
+      ]
+    }
+  ]
+}
