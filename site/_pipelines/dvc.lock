@@ -4,9 +4,9 @@ stages:
     cmd: python site/_pipelines/metadata/prepare.py
     deps:
     - path: data/csv/
-      md5: 653bb4369d62797120a81698b770ad7e.dir
-      size: 356557488
-      nfiles: 82
+      md5: 9c87eb90610d8e8576d506de2ec6a889.dir
+      size: 380394860
+      nfiles: 41
     - path: site/_pipelines/metadata/prepare.py
       md5: 48185bdd9edfd7e9aea0237efba2a669
       size: 6256
@@ -15,6 +15,6 @@ stages:
       size: 163
     outs:
     - path: site/metadata/_data/source
-      md5: 025b55257a5ebdf94891004d76afffab.dir
-      size: 688655
-      nfiles: 82
+      md5: bec7cc50f7491f30d66d48c6f98a8192.dir
+      size: 448949
+      nfiles: 41

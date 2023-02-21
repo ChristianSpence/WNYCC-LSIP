@@ -1,5 +1,5 @@
 {
-  "path": "data/csv/he/table49.csv",
+  "path": "data/csv/he/HE qualifiers by HE provider and subject of study 2019-20 to 2021-22.csv",
   "dimensions": [
     {
       "name": "UKPRN",
@@ -34,23 +34,21 @@
       ]
     },
     {
-      "name": "Level of study",
+      "name": "Level of qualification obtained",
       "categories": [
         "All",
         "All postgraduate",
         "All undergraduate",
+        "Doctorate research",
         "First degree",
+        "Foundation degree",
+        "HNC/HND",
+        "Masters taught",
+        "Other postgraduate research",
+        "Other postgraduate taught",
         "Other undergraduate",
-        "Postgraduate (research)",
-        "Postgraduate (taught)"
-      ]
-    },
-    {
-      "name": "Mode of study",
-      "categories": [
-        "All",
-        "Full-time",
-        "Part-time"
+        "Postgraduate Certificate in Education",
+        "Professional Graduate Certificate in Education"
       ]
     },
     {
@@ -264,7 +262,7 @@
         "26-01-04 Environmental sciences",
         "26-01-05 Others in geographical studies",
         "26-01-06 Earth sciences",
-        "Total"
+        "Total CAH level 1"
       ]
     },
     {
@@ -281,44 +279,44 @@
       "data_type": "integer",
       "value_distribution": [
         {
-          "value": "-36.84 to 3684.0",
-          "count": 0.998165
+          "value": "-14.8 to 1480.0",
+          "count": 0.998646
         },
         {
-          "value": "3684.0 to 7368.0",
-          "count": 0.000957
+          "value": "1480.0 to 2960.0",
+          "count": 0.000527
         },
         {
-          "value": "7368.0 to 11052.0",
-          "count": 0.000239
+          "value": "2960.0 to 4440.0",
+          "count": 0.000376
         },
         {
-          "value": "11052.0 to 14736.0",
-          "count": 0.000213
+          "value": "4440.0 to 5920.0",
+          "count": 0.000125
         },
         {
-          "value": "14736.0 to 18420.0",
-          "count": 0.000173
+          "value": "5920.0 to 7400.0",
+          "count": 0.000226
         },
         {
-          "value": "18420.0 to 22104.0",
-          "count": 5.3e-05
+          "value": "7400.0 to 8880.0",
+          "count": 5e-05
         },
         {
-          "value": "22104.0 to 25788.0",
-          "count": 8e-05
-        },
-        {
-          "value": "25788.0 to 29472.0",
-          "count": 6.6e-05
-        },
-        {
-          "value": "29472.0 to 33156.0",
+          "value": "8880.0 to 10360.0",
           "count": 0.0
         },
         {
-          "value": "33156.0 to 36840.0",
-          "count": 5.3e-05
+          "value": "10360.0 to 11840.0",
+          "count": 0.0
+        },
+        {
+          "value": "11840.0 to 13320.0",
+          "count": 0.0
+        },
+        {
+          "value": "13320.0 to 14800.0",
+          "count": 5e-05
         }
       ]
     }

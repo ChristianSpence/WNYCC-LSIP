@@ -2,108 +2,114 @@
   "path": "data/csv/datacity/JobPostingsBySpecializedSkill.csv",
   "dimensions": [
     {
+      "name": "LA",
+      "categories": [
+        "York"
+      ]
+    },
+    {
       "name": "Thing",
       "categories": [
+        ".NET Framework",
         "Account Management",
         "Accounting",
+        "Administrative Support",
+        "Adobe Photoshop",
         "Agile Methodology",
         "Amazon Web Services",
-        "Apple IPad",
         "Application Programming Interface (API)",
-        "Aromatherapy",
+        "Aruba (Network Management Software)",
         "Auditing",
         "AutoCAD",
         "Autodesk Revit",
         "Automation",
-        "Baking",
+        "Automotive Engineering",
+        "Automotive Industry",
+        "Backlogs",
+        "Booking (Sales)",
         "Building Services Engineering",
         "Business Development",
-        "Care Standards Act 2000",
+        "Business To Business",
+        "C# (Programming Language)",
+        "Carpentry",
         "Cascading Style Sheets (CSS)",
+        "Cath Lab",
+        "Change Management",
         "Civil Engineering",
-        "Clinical Nursing",
         "Cold Calling",
         "Construction",
-        "Cooking",
+        "Contract Management",
+        "Cost Control",
         "Customer Relationship Management",
         "Data Analysis",
-        "Dementia",
-        "Dementia Care",
         "DevOps",
-        "Direct Selling",
-        "Discounts And Allowances",
-        "Docker (Software)",
-        "Electronic Systems",
-        "Engineering Design Process",
+        "Endoscopy",
         "Environment Health And Safety",
+        "Field Service Management",
         "Finance",
-        "Food Preparation",
-        "Food Services",
-        "Furnishing",
-        "Group Policy",
+        "Financial Services",
+        "Fitness Training",
+        "Forklift Truck",
+        "Geotechnical Engineering",
         "HVAC",
-        "Health And Safety At Work Act",
-        "Home Health Care",
-        "Housekeeping",
-        "Hydrotherapy",
-        "Infection Control",
-        "Information Governance",
-        "Information Privacy",
+        "Intensive Care Unit",
         "Invoicing",
         "Java (Programming Language)",
         "JavaScript (Programming Language)",
         "Key Performance Indicators (KPIs)",
-        "Kubernetes",
+        "Laminar Flow",
+        "Linux",
         "Machinery",
-        "Maid Services",
+        "Magnetic Resonance Imaging",
         "Maintenance Engineering",
         "Marketing",
-        "Meal Service",
         "Mechanical Engineering",
-        "Medication Administration",
-        "Mental Health",
-        "Merchandising",
-        "Microservices",
         "Microsoft Azure",
-        "Midwifery",
-        "Network Interface Controllers",
+        "Microsoft Teams",
+        "Modular Building",
         "New Product Development",
         "Numeracy",
         "Nursing",
-        "Nursing Care",
+        "Oncology",
+        "Operating Room (OR)",
         "Operations Management",
-        "Palliative Care",
-        "Personal Care",
-        "Pharmaceuticals",
+        "Orthopedics",
+        "Painting",
+        "Patient Safety",
+        "Patient Treatment",
+        "Physical Therapy",
+        "Plumbing",
         "Presentation Skills",
         "Procurement",
-        "Product Knowledge",
-        "Product Management",
         "Project Management",
-        "Psychology",
         "Purchasing",
         "Python (Programming Language)",
-        "Regulatory Compliance",
-        "Restaurant Operation",
+        "Quantity Surveying",
+        "Radiography",
+        "Radiology",
+        "Reliability Availability Maintainability And Safety Software",
+        "Resourcing",
         "Risk Analysis",
-        "Risk Management",
+        "SAP Applications",
         "SQL (Programming Language)",
+        "Sales Engineering",
         "Sales Management",
-        "Scalability",
         "Scrum (Software Development)",
         "Selling Techniques",
+        "Service Improvement",
+        "Service Improvement Planning",
         "Service Quality",
-        "Smoke Detector",
         "Software Development",
         "Software Engineering",
-        "Sports Nutrition",
+        "Staff Management",
         "Stakeholder Management",
-        "Stock Rotation",
+        "Subcontracting",
         "Supply Chain",
         "Surgery",
-        "Toileting",
+        "Technical Support",
+        "Tourism",
         "Warehousing",
-        "Window Cleaning"
+        "eClinicalWorks (ECW)"
       ]
     }
   ],
@@ -113,44 +119,44 @@
       "data_type": "integer",
       "value_distribution": [
         {
-          "value": "6238.32 to 35596.8",
-          "count": 0.91
+          "value": "340.56 to 586.9",
+          "count": 0.46
         },
         {
-          "value": "35596.8 to 64664.6",
-          "count": 0.07
+          "value": "586.9 to 830.8",
+          "count": 0.18
         },
         {
-          "value": "64664.6 to 93732.4",
-          "count": 0.0
+          "value": "830.8 to 1074.7",
+          "count": 0.14
         },
         {
-          "value": "93732.4 to 122800.2",
+          "value": "1074.7 to 1318.6",
+          "count": 0.11
+        },
+        {
+          "value": "1318.6 to 1562.5",
+          "count": 0.05
+        },
+        {
+          "value": "1562.5 to 1806.4",
           "count": 0.01
         },
         {
-          "value": "122800.2 to 151868.0",
-          "count": 0.0
-        },
-        {
-          "value": "151868.0 to 180935.8",
-          "count": 0.0
-        },
-        {
-          "value": "180935.8 to 210003.6",
-          "count": 0.0
-        },
-        {
-          "value": "210003.6 to 239071.4",
-          "count": 0.0
-        },
-        {
-          "value": "239071.4 to 268139.2",
-          "count": 0.0
-        },
-        {
-          "value": "268139.2 to 297207.0",
+          "value": "1806.4 to 2050.3",
           "count": 0.01
+        },
+        {
+          "value": "2050.3 to 2294.2",
+          "count": 0.01
+        },
+        {
+          "value": "2294.2 to 2538.1",
+          "count": 0.0
+        },
+        {
+          "value": "2538.1 to 2782.0",
+          "count": 0.03
         }
       ]
     }

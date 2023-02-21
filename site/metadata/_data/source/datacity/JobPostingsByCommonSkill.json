@@ -2,38 +2,40 @@
   "path": "data/csv/datacity/JobPostingsByCommonSkill.csv",
   "dimensions": [
     {
+      "name": "LA",
+      "categories": [
+        "York"
+      ]
+    },
+    {
       "name": "Thing",
       "categories": [
         "Ability To Meet Deadlines",
         "Accountability",
-        "Adaptability",
         "Administrative Functions",
         "Advising",
         "Advocacy",
         "Analytical Skills",
         "Budgeting",
         "Calmness Under Pressure",
-        "Caring Nature",
         "Cleanliness",
         "Clerical Works",
         "Coaching",
-        "Collaboration",
         "Collections",
+        "Communication With Candidates",
         "Communications",
         "Compassion",
         "Composure",
         "Computer Literacy",
-        "Confident Communicator",
-        "Consultative Approaches",
         "Consulting",
         "Coordinating",
         "Creativity",
-        "Cultural Responsiveness",
+        "Curiosity",
         "Customer Service",
         "Decision Making",
-        "Decorating",
-        "Delegation Skills",
         "Detail Oriented",
+        "Diplomacy",
+        "Emotional Stability",
         "Empathy",
         "Energetic",
         "English Language",
@@ -41,17 +43,18 @@
         "Filing",
         "First Aid",
         "Forecasting",
+        "Friendliness",
         "Governance",
         "Honesty",
+        "Independent Thinking",
         "Influencing Skills",
+        "Information Technology",
         "Innovation",
-        "Intellectual Curiosity",
         "Interpersonal Communications",
         "Investigation",
         "Leadership",
-        "Lifting Ability",
+        "Leadership Development",
         "Literacy",
-        "Loading And Unloading",
         "Management",
         "Mathematics",
         "Mentorship",
@@ -75,16 +78,17 @@
         "Proactivity",
         "Problem Solving",
         "Professionalism",
+        "Progress Reporting",
         "Quality Assurance",
         "Quality Control",
+        "Quick Learning",
         "Rapport Building",
         "Record Keeping",
         "Relationship Building",
-        "Relationship Management",
+        "Reliability",
         "Report Writing",
         "Research",
         "Resilience",
-        "Retail Sales",
         "Safety Assurance",
         "Sales",
         "Scheduling",
@@ -92,6 +96,7 @@
         "Social Media",
         "Spreadsheets",
         "Strong Work Ethic",
+        "Supervision",
         "Teaching",
         "Team Building",
         "Team Leadership",
@@ -100,6 +105,7 @@
         "Tenacity",
         "Time Management",
         "Training And Development",
+        "Transformational Leadership",
         "Troubleshooting (Problem Solving)",
         "Verbal Communication Skills",
         "Willingness To Learn",
@@ -113,44 +119,44 @@
       "data_type": "integer",
       "value_distribution": [
         {
-          "value": "2033.98 to 37083.1",
-          "count": 0.85
+          "value": "116.71 to 1964.2",
+          "count": 0.88
         },
         {
-          "value": "37083.1 to 71785.2",
-          "count": 0.09
+          "value": "1964.2 to 3793.4",
+          "count": 0.06
         },
         {
-          "value": "71785.2 to 106487.3",
+          "value": "3793.4 to 5622.6",
           "count": 0.01
         },
         {
-          "value": "106487.3 to 141189.4",
+          "value": "5622.6 to 7451.8",
           "count": 0.01
         },
         {
-          "value": "141189.4 to 175891.5",
+          "value": "7451.8 to 9281.0",
           "count": 0.0
         },
         {
-          "value": "175891.5 to 210593.6",
+          "value": "9281.0 to 11110.2",
           "count": 0.01
         },
         {
-          "value": "210593.6 to 245295.7",
+          "value": "11110.2 to 12939.4",
+          "count": 0.01
+        },
+        {
+          "value": "12939.4 to 14768.6",
+          "count": 0.01
+        },
+        {
+          "value": "14768.6 to 16597.8",
           "count": 0.0
         },
         {
-          "value": "245295.7 to 279997.8",
-          "count": 0.0
-        },
-        {
-          "value": "279997.8 to 314699.9",
-          "count": 0.0
-        },
-        {
-          "value": "314699.9 to 349402.0",
-          "count": 0.03
+          "value": "16597.8 to 18427.0",
+          "count": 0.01
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "path": "data/csv/he/grad-table-28.csv",
+  "path": "data/csv/he/Graduate activities by provider and subject area of degree.csv",
   "dimensions": [
     {
       "name": "UKPRN",

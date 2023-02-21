@@ -2,108 +2,27 @@
   "path": "data/csv/datacity/AverageAdvertisedSalaryBySOC4Name.csv",
   "dimensions": [
     {
+      "name": "LA",
+      "categories": [
+        "York"
+      ]
+    },
+    {
       "name": "Thing",
       "categories": [
-        "Actuaries, economists and statisticians",
-        "Advertising and public relations directors",
-        "Air traffic controllers",
-        "Architects",
-        "Arts officers, producers and directors",
-        "Authors, writers and translators",
-        "Biological scientists and biochemists",
-        "Bricklayers and masons",
-        "Building and civil engineering technicians",
-        "Business and financial project management professionals",
-        "Business and related associate professionals n.e.c.",
-        "Business and related research professionals",
-        "Business sales executives",
-        "Business, research and administrative professionals n.e.c.",
-        "Carpenters and joiners",
-        "Chartered architectural technologists",
-        "Chartered surveyors",
-        "Chief executives and senior officials",
-        "Civil engineers",
-        "Conservation professionals",
-        "Construction and building trades supervisors",
-        "Construction operatives n.e.c.",
-        "Construction project managers and related professionals",
-        "Customer service managers and supervisors",
-        "Design and development engineers",
-        "Draughtspersons",
-        "Electrical and electronics technicians",
-        "Electrical engineers",
-        "Electricians and electrical fitters",
-        "Electronics engineers",
-        "Engineering professionals n.e.c.",
-        "Environment professionals",
-        "Estimators, valuers and assessors",
-        "Finance and investment analysts and advisers",
-        "Financial accounts managers",
-        "Financial managers and directors",
-        "Floorers and wall tilers",
-        "Food, drink and tobacco process operatives",
-        "Functional managers and directors n.e.c.",
-        "Glaziers, window fabricators and fitters",
-        "Health and safety officers",
-        "Health care practice managers",
-        "Health services and public health managers and directors",
-        "Higher education teaching professionals",
-        "Human resource managers and directors",
+        "Book-keepers, payroll managers and wages clerks",
+        "Customer service occupations n.e.c.",
+        "Human resources and industrial relations officers",
         "IT business analysts, architects and systems designers",
-        "IT project and programme managers",
-        "IT specialist managers",
-        "Information technology and telecommunications directors",
-        "Information technology and telecommunications professionals n.e.c.",
-        "Inspectors of standards and regulations",
-        "Insurance underwriters",
-        "Journalists, newspaper and periodical editors",
-        "Leisure and sports managers",
-        "Management consultants and business analysts",
-        "Managers and directors in storage and warehousing",
-        "Managers and directors in transport and distribution",
+        "IT operations technicians",
         "Managers and proprietors in other services n.e.c.",
         "Marketing and sales directors",
-        "Mechanical engineers",
-        "Medical practitioners",
-        "Mobile machine drivers and operatives n.e.c.",
-        "Nurses",
-        "Office supervisors",
-        "Pharmacists",
-        "Physical scientists",
-        "Planning, process and production technicians",
-        "Plasterers",
-        "Plumbers and heating and ventilating engineers",
-        "Product, clothing and related designers",
-        "Production and process engineers",
-        "Production managers and directors in construction",
-        "Production managers and directors in manufacturing",
+        "Marketing associate professionals",
+        "Other administrative occupations n.e.c.",
         "Programmers and software development professionals",
-        "Property, housing and estate managers",
-        "Protective service associate professionals n.e.c.",
-        "Psychologists",
-        "Purchasing managers and directors",
-        "Quality assurance and regulatory professionals",
-        "Quality control and planning engineers",
-        "Quantity surveyors",
-        "Research and development managers",
-        "Residential, day and domiciliary  care managers and proprietors",
-        "Roofers, roof tilers and slaters",
-        "Routine inspectors and testers",
-        "Sales accounts and business development managers",
-        "Scaffolders, stagers and riggers",
-        "Secondary education teaching professionals",
-        "Senior officers in fire, ambulance, prison and related services",
-        "Senior professionals of educational establishments",
-        "Sewing machinists",
-        "Skilled metal, electrical and electronic trades supervisors",
-        "Solicitors",
-        "Special needs education teaching professionals",
-        "Taxation experts",
-        "Telecommunications engineers",
-        "Textile process operatives",
-        "Vehicle body builders and repairers",
-        "Veterinarians",
-        "Web design and development professionals"
+        "Receptionists",
+        "Sales related occupations n.e.c.",
+        "Veterinarians"
       ]
     }
   ],
@@ -113,44 +32,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "32137.04 to 35272.77",
-          "count": 0.17
+          "value": "18492.52 to 21458.11",
+          "count": 0.076923
         },
         {
-          "value": "35272.77 to 38377.45",
-          "count": 0.26
+          "value": "21458.11 to 24394.34",
+          "count": 0.076923
         },
         {
-          "value": "38377.45 to 41482.13",
-          "count": 0.23
+          "value": "24394.34 to 27330.57",
+          "count": 0.153846
         },
         {
-          "value": "41482.13 to 44586.8",
-          "count": 0.13
+          "value": "27330.57 to 30266.8",
+          "count": 0.307692
         },
         {
-          "value": "44586.8 to 47691.48",
-          "count": 0.09
+          "value": "30266.8 to 33203.03",
+          "count": 0.0
         },
         {
-          "value": "47691.48 to 50796.16",
-          "count": 0.06
+          "value": "33203.03 to 36139.25",
+          "count": 0.0
         },
         {
-          "value": "50796.16 to 53900.84",
-          "count": 0.02
+          "value": "36139.25 to 39075.48",
+          "count": 0.153846
         },
         {
-          "value": "53900.84 to 57005.52",
-          "count": 0.02
+          "value": "39075.48 to 42011.71",
+          "count": 0.0
         },
         {
-          "value": "57005.52 to 60110.2",
-          "count": 0.01
+          "value": "42011.71 to 44947.94",
+          "count": 0.076923
         },
         {
-          "value": "60110.2 to 63214.88",
-          "count": 0.01
+          "value": "44947.94 to 47884.17",
+          "count": 0.153846
         }
       ]
     }
