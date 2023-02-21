@@ -1,101 +1,201 @@
-Thing,Count
-Writing,349402
-Confident Communicator,329907
-Communications,328743
-Management,179667
-Customer Service,109938
-Sales,93424
-Planning,66908
-Operations,56184
-Interpersonal Communications,52888
-Leadership,52835
-Detail Oriented,51282
-Self-Motivation,48383
-Enthusiasm,47392
-Empathy,44618
-Multitasking,42755
-Teaching,35691
-Honesty,33022
-Budgeting,32985
-Research,30114
-Coaching,29874
-Innovation,29469
-Problem Solving,29255
-Professionalism,27391
-Administrative Functions,26685
-Mentorship,25095
-People Management,23837
-Positivity,23516
-Influencing Skills,22402
-Caring Nature,22168
-Microsoft Excel,21992
-Compassion,21466
-Mathematics,21454
-Time Management,19963
-Strong Work Ethic,19531
-Microsoft Office,19383
-Consultative Approaches,18010
-Training And Development,17490
-Teamwork,16069
-Forecasting,14995
-Verbal Communication Skills,14889
-Accountability,14315
-Presentations,14064
-Computer Literacy,12962
-Coordinating,11871
-Willingness To Learn,11503
-Negotiation,11303
-Microsoft Outlook,11027
-Resilience,10906
-Filing,10803
-Decision Making,10599
-Analytical Skills,10569
-Quality Assurance,10226
-Governance,9398
-Literacy,8709
-Prioritization,8550
-Microsoft PowerPoint,8167
-Proactivity,8117
-Advising,8111
-Report Writing,7882
-Team Leadership,7490
-Investigation,7393
-Scheduling,7306
-Record Keeping,7079
-Consulting,6948
-Loading And Unloading,6943
-Ability To Meet Deadlines,6711
-Troubleshooting (Problem Solving),6678
-Collaboration,6614
-English Language,6320
-Tenacity,6126
-Packaging And Labeling,5722
-Safety Assurance,5701
-Cleanliness,5407
-Cultural Responsiveness,5126
-Relationship Building,5013
-Quality Control,5003
-Social Media,4874
-Microsoft Word,4661
-First Aid,4580
-Advocacy,4305
-Relationship Management,4063
-Calmness Under Pressure,4029
-Lifting Ability,3893
-Delegation Skills,3789
-Motivational Skills,3722
-Energetic,3569
-Composure,3504
-Retail Sales,3356
-Patience,3317
-Clerical Works,3173
-Spreadsheets,3053
-Collections,3021
-Persuasive Communication,2960
-Decorating,2831
-Creativity,2791
-Rapport Building,2694
-Team Building,2690
-Intellectual Curiosity,2604
-Team Management,2584
-Adaptability,2381
+LA,Thing,Count
+York,Customer Service,18427
+York,Communications,13306
+York,Management,11279
+York,Teaching,10464
+York,Sales,6618
+York,Leadership,4634
+York,Planning,3293
+York,Consulting,3237
+York,Detail Oriented,3157
+York,Operations,2671
+York,Self-Motivation,2157
+York,Problem Solving,2001
+York,Enthusiasm,1858
+York,Mentorship,1815
+York,Time Management,1699
+York,Negotiation,1501
+York,Microsoft Office,1452
+York,Computer Literacy,1429
+York,Calmness Under Pressure,1411
+York,Research,1409
+York,Mathematics,1396
+York,Microsoft Excel,1380
+York,Composure,1364
+York,Coaching,1360
+York,Quality Control,1314
+York,Governance,1199
+York,Training And Development,1136
+York,Innovation,1134
+York,Presentations,1067
+York,Teamwork,985
+York,Influencing Skills,941
+York,Administrative Functions,912
+York,Interpersonal Communications,899
+York,Verbal Communication Skills,899
+York,Coordinating,898
+York,Writing,876
+York,Strong Work Ethic,826
+York,Willingness To Learn,758
+York,Proactivity,757
+York,Literacy,752
+York,Microsoft Outlook,732
+York,Scheduling,718
+York,Microsoft PowerPoint,699
+York,Decision Making,690
+York,Forecasting,669
+York,Ability To Meet Deadlines,659
+York,Multitasking,631
+York,Report Writing,602
+York,People Management,576
+York,Positivity,567
+York,Budgeting,560
+York,Advising,548
+York,Professionalism,541
+York,Tenacity,499
+York,Microsoft Word,496
+York,Investigation,477
+York,Empathy,445
+York,Rapport Building,442
+York,First Aid,422
+York,Team Leadership,420
+York,Information Technology,412
+York,Resilience,410
+York,Diplomacy,406
+York,Honesty,405
+York,Prioritization,391
+York,Supervision,379
+York,Quality Assurance,378
+York,Accountability,373
+York,Safety Assurance,362
+York,English Language,357
+York,Persuasive Communication,356
+York,Analytical Skills,336
+York,Progress Reporting,321
+York,Emotional Stability,310
+York,Filing,308
+York,Team Management,294
+York,Collections,291
+York,Transformational Leadership,274
+York,Friendliness,273
+York,Troubleshooting (Problem Solving),272
+York,Advocacy,268
+York,Social Media,256
+York,Spreadsheets,252
+York,Packaging And Labeling,238
+York,Patience,221
+York,Leadership Development,221
+York,Clerical Works,204
+York,Record Keeping,195
+York,Motivational Skills,176
+York,Energetic,172
+York,Compassion,162
+York,Relationship Building,152
+York,Communication With Candidates,147
+York,Reliability,145
+York,Cleanliness,141
+York,Quick Learning,140
+York,Independent Thinking,140
+York,Creativity,136
+York,Team Building,135
+York,Curiosity,135
+York,Customer Service,18427
+York,Communications,13306
+York,Management,11279
+York,Teaching,10464
+York,Sales,6618
+York,Leadership,4634
+York,Planning,3293
+York,Consulting,3237
+York,Detail Oriented,3157
+York,Operations,2671
+York,Self-Motivation,2157
+York,Problem Solving,2001
+York,Enthusiasm,1858
+York,Mentorship,1815
+York,Time Management,1699
+York,Negotiation,1501
+York,Microsoft Office,1452
+York,Computer Literacy,1429
+York,Calmness Under Pressure,1411
+York,Research,1409
+York,Mathematics,1396
+York,Microsoft Excel,1380
+York,Composure,1364
+York,Coaching,1360
+York,Quality Control,1314
+York,Governance,1199
+York,Training And Development,1136
+York,Innovation,1134
+York,Presentations,1067
+York,Teamwork,985
+York,Influencing Skills,941
+York,Administrative Functions,912
+York,Interpersonal Communications,899
+York,Verbal Communication Skills,899
+York,Coordinating,898
+York,Writing,876
+York,Strong Work Ethic,826
+York,Willingness To Learn,758
+York,Proactivity,757
+York,Literacy,752
+York,Microsoft Outlook,732
+York,Scheduling,718
+York,Microsoft PowerPoint,699
+York,Decision Making,690
+York,Forecasting,669
+York,Ability To Meet Deadlines,659
+York,Multitasking,631
+York,Report Writing,602
+York,People Management,576
+York,Positivity,567
+York,Budgeting,560
+York,Advising,548
+York,Professionalism,541
+York,Tenacity,499
+York,Microsoft Word,496
+York,Investigation,477
+York,Empathy,445
+York,Rapport Building,442
+York,First Aid,422
+York,Team Leadership,420
+York,Information Technology,412
+York,Resilience,410
+York,Diplomacy,406
+York,Honesty,405
+York,Prioritization,391
+York,Supervision,379
+York,Quality Assurance,378
+York,Accountability,373
+York,Safety Assurance,362
+York,English Language,357
+York,Persuasive Communication,356
+York,Analytical Skills,336
+York,Progress Reporting,321
+York,Emotional Stability,310
+York,Filing,308
+York,Team Management,294
+York,Collections,291
+York,Transformational Leadership,274
+York,Friendliness,273
+York,Troubleshooting (Problem Solving),272
+York,Advocacy,268
+York,Social Media,256
+York,Spreadsheets,252
+York,Packaging And Labeling,238
+York,Patience,221
+York,Leadership Development,221
+York,Clerical Works,204
+York,Record Keeping,195
+York,Motivational Skills,176
+York,Energetic,172
+York,Compassion,162
+York,Relationship Building,152
+York,Communication With Candidates,147
+York,Reliability,145
+York,Cleanliness,141
+York,Quick Learning,140
+York,Independent Thinking,140
+York,Creativity,136
+York,Team Building,135
+York,Curiosity,135

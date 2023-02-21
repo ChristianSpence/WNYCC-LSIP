@@ -1,101 +1,201 @@
-Thing,Count
-Microsoft Excel,21992
-Microsoft Office,19383
-Amazon Web Services,12388
-Application Programming Interface (API),11204
-Microsoft Outlook,11027
-SQL (Programming Language),10943
-JavaScript (Programming Language),9491
-AutoCAD,9335
-Java (Programming Language),9283
-Python (Programming Language),8567
-Docker (Software),8366
-Microsoft PowerPoint,8167
-Kubernetes,8157
-Autodesk Revit,7919
-Microsoft Azure,7487
-React.js,5748
-Microsoft Teams,5077
-SAP Applications,4988
-Microsoft Word,4661
-Apache Kafka,4385
-Cascading Style Sheets (CSS),4224
-Kotlin,4167
-Node.js,4109
-Docker Swarm,3956
-C# (Programming Language),3746
-NoSQL,3685
-HyperText Markup Language (HTML),3677
-Linux,3670
-Microsoft Office 365,3613
-RESTful API,3605
-PostgreSQL,3594
-Git (Version Control System),3360
-Jenkins,3130
-TypeScript,2746
-Datadog,2736
-Reliability Availability Maintainability And Safety Software,2726
-Adobe Photoshop,2659
-Operating Systems,2606
-Aruba (Network Management Software),2595
-Software Systems,2551
-Ansible,2551
-Active Directory,2444
-WebKit,2424
-GraphQL,2341
-Apple IOS,2304
-Terraform,2282
-AutoCAD Civil 3D,2091
-Chef (Configuration Management Tool),2079
-Windows Servers,2064
-Building Management Systems,2061
-JIRA,2031
-Firewall,2023
-Information Technology Infrastructure Library,2009
-Zoom (Video Conferencing Tool),1994
-.NET Framework,1982
-Apache Airflow,1939
-Puppet (Configuration Management Tool),1935
-Microsoft SharePoint,1884
-Adobe Illustrator,1768
-Adobe InDesign,1743
-Spring Boot,1737
-Tableau (Business Intelligence Software),1715
-Mac OS,1696
-Adobe Creative Suite,1669
-Gitlab,1665
-Spring Framework,1662
-Windows PowerShell,1660
-React Redux,1636
-Go (Programming Language),1612
-Microsoft Windows 10,1578
-PHP (Scripting Language),1568
-Vue.js,1486
-eClinicalWorks (ECW),1482
-Accounting Software,1418
-Design Software,1393
-Angular (Web Framework),1381
-HTML5,1338
-SolidWorks (CAD),1285
-Amazon DynamoDB,1282
-Management Information Systems,1259
-Microsoft 365,1253
-Scala (Programming Language),1252
-Azure DevOps,1233
-Jest (JavaScript Testing Framework),1196
-Microsoft Access,1193
-Microsoft SQL Servers,1190
-Geographic Information Systems,1079
-R (Programming Language),1077
-Apache Spark,1002
-Payroll Systems,989
-ServiceNow,989
-Microsoft Project,975
-MongoDB,972
-React Native,941
-C (Programming Language),910
-Data Lakes,907
-C++ (Programming Language),897
-Adobe After Effects,891
-Azure Active Directory,877
-IOS Applications,876
+LA,Thing,Count
+York,Microsoft Office,1452
+York,Microsoft Excel,1380
+York,Microsoft Teams,1272
+York,Microsoft Azure,931
+York,Aruba (Network Management Software),900
+York,SQL (Programming Language),895
+York,AutoCAD,879
+York,Microsoft Outlook,732
+York,eClinicalWorks (ECW),732
+York,Microsoft PowerPoint,699
+York,SAP Applications,664
+York,JavaScript (Programming Language),653
+York,Autodesk Revit,609
+York,Reliability Availability Maintainability And Safety Software,580
+York,C# (Programming Language),503
+York,Microsoft Word,496
+York,.NET Framework,453
+York,Linux,402
+York,Python (Programming Language),396
+York,Amazon Web Services,389
+York,Application Programming Interface (API),384
+York,Adobe Photoshop,382
+York,Cascading Style Sheets (CSS),360
+York,Java (Programming Language),355
+York,HyperText Markup Language (HTML),326
+York,Microsoft Office 365,315
+York,Windows PowerShell,292
+York,React.js,282
+York,Windows Servers,251
+York,Information Technology Infrastructure Library,237
+York,Docker (Software),225
+York,SAP CRM,216
+York,Kubernetes,201
+York,Active Directory,180
+York,PHP (Scripting Language),179
+York,Microsoft Project,178
+York,SketchUp (3D Modeling Software),169
+York,Microsoft 365,165
+York,SQL Server Integration Services (SSIS),165
+York,Adobe InDesign,152
+York,Operating Systems,150
+York,Microsoft Intune (Mobile Device Management Software),143
+York,Microsoft SharePoint,142
+York,Transact-SQL,142
+York,Git (Version Control System),140
+York,Terraform,137
+York,Angular (Web Framework),132
+York,Microsoft Dynamics 365,129
+York,Azure DevOps,125
+York,Database Systems,113
+York,C++ (Programming Language),113
+York,Node.js,112
+York,Microsoft Dynamics,110
+York,Github,106
+York,SQL Server Reporting Services,103
+York,TypeScript,102
+York,Cloud Technologies,100
+York,Stored Procedure,97
+York,HTML5,95
+York,ServiceNow,92
+York,Firewall,92
+York,Adobe Illustrator,88
+York,Design Software,88
+York,Platform As A Service (PaaS),87
+York,Microsoft SQL Servers,87
+York,PHPUnit,86
+York,JSON,85
+York,Elasticsearch,85
+York,Azure Active Directory,82
+York,Selenium (Software),81
+York,PostgreSQL,80
+York,Linden Scripting Language,78
+York,Microsoft Power Platform,77
+York,Scheme (Programming Language),77
+York,JQuery,76
+York,Apple IOS,75
+York,Microsoft Windows 10,71
+York,C (Programming Language),70
+York,Content Management Systems,69
+York,Lumion (3D Rendering Software),69
+York,Autodesk Inventor,69
+York,Cloud Services,68
+York,Firmware,67
+York,Jenkins,67
+York,Vue.js,67
+York,Apache Kafka,66
+York,Microsoft Software,66
+York,RESTful API,65
+York,ASP.NET,65
+York,Geographic Information Systems,64
+York,Ansible,63
+York,Virtual Learning Environments,62
+York,Ext JS,62
+York,Project Management Software,61
+York,Customer Relationship Management (CRM) Software,61
+York,Accounting Software,60
+York,Infrastructure As A Service (IaaS),60
+York,Zoom (Video Conferencing Tool),59
+York,WordPress,58
+York,Postman API Platform,58
+York,Microsoft Office,1452
+York,Microsoft Excel,1380
+York,Microsoft Teams,1272
+York,Microsoft Azure,931
+York,Aruba (Network Management Software),900
+York,SQL (Programming Language),895
+York,AutoCAD,879
+York,Microsoft Outlook,732
+York,eClinicalWorks (ECW),732
+York,Microsoft PowerPoint,699
+York,SAP Applications,664
+York,JavaScript (Programming Language),653
+York,Autodesk Revit,609
+York,Reliability Availability Maintainability And Safety Software,580
+York,C# (Programming Language),503
+York,Microsoft Word,496
+York,.NET Framework,453
+York,Linux,402
+York,Python (Programming Language),396
+York,Amazon Web Services,389
+York,Application Programming Interface (API),384
+York,Adobe Photoshop,382
+York,Cascading Style Sheets (CSS),360
+York,Java (Programming Language),355
+York,HyperText Markup Language (HTML),326
+York,Microsoft Office 365,315
+York,Windows PowerShell,292
+York,React.js,282
+York,Windows Servers,251
+York,Information Technology Infrastructure Library,237
+York,Docker (Software),225
+York,SAP CRM,216
+York,Kubernetes,201
+York,Active Directory,180
+York,PHP (Scripting Language),179
+York,Microsoft Project,178
+York,SketchUp (3D Modeling Software),169
+York,Microsoft 365,165
+York,SQL Server Integration Services (SSIS),165
+York,Adobe InDesign,152
+York,Operating Systems,150
+York,Microsoft Intune (Mobile Device Management Software),143
+York,Microsoft SharePoint,142
+York,Transact-SQL,142
+York,Git (Version Control System),140
+York,Terraform,137
+York,Angular (Web Framework),132
+York,Microsoft Dynamics 365,129
+York,Azure DevOps,125
+York,Database Systems,113
+York,C++ (Programming Language),113
+York,Node.js,112
+York,Microsoft Dynamics,110
+York,Github,106
+York,SQL Server Reporting Services,103
+York,TypeScript,102
+York,Cloud Technologies,100
+York,Stored Procedure,97
+York,HTML5,95
+York,ServiceNow,92
+York,Firewall,92
+York,Adobe Illustrator,88
+York,Design Software,88
+York,Platform As A Service (PaaS),87
+York,Microsoft SQL Servers,87
+York,PHPUnit,86
+York,JSON,85
+York,Elasticsearch,85
+York,Azure Active Directory,82
+York,Selenium (Software),81
+York,PostgreSQL,80
+York,Linden Scripting Language,78
+York,Microsoft Power Platform,77
+York,Scheme (Programming Language),77
+York,JQuery,76
+York,Apple IOS,75
+York,Microsoft Windows 10,71
+York,C (Programming Language),70
+York,Content Management Systems,69
+York,Lumion (3D Rendering Software),69
+York,Autodesk Inventor,69
+York,Cloud Services,68
+York,Firmware,67
+York,Jenkins,67
+York,Vue.js,67
+York,Apache Kafka,66
+York,Microsoft Software,66
+York,RESTful API,65
+York,ASP.NET,65
+York,Geographic Information Systems,64
+York,Ansible,63
+York,Virtual Learning Environments,62
+York,Ext JS,62
+York,Project Management Software,61
+York,Customer Relationship Management (CRM) Software,61
+York,Accounting Software,60
+York,Infrastructure As A Service (IaaS),60
+York,Zoom (Video Conferencing Tool),59
+York,WordPress,58
+York,Postman API Platform,58

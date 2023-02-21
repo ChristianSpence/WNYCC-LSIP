@@ -1,101 +1,27 @@
-Thing,Count
-Construction project managers and related professionals,63214.8787878788
-Medical practitioners,57075.9375
-Chief executives and senior officials,56064.0408163265
-Pharmacists,54237
-Psychologists,53294.9743589744
-Information technology and telecommunications directors,51025.4603174603
-Research and development managers,50617.85
-Architects,50131.75
-"Senior officers in fire, ambulance, prison and related services",49991.4
-Financial managers and directors,49597.6103896104
-Production managers and directors in construction,47879.6989247312
-Business and financial project management professionals,47860.5214723926
-"Product, clothing and related designers",47421.0526315789
-Quality control and planning engineers,46162.8620689655
-Solicitors,46157.6904761905
-Protective service associate professionals n.e.c.,45818.85
-Sales accounts and business development managers,45359.9826086956
-"Actuaries, economists and statisticians",45314.3333333333
-"Business, research and administrative professionals n.e.c.",45137.3793103448
-IT project and programme managers,45137.032
-"Residential, day and domiciliary  care managers and proprietors",44775.1111111111
-Textile process operatives,44462.0384615385
-Physical scientists,44264.3529411765
-Quantity surveyors,43943.59375
-Purchasing managers and directors,43635.329787234
-Health services and public health managers and directors,43592.0736842105
-Managers and directors in transport and distribution,43485.6153846154
-"Scaffolders, stagers and riggers",43177.8333333333
-"IT business analysts, architects and systems designers",42999.1527777778
-Human resource managers and directors,42815.7173913043
-Marketing and sales directors,42704.5739130435
-Management consultants and business analysts,42393.503649635
-Information technology and telecommunications professionals n.e.c.,41621.8869565217
-Programmers and software development professionals,41589.0450819672
-Plasterers,41285.2857142857
-Veterinarians,40941
-"Planning, process and production technicians",40847.2608695652
-Leisure and sports managers,40826.3333333333
-Floorers and wall tilers,40725.3333333333
-Financial accounts managers,40687.75
-"Journalists, newspaper and periodical editors",40648.7096774194
-Managers and proprietors in other services n.e.c.,40323.4557377049
-Production managers and directors in manufacturing,40125.5849056604
-Taxation experts,39987.9333333333
-Bricklayers and masons,39922.7428571429
-Chartered architectural technologists,39873.3333333333
-Inspectors of standards and regulations,39723.5172413793
-Chartered surveyors,39717.1034482759
-Environment professionals,39606.8181818182
-Business and related research professionals,39264.8846153846
-Higher education teaching professionals,39008.1282051282
-Design and development engineers,38884.0625
-"Skilled metal, electrical and electronic trades supervisors",38818.875
-Building and civil engineering technicians,38783.3888888889
-Civil engineers,38658.6526315789
-Managers and directors in storage and warehousing,38422.1818181818
-Routine inspectors and testers,38383
-Health care practice managers,38117
-Mobile machine drivers and operatives n.e.c.,38094.9285714286
-Functional managers and directors n.e.c.,37906.5411764706
-Air traffic controllers,37783.5
-Electrical engineers,37751.5977011494
-Mechanical engineers,37661.2222222222
-"Estimators, valuers and assessors",37350.7755102041
-Biological scientists and biochemists,37341.3170731707
-Senior professionals of educational establishments,37315.8901098901
-IT specialist managers,37308.5652173913
-Nurses,37260.2176870748
-Finance and investment analysts and advisers,37056.505050505
-Engineering professionals n.e.c.,37054.3837209302
-Secondary education teaching professionals,37039.380952381
-Telecommunications engineers,36907.56
-Quality assurance and regulatory professionals,36581.7898550725
-Health and safety officers,36468.1318681319
-Draughtspersons,36376.0731707317
-Electronics engineers,36310.8235294118
-"Arts officers, producers and directors",36125.8529411765
-Advertising and public relations directors,35938.2363636364
-Construction and building trades supervisors,35773.9777777778
-Office supervisors,35563.1323529412
-"Property, housing and estate managers",35501.958041958
-Production and process engineers,35478.2463768116
-Electricians and electrical fitters,35289.3333333333
-Sewing machinists,34969.1666666667
-Business sales executives,34839.0909090909
-"Authors, writers and translators",33808.5409836066
-Web design and development professionals,33582.8971962617
-Conservation professionals,33576.8333333333
-Customer service managers and supervisors,33557.35625
-Construction operatives n.e.c.,33531.7209302326
-Carpenters and joiners,33478.496296296304
-Special needs education teaching professionals,33445.8775510204
-Plumbers and heating and ventilating engineers,33271.313253012
-"Glaziers, window fabricators and fitters",32997.7058823529
-"Roofers, roof tilers and slaters",32918
-Vehicle body builders and repairers,32696.1481481482
-Business and related associate professionals n.e.c.,32642.4761904762
-"Food, drink and tobacco process operatives",32519.5625
-Insurance underwriters,32324.5405405405
-Electrical and electronics technicians,32168.0888888889
+LA,Thing,Count
+York,Managers and proprietors in other services n.e.c.,47884.1666666667
+York,Marketing and sales directors,45852.8333333333
+York,Veterinarians,42378.7
+York,Programmers and software development professionals,37097.4090909091
+York,"IT business analysts, architects and systems designers",36728.5
+York,Human resources and industrial relations officers,29209.8695652174
+York,Marketing associate professionals,29203.3076923077
+York,IT operations technicians,27762.2727272727
+York,Sales related occupations n.e.c.,27472.96875
+York,Customer service occupations n.e.c.,26293.6111111111
+York,"Book-keepers, payroll managers and wages clerks",24508.6956521739
+York,Other administrative occupations n.e.c.,22368.35
+York,Receptionists,18521.8846153846
+York,Managers and proprietors in other services n.e.c.,47884.1666666667
+York,Marketing and sales directors,45852.8333333333
+York,Veterinarians,42378.7
+York,Programmers and software development professionals,37097.4090909091
+York,"IT business analysts, architects and systems designers",36728.5
+York,Human resources and industrial relations officers,29209.8695652174
+York,Marketing associate professionals,29203.3076923077
+York,IT operations technicians,27762.2727272727
+York,Sales related occupations n.e.c.,27472.96875
+York,Customer service occupations n.e.c.,26293.6111111111
+York,"Book-keepers, payroll managers and wages clerks",24508.6956521739
+York,Other administrative occupations n.e.c.,22368.35
+York,Receptionists,18521.8846153846

@@ -1,101 +1,201 @@
-Thing,Count
-Information Organization,51.1666666666667
-Extroverted,50
-Logical Reasoning,47.4444444444444
-Technical Acumen,44.75
-Microsoft Software,43.3076923076923
-Imagination,42.6521739130435
-Business Proposals,42.2
-Growth Mindedness,40.2142857142857
-Lateral Thinking,39.6666666666667
-Constructive Feedback,39.5357142857143
-Web Browsers,39.45
-Tape Measure,39
-Swimming,38.8333333333333
-Spatial Abilities,38.8
-Client Confidentiality,38.25
-Portuguese Language,38.2068965517241
-Visionary,38.1428571428571
-Driven Personality,38
-Persistence,37.9230769230769
-Complex Problem Solving,37.72
-Sign Languages,37.6666666666667
-Spanish Language,37.566265060241
-Discussion Facilitation,37.5172413793103
-Brainstorming,37.5
-Open Mindset,37.2545454545455
-Memos,37.2
-Swedish Language,37
-Entrepreneurship,37
-Incident Reporting,36.9354838709677
-Telephone Skills,36.5524475524476
-Real Estate,36.5
-Concision,36.4545454545455
-Project Design,36.3181818181818
-Information Processing,36.1818181818182
-Progress Reporting,36.1428571428571
-Decorating,36.0808080808081
-Smartphone Operation,36.0151515151515
-Cultural Responsiveness,36
-Active Listening,35.9122807017544
-Self-Awareness,35.9047619047619
-Mechanical Aptitude,35.9019607843137
-Plan Execution,35.8620689655172
-Aesthetics,35.7727272727273
-Mandarin Chinese,35.6774193548387
-Professional Networking,35.6666666666667
-Sorting,35.5853658536585
-Parent Communication,35.5555555555556
-Self-Sufficiency,35.5333333333333
-Creativity,35.4715025906736
-Personal Integrity,35.4528301886792
-Emotional Intelligence,35.2698412698413
-Diagnostic Skills,35.1612903225806
-Solutions Focused,35.0555555555556
-Reservations,35.0508474576271
-Context Switch,35
-Team Performance Management,34.9529411764706
-Valid Driver's License,34.8611111111111
-Critical Thinking,34.8571428571429
-Calmness Under Pressure,34.7121212121212
-Composure,34.6457142857143
-Loading And Unloading,34.6425339366516
-Rapport Building,34.5771812080537
-Motivational Skills,34.5483870967742
-Arithmetic,34.5238095238095
-Typing,34.3368983957219
-Information Gathering,34.3303571428571
-Foreign Language,34.3
-Positivity,34.2062663185379
-Team Building,34.1901408450704
-Clerical Works,34.1825396825397
-Emergency Procedures,34.1666666666667
-Teaching,34.1123595505618
-Negotiation,34.0828025477707
-Desktop Computing,34
-Punctuality,33.9710144927536
-Team Leadership,33.9567307692308
-Google Sheets,33.9473684210526
-Verbal Communication Skills,33.8817427385892
-Relationship Management,33.875
-People Management,33.8512396694215
-German Language,33.843137254902
-Proactivity,33.7709359605911
-Greeting Customers,33.7413793103448
-Analytical Thinking,33.74
-Caring Nature,33.6904761904762
-Cooperation,33.5975609756098
-Social Media,33.5909090909091
-Intellectual Curiosity,33.5398230088496
-Microsoft Windows,33.5116279069767
-Professionalism,33.501968503937
-Business Ethics,33.5
-Good Driving Record,33.5
-Supervision,33.491935483871
-Results Focused,33.4772727272727
-Troubleshooting (Problem Solving),33.4223826714801
-Resourcefulness,33.4159292035398
-Quality Control,33.3595505617978
-Writing,33.3548387096774
-Voicemail,33.3
-Social Skills,33.2816901408451
+LA,Thing,Count
+York,Progress Reporting,52.5
+York,Sorting,48
+York,Imagination,47.3333333333333
+York,Packaging And Labeling,44.875
+York,French Language,41.2
+York,Editing,41
+York,Adaptability,40.8
+York,Telephone Skills,40.6
+York,Organizational Skills,40.6
+York,Team Building,40.5555555555556
+York,Creative Thinking,40.5
+York,First Aid,39.8421052631579
+York,Team Motivation,39.5
+York,Supervision,39.1818181818182
+York,Resourcefulness,38.875
+York,Persuasive Communication,38.6666666666667
+York,Tenacity,38.6666666666667
+York,Cleanliness,38.3125
+York,Information Technology,38.2222222222222
+York,Investigation,37.7142857142857
+York,Computer Literacy,37.475
+York,Timelines,37.2857142857143
+York,Administrative Functions,37.1041666666667
+York,Ability To Meet Deadlines,36.8235294117647
+York,Governance,36.6521739130435
+York,Professionalism,36.6111111111111
+York,Rapport Building,36.5333333333333
+York,Multitasking,36.2727272727273
+York,Greeting Customers,36.2
+York,Grammar,36.1818181818182
+York,Valid Driver's License,36
+York,Decision Making,35.8888888888889
+York,Filing,35.875
+York,Influencing Skills,35.46875
+York,Information Gathering,35.3333333333333
+York,Negotiation,35.24
+York,Quality Control,35.1818181818182
+York,Creativity,34.9444444444444
+York,Calmness Under Pressure,34.9166666666667
+York,Composure,34.8333333333333
+York,Listening Skills,34.7692307692308
+York,Collections,34.75
+York,Typing,34.6363636363636
+York,Literacy,34.6153846153846
+York,Coaching,34.5405405405405
+York,Willingness To Learn,34.5084745762712
+York,Microsoft Office,34.4666666666667
+York,Problem Solving,34.4210526315789
+York,Punctuality,34.4166666666667
+York,Operations,34.4166666666667
+York,Accountability,34.4
+York,Training And Development,34.3870967741936
+York,Microsoft Word,34.3809523809524
+York,Loading And Unloading,34.2142857142857
+York,Research,34.18
+York,Positivity,34.0967741935484
+York,Coordinating,34.0540540540541
+York,Teaching,34
+York,Interpersonal Communications,33.9347826086956
+York,Compassion,33.8888888888889
+York,Record Keeping,33.8461538461538
+York,Strong Work Ethic,33.7741935483871
+York,Management,33.739837398374
+York,Empathy,33.7
+York,Assertiveness,33.6363636363636
+York,Social Media,33.48
+York,Communications,33.4756097560976
+York,Collaboration,33.4285714285714
+York,English Language,33.258064516129
+York,Troubleshooting (Problem Solving),33.2352941176471
+York,Honesty,33.2272727272727
+York,Motivational Skills,33.2222222222222
+York,Advising,33.1666666666667
+York,Clerical Works,33.0588235294118
+York,Word Processing,33
+York,People Management,33
+York,Quality Assurance,32.8823529411765
+York,Mathematics,32.8529411764706
+York,Sales,32.7926829268293
+York,Budgeting,32.78125
+York,Microsoft Outlook,32.7272727272727
+York,Teamwork,32.5666666666667
+York,Support Colleagues,32.5
+York,Microsoft Excel,32.4772727272727
+York,Safety Assurance,32.4615384615385
+York,Data Reporting,32.4
+York,Microsoft PowerPoint,32.1428571428571
+York,Retail Sales,32.1428571428571
+York,Presentations,32.0833333333333
+York,Spreadsheets,32.0588235294118
+York,Customer Service,31.9532710280374
+York,Mentorship,31.9428571428571
+York,Self-Motivation,31.9137931034483
+York,Scheduling,31.8695652173913
+York,Proactivity,31.8571428571429
+York,Writing,31.8490566037736
+York,Team Management,31.7142857142857
+York,Innovation,31.5853658536585
+York,Cooperation,31.5
+York,Forecasting,31.4166666666667
+York,Progress Reporting,52.5
+York,Sorting,48
+York,Imagination,47.3333333333333
+York,Packaging And Labeling,44.875
+York,French Language,41.2
+York,Editing,41
+York,Adaptability,40.8
+York,Telephone Skills,40.6
+York,Organizational Skills,40.6
+York,Team Building,40.5555555555556
+York,Creative Thinking,40.5
+York,First Aid,39.8421052631579
+York,Team Motivation,39.5
+York,Supervision,39.1818181818182
+York,Resourcefulness,38.875
+York,Persuasive Communication,38.6666666666667
+York,Tenacity,38.6666666666667
+York,Cleanliness,38.3125
+York,Information Technology,38.2222222222222
+York,Investigation,37.7142857142857
+York,Computer Literacy,37.475
+York,Timelines,37.2857142857143
+York,Administrative Functions,37.1041666666667
+York,Ability To Meet Deadlines,36.8235294117647
+York,Governance,36.6521739130435
+York,Professionalism,36.6111111111111
+York,Rapport Building,36.5333333333333
+York,Multitasking,36.2727272727273
+York,Greeting Customers,36.2
+York,Grammar,36.1818181818182
+York,Valid Driver's License,36
+York,Decision Making,35.8888888888889
+York,Filing,35.875
+York,Influencing Skills,35.46875
+York,Information Gathering,35.3333333333333
+York,Negotiation,35.24
+York,Quality Control,35.1818181818182
+York,Creativity,34.9444444444444
+York,Calmness Under Pressure,34.9166666666667
+York,Composure,34.8333333333333
+York,Listening Skills,34.7692307692308
+York,Collections,34.75
+York,Typing,34.6363636363636
+York,Literacy,34.6153846153846
+York,Coaching,34.5405405405405
+York,Willingness To Learn,34.5084745762712
+York,Microsoft Office,34.4666666666667
+York,Problem Solving,34.4210526315789
+York,Punctuality,34.4166666666667
+York,Operations,34.4166666666667
+York,Accountability,34.4
+York,Training And Development,34.3870967741936
+York,Microsoft Word,34.3809523809524
+York,Loading And Unloading,34.2142857142857
+York,Research,34.18
+York,Positivity,34.0967741935484
+York,Coordinating,34.0540540540541
+York,Teaching,34
+York,Interpersonal Communications,33.9347826086956
+York,Compassion,33.8888888888889
+York,Record Keeping,33.8461538461538
+York,Strong Work Ethic,33.7741935483871
+York,Management,33.739837398374
+York,Empathy,33.7
+York,Assertiveness,33.6363636363636
+York,Social Media,33.48
+York,Communications,33.4756097560976
+York,Collaboration,33.4285714285714
+York,English Language,33.258064516129
+York,Troubleshooting (Problem Solving),33.2352941176471
+York,Honesty,33.2272727272727
+York,Motivational Skills,33.2222222222222
+York,Advising,33.1666666666667
+York,Clerical Works,33.0588235294118
+York,Word Processing,33
+York,People Management,33
+York,Quality Assurance,32.8823529411765
+York,Mathematics,32.8529411764706
+York,Sales,32.7926829268293
+York,Budgeting,32.78125
+York,Microsoft Outlook,32.7272727272727
+York,Teamwork,32.5666666666667
+York,Support Colleagues,32.5
+York,Microsoft Excel,32.4772727272727
+York,Safety Assurance,32.4615384615385
+York,Data Reporting,32.4
+York,Microsoft PowerPoint,32.1428571428571
+York,Retail Sales,32.1428571428571
+York,Presentations,32.0833333333333
+York,Spreadsheets,32.0588235294118
+York,Customer Service,31.9532710280374
+York,Mentorship,31.9428571428571
+York,Self-Motivation,31.9137931034483
+York,Scheduling,31.8695652173913
+York,Proactivity,31.8571428571429
+York,Writing,31.8490566037736
+York,Team Management,31.7142857142857
+York,Innovation,31.5853658536585
+York,Cooperation,31.5
+York,Forecasting,31.4166666666667

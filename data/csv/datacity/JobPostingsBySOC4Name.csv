@@ -1,101 +1,201 @@
-Thing,Count
-Care workers and home carers,356202
-Nurses,211635
-Nursing auxiliaries and assistants,41725
-Driving instructors,36708
-Cleaners and domestics,32653
-Elementary storage occupations,31028
-Kitchen and catering assistants,29066
-Programmers and software development professionals,21516
-Other administrative occupations n.e.c.,20613
-Teaching and other educational professionals n.e.c.,19864
-Engineering technicians,19237
-Sales related occupations n.e.c.,17129
-Sports and leisure assistants,16729
-Managers and proprietors in other services n.e.c.,16613
-Chefs,14347
-Large goods vehicle drivers,14292
-Health services and public health managers and directors,13408
-Civil engineers,12877
-Cooks,12356
-Marketing and sales directors,11893
-Receptionists,9668
-Sales and retail assistants,9602
-Mechanical engineers,9443
-"Residential, day and domiciliary  care managers and proprietors",9426
-Managers and directors in retail and wholesale,9405
-Engineering professionals n.e.c.,8228
-Housekeepers and related occupations,8114
-"IT business analysts, architects and systems designers",7682
-Management consultants and business analysts,7270
-Fitness instructors,6825
-Human resources and industrial relations officers,6527
-Marketing associate professionals,6244
-Business and financial project management professionals,5929
-Customer service occupations n.e.c.,5921
-Sales supervisors,5712
-Van drivers,5630
-Merchandisers and window dressers,5628
-"Science, engineering and production technicians n.e.c.",5385
-Electrical engineers,5352
-Electricians and electrical fitters,5260
-Sales accounts and business development managers,5193
-Quantity surveyors,5112
-IT user support technicians,4947
-"Book-keepers, payroll managers and wages clerks",4866
-Web design and development professionals,4823
-Chartered and certified accountants,4612
-Elementary construction occupations,4584
-"Property, housing and estate managers",4564
-Information technology and telecommunications professionals n.e.c.,4470
-IT operations technicians,4173
-Quality control and planning engineers,4145
-IT project and programme managers,4099
-"Launderers, dry cleaners and pressers",4074
-Cleaning and housekeeping managers and supervisors,3949
-Senior care workers,3876
-Higher education teaching professionals,3788
-Business and related research professionals,3716
-Plumbers and heating and ventilating engineers,3691
-Production managers and directors in manufacturing,3659
-Financial managers and directors,3651
-Pharmacists,3611
-Caretakers,3463
-Buyers and procurement officers,3428
-Quality assurance and regulatory professionals,3416
-Finance and investment analysts and advisers,3341
-Business sales executives,3325
-Production managers and directors in construction,3197
-Design and development engineers,3039
-Construction project managers and related professionals,3009
-Solicitors,2849
-Customer service managers and supervisors,2792
-Primary and nursery education teaching professionals,2780
-"Planning, process and production technicians",2482
-Estate agents and auctioneers,2476
-"Estimators, valuers and assessors",2379
-Electrical and electronic trades n.e.c.,2371
-Metal working production and maintenance fitters,2304
-Transport and distribution clerks and assistants,2191
-Draughtspersons,2157
-Vocational and industrial trainers and instructors,2135
-Metal working machine operatives,2122
-Chartered surveyors,2088
-Quality assurance technicians,2056
-Nursery nurses and assistants,2033
-Welfare and housing associate professionals n.e.c.,2031
-Purchasing managers and directors,2016
-Elementary administration occupations n.e.c.,2005
-"Authors, writers and translators",1988
-Chief executives and senior officials,1941
-Carpenters and joiners,1919
-Office managers,1906
-Senior professionals of educational establishments,1814
-Secondary education teaching professionals,1795
-Functional managers and directors n.e.c.,1788
-Teaching assistants,1786
-Chartered architectural technologists,1753
-Health and safety officers,1719
-Medical and dental technicians,1694
-Business and related associate professionals n.e.c.,1648
-Legal associate professionals,1635
+LA,Thing,Count
+York,Driving instructors,35958
+York,Nurses,4776
+York,Programmers and software development professionals,1481
+York,Quantity surveyors,1419
+York,Sales related occupations n.e.c.,1268
+York,Bus and coach drivers,1217
+York,Managers and proprietors in other services n.e.c.,1202
+York,Estate agents and auctioneers,1068
+York,Sales accounts and business development managers,1038
+York,Health services and public health managers and directors,874
+York,Marketing and sales directors,789
+York,"Estimators, valuers and assessors",763
+York,Business and financial project management professionals,726
+York,Engineering technicians,719
+York,Medical radiographers,718
+York,Civil engineers,681
+York,Other administrative occupations n.e.c.,678
+York,"IT business analysts, architects and systems designers",627
+York,"Property, housing and estate managers",624
+York,Production managers and directors in construction,541
+York,Management consultants and business analysts,469
+York,Engineering professionals n.e.c.,463
+York,Human resources and industrial relations officers,460
+York,Construction project managers and related professionals,457
+York,Information technology and telecommunications professionals n.e.c.,439
+York,IT operations technicians,436
+York,Customer service occupations n.e.c.,431
+York,Higher education teaching professionals,423
+York,Medical and dental technicians,413
+York,IT user support technicians,411
+York,Buyers and procurement officers,352
+York,Physiotherapists,349
+York,Electricians and electrical fitters,348
+York,Production managers and directors in manufacturing,319
+York,Chartered surveyors,315
+York,Web design and development professionals,313
+York,Chartered architectural technologists,291
+York,IT project and programme managers,252
+York,Architects,238
+York,Plumbers and heating and ventilating engineers,237
+York,Nursing auxiliaries and assistants,235
+York,Leisure and sports managers,232
+York,Mechanical engineers,230
+York,Sales supervisors,229
+York,Elementary administration occupations n.e.c.,227
+York,Teaching and other educational professionals n.e.c.,221
+York,"Book-keepers, payroll managers and wages clerks",219
+York,Solicitors,218
+York,Marketing associate professionals,206
+York,Design and development engineers,206
+York,Receptionists,196
+York,Cleaners and domestics,191
+York,Elementary storage occupations,185
+York,"Planning, process and production technicians",181
+York,Carpenters and joiners,179
+York,Pharmacists,179
+York,"Science, engineering and production technicians n.e.c.",178
+York,Draughtspersons,177
+York,Customer service managers and supervisors,175
+York,Electrical engineers,174
+York,Medical practitioners,169
+York,Health and safety officers,150
+York,Care workers and home carers,149
+York,Purchasing managers and directors,145
+York,Chartered and certified accountants,139
+York,Gardeners and landscape gardeners,138
+York,Veterinarians,137
+York,"Authors, writers and translators",132
+York,Construction and building trades supervisors,119
+York,Teaching assistants,119
+York,Senior professionals of educational establishments,115
+York,Human resource managers and directors,110
+York,Quality assurance and regulatory professionals,108
+York,Business sales executives,104
+York,Business and related associate professionals n.e.c.,104
+York,Quality control and planning engineers,103
+York,Financial managers and directors,99
+York,Office managers,96
+York,Information technology and telecommunications directors,94
+York,Financial administrative occupations n.e.c.,92
+York,Metal working production and maintenance fitters,92
+York,Elementary construction occupations,91
+York,Records clerks and assistants,90
+York,Electrical and electronic trades n.e.c.,89
+York,Sales and retail assistants,85
+York,"Sports coaches, instructors and officials",81
+York,Van drivers,79
+York,Health professionals n.e.c.,79
+York,Sales administrators,79
+York,Primary and nursery education teaching professionals,78
+York,Financial accounts managers,78
+York,Occupational therapists,78
+York,Plant and machine operatives n.e.c.,77
+York,Stock control clerks and assistants,75
+York,Managers and directors in storage and warehousing,74
+York,Quality assurance technicians,71
+York,Business and related research professionals,70
+York,Health associate professionals n.e.c.,70
+York,"Business, research and administrative professionals n.e.c.",69
+York,Animal care services occupations n.e.c.,69
+York,Driving instructors,35958
+York,Nurses,4776
+York,Programmers and software development professionals,1481
+York,Quantity surveyors,1419
+York,Sales related occupations n.e.c.,1268
+York,Bus and coach drivers,1217
+York,Managers and proprietors in other services n.e.c.,1202
+York,Estate agents and auctioneers,1068
+York,Sales accounts and business development managers,1038
+York,Health services and public health managers and directors,874
+York,Marketing and sales directors,789
+York,"Estimators, valuers and assessors",763
+York,Business and financial project management professionals,726
+York,Engineering technicians,719
+York,Medical radiographers,718
+York,Civil engineers,681
+York,Other administrative occupations n.e.c.,678
+York,"IT business analysts, architects and systems designers",627
+York,"Property, housing and estate managers",624
+York,Production managers and directors in construction,541
+York,Management consultants and business analysts,469
+York,Engineering professionals n.e.c.,463
+York,Human resources and industrial relations officers,460
+York,Construction project managers and related professionals,457
+York,Information technology and telecommunications professionals n.e.c.,439
+York,IT operations technicians,436
+York,Customer service occupations n.e.c.,431
+York,Higher education teaching professionals,423
+York,Medical and dental technicians,413
+York,IT user support technicians,411
+York,Buyers and procurement officers,352
+York,Physiotherapists,349
+York,Electricians and electrical fitters,348
+York,Production managers and directors in manufacturing,319
+York,Chartered surveyors,315
+York,Web design and development professionals,313
+York,Chartered architectural technologists,291
+York,IT project and programme managers,252
+York,Architects,238
+York,Plumbers and heating and ventilating engineers,237
+York,Nursing auxiliaries and assistants,235
+York,Leisure and sports managers,232
+York,Mechanical engineers,230
+York,Sales supervisors,229
+York,Elementary administration occupations n.e.c.,227
+York,Teaching and other educational professionals n.e.c.,221
+York,"Book-keepers, payroll managers and wages clerks",219
+York,Solicitors,218
+York,Marketing associate professionals,206
+York,Design and development engineers,206
+York,Receptionists,196
+York,Cleaners and domestics,191
+York,Elementary storage occupations,185
+York,"Planning, process and production technicians",181
+York,Carpenters and joiners,179
+York,Pharmacists,179
+York,"Science, engineering and production technicians n.e.c.",178
+York,Draughtspersons,177
+York,Customer service managers and supervisors,175
+York,Electrical engineers,174
+York,Medical practitioners,169
+York,Health and safety officers,150
+York,Care workers and home carers,149
+York,Purchasing managers and directors,145
+York,Chartered and certified accountants,139
+York,Gardeners and landscape gardeners,138
+York,Veterinarians,137
+York,"Authors, writers and translators",132
+York,Construction and building trades supervisors,119
+York,Teaching assistants,119
+York,Senior professionals of educational establishments,115
+York,Human resource managers and directors,110
+York,Quality assurance and regulatory professionals,108
+York,Business sales executives,104
+York,Business and related associate professionals n.e.c.,104
+York,Quality control and planning engineers,103
+York,Financial managers and directors,99
+York,Office managers,96
+York,Information technology and telecommunications directors,94
+York,Financial administrative occupations n.e.c.,92
+York,Metal working production and maintenance fitters,92
+York,Elementary construction occupations,91
+York,Records clerks and assistants,90
+York,Electrical and electronic trades n.e.c.,89
+York,Sales and retail assistants,85
+York,"Sports coaches, instructors and officials",81
+York,Van drivers,79
+York,Health professionals n.e.c.,79
+York,Sales administrators,79
+York,Primary and nursery education teaching professionals,78
+York,Financial accounts managers,78
+York,Occupational therapists,78
+York,Plant and machine operatives n.e.c.,77
+York,Stock control clerks and assistants,75
+York,Managers and directors in storage and warehousing,74
+York,Quality assurance technicians,71
+York,Business and related research professionals,70
+York,Health associate professionals n.e.c.,70
+York,"Business, research and administrative professionals n.e.c.",69
+York,Animal care services occupations n.e.c.,69
