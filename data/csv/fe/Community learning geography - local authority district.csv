@@ -1,4 +1,172 @@
 date,geography_code,geography_name,age_detailed,sex,ethnicity_group,personal_and_community_development_learning,neighbourhood_learning_in_deprived_communities,family_english_maths_and_language,wider_family_learning,total,ach_total,ach_personal_and_community_development_learning,ach_neighbourhood_learning_in_deprived_communities,ach_family_english_maths_and_language,ach_wider_family_learning
+2021/22,E06000014,York,19-24,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Female,Total,40,low,low,10,50,40,30,low,low,10
+2021/22,E06000014,York,19-24,Female,White,40,low,low,10,50,40,30,low,low,10
+2021/22,E06000014,York,19-24,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Male,Total,20,low,low,low,20,10,10,low,low,low
+2021/22,E06000014,York,19-24,Male,White,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,19-24,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,19-24,Total,Total,50,low,low,10,70,50,40,low,low,10
+2021/22,E06000014,York,19-24,Total,White,50,low,low,10,60,50,40,low,low,10
+2021/22,E06000014,York,25-34,Female,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,25-34,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,25-34,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,10,low,low,low,low,low
+2021/22,E06000014,York,25-34,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,25-34,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,25-34,Female,Total,170,low,low,10,180,160,150,low,low,10
+2021/22,E06000014,York,25-34,Female,White,150,low,low,10,160,140,130,low,low,10
+2021/22,E06000014,York,25-34,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,25-34,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,25-34,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,25-34,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,25-34,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,25-34,Male,Total,40,low,low,low,50,40,40,low,low,low
+2021/22,E06000014,York,25-34,Male,White,40,low,low,low,40,40,40,low,low,low
+2021/22,E06000014,York,25-34,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,25-34,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,25-34,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,10,low,low,low,low,low
+2021/22,E06000014,York,25-34,Total,Not Provided,low,low,low,low,10,low,low,low,low,low
+2021/22,E06000014,York,25-34,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,25-34,Total,Total,220,low,low,10,230,200,190,low,low,10
+2021/22,E06000014,York,25-34,Total,White,190,low,low,10,200,180,170,low,low,10
+2021/22,E06000014,York,35-44,Female,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,35-44,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,35-44,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,10,low,low,low,low,low
+2021/22,E06000014,York,35-44,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,35-44,Female,Other Ethnic Group,10,low,low,low,10,low,low,low,low,low
+2021/22,E06000014,York,35-44,Female,Total,240,low,low,10,240,210,200,low,low,10
+2021/22,E06000014,York,35-44,Female,White,210,low,low,10,220,190,180,low,low,10
+2021/22,E06000014,York,35-44,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,35-44,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,35-44,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,35-44,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,35-44,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,35-44,Male,Total,60,low,low,low,60,50,50,low,low,low
+2021/22,E06000014,York,35-44,Male,White,50,low,low,low,50,40,40,low,low,low
+2021/22,E06000014,York,35-44,Total,Asian/ Asian British,20,low,low,low,20,20,20,low,low,low
+2021/22,E06000014,York,35-44,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,35-44,Total,Mixed/ Multiple Ethnic Group,10,low,low,low,10,low,low,low,low,low
+2021/22,E06000014,York,35-44,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,35-44,Total,Other Ethnic Group,10,low,low,low,10,low,low,low,low,low
+2021/22,E06000014,York,35-44,Total,Total,290,low,low,10,300,250,250,low,low,10
+2021/22,E06000014,York,35-44,Total,White,250,low,low,10,260,230,220,low,low,10
+2021/22,E06000014,York,45-59,Female,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,45-59,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,45-59,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,45-59,Female,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,45-59,Female,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,45-59,Female,Total,380,low,low,low,380,350,340,low,low,low
+2021/22,E06000014,York,45-59,Female,White,350,low,low,low,350,320,320,low,low,low
+2021/22,E06000014,York,45-59,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,45-59,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,45-59,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,45-59,Male,Not Provided,10,low,low,low,10,low,low,low,low,low
+2021/22,E06000014,York,45-59,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,45-59,Male,Total,90,low,low,low,90,80,80,low,low,low
+2021/22,E06000014,York,45-59,Male,White,80,low,low,low,80,70,70,low,low,low
+2021/22,E06000014,York,45-59,Total,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,45-59,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,45-59,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,45-59,Total,Not Provided,20,low,low,low,20,20,10,low,low,low
+2021/22,E06000014,York,45-59,Total,Other Ethnic Group,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,45-59,Total,Total,470,low,low,low,470,430,420,low,low,low
+2021/22,E06000014,York,45-59,Total,White,430,low,low,low,430,390,390,low,low,low
+2021/22,E06000014,York,60+,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Female,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,60+,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Female,Total,560,low,low,low,560,530,530,low,low,low
+2021/22,E06000014,York,60+,Female,White,550,low,low,low,550,530,530,low,low,low
+2021/22,E06000014,York,60+,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Male,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,60+,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Male,Total,120,low,low,low,120,100,100,low,low,low
+2021/22,E06000014,York,60+,Male,White,110,low,low,low,110,90,90,low,low,low
+2021/22,E06000014,York,60+,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Total,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,60+,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,60+,Total,Total,680,low,low,low,680,630,630,low,low,low
+2021/22,E06000014,York,60+,Total,White,660,low,low,low,660,620,620,low,low,low
+2021/22,E06000014,York,Total,Female,Asian/ Asian British,30,low,low,low,30,20,20,low,low,low
+2021/22,E06000014,York,Total,Female,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,Total,Female,Mixed/ Multiple Ethnic Group,10,low,low,low,20,10,10,low,low,low
+2021/22,E06000014,York,Total,Female,Not Provided,20,low,low,low,30,20,20,low,low,low
+2021/22,E06000014,York,Total,Female,Other Ethnic Group,30,low,low,low,30,20,20,low,low,low
+2021/22,E06000014,York,Total,Female,Total,1390,low,low,40,1420,1280,1260,low,low,20
+2021/22,E06000014,York,Total,Female,White,1290,low,low,30,1320,1200,1190,low,low,20
+2021/22,E06000014,York,Total,Male,Asian/ Asian British,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,Total,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Total,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Total,Male,Not Provided,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,Total,Male,Other Ethnic Group,10,low,low,low,10,low,low,low,low,low
+2021/22,E06000014,York,Total,Male,Total,320,low,low,low,330,280,280,low,low,low
+2021/22,E06000014,York,Total,Male,White,280,low,low,low,290,250,250,low,low,low
+2021/22,E06000014,York,Total,Total,Asian/ Asian British,40,low,low,low,40,30,30,low,low,low
+2021/22,E06000014,York,Total,Total,Black/African/Caribbean/Black British,10,low,low,low,10,10,10,low,low,low
+2021/22,E06000014,York,Total,Total,Mixed/ Multiple Ethnic Group,20,low,low,low,20,10,10,low,low,low
+2021/22,E06000014,York,Total,Total,Not Provided,40,low,low,low,40,40,30,low,low,low
+2021/22,E06000014,York,Total,Total,Other Ethnic Group,30,low,low,low,30,20,20,low,low,low
+2021/22,E06000014,York,Total,Total,Total,1710,low,low,40,1740,1560,1540,low,low,20
+2021/22,E06000014,York,Total,Total,White,1570,low,low,30,1600,1450,1440,low,low,20
+2021/22,E06000014,York,Under 19,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Under 19,Total,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Female,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Female,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Female,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Female,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Male,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Male,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Male,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Male,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Male,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Male,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Male,White,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Total,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Total,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Total,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Total,Not Provided,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Total,Other Ethnic Group,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Total,Total,low,low,low,low,low,low,low,low,low,low
+2021/22,E06000014,York,Unknown,Total,White,low,low,low,low,low,low,low,low,low,low
 2021/22,E07000163,Craven,19-24,Female,Asian/ Asian British,low,low,low,low,low,low,low,low,low,low
 2021/22,E07000163,Craven,19-24,Female,Black/African/Caribbean/Black British,low,low,low,low,low,low,low,low,low,low
 2021/22,E07000163,Craven,19-24,Female,Mixed/ Multiple Ethnic Group,low,low,low,low,low,low,low,low,low,low

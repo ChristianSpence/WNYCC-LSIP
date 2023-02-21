@@ -1,4 +1,85 @@
 date,new_la_code,la_name,geography_code,geography_name,apprenticeships_or_further_education,level_or_type,age_group,starts,participation,achievements,starts_rate_per_100000_population,participation_rate_per_100000_population,achievements_rate_per_100000_population
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Total,Total,NA,5710,3620,NA,4289,2718
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Total,19-24,NA,1330,660,NA,4541,2231
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Total,25+,NA,4370,2960,NA,4218,2855
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Level 2,Total,NA,1710,1080,NA,1287,812
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Level 2,19-24,NA,430,220,NA,1475,763
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Level 2,25+,NA,1280,860,NA,1234,825
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Level 3,Total,NA,1210,370,NA,909,278
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Level 3,19-24,NA,560,190,NA,1901,637
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Level 3,25+,NA,650,180,NA,629,176
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),Total,NA,470,430,NA,356,319
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),19-24,NA,140,120,NA,470,416
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),25+,NA,340,300,NA,324,292
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,Total,NA,810,350,NA,606,261
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,19-24,NA,200,90,NA,678,290
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,25+,NA,610,260,NA,585,253
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,Total,NA,860,150,NA,644,111
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,19-24,NA,220,30,NA,743,89
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,25+,NA,640,120,NA,616,118
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,Total,NA,390,120,NA,294,87
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,19-24,NA,180,50,NA,606,174
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,25+,NA,210,70,NA,205,63
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,Total,NA,1050,290,NA,787,216
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,19-24,NA,510,160,NA,1751,542
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,25+,NA,530,130,NA,514,124
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,Total,NA,1780,1590,NA,1335,1197
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,19-24,NA,100,80,NA,344,269
+2021/22,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,25+,NA,1680,1510,NA,1615,1459
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Total,1170,2420,430,837,1737,311
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Under 19,280,440,90,4344,6822,1474
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Total,19-24,330,780,120,1134,2661,422
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Total,25+,560,1210,220,537,1163,207
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Total,290,540,110,208,387,76
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Under 19,140,220,40,2164,3435,612
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,19-24,70,150,30,235,514,95
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,25+,80,170,40,80,164,38
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Total,340,780,120,247,562,84
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Under 19,10,10,low,173,204,low
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,19-24,90,200,20,307,671,65
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,25+,240,570,90,234,553,91
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Total,530,1110,210,382,795,151
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Under 19,130,210,50,2008,3215,800
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,19-24,170,440,80,593,1485,262
+2021/22,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,25+,230,470,80,223,451,79
+2021/22,,,E06000014,York,Education and training,Education and training: Total,Total,NA,2490,1810,NA,1868,1363
+2021/22,,,E06000014,York,Education and training,Education and training: Total,19-24,NA,520,370,NA,1775,1264
+2021/22,,,E06000014,York,Education and training,Education and training: Total,25+,NA,1970,1440,NA,1895,1391
+2021/22,,,E06000014,York,Education and training,Education and training: Level 2,Total,NA,1400,1000,NA,1048,751
+2021/22,,,E06000014,York,Education and training,Education and training: Level 2,19-24,NA,280,190,NA,944,640
+2021/22,,,E06000014,York,Education and training,Education and training: Level 2,25+,NA,1120,810,NA,1078,782
+2021/22,,,E06000014,York,Education and training,Education and training: Level 3,Total,NA,320,170,NA,237,128
+2021/22,,,E06000014,York,Education and training,Education and training: Level 3,19-24,NA,120,80,NA,422,276
+2021/22,,,E06000014,York,Education and training,Education and training: Level 3,25+,NA,190,90,NA,184,86
+2021/22,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),Total,NA,470,420,NA,352,316
+2021/22,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),19-24,NA,130,120,NA,450,402
+2021/22,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),25+,NA,340,300,NA,324,292
+2021/22,,,E06000014,York,Education and training,Education and training: Basic Skills,Total,NA,400,260,NA,297,192
+2021/22,,,E06000014,York,Education and training,Education and training: Basic Skills,19-24,NA,120,70,NA,395,242
+2021/22,,,E06000014,York,Education and training,Education and training: Basic Skills,25+,NA,280,180,NA,269,177
+2021/22,,,E06000014,York,Education and training,Education and training: Level 4+,Total,NA,90,30,NA,68,23
+2021/22,,,E06000014,York,Education and training,Education and training: Level 4+,19-24,NA,20,10,NA,75,31
+2021/22,,,E06000014,York,Education and training,Education and training: Level 4+,25+,NA,70,20,NA,67,21
+2021/22,,,E06000014,York,Education and training,Education and training: Full Level 2,Total,NA,70,30,NA,53,23
+2021/22,,,E06000014,York,Education and training,Education and training: Full Level 2,19-24,NA,30,10,NA,92,44
+2021/22,,,E06000014,York,Education and training,Education and training: Full Level 2,25+,NA,40,20,NA,42,16
+2021/22,,,E06000014,York,Education and training,Education and training: Full Level 3,Total,NA,140,80,NA,107,63
+2021/22,,,E06000014,York,Education and training,Education and training: Full Level 3,19-24,NA,80,50,NA,269,174
+2021/22,,,E06000014,York,Education and training,Education and training: Full Level 3,25+,NA,60,30,NA,61,32
+2021/22,,,E06000014,York,Education and training,Education and training: No Level Assigned,Total,NA,280,250,NA,209,185
+2021/22,,,E06000014,York,Education and training,Education and training: No Level Assigned,19-24,NA,40,30,NA,119,95
+2021/22,,,E06000014,York,Education and training,Education and training: No Level Assigned,25+,NA,240,220,NA,234,210
+2021/22,,,E06000014,York,Community Learning,Community learning: Total,Total,NA,1740,1560,NA,1250,1120
+2021/22,,,E06000014,York,Community Learning,Community learning: Total,Under 19,NA,low,low,NA,low,low
+2021/22,,,E06000014,York,Community Learning,Community learning: Total,19-24,NA,70,50,NA,228,170
+2021/22,,,E06000014,York,Community Learning,Community learning: Total,25+,NA,1680,1510,NA,1615,1457
+2021/22,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,Total,NA,1710,1540,NA,1225,1104
+2021/22,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,Under 19,NA,low,low,NA,low,low
+2021/22,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,19-24,NA,50,40,NA,184,150
+2021/22,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,25+,NA,1650,1500,NA,1594,1442
+2021/22,,,E06000014,York,Community Learning,Community learning: Wider family learning,Total,NA,40,20,NA,27,16
+2021/22,,,E06000014,York,Community Learning,Community learning: Wider family learning,19-24,NA,10,10,NA,44,20
+2021/22,,,E06000014,York,Community Learning,Community learning: Wider family learning,25+,NA,30,20,NA,24,16
 2021/22,,,E07000163,Craven,Further education and skills,Further education and skills: Total,Total,NA,1420,930,NA,4608,3013
 2021/22,,,E07000163,Craven,Further education and skills,Further education and skills: Total,19-24,NA,440,250,NA,16314,9158
 2021/22,,,E07000163,Craven,Further education and skills,Further education and skills: Total,25+,NA,980,680,NA,3481,2422
@@ -1007,6 +1088,85 @@ date,new_la_code,la_name,geography_code,geography_name,apprenticeships_or_furthe
 2021/22,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,Total,NA,10,low,NA,2,low
 2021/22,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,19-24,NA,low,low,NA,low,low
 2021/22,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,25+,NA,low,low,NA,low,low
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Total,Total,NA,5980,4030,NA,4492,3028
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Total,19-24,NA,1460,840,NA,4984,2875
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Total,25+,NA,4510,3190,NA,4353,3071
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Level 2,Total,NA,2140,1490,NA,1607,1119
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Level 2,19-24,NA,540,350,NA,1829,1189
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Level 2,25+,NA,1600,1140,NA,1544,1099
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Level 3,Total,NA,1260,460,NA,944,343
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Level 3,19-24,NA,620,230,NA,2102,767
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Level 3,25+,NA,640,230,NA,616,223
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),Total,NA,640,600,NA,481,454
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),19-24,NA,180,170,NA,620,593
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),25+,NA,460,430,NA,442,415
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,Total,NA,880,450,NA,661,335
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,19-24,NA,230,130,NA,787,426
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,25+,NA,650,320,NA,626,310
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,Total,NA,780,130,NA,588,98
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,19-24,NA,180,30,NA,613,89
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,25+,NA,600,100,NA,581,100
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,Total,NA,430,150,NA,321,113
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,19-24,NA,200,80,NA,664,256
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,25+,NA,230,80,NA,224,73
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,Total,NA,1040,330,NA,779,250
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,19-24,NA,560,190,NA,1904,654
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,25+,NA,480,140,NA,460,135
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,Total,NA,1630,1500,NA,1223,1130
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,19-24,NA,90,80,NA,296,276
+2020/21,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,25+,NA,1540,1420,NA,1485,1371
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Total,1010,2270,520,725,1627,372
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Under 19,210,360,130,3294,5662,1976
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Total,19-24,290,780,160,981,2657,531
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Total,25+,510,1130,240,495,1087,228
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Total,280,560,150,199,402,106
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Under 19,120,200,60,1819,3137,863
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,19-24,70,180,50,249,606,160
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,25+,90,180,50,86,176,44
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Total,330,700,120,240,505,86
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Under 19,10,10,low,94,110,low
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,19-24,80,160,30,286,559,92
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,25+,240,530,90,235,514,86
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Total,400,1020,250,286,729,179
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Under 19,90,160,70,1380,2462,1051
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,19-24,130,450,80,446,1523,279
+2020/21,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,25+,180,410,100,174,397,97
+2020/21,,,E06000014,York,Education and training,Education and training: Total,Total,NA,2940,2310,NA,2210,1738
+2020/21,,,E06000014,York,Education and training,Education and training: Total,19-24,NA,680,540,NA,2303,1836
+2020/21,,,E06000014,York,Education and training,Education and training: Total,25+,NA,2270,1770,NA,2184,1711
+2020/21,,,E06000014,York,Education and training,Education and training: Level 2,Total,NA,1780,1380,NA,1338,1040
+2020/21,,,E06000014,York,Education and training,Education and training: Level 2,19-24,NA,360,290,NA,1216,978
+2020/21,,,E06000014,York,Education and training,Education and training: Level 2,25+,NA,1420,1100,NA,1372,1058
+2020/21,,,E06000014,York,Education and training,Education and training: Level 3,Total,NA,410,250,NA,307,189
+2020/21,,,E06000014,York,Education and training,Education and training: Level 3,19-24,NA,170,120,NA,589,392
+2020/21,,,E06000014,York,Education and training,Education and training: Level 3,25+,NA,240,140,NA,228,132
+2020/21,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),Total,NA,640,600,NA,480,453
+2020/21,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),19-24,NA,180,170,NA,613,589
+2020/21,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),25+,NA,460,430,NA,442,415
+2020/21,,,E06000014,York,Education and training,Education and training: Basic Skills,Total,NA,470,340,NA,354,256
+2020/21,,,E06000014,York,Education and training,Education and training: Basic Skills,19-24,NA,140,110,NA,491,365
+2020/21,,,E06000014,York,Education and training,Education and training: Basic Skills,25+,NA,330,230,NA,315,226
+2020/21,,,E06000014,York,Education and training,Education and training: Level 4+,Total,NA,90,30,NA,65,20
+2020/21,,,E06000014,York,Education and training,Education and training: Level 4+,19-24,NA,20,10,NA,55,20
+2020/21,,,E06000014,York,Education and training,Education and training: Level 4+,25+,NA,70,20,NA,68,20
+2020/21,,,E06000014,York,Education and training,Education and training: Full Level 2,Total,NA,70,40,NA,50,31
+2020/21,,,E06000014,York,Education and training,Education and training: Full Level 2,19-24,NA,20,10,NA,58,37
+2020/21,,,E06000014,York,Education and training,Education and training: Full Level 2,25+,NA,50,30,NA,47,29
+2020/21,,,E06000014,York,Education and training,Education and training: Full Level 3,Total,NA,180,110,NA,132,86
+2020/21,,,E06000014,York,Education and training,Education and training: Full Level 3,19-24,NA,110,80,NA,382,256
+2020/21,,,E06000014,York,Education and training,Education and training: Full Level 3,25+,NA,60,40,NA,61,38
+2020/21,,,E06000014,York,Education and training,Education and training: No Level Assigned,Total,NA,240,230,NA,183,174
+2020/21,,,E06000014,York,Education and training,Education and training: No Level Assigned,19-24,NA,40,40,NA,133,123
+2020/21,,,E06000014,York,Education and training,Education and training: No Level Assigned,25+,NA,200,200,NA,197,188
+2020/21,,,E06000014,York,Community Learning,Community learning: Total,Total,NA,1590,1460,NA,1139,1050
+2020/21,,,E06000014,York,Community Learning,Community learning: Total,19-24,NA,50,40,NA,164,146
+2020/21,,,E06000014,York,Community Learning,Community learning: Total,25+,NA,1540,1420,NA,1485,1370
+2020/21,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,Total,NA,1390,1310,NA,1000,936
+2020/21,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,19-24,NA,30,30,NA,89,85
+2020/21,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,25+,NA,1370,1280,NA,1319,1234
+2020/21,,,E06000014,York,Community Learning,Community learning: Wider family learning,Total,NA,230,190,NA,164,136
+2020/21,,,E06000014,York,Community Learning,Community learning: Wider family learning,19-24,NA,20,20,NA,82,68
+2020/21,,,E06000014,York,Community Learning,Community learning: Wider family learning,25+,NA,210,170,NA,198,163
 2020/21,,,E07000163,Craven,Further education and skills,Further education and skills: Total,Total,NA,1470,930,NA,4787,3033
 2020/21,,,E07000163,Craven,Further education and skills,Further education and skills: Total,19-24,NA,460,240,NA,17093,8899
 2020/21,,,E07000163,Craven,Further education and skills,Further education and skills: Total,25+,NA,1010,690,NA,3603,2468
@@ -1996,6 +2156,87 @@ date,new_la_code,la_name,geography_code,geography_name,apprenticeships_or_furthe
 2020/21,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,Total,NA,10,10,NA,4,3
 2020/21,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,19-24,NA,low,low,NA,low,low
 2020/21,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,25+,NA,10,10,NA,3,3
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Total,Total,NA,6350,4340,NA,4786,3268
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Total,19-24,NA,1400,750,NA,4826,2587
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Total,25+,NA,4960,3590,NA,4774,3457
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Level 2,Total,NA,2010,1280,NA,1511,964
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Level 2,19-24,NA,540,290,NA,1859,998
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Level 2,25+,NA,1470,990,NA,1414,955
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Level 3,Total,NA,1260,420,NA,946,313
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Level 3,19-24,NA,600,220,NA,2069,743
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Level 3,25+,NA,660,200,NA,633,194
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),Total,NA,480,440,NA,361,330
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),19-24,NA,150,140,NA,508,484
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),25+,NA,330,300,NA,320,287
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,Total,NA,1000,520,NA,755,393
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,19-24,NA,270,140,NA,947,473
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,25+,NA,730,390,NA,701,371
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,Total,NA,640,90,NA,482,66
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,19-24,NA,140,30,NA,470,90
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,25+,NA,500,60,NA,486,59
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,Total,NA,520,170,NA,390,127
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,19-24,NA,250,80,NA,871,287
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,25+,NA,270,90,NA,256,82
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,Total,NA,1060,320,NA,797,242
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,19-24,NA,550,190,NA,1903,667
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,25+,NA,510,130,NA,489,123
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,Total,NA,2260,2090,NA,1705,1573
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,19-24,NA,90,80,NA,314,266
+2019/20,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,25+,NA,2170,2010,NA,2093,1938
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Total,970,2330,450,697,1676,326
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Under 19,220,450,150,3522,7059,2322
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Total,19-24,280,800,160,981,2753,535
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Total,25+,460,1090,150,445,1046,145
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Total,270,670,170,191,478,120
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Under 19,90,230,70,1485,3601,1153
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,19-24,90,230,50,297,795,169
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,25+,90,210,50,82,199,43
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Total,270,580,60,193,416,46
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Under 19,10,10,low,158,205,low
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,19-24,50,130,20,176,432,76
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,25+,210,440,40,199,425,39
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Total,440,1120,220,314,805,160
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Under 19,120,220,70,1879,3506,1137
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,19-24,150,450,80,508,1568,290
+2019/20,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,25+,170,440,70,164,427,64
+2019/20,,,E06000014,York,Education and training,Education and training: Total,Total,NA,2480,1830,NA,1867,1375
+2019/20,,,E06000014,York,Education and training,Education and training: Total,19-24,NA,580,440,NA,1997,1506
+2019/20,,,E06000014,York,Education and training,Education and training: Total,25+,NA,1900,1390,NA,1831,1338
+2019/20,,,E06000014,York,Education and training,Education and training: Level 2,Total,NA,1570,1170,NA,1185,880
+2019/20,,,E06000014,York,Education and training,Education and training: Level 2,19-24,NA,310,220,NA,1067,774
+2019/20,,,E06000014,York,Education and training,Education and training: Level 2,25+,NA,1260,940,NA,1218,910
+2019/20,,,E06000014,York,Education and training,Education and training: Level 3,Total,NA,370,220,NA,281,163
+2019/20,,,E06000014,York,Education and training,Education and training: Level 3,19-24,NA,150,100,NA,522,328
+2019/20,,,E06000014,York,Education and training,Education and training: Level 3,25+,NA,220,120,NA,214,117
+2019/20,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),Total,NA,480,440,NA,360,329
+2019/20,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),19-24,NA,150,140,NA,508,484
+2019/20,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),25+,NA,330,300,NA,319,286
+2019/20,,,E06000014,York,Education and training,Education and training: Basic Skills,Total,NA,520,370,NA,393,276
+2019/20,,,E06000014,York,Education and training,Education and training: Basic Skills,19-24,NA,160,110,NA,560,370
+2019/20,,,E06000014,York,Education and training,Education and training: Basic Skills,25+,NA,360,260,NA,347,250
+2019/20,,,E06000014,York,Education and training,Education and training: Level 4+,Total,NA,80,30,NA,57,20
+2019/20,,,E06000014,York,Education and training,Education and training: Level 4+,19-24,NA,10,10,NA,38,24
+2019/20,,,E06000014,York,Education and training,Education and training: Level 4+,25+,NA,70,20,NA,63,19
+2019/20,,,E06000014,York,Education and training,Education and training: Full Level 2,Total,NA,80,50,NA,60,38
+2019/20,,,E06000014,York,Education and training,Education and training: Full Level 2,19-24,NA,20,20,NA,73,52
+2019/20,,,E06000014,York,Education and training,Education and training: Full Level 2,25+,NA,60,40,NA,57,34
+2019/20,,,E06000014,York,Education and training,Education and training: Full Level 3,Total,NA,160,110,NA,121,81
+2019/20,,,E06000014,York,Education and training,Education and training: Full Level 3,19-24,NA,100,70,NA,335,228
+2019/20,,,E06000014,York,Education and training,Education and training: Full Level 3,25+,NA,60,40,NA,62,40
+2019/20,,,E06000014,York,Education and training,Education and training: No Level Assigned,Total,NA,30,30,NA,22,19
+2019/20,,,E06000014,York,Education and training,Education and training: No Level Assigned,19-24,NA,30,30,NA,100,86
+2019/20,,,E06000014,York,Education and training,Education and training: No Level Assigned,25+,NA,low,low,NA,low,low
+2019/20,,,E06000014,York,Community Learning,Community learning: Total,Total,NA,2240,2060,NA,1607,1484
+2019/20,,,E06000014,York,Community Learning,Community learning: Total,19-24,NA,60,50,NA,214,180
+2019/20,,,E06000014,York,Community Learning,Community learning: Total,25+,NA,2170,2010,NA,2094,1939
+2019/20,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,Total,NA,2020,1860,NA,1449,1338
+2019/20,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,19-24,NA,40,30,NA,128,107
+2019/20,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,25+,NA,1980,1830,NA,1906,1763
+2019/20,,,E06000014,York,Community Learning,Community learning: Wider family learning,Total,NA,230,210,NA,168,152
+2019/20,,,E06000014,York,Community Learning,Community learning: Wider family learning,19-24,NA,30,20,NA,86,73
+2019/20,,,E06000014,York,Community Learning,Community learning: Wider family learning,25+,NA,210,190,NA,200,184
+2019/20,,,E06000014,York,Community Learning,Community learning: Neighbourhood learning in deprived communities,Total,NA,low,low,NA,low,low
+2019/20,,,E06000014,York,Community Learning,Community learning: Neighbourhood learning in deprived communities,25+,NA,low,low,NA,low,low
 2019/20,,,E07000163,Craven,Further education and skills,Further education and skills: Total,Total,NA,1470,990,NA,4763,3223
 2019/20,,,E07000163,Craven,Further education and skills,Further education and skills: Total,19-24,NA,430,220,NA,15863,8187
 2019/20,,,E07000163,Craven,Further education and skills,Further education and skills: Total,25+,NA,1030,770,NA,3680,2739
@@ -2998,6 +3239,90 @@ date,new_la_code,la_name,geography_code,geography_name,apprenticeships_or_furthe
 2019/20,,,E08000036,Wakefield,Community Learning,Community learning: Wider family learning,25+,NA,90,90,NA,47,47
 2019/20,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,Total,NA,10,10,NA,5,5
 2019/20,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,25+,NA,10,10,NA,6,5
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Total,Total,NA,6970,4620,NA,5266,3487
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Total,19-24,NA,1550,850,NA,5309,2894
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Total,25+,NA,5420,3770,NA,5254,3654
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Level 2,Total,NA,2220,1440,NA,1674,1090
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Level 2,19-24,NA,590,320,NA,2021,1089
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Level 2,25+,NA,1630,1130,NA,1576,1091
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Level 3,Total,NA,1370,480,NA,1036,364
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Level 3,19-24,NA,660,240,NA,2244,812
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Level 3,25+,NA,720,250,NA,695,237
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),Total,NA,750,680,NA,566,511
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),19-24,NA,170,160,NA,593,558
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),25+,NA,580,510,NA,558,497
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,Total,NA,1200,650,NA,903,491
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,19-24,NA,310,160,NA,1058,562
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,25+,NA,890,490,NA,859,471
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,Total,NA,500,60,NA,374,45
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,19-24,NA,130,20,NA,456,65
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,25+,NA,360,40,NA,351,40
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,Total,NA,680,280,NA,512,208
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,19-24,NA,320,130,NA,1093,432
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,25+,NA,360,150,NA,348,145
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,Total,NA,1150,370,NA,868,276
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,19-24,NA,600,200,NA,2038,695
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,25+,NA,550,160,NA,537,157
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,Total,NA,2510,2010,NA,1898,1521
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,19-24,NA,110,100,NA,390,336
+2018/19,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,25+,NA,2400,1920,NA,2324,1856
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Total,1340,2420,560,963,1739,406
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Under 19,320,530,210,4889,8195,3228
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Total,19-24,400,870,170,1360,2963,569
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Total,25+,630,1020,190,605,990,184
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Total,450,830,260,325,601,187
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Under 19,170,300,120,2654,4579,1785
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,19-24,140,280,60,486,945,216
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,25+,140,260,80,134,255,79
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Total,310,430,30,220,307,23
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Under 19,10,10,low,78,93,low
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,19-24,60,120,10,202,408,38
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,25+,240,300,20,234,292,16
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Total,580,1200,270,418,863,196
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Under 19,140,240,90,2157,3772,1381
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,19-24,200,490,90,671,1685,315
+2018/19,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,25+,250,460,90,237,449,88
+2018/19,,,E06000014,York,Education and training,Education and training: Total,Total,NA,2870,2170,NA,2164,1636
+2018/19,,,E06000014,York,Education and training,Education and training: Total,19-24,NA,640,470,NA,2196,1606
+2018/19,,,E06000014,York,Education and training,Education and training: Total,25+,NA,2220,1700,NA,2155,1644
+2018/19,,,E06000014,York,Education and training,Education and training: Level 2,Total,NA,1690,1260,NA,1275,952
+2018/19,,,E06000014,York,Education and training,Education and training: Level 2,19-24,NA,320,220,NA,1082,764
+2018/19,,,E06000014,York,Education and training,Education and training: Level 2,25+,NA,1370,1040,NA,1329,1006
+2018/19,,,E06000014,York,Education and training,Education and training: Level 3,Total,NA,430,250,NA,323,186
+2018/19,,,E06000014,York,Education and training,Education and training: Level 3,19-24,NA,170,100,NA,579,346
+2018/19,,,E06000014,York,Education and training,Education and training: Level 3,25+,NA,260,150,NA,251,140
+2018/19,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),Total,NA,750,670,NA,564,509
+2018/19,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),19-24,NA,170,160,NA,589,555
+2018/19,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),25+,NA,580,510,NA,557,496
+2018/19,,,E06000014,York,Education and training,Education and training: Basic Skills,Total,NA,640,480,NA,486,365
+2018/19,,,E06000014,York,Education and training,Education and training: Basic Skills,19-24,NA,180,130,NA,610,452
+2018/19,,,E06000014,York,Education and training,Education and training: Basic Skills,25+,NA,470,350,NA,451,340
+2018/19,,,E06000014,York,Education and training,Education and training: Level 4+,Total,NA,80,30,NA,61,22
+2018/19,,,E06000014,York,Education and training,Education and training: Level 4+,19-24,NA,20,10,NA,51,21
+2018/19,,,E06000014,York,Education and training,Education and training: Level 4+,25+,NA,70,20,NA,64,22
+2018/19,,,E06000014,York,Education and training,Education and training: Full Level 2,Total,NA,130,90,NA,101,67
+2018/19,,,E06000014,York,Education and training,Education and training: Full Level 2,19-24,NA,40,30,NA,137,103
+2018/19,,,E06000014,York,Education and training,Education and training: Full Level 2,25+,NA,90,60,NA,91,57
+2018/19,,,E06000014,York,Education and training,Education and training: Full Level 3,Total,NA,200,130,NA,147,95
+2018/19,,,E06000014,York,Education and training,Education and training: Full Level 3,19-24,NA,100,70,NA,356,226
+2018/19,,,E06000014,York,Education and training,Education and training: Full Level 3,25+,NA,90,60,NA,88,58
+2018/19,,,E06000014,York,Education and training,Education and training: No Level Assigned,Total,NA,30,30,NA,24,21
+2018/19,,,E06000014,York,Education and training,Education and training: No Level Assigned,19-24,NA,30,30,NA,110,96
+2018/19,,,E06000014,York,Education and training,Education and training: No Level Assigned,25+,NA,low,low,NA,low,low
+2018/19,,,E06000014,York,Community Learning,Community learning: Total,Total,NA,2480,1990,NA,1788,1432
+2018/19,,,E06000014,York,Community Learning,Community learning: Total,19-24,NA,80,70,NA,284,243
+2018/19,,,E06000014,York,Community Learning,Community learning: Total,25+,NA,2400,1920,NA,2325,1857
+2018/19,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,Total,NA,2300,1820,NA,1655,1313
+2018/19,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,19-24,NA,60,50,NA,202,178
+2018/19,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,25+,NA,2240,1770,NA,2169,1716
+2018/19,,,E06000014,York,Community Learning,Community learning: Family english maths and language,Total,NA,low,low,NA,low,low
+2018/19,,,E06000014,York,Community Learning,Community learning: Family english maths and language,25+,NA,low,low,NA,low,low
+2018/19,,,E06000014,York,Community Learning,Community learning: Wider family learning,Total,NA,190,170,NA,140,121
+2018/19,,,E06000014,York,Community Learning,Community learning: Wider family learning,19-24,NA,30,20,NA,96,69
+2018/19,,,E06000014,York,Community Learning,Community learning: Wider family learning,25+,NA,170,150,NA,161,143
+2018/19,,,E06000014,York,Community Learning,Community learning: Neighbourhood learning in deprived communities,Total,NA,low,low,NA,low,low
+2018/19,,,E06000014,York,Community Learning,Community learning: Neighbourhood learning in deprived communities,19-24,NA,low,low,NA,low,low
+2018/19,,,E06000014,York,Community Learning,Community learning: Neighbourhood learning in deprived communities,25+,NA,low,low,NA,low,low
 2018/19,,,E07000163,Craven,Further education and skills,Further education and skills: Total,Total,NA,1620,1180,NA,5262,3827
 2018/19,,,E07000163,Craven,Further education and skills,Further education and skills: Total,19-24,NA,430,270,NA,16131,10232
 2018/19,,,E07000163,Craven,Further education and skills,Further education and skills: Total,25+,NA,1190,900,NA,4227,3216
@@ -4017,6 +4342,89 @@ date,new_la_code,la_name,geography_code,geography_name,apprenticeships_or_furthe
 2018/19,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,Total,NA,10,10,NA,3,2
 2018/19,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,19-24,NA,low,low,NA,low,low
 2018/19,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,25+,NA,low,low,NA,low,low
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Total,Total,NA,6810,4740,NA,5196,3621
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Total,19-24,NA,1450,890,NA,5098,3141
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Total,25+,NA,5360,3850,NA,5223,3755
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Level 2,Total,NA,2150,1360,NA,1640,1037
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Level 2,19-24,NA,570,340,NA,2006,1205
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Level 2,25+,NA,1580,1020,NA,1539,990
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Level 3,Total,NA,1400,580,NA,1069,442
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Level 3,19-24,NA,630,270,NA,2199,931
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Level 3,25+,NA,770,310,NA,755,306
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),Total,NA,610,550,NA,464,417
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),19-24,NA,160,150,NA,559,516
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),25+,NA,450,400,NA,438,389
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,Total,NA,1420,850,NA,1082,647
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,19-24,NA,320,190,NA,1114,650
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,25+,NA,1100,660,NA,1074,647
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,Total,NA,360,80,NA,274,63
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,19-24,NA,90,20,NA,327,74
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,25+,NA,270,60,NA,259,59
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,Total,NA,830,390,NA,631,294
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,19-24,NA,340,170,NA,1184,608
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,25+,NA,490,210,NA,477,207
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,Total,NA,1330,550,NA,1011,418
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,19-24,NA,620,260,NA,2171,910
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,25+,NA,710,290,NA,689,281
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,Total,NA,2590,2170,NA,1979,1654
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,19-24,NA,110,100,NA,376,348
+2017/18,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,25+,NA,2490,2070,NA,2424,2017
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Total,1140,2460,850,829,1789,621
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Under 19,350,550,210,5312,8378,3142
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Total,19-24,340,830,270,1180,2909,945
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Total,25+,460,1080,380,444,1054,369
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Total,460,1040,410,331,753,297
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Under 19,190,320,130,2823,4887,1927
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,19-24,110,300,130,390,1043,439
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,25+,160,420,160,155,407,153
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Total,130,260,60,92,190,47
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Under 19,10,10,10,76,137,76
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,19-24,40,80,10,134,281,46
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,25+,80,170,50,82,168,45
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Total,560,1220,380,406,885,277
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Under 19,160,250,80,2413,3779,1138
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,19-24,190,470,130,657,1655,460
+2017/18,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,25+,210,500,180,207,486,171
+2017/18,,,E06000014,York,Education and training,Education and training: Total,Total,NA,2590,1840,NA,1980,1403
+2017/18,,,E06000014,York,Education and training,Education and training: Total,19-24,NA,590,420,NA,2055,1486
+2017/18,,,E06000014,York,Education and training,Education and training: Total,25+,NA,2010,1420,NA,1959,1380
+2017/18,,,E06000014,York,Education and training,Education and training: Level 2,Total,NA,1450,1050,NA,1108,801
+2017/18,,,E06000014,York,Education and training,Education and training: Level 2,19-24,NA,280,200,NA,987,692
+2017/18,,,E06000014,York,Education and training,Education and training: Level 2,25+,NA,1170,850,NA,1142,831
+2017/18,,,E06000014,York,Education and training,Education and training: Level 3,Total,NA,440,230,NA,334,175
+2017/18,,,E06000014,York,Education and training,Education and training: Level 3,19-24,NA,160,90,NA,562,330
+2017/18,,,E06000014,York,Education and training,Education and training: Level 3,25+,NA,280,140,NA,270,132
+2017/18,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),Total,NA,610,540,NA,462,414
+2017/18,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),19-24,NA,160,150,NA,559,516
+2017/18,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),25+,NA,450,400,NA,435,386
+2017/18,,,E06000014,York,Education and training,Education and training: Basic Skills,Total,NA,650,470,NA,496,361
+2017/18,,,E06000014,York,Education and training,Education and training: Basic Skills,19-24,NA,150,100,NA,523,365
+2017/18,,,E06000014,York,Education and training,Education and training: Basic Skills,25+,NA,500,370,NA,489,360
+2017/18,,,E06000014,York,Education and training,Education and training: Level 4+,Total,NA,110,20,NA,85,15
+2017/18,,,E06000014,York,Education and training,Education and training: Level 4+,19-24,NA,20,10,NA,56,18
+2017/18,,,E06000014,York,Education and training,Education and training: Level 4+,25+,NA,100,20,NA,94,15
+2017/18,,,E06000014,York,Education and training,Education and training: Full Level 2,Total,NA,110,70,NA,85,52
+2017/18,,,E06000014,York,Education and training,Education and training: Full Level 2,19-24,NA,40,20,NA,137,77
+2017/18,,,E06000014,York,Education and training,Education and training: Full Level 2,25+,NA,70,50,NA,71,45
+2017/18,,,E06000014,York,Education and training,Education and training: Full Level 3,Total,NA,360,200,NA,274,150
+2017/18,,,E06000014,York,Education and training,Education and training: Full Level 3,19-24,NA,150,90,NA,523,309
+2017/18,,,E06000014,York,Education and training,Education and training: Full Level 3,25+,NA,210,110,NA,205,106
+2017/18,,,E06000014,York,Education and training,Education and training: No Level Assigned,Total,NA,50,40,NA,35,32
+2017/18,,,E06000014,York,Education and training,Education and training: No Level Assigned,19-24,NA,30,30,NA,119,116
+2017/18,,,E06000014,York,Education and training,Education and training: No Level Assigned,25+,NA,10,10,NA,12,9
+2017/18,,,E06000014,York,Community Learning,Community learning: Total,Total,NA,2550,2130,NA,1853,1547
+2017/18,,,E06000014,York,Community Learning,Community learning: Total,19-24,NA,70,70,NA,256,232
+2017/18,,,E06000014,York,Community Learning,Community learning: Total,25+,NA,2480,2060,NA,2416,2011
+2017/18,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,Total,NA,2300,1900,NA,1669,1377
+2017/18,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,19-24,NA,50,40,NA,158,134
+2017/18,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,25+,NA,2250,1860,NA,2195,1811
+2017/18,,,E06000014,York,Community Learning,Community learning: Family english maths and language,Total,NA,low,low,NA,low,low
+2017/18,,,E06000014,York,Community Learning,Community learning: Family english maths and language,25+,NA,low,low,NA,low,low
+2017/18,,,E06000014,York,Community Learning,Community learning: Wider family learning,Total,NA,270,250,NA,197,180
+2017/18,,,E06000014,York,Community Learning,Community learning: Wider family learning,19-24,NA,30,30,NA,105,98
+2017/18,,,E06000014,York,Community Learning,Community learning: Wider family learning,25+,NA,240,220,NA,235,215
+2017/18,,,E06000014,York,Community Learning,Community learning: Neighbourhood learning in deprived communities,Total,NA,low,low,NA,low,low
+2017/18,,,E06000014,York,Community Learning,Community learning: Neighbourhood learning in deprived communities,25+,NA,low,low,NA,low,low
 2017/18,,,E07000163,Craven,Further education and skills,Further education and skills: Total,Total,NA,1500,1050,NA,4873,3400
 2017/18,,,E07000163,Craven,Further education and skills,Further education and skills: Total,19-24,NA,430,270,NA,16319,10285
 2017/18,,,E07000163,Craven,Further education and skills,Further education and skills: Total,25+,NA,1070,780,NA,3800,2755
@@ -5027,6 +5435,93 @@ date,new_la_code,la_name,geography_code,geography_name,apprenticeships_or_furthe
 2017/18,,,E08000036,Wakefield,Community Learning,Community learning: Wider family learning,25+,NA,330,290,NA,185,163
 2017/18,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,Total,NA,10,10,NA,2,2
 2017/18,,,E08000036,Wakefield,Community Learning,Community learning: Neighbourhood learning in deprived communities,25+,NA,10,10,NA,3,3
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Total,Total,NA,7410,5110,NA,5691,3923
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Total,19-24,NA,1590,990,NA,5715,3544
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Total,25+,NA,5820,4120,NA,5684,4026
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Level 2,Total,NA,2330,1330,NA,1793,1019
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Level 2,19-24,NA,700,350,NA,2512,1269
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Level 2,25+,NA,1640,970,NA,1597,951
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Level 3,Total,NA,1550,640,NA,1189,488
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Level 3,19-24,NA,680,320,NA,2455,1132
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Level 3,25+,NA,870,320,NA,845,313
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),Total,NA,560,490,NA,429,379
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),19-24,NA,130,110,NA,467,399
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Below Level 2 (excluding Basic Skills),25+,NA,430,380,NA,418,374
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,Total,NA,1850,970,NA,1422,746
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,19-24,NA,460,230,NA,1653,834
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Basic Skills,25+,NA,1390,740,NA,1360,722
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,Total,NA,330,60,NA,255,48
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,19-24,NA,60,10,NA,230,36
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Level 4+,25+,NA,270,50,NA,262,51
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,Total,NA,1220,530,NA,937,405
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,19-24,NA,470,200,NA,1704,712
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Full Level 2,25+,NA,750,330,NA,729,321
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,Total,NA,1490,600,NA,1144,464
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,19-24,NA,680,310,NA,2426,1103
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: Full Level 3,25+,NA,810,300,NA,795,290
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,Total,NA,2990,2480,NA,2295,1905
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,19-24,NA,150,140,NA,543,485
+2016/17,,,E06000014,York,Further education and skills,Further education and skills: No Level Assigned,25+,NA,2840,2350,NA,2771,2291
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Total,1420,2850,950,1036,2084,691
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Total,Under 19,370,570,270,5481,8605,4010
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Total,19-24,420,970,300,1495,3469,1078
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Total,25+,640,1310,380,622,1284,370
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Total,690,1380,490,506,1008,356
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,Under 19,220,360,160,3304,5451,2418
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,19-24,200,430,140,708,1528,489
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Intermediate,25+,280,590,190,270,577,186
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Total,120,220,40,89,159,28
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,Under 19,10,10,low,150,150,low
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,19-24,20,50,low,65,165,low
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Higher,25+,90,160,30,92,158,31
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Total,600,1340,420,441,975,308
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,Under 19,140,230,100,2027,3454,1562
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,19-24,200,530,160,722,1894,575
+2016/17,,,E06000014,York,Apprenticeships,Apprenticeships: Advanced,25+,270,580,160,261,565,153
+2016/17,,,E06000014,York,Education and training,Education and training: Total,Total,NA,2510,1790,NA,1924,1376
+2016/17,,,E06000014,York,Education and training,Education and training: Total,19-24,NA,580,410,NA,2070,1467
+2016/17,,,E06000014,York,Education and training,Education and training: Total,25+,NA,1930,1380,NA,1884,1352
+2016/17,,,E06000014,York,Education and training,Education and training: Level 2,Total,NA,1330,970,NA,1023,742
+2016/17,,,E06000014,York,Education and training,Education and training: Level 2,19-24,NA,290,190,NA,1024,683
+2016/17,,,E06000014,York,Education and training,Education and training: Level 2,25+,NA,1050,780,NA,1023,758
+2016/17,,,E06000014,York,Education and training,Education and training: Level 3,Total,NA,450,260,NA,348,196
+2016/17,,,E06000014,York,Education and training,Education and training: Level 3,19-24,NA,160,110,NA,589,381
+2016/17,,,E06000014,York,Education and training,Education and training: Level 3,25+,NA,290,150,NA,282,146
+2016/17,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),Total,NA,550,490,NA,426,376
+2016/17,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),19-24,NA,130,110,NA,456,388
+2016/17,,,E06000014,York,Education and training,Education and training: Below Level 2 (excluding Basic Skills),25+,NA,430,380,NA,417,373
+2016/17,,,E06000014,York,Education and training,Education and training: Basic Skills,Total,NA,710,540,NA,541,416
+2016/17,,,E06000014,York,Education and training,Education and training: Basic Skills,19-24,NA,170,120,NA,597,439
+2016/17,,,E06000014,York,Education and training,Education and training: Basic Skills,25+,NA,540,420,NA,527,409
+2016/17,,,E06000014,York,Education and training,Education and training: Level 4+,Total,NA,130,20,NA,98,18
+2016/17,,,E06000014,York,Education and training,Education and training: Level 4+,19-24,NA,20,low,NA,68,low
+2016/17,,,E06000014,York,Education and training,Education and training: Level 4+,25+,NA,110,20,NA,105,20
+2016/17,,,E06000014,York,Education and training,Education and training: Full Level 2,Total,NA,200,160,NA,155,125
+2016/17,,,E06000014,York,Education and training,Education and training: Full Level 2,19-24,NA,50,30,NA,169,122
+2016/17,,,E06000014,York,Education and training,Education and training: Full Level 2,25+,NA,160,130,NA,151,126
+2016/17,,,E06000014,York,Education and training,Education and training: Full Level 3,Total,NA,390,220,NA,299,169
+2016/17,,,E06000014,York,Education and training,Education and training: Full Level 3,19-24,NA,150,100,NA,550,345
+2016/17,,,E06000014,York,Education and training,Education and training: Full Level 3,25+,NA,240,120,NA,231,121
+2016/17,,,E06000014,York,Education and training,Education and training: No Level Assigned,Total,NA,40,30,NA,27,22
+2016/17,,,E06000014,York,Education and training,Education and training: No Level Assigned,19-24,NA,30,30,NA,122,104
+2016/17,,,E06000014,York,Education and training,Education and training: No Level Assigned,25+,NA,low,low,NA,low,low
+2016/17,,,E06000014,York,Community Learning,Community learning: Total,Total,NA,2960,2450,NA,2160,1790
+2016/17,,,E06000014,York,Community Learning,Community learning: Total,Under 19,NA,low,low,NA,low,low
+2016/17,,,E06000014,York,Community Learning,Community learning: Total,19-24,NA,120,100,NA,421,367
+2016/17,,,E06000014,York,Community Learning,Community learning: Total,25+,NA,2840,2350,NA,2771,2292
+2016/17,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,Total,NA,2810,2330,NA,2053,1701
+2016/17,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,Under 19,NA,low,low,NA,low,low
+2016/17,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,19-24,NA,90,80,NA,338,298
+2016/17,,,E06000014,York,Community Learning,Community learning: Personal and community development learning,25+,NA,2710,2240,NA,2650,2191
+2016/17,,,E06000014,York,Community Learning,Community learning: Family english maths and language,Total,NA,150,120,NA,106,89
+2016/17,,,E06000014,York,Community Learning,Community learning: Family english maths and language,19-24,NA,20,20,NA,86,68
+2016/17,,,E06000014,York,Community Learning,Community learning: Family english maths and language,25+,NA,120,100,NA,118,101
+2016/17,,,E06000014,York,Community Learning,Community learning: Wider family learning,Total,NA,20,20,NA,14,11
+2016/17,,,E06000014,York,Community Learning,Community learning: Wider family learning,19-24,NA,low,low,NA,low,low
+2016/17,,,E06000014,York,Community Learning,Community learning: Wider family learning,25+,NA,20,10,NA,17,13
+2016/17,,,E06000014,York,Community Learning,Community learning: Neighbourhood learning in deprived communities,Total,NA,10,10,NA,6,4
+2016/17,,,E06000014,York,Community Learning,Community learning: Neighbourhood learning in deprived communities,19-24,NA,low,low,NA,low,low
+2016/17,,,E06000014,York,Community Learning,Community learning: Neighbourhood learning in deprived communities,25+,NA,10,10,NA,7,5
 2016/17,,,E07000163,Craven,Further education and skills,Further education and skills: Total,Total,NA,1590,1090,NA,5161,3556
 2016/17,,,E07000163,Craven,Further education and skills,Further education and skills: Total,19-24,NA,460,310,NA,17144,11454
 2016/17,,,E07000163,Craven,Further education and skills,Further education and skills: Total,25+,NA,1120,780,NA,4011,2798

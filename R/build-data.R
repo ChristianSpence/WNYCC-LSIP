@@ -1,7 +1,8 @@
 # Defines all LAD codes for the projects
 geog_codes <- list(wy = paste0("E080000", 32:36),
                    ny = c("E06000014", # York
-                          paste0("E070001", 63:69) # Craven:Selby
+                          paste0("E070001", 63:69), # Craven:Selby
+                          "E10000023" # North Yorkshire (A-level and FE Dest)
                    )
 )
 
@@ -63,6 +64,9 @@ ks4_lookup <- readr::read_delim("data/KS4/data-guidance/data-guidance.txt",
   dplyr::filter(!is.na(`Variable description`), !grepl("---", `Variable description`), `Variable description` != "Variable description") |>
   dplyr::distinct()
 
+# write ks4 lookup
+readr::write_csv(ks4_lookup, "data/csv/lookups/ks4.csv")
+
 ks4 <- readr::read_csv("data/KS4/data/2122_lad_pr_data.csv") |>
   dplyr::filter(lad_code %in% c(geog_codes$wy, geog_codes$ny)) |>
   dplyr::select(-dplyr::any_of(dims_to_remove)) |>
@@ -71,9 +75,14 @@ ks4 <- readr::read_csv("data/KS4/data/2122_lad_pr_data.csv") |>
                 geography_name = lad_name) |>
   dplyr::mutate(date = academic_year(date))
 
+# write geography lookup
+readr::write_csv(dplyr::select(ks4, geography_code, geography_name),
+                 "data/csv/lookups/geography.csv")
+
+# write ks4 csv with changed variable names
 ks4 |>
   rename_variables(ks4_lookup) |>
-  readr::write_csv("data/csv/ks4.csv")
+  readr::write_csv("data/csv/ks4/Key stage 4 performance.csv")
 
 ks4 |>
   tidyr::pivot_longer(cols = -(dplyr::any_of(dimensions)),
@@ -102,13 +111,19 @@ a_level <- lapply(list.files("data/A-level/data", full.names = TRUE),
                                     geography_name = la_name) |>
                       dplyr::mutate(date = academic_year(date)) |>
                       dplyr::filter(geography_code %in% c(geog_codes$wy,
-                                                       geog_codes$ny))
+                    geog_codes$ny))
                   }) |>
   setNames(basename(list.files("data/A-level/data")))
 
+a_level_names <- c("Attainment and other performance measures - region and student characteristics",
+                   "Entries and Results - A level and AS by region and subject",
+                   "Student counts and Results - A level by region and subject (end of 16-18 study)",
+                   "Maths and science entries - percent entered by region"
+                   )
+
 for (i in seq_along(a_level)) {
   rename_variables(a_level[[i]], a_level_lookup) |>
-  readr::write_csv(paste0("data/csv/a-level/",names(a_level[i])))
+  readr::write_csv(paste0("data/csv/a-level/", a_level_names[i], ".csv"))
 }
 
 a_level |>
@@ -150,10 +165,21 @@ fe <- lapply(list.files("data/FE/data", full.names = TRUE),
              }) |>
   setNames(basename(list.files("data/FE/data")))
 
+fe_names <- c("Basic skills - regional breakdown",
+              "Community learning geography - local authority district",
+              "Education and training geography - English devolved areas",
+              "Education and training geography - local authority district",
+              NA,
+              NA,
+              NA,
+              "Further education and skills geography - detailed summary",
+              NA,
+              "Further education and skills subject - free courses for jobs detailed")
+
 for (i in seq_along(fe)) {
   if (is.data.frame(fe[[i]])) {
-    # not currently running rename_variables as there are duplicate issues in the lookup table
-    readr::write_csv(fe[[i]], paste0("data/csv/fe/",names(fe[i])))
+    # TODO not currently running rename_variables as there are duplicate issues in the lookup table
+    readr::write_csv(fe[[i]], paste0("data/csv/fe/", fe_names[i], ".csv"))
   }
 }
 
