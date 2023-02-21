@@ -16,8 +16,8 @@ export default function* ({ source }: {
       yield {
         url,
         origin,
-        key,
-        title: `${origin}/${key}`,
+        title: key,
+        fq_name: `${origin}/${key}`,
         metadata: detail,
       };
     }

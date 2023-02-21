@@ -1,5 +1,5 @@
 {
-  "path": "data/csv/a-level/maths_science_percentages_by_region_201822_complete.csv",
+  "path": "data/csv/a-level/Maths and science entries - percent entered by region.csv",
   "dimensions": [
     {
       "name": "date",
@@ -12,23 +12,15 @@
       ]
     },
     {
-      "name": "geography_name",
-      "categories": [
-        "Bradford",
-        "Calderdale",
-        "Kirklees",
-        "Leeds",
-        "Wakefield"
-      ]
-    },
-    {
       "name": "geography_code",
       "categories": [
+        "E06000014",
         "E08000032",
         "E08000033",
         "E08000034",
         "E08000035",
-        "E08000036"
+        "E08000036",
+        "E10000023"
       ]
     },
     {
@@ -46,6 +38,40 @@
   ],
   "facts": [
     {
+      "name": "geography_name",
+      "data_type": "string",
+      "value_distribution": [
+        {
+          "value": "North Yorkshire",
+          "count": 0.142857
+        },
+        {
+          "value": "Bradford",
+          "count": 0.142857
+        },
+        {
+          "value": "Calderdale",
+          "count": 0.142857
+        },
+        {
+          "value": "Kirklees",
+          "count": 0.142857
+        },
+        {
+          "value": "Leeds",
+          "count": 0.142857
+        },
+        {
+          "value": "Wakefield",
+          "count": 0.142857
+        },
+        {
+          "value": "York",
+          "count": 0.142857
+        }
+      ]
+    },
+    {
       "name": "Number of students",
       "data_type": "integer",
       "value_distribution": [
@@ -55,39 +81,39 @@
         },
         {
           "value": "1007.1 to 1284.2",
-          "count": 0.12
+          "count": 0.171429
         },
         {
           "value": "1284.2 to 1561.3",
-          "count": 0.08
+          "count": 0.057143
         },
         {
           "value": "1561.3 to 1838.4",
-          "count": 0.16
+          "count": 0.114286
         },
         {
           "value": "1838.4 to 2115.5",
-          "count": 0.04
+          "count": 0.028571
         },
         {
           "value": "2115.5 to 2392.6",
-          "count": 0.12
+          "count": 0.085714
         },
         {
           "value": "2392.6 to 2669.7",
-          "count": 0.08
+          "count": 0.171429
         },
         {
           "value": "2669.7 to 2946.8",
-          "count": 0.0
+          "count": 0.028571
         },
         {
           "value": "2946.8 to 3223.9",
-          "count": 0.08
+          "count": 0.057143
         },
         {
           "value": "3223.9 to 3501.0",
-          "count": 0.12
+          "count": 0.085714
         }
       ]
     },
@@ -96,44 +122,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "21.02 to 22.03",
-          "count": 0.08
+          "value": "21.02 to 22.09",
+          "count": 0.085714
         },
         {
-          "value": "22.03 to 23.04",
-          "count": 0.04
+          "value": "22.09 to 23.15",
+          "count": 0.057143
         },
         {
-          "value": "23.04 to 24.04",
-          "count": 0.08
+          "value": "23.15 to 24.21",
+          "count": 0.085714
         },
         {
-          "value": "24.04 to 25.05",
-          "count": 0.16
+          "value": "24.21 to 25.28",
+          "count": 0.114286
         },
         {
-          "value": "25.05 to 26.06",
-          "count": 0.16
+          "value": "25.28 to 26.34",
+          "count": 0.228571
         },
         {
-          "value": "26.06 to 27.06",
-          "count": 0.12
+          "value": "26.34 to 27.4",
+          "count": 0.028571
         },
         {
-          "value": "27.06 to 28.07",
-          "count": 0.08
+          "value": "27.4 to 28.46",
+          "count": 0.085714
         },
         {
-          "value": "28.07 to 29.07",
-          "count": 0.08
+          "value": "28.46 to 29.52",
+          "count": 0.142857
         },
         {
-          "value": "29.07 to 30.08",
-          "count": 0.12
+          "value": "29.52 to 30.58",
+          "count": 0.085714
         },
         {
-          "value": "30.08 to 31.08",
-          "count": 0.08
+          "value": "30.58 to 31.65",
+          "count": 0.085714
         }
       ]
     },
@@ -142,44 +168,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "1.6 to 1.89",
-          "count": 0.08
+          "value": "1.6 to 2.0",
+          "count": 0.085714
         },
         {
-          "value": "1.89 to 2.17",
-          "count": 0.04
+          "value": "2.0 to 2.4",
+          "count": 0.085714
         },
         {
-          "value": "2.17 to 2.44",
-          "count": 0.16
+          "value": "2.4 to 2.8",
+          "count": 0.085714
         },
         {
-          "value": "2.44 to 2.72",
-          "count": 0.08
+          "value": "2.8 to 3.2",
+          "count": 0.114286
         },
         {
-          "value": "2.72 to 3.0",
-          "count": 0.04
+          "value": "3.2 to 3.59",
+          "count": 0.142857
         },
         {
-          "value": "3.0 to 3.28",
-          "count": 0.12
+          "value": "3.59 to 3.99",
+          "count": 0.114286
         },
         {
-          "value": "3.28 to 3.56",
-          "count": 0.16
+          "value": "3.99 to 4.39",
+          "count": 0.057143
         },
         {
-          "value": "3.56 to 3.84",
-          "count": 0.12
+          "value": "4.39 to 4.79",
+          "count": 0.057143
         },
         {
-          "value": "3.84 to 4.12",
-          "count": 0.08
+          "value": "4.79 to 5.18",
+          "count": 0.228571
         },
         {
-          "value": "4.12 to 4.4",
-          "count": 0.12
+          "value": "5.18 to 5.58",
+          "count": 0.028571
         }
       ]
     },
@@ -189,43 +215,43 @@
       "value_distribution": [
         {
           "value": "14.48 to 16.03",
-          "count": 0.12
+          "count": 0.085714
         },
         {
           "value": "16.03 to 17.57",
-          "count": 0.04
+          "count": 0.028571
         },
         {
           "value": "17.57 to 19.11",
-          "count": 0.08
+          "count": 0.057143
         },
         {
           "value": "19.11 to 20.65",
-          "count": 0.08
+          "count": 0.142857
         },
         {
           "value": "20.65 to 22.19",
-          "count": 0.12
+          "count": 0.114286
         },
         {
           "value": "22.19 to 23.73",
-          "count": 0.08
+          "count": 0.171429
         },
         {
           "value": "23.73 to 25.26",
-          "count": 0.0
+          "count": 0.028571
         },
         {
           "value": "25.26 to 26.8",
-          "count": 0.28
+          "count": 0.228571
         },
         {
           "value": "26.8 to 28.34",
-          "count": 0.08
+          "count": 0.057143
         },
         {
           "value": "28.34 to 29.88",
-          "count": 0.12
+          "count": 0.085714
         }
       ]
     },
@@ -234,44 +260,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "12.13 to 13.64",
-          "count": 0.08
+          "value": "10.68 to 12.34",
+          "count": 0.057143
         },
         {
-          "value": "13.64 to 15.13",
-          "count": 0.08
+          "value": "12.34 to 13.97",
+          "count": 0.085714
         },
         {
-          "value": "15.13 to 16.62",
-          "count": 0.12
+          "value": "13.97 to 15.61",
+          "count": 0.085714
         },
         {
-          "value": "16.62 to 18.11",
-          "count": 0.16
+          "value": "15.61 to 17.24",
+          "count": 0.142857
         },
         {
-          "value": "18.11 to 19.6",
-          "count": 0.04
+          "value": "17.24 to 18.88",
+          "count": 0.114286
         },
         {
-          "value": "19.6 to 21.1",
-          "count": 0.16
+          "value": "18.88 to 20.52",
+          "count": 0.057143
         },
         {
-          "value": "21.1 to 22.59",
-          "count": 0.0
+          "value": "20.52 to 22.15",
+          "count": 0.171429
         },
         {
-          "value": "22.59 to 24.08",
-          "count": 0.04
+          "value": "22.15 to 23.79",
+          "count": 0.057143
         },
         {
-          "value": "24.08 to 25.57",
-          "count": 0.08
+          "value": "23.79 to 25.43",
+          "count": 0.057143
         },
         {
-          "value": "25.57 to 27.06",
-          "count": 0.24
+          "value": "25.43 to 27.06",
+          "count": 0.171429
         }
       ]
     },
@@ -280,44 +306,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "8.06 to 8.55",
-          "count": 0.16
+          "value": "8.05 to 8.89",
+          "count": 0.142857
         },
         {
-          "value": "8.55 to 9.03",
-          "count": 0.04
+          "value": "8.89 to 9.72",
+          "count": 0.171429
         },
         {
-          "value": "9.03 to 9.52",
-          "count": 0.12
-        },
-        {
-          "value": "9.52 to 10.0",
-          "count": 0.12
-        },
-        {
-          "value": "10.0 to 10.48",
+          "value": "9.72 to 10.55",
           "count": 0.2
         },
         {
-          "value": "10.48 to 10.97",
-          "count": 0.12
+          "value": "10.55 to 11.38",
+          "count": 0.114286
         },
         {
-          "value": "10.97 to 11.45",
-          "count": 0.08
+          "value": "11.38 to 12.2",
+          "count": 0.142857
         },
         {
-          "value": "11.45 to 11.94",
-          "count": 0.04
+          "value": "12.2 to 13.03",
+          "count": 0.085714
         },
         {
-          "value": "11.94 to 12.42",
-          "count": 0.04
+          "value": "13.03 to 13.86",
+          "count": 0.057143
         },
         {
-          "value": "12.42 to 12.91",
-          "count": 0.08
+          "value": "13.86 to 14.69",
+          "count": 0.057143
+        },
+        {
+          "value": "14.69 to 15.52",
+          "count": 0.0
+        },
+        {
+          "value": "15.52 to 16.34",
+          "count": 0.028571
         }
       ]
     },
@@ -327,23 +353,23 @@
       "value_distribution": [
         {
           "value": "2.42 to 2.79",
-          "count": 0.08
+          "count": 0.085714
         },
         {
           "value": "2.79 to 3.15",
-          "count": 0.04
+          "count": 0.028571
         },
         {
           "value": "3.15 to 3.52",
-          "count": 0.08
+          "count": 0.085714
         },
         {
           "value": "3.52 to 3.88",
-          "count": 0.2
+          "count": 0.171429
         },
         {
           "value": "3.88 to 4.24",
-          "count": 0.08
+          "count": 0.057143
         },
         {
           "value": "4.24 to 4.61",
@@ -351,19 +377,19 @@
         },
         {
           "value": "4.61 to 4.97",
-          "count": 0.16
+          "count": 0.142857
         },
         {
           "value": "4.97 to 5.33",
-          "count": 0.12
+          "count": 0.114286
         },
         {
           "value": "5.33 to 5.7",
-          "count": 0.0
+          "count": 0.057143
         },
         {
           "value": "5.7 to 6.06",
-          "count": 0.04
+          "count": 0.057143
         }
       ]
     },
@@ -373,43 +399,43 @@
       "value_distribution": [
         {
           "value": "48.54 to 50.3",
-          "count": 0.08
+          "count": 0.114286
         },
         {
           "value": "50.3 to 52.04",
-          "count": 0.2
+          "count": 0.171429
         },
         {
           "value": "52.04 to 53.78",
-          "count": 0.16
+          "count": 0.171429
         },
         {
           "value": "53.78 to 55.52",
-          "count": 0.08
+          "count": 0.085714
         },
         {
           "value": "55.52 to 57.26",
-          "count": 0.16
+          "count": 0.114286
         },
         {
           "value": "57.26 to 59.0",
-          "count": 0.08
+          "count": 0.114286
         },
         {
           "value": "59.0 to 60.74",
-          "count": 0.04
+          "count": 0.085714
         },
         {
           "value": "60.74 to 62.49",
-          "count": 0.04
+          "count": 0.028571
         },
         {
           "value": "62.49 to 64.23",
-          "count": 0.08
+          "count": 0.057143
         },
         {
           "value": "64.23 to 65.97",
-          "count": 0.08
+          "count": 0.057143
         }
       ]
     },
@@ -419,43 +445,43 @@
       "value_distribution": [
         {
           "value": "34.01 to 35.77",
-          "count": 0.08
+          "count": 0.057143
         },
         {
           "value": "35.77 to 37.51",
-          "count": 0.08
+          "count": 0.057143
         },
         {
           "value": "37.51 to 39.26",
-          "count": 0.04
+          "count": 0.028571
         },
         {
           "value": "39.26 to 41.0",
-          "count": 0.04
+          "count": 0.085714
         },
         {
           "value": "41.0 to 42.74",
-          "count": 0.08
+          "count": 0.114286
         },
         {
           "value": "42.74 to 44.48",
-          "count": 0.16
+          "count": 0.114286
         },
         {
           "value": "44.48 to 46.22",
-          "count": 0.08
+          "count": 0.085714
         },
         {
           "value": "46.22 to 47.96",
-          "count": 0.16
+          "count": 0.171429
         },
         {
           "value": "47.96 to 49.7",
-          "count": 0.2
+          "count": 0.171429
         },
         {
           "value": "49.7 to 51.45",
-          "count": 0.08
+          "count": 0.114286
         }
       ]
     },
@@ -465,43 +491,43 @@
       "value_distribution": [
         {
           "value": "20.45 to 22.01",
-          "count": 0.16
+          "count": 0.114286
         },
         {
           "value": "22.01 to 23.55",
-          "count": 0.0
+          "count": 0.057143
         },
         {
           "value": "23.55 to 25.09",
-          "count": 0.12
+          "count": 0.085714
         },
         {
           "value": "25.09 to 26.64",
-          "count": 0.08
+          "count": 0.114286
         },
         {
           "value": "26.64 to 28.18",
-          "count": 0.16
+          "count": 0.114286
         },
         {
           "value": "28.18 to 29.72",
-          "count": 0.08
+          "count": 0.114286
         },
         {
           "value": "29.72 to 31.26",
-          "count": 0.0
+          "count": 0.057143
         },
         {
           "value": "31.26 to 32.81",
-          "count": 0.08
+          "count": 0.085714
         },
         {
           "value": "32.81 to 34.35",
-          "count": 0.2
+          "count": 0.171429
         },
         {
           "value": "34.35 to 35.89",
-          "count": 0.12
+          "count": 0.085714
         }
       ]
     },
@@ -511,43 +537,43 @@
       "value_distribution": [
         {
           "value": "9.03 to 9.75",
-          "count": 0.04
+          "count": 0.028571
         },
         {
           "value": "9.75 to 10.46",
-          "count": 0.2
+          "count": 0.142857
         },
         {
           "value": "10.46 to 11.17",
-          "count": 0.16
+          "count": 0.142857
         },
         {
           "value": "11.17 to 11.89",
-          "count": 0.08
+          "count": 0.114286
         },
         {
           "value": "11.89 to 12.6",
-          "count": 0.04
+          "count": 0.057143
         },
         {
           "value": "12.6 to 13.31",
-          "count": 0.16
+          "count": 0.114286
         },
         {
           "value": "13.31 to 14.03",
-          "count": 0.04
+          "count": 0.057143
         },
         {
           "value": "14.03 to 14.74",
-          "count": 0.08
+          "count": 0.142857
         },
         {
           "value": "14.74 to 15.45",
-          "count": 0.12
+          "count": 0.142857
         },
         {
           "value": "15.45 to 16.17",
-          "count": 0.08
+          "count": 0.057143
         }
       ]
     },
@@ -556,44 +582,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "0.14 to 0.34",
-          "count": 0.04
+          "value": "0.13 to 0.5",
+          "count": 0.057143
         },
         {
-          "value": "0.34 to 0.55",
-          "count": 0.08
+          "value": "0.5 to 0.85",
+          "count": 0.085714
         },
         {
-          "value": "0.55 to 0.75",
-          "count": 0.04
+          "value": "0.85 to 1.21",
+          "count": 0.171429
         },
         {
-          "value": "0.75 to 0.96",
-          "count": 0.04
+          "value": "1.21 to 1.56",
+          "count": 0.2
         },
         {
-          "value": "0.96 to 1.16",
-          "count": 0.24
+          "value": "1.56 to 1.92",
+          "count": 0.2
         },
         {
-          "value": "1.16 to 1.36",
-          "count": 0.12
+          "value": "1.92 to 2.27",
+          "count": 0.2
         },
         {
-          "value": "1.36 to 1.57",
-          "count": 0.12
+          "value": "2.27 to 2.63",
+          "count": 0.028571
         },
         {
-          "value": "1.57 to 1.77",
+          "value": "2.63 to 2.98",
+          "count": 0.028571
+        },
+        {
+          "value": "2.98 to 3.34",
           "count": 0.0
         },
         {
-          "value": "1.77 to 1.97",
-          "count": 0.16
-        },
-        {
-          "value": "1.97 to 2.18",
-          "count": 0.16
+          "value": "3.34 to 3.7",
+          "count": 0.028571
         }
       ]
     },
@@ -602,27 +628,15 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-0.0 to 0.01",
-          "count": 0.88
+          "value": "-0.0 to 0.02",
+          "count": 0.885714
         },
         {
-          "value": "0.01 to 0.02",
-          "count": 0.0
+          "value": "0.02 to 0.04",
+          "count": 0.028571
         },
         {
-          "value": "0.02 to 0.03",
-          "count": 0.0
-        },
-        {
-          "value": "0.03 to 0.04",
-          "count": 0.04
-        },
-        {
-          "value": "0.04 to 0.05",
-          "count": 0.0
-        },
-        {
-          "value": "0.05 to 0.06",
+          "value": "0.04 to 0.06",
           "count": 0.0
         },
         {
@@ -630,16 +644,28 @@
           "count": 0.0
         },
         {
-          "value": "0.08 to 0.09",
-          "count": 0.04
+          "value": "0.08 to 0.1",
+          "count": 0.028571
         },
         {
-          "value": "0.09 to 0.1",
+          "value": "0.1 to 0.12",
+          "count": 0.028571
+        },
+        {
+          "value": "0.12 to 0.14",
           "count": 0.0
         },
         {
-          "value": "0.1 to 0.11",
-          "count": 0.04
+          "value": "0.14 to 0.15",
+          "count": 0.0
+        },
+        {
+          "value": "0.15 to 0.17",
+          "count": 0.0
+        },
+        {
+          "value": "0.17 to 0.19",
+          "count": 0.028571
         }
       ]
     }

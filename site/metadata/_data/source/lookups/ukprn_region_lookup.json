@@ -1,0 +1,37 @@
+{
+  "path": "data/csv/lookups/ukprn_region_lookup.csv",
+  "dimensions": [
+    {
+      "name": "UKPRN",
+      "categories": [
+        10003854,
+        10003861,
+        10003863,
+        10004740,
+        10007148,
+        10007167,
+        10007713,
+        10007785,
+        10007795,
+        10021682,
+        10034449
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "region",
+      "data_type": "string",
+      "value_distribution": [
+        {
+          "value": "WY",
+          "count": 0.727273
+        },
+        {
+          "value": "NY",
+          "count": 0.272727
+        }
+      ]
+    }
+  ]
+}

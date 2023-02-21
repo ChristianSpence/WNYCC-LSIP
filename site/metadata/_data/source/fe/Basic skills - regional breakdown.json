@@ -1,5 +1,5 @@
 {
-  "path": "data/csv/fe/basic-skills-regional-2122-q4.csv",
+  "path": "data/csv/fe/Basic skills - regional breakdown.csv",
   "dimensions": [
     {
       "name": "date",
@@ -8,25 +8,9 @@
       ]
     },
     {
-      "name": "geography_name",
-      "categories": [
-        "Bradford",
-        "Calderdale",
-        "Craven",
-        "Hambleton",
-        "Harrogate",
-        "Kirklees",
-        "Leeds",
-        "Richmondshire",
-        "Ryedale",
-        "Scarborough",
-        "Selby",
-        "Wakefield"
-      ]
-    },
-    {
       "name": "geography_code",
       "categories": [
+        "E06000014",
         "E07000163",
         "E07000164",
         "E07000165",
@@ -75,48 +59,94 @@
   ],
   "facts": [
     {
+      "name": "geography_name",
+      "data_type": "string",
+      "value_distribution": [
+        {
+          "value": "Bradford",
+          "count": 0.076923
+        },
+        {
+          "value": "Calderdale",
+          "count": 0.076923
+        },
+        {
+          "value": "Craven",
+          "count": 0.076923
+        },
+        {
+          "value": "Hambleton",
+          "count": 0.076923
+        },
+        {
+          "value": "Harrogate",
+          "count": 0.076923
+        },
+        {
+          "value": "Kirklees",
+          "count": 0.076923
+        },
+        {
+          "value": "Leeds",
+          "count": 0.076923
+        },
+        {
+          "value": "Richmondshire",
+          "count": 0.076923
+        },
+        {
+          "value": "Ryedale",
+          "count": 0.076923
+        },
+        {
+          "value": "Scarborough",
+          "count": 0.076923
+        }
+      ]
+    },
+    {
       "name": "achievements",
       "data_type": "string",
       "value_distribution": [
         {
           "value": "0",
-          "count": 0.212418
+          "count": 0.214178
         },
         {
           "value": "10",
-          "count": 0.130719
+          "count": 0.135747
         },
         {
           "value": "low",
-          "count": 0.104575
+          "count": 0.101056
         },
         {
           "value": "20",
-          "count": 0.065359
+          "count": 0.069382
         },
         {
           "value": "30",
-          "count": 0.052288
-        },
-        {
-          "value": "60",
-          "count": 0.029412
+          "count": 0.048265
         },
         {
           "value": "40",
-          "count": 0.027778
+          "count": 0.031674
         },
         {
-          "value": "80",
-          "count": 0.026144
+          "value": "60",
+          "count": 0.030166
         },
         {
           "value": "90",
-          "count": 0.026144
+          "count": 0.024133
         },
         {
-          "value": "50",
-          "count": 0.01634
+          "value": "80",
+          "count": 0.024133
+        },
+        {
+          "value": "70",
+          "count": 0.016591
         }
       ]
     },
@@ -126,43 +156,43 @@
       "value_distribution": [
         {
           "value": "0",
-          "count": 0.20098
+          "count": 0.202112
         },
         {
           "value": "10",
-          "count": 0.089869
+          "count": 0.090498
         },
         {
           "value": "low",
-          "count": 0.068627
+          "count": 0.067873
         },
         {
           "value": "30",
-          "count": 0.047386
+          "count": 0.049774
         },
         {
           "value": "20",
-          "count": 0.04085
-        },
-        {
-          "value": "50",
-          "count": 0.026144
+          "count": 0.040724
         },
         {
           "value": "60",
-          "count": 0.022876
+          "count": 0.028658
+        },
+        {
+          "value": "50",
+          "count": 0.025641
         },
         {
           "value": "40",
-          "count": 0.021242
+          "count": 0.022624
+        },
+        {
+          "value": "90",
+          "count": 0.0181
         },
         {
           "value": "70",
-          "count": 0.017974
-        },
-        {
-          "value": "200",
-          "count": 0.017974
+          "count": 0.016591
         }
       ]
     }
