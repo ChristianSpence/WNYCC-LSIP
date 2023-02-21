@@ -1,5 +1,5 @@
 {
-  "path": "data/csv/fe/fes-geography-detailed-summary-2122-q4.csv",
+  "path": "data/csv/fe/Further education and skills geography - detailed summary.csv",
   "dimensions": [
     {
       "name": "date",
@@ -15,6 +15,7 @@
     {
       "name": "geography_code",
       "categories": [
+        "E06000014",
         "E07000163",
         "E07000164",
         "E07000165",
@@ -27,23 +28,6 @@
         "E08000034",
         "E08000035",
         "E08000036"
-      ]
-    },
-    {
-      "name": "geography_name",
-      "categories": [
-        "Bradford",
-        "Calderdale",
-        "Craven",
-        "Hambleton",
-        "Harrogate",
-        "Kirklees",
-        "Leeds",
-        "Richmondshire",
-        "Ryedale",
-        "Scarborough",
-        "Selby",
-        "Wakefield"
       ]
     },
     {
@@ -109,48 +93,94 @@
       "value_distribution": []
     },
     {
+      "name": "geography_name",
+      "data_type": "string",
+      "value_distribution": [
+        {
+          "value": "Leeds",
+          "count": 0.081213
+        },
+        {
+          "value": "Bradford",
+          "count": 0.080603
+        },
+        {
+          "value": "Kirklees",
+          "count": 0.079384
+        },
+        {
+          "value": "Calderdale",
+          "count": 0.079232
+        },
+        {
+          "value": "Wakefield",
+          "count": 0.077251
+        },
+        {
+          "value": "Hambleton",
+          "count": 0.076794
+        },
+        {
+          "value": "Scarborough",
+          "count": 0.076489
+        },
+        {
+          "value": "York",
+          "count": 0.075423
+        },
+        {
+          "value": "Selby",
+          "count": 0.075423
+        },
+        {
+          "value": "Richmondshire",
+          "count": 0.07527
+        }
+      ]
+    },
+    {
       "name": "starts",
       "data_type": "string",
       "value_distribution": [
         {
           "value": "50",
-          "count": 0.041667
-        },
-        {
-          "value": "60",
-          "count": 0.038194
-        },
-        {
-          "value": "30",
-          "count": 0.03559
+          "count": 0.039263
         },
         {
           "value": "10",
-          "count": 0.034722
+          "count": 0.036859
         },
         {
-          "value": "40",
-          "count": 0.032986
+          "value": "60",
+          "count": 0.036058
+        },
+        {
+          "value": "30",
+          "count": 0.032853
         },
         {
           "value": "80",
-          "count": 0.032986
+          "count": 0.032853
         },
         {
           "value": "90",
-          "count": 0.029514
+          "count": 0.032853
+        },
+        {
+          "value": "40",
+          "count": 0.03125
         },
         {
           "value": "20",
-          "count": 0.02691
-        },
-        {
-          "value": "110",
-          "count": 0.024306
+          "count": 0.025641
         },
         {
           "value": "140",
-          "count": 0.022569
+          "count": 0.02484
+        },
+        {
+          "value": "110",
+          "count": 0.023237
         }
       ]
     },
@@ -160,43 +190,43 @@
       "value_distribution": [
         {
           "value": "low",
-          "count": 0.047627
+          "count": 0.047082
         },
         {
           "value": "10",
-          "count": 0.046968
+          "count": 0.045101
         },
         {
           "value": "20",
-          "count": 0.035597
+          "count": 0.034588
         },
         {
           "value": "30",
-          "count": 0.030488
+          "count": 0.030017
         },
         {
           "value": "40",
-          "count": 0.02472
-        },
-        {
-          "value": "80",
-          "count": 0.019117
+          "count": 0.024074
         },
         {
           "value": "50",
-          "count": 0.018952
+          "count": 0.018589
+        },
+        {
+          "value": "80",
+          "count": 0.018589
         },
         {
           "value": "60",
-          "count": 0.017469
-        },
-        {
-          "value": "110",
-          "count": 0.016809
+          "count": 0.017218
         },
         {
           "value": "70",
-          "count": 0.01648
+          "count": 0.016608
+        },
+        {
+          "value": "110",
+          "count": 0.016456
         }
       ]
     },
@@ -206,43 +236,43 @@
       "value_distribution": [
         {
           "value": "10",
-          "count": 0.078609
+          "count": 0.075118
         },
         {
           "value": "low",
-          "count": 0.066249
+          "count": 0.065366
         },
         {
           "value": "20",
-          "count": 0.053395
+          "count": 0.052872
         },
         {
           "value": "30",
-          "count": 0.043507
+          "count": 0.044339
         },
         {
           "value": "40",
-          "count": 0.038398
+          "count": 0.037635
         },
         {
           "value": "50",
-          "count": 0.032301
+          "count": 0.031998
         },
         {
           "value": "70",
-          "count": 0.028345
+          "count": 0.027884
         },
         {
           "value": "60",
-          "count": 0.027851
+          "count": 0.027274
         },
         {
           "value": "80",
-          "count": 0.023401
+          "count": 0.024227
         },
         {
           "value": "90",
-          "count": 0.020929
+          "count": 0.021332
         }
       ]
     },
@@ -252,43 +282,43 @@
       "value_distribution": [
         {
           "value": "low",
-          "count": 0.019097
+          "count": 0.017628
         },
         {
           "value": "118",
-          "count": 0.006076
+          "count": 0.005609
         },
         {
           "value": "138",
-          "count": 0.005208
+          "count": 0.004808
+        },
+        {
+          "value": "82",
+          "count": 0.004808
         },
         {
           "value": "290",
-          "count": 0.00434
+          "count": 0.004006
         },
         {
-          "value": "125",
-          "count": 0.003472
-        },
-        {
-          "value": "188",
-          "count": 0.003472
-        },
-        {
-          "value": "225",
-          "count": 0.003472
-        },
-        {
-          "value": "121",
-          "count": 0.003472
+          "value": "92",
+          "count": 0.004006
         },
         {
           "value": "193",
-          "count": 0.003472
+          "count": 0.004006
         },
         {
-          "value": "655",
-          "count": 0.003472
+          "value": "286",
+          "count": 0.003205
+        },
+        {
+          "value": "277",
+          "count": 0.003205
+        },
+        {
+          "value": "280",
+          "count": 0.003205
         }
       ]
     },
@@ -298,43 +328,43 @@
       "value_distribution": [
         {
           "value": "low",
-          "count": 0.047627
+          "count": 0.047082
         },
         {
           "value": "67",
-          "count": 0.002307
-        },
-        {
-          "value": "64",
-          "count": 0.001978
-        },
-        {
-          "value": "70",
-          "count": 0.001978
-        },
-        {
-          "value": "46",
-          "count": 0.001978
+          "count": 0.002286
         },
         {
           "value": "68",
-          "count": 0.001978
+          "count": 0.002286
+        },
+        {
+          "value": "61",
+          "count": 0.001981
+        },
+        {
+          "value": "64",
+          "count": 0.001981
         },
         {
           "value": "50",
-          "count": 0.001978
+          "count": 0.001981
         },
         {
           "value": "55",
-          "count": 0.001813
+          "count": 0.001828
+        },
+        {
+          "value": "70",
+          "count": 0.001828
+        },
+        {
+          "value": "46",
+          "count": 0.001828
         },
         {
           "value": "44",
-          "count": 0.001813
-        },
-        {
-          "value": "7",
-          "count": 0.001648
+          "count": 0.001828
         }
       ]
     },
@@ -344,43 +374,43 @@
       "value_distribution": [
         {
           "value": "low",
-          "count": 0.066249
+          "count": 0.065366
         },
         {
           "value": "53",
-          "count": 0.003955
-        },
-        {
-          "value": "64",
-          "count": 0.003626
-        },
-        {
-          "value": "29",
-          "count": 0.003461
+          "count": 0.003657
         },
         {
           "value": "23",
-          "count": 0.003296
+          "count": 0.003504
         },
         {
-          "value": "36",
-          "count": 0.003131
+          "value": "64",
+          "count": 0.003504
+        },
+        {
+          "value": "29",
+          "count": 0.003352
         },
         {
           "value": "18",
-          "count": 0.003131
-        },
-        {
-          "value": "54",
-          "count": 0.002966
-        },
-        {
-          "value": "13",
-          "count": 0.002966
+          "count": 0.0032
         },
         {
           "value": "15",
-          "count": 0.002966
+          "count": 0.003047
+        },
+        {
+          "value": "45",
+          "count": 0.003047
+        },
+        {
+          "value": "36",
+          "count": 0.003047
+        },
+        {
+          "value": "38",
+          "count": 0.003047
         }
       ]
     }

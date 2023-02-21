@@ -1,5 +1,5 @@
 {
-  "path": "data/csv/fe/fes-subject-courses-for-jobs-detailed-2122-q4.csv",
+  "path": "data/csv/fe/Further education and skills subject - free courses for jobs detailed.csv",
   "dimensions": [
     {
       "name": "date",
@@ -10,6 +10,7 @@
     {
       "name": "geography_code",
       "categories": [
+        "E06000014",
         "E07000163",
         "E07000164",
         "E07000165",
@@ -22,23 +23,6 @@
         "E08000034",
         "E08000035",
         "E08000036"
-      ]
-    },
-    {
-      "name": "geography_name",
-      "categories": [
-        "Bradford",
-        "Calderdale",
-        "Craven",
-        "Hambleton",
-        "Harrogate",
-        "Kirklees",
-        "Leeds",
-        "Richmondshire",
-        "Ryedale",
-        "Scarborough",
-        "Selby",
-        "Wakefield"
       ]
     },
     {
@@ -92,20 +76,66 @@
   ],
   "facts": [
     {
+      "name": "geography_name",
+      "data_type": "string",
+      "value_distribution": [
+        {
+          "value": "Bradford",
+          "count": 0.076923
+        },
+        {
+          "value": "Calderdale",
+          "count": 0.076923
+        },
+        {
+          "value": "Craven",
+          "count": 0.076923
+        },
+        {
+          "value": "Hambleton",
+          "count": 0.076923
+        },
+        {
+          "value": "Harrogate",
+          "count": 0.076923
+        },
+        {
+          "value": "Kirklees",
+          "count": 0.076923
+        },
+        {
+          "value": "Leeds",
+          "count": 0.076923
+        },
+        {
+          "value": "Richmondshire",
+          "count": 0.076923
+        },
+        {
+          "value": "Ryedale",
+          "count": 0.076923
+        },
+        {
+          "value": "Scarborough",
+          "count": 0.076923
+        }
+      ]
+    },
+    {
       "name": "total_takeup_original_adult_offer",
       "data_type": "integer",
       "value_distribution": [
         {
           "value": "9.81 to 29.0",
-          "count": 0.25
+          "count": 0.230769
         },
         {
           "value": "29.0 to 48.0",
-          "count": 0.416667
+          "count": 0.461538
         },
         {
           "value": "48.0 to 67.0",
-          "count": 0.083333
+          "count": 0.076923
         },
         {
           "value": "67.0 to 86.0",
@@ -113,7 +143,7 @@
         },
         {
           "value": "86.0 to 105.0",
-          "count": 0.083333
+          "count": 0.076923
         },
         {
           "value": "105.0 to 124.0",
@@ -129,11 +159,11 @@
         },
         {
           "value": "162.0 to 181.0",
-          "count": 0.083333
+          "count": 0.076923
         },
         {
           "value": "181.0 to 200.0",
-          "count": 0.083333
+          "count": 0.076923
         }
       ]
     },
@@ -143,15 +173,15 @@
       "value_distribution": [
         {
           "value": "9.81 to 29.0",
-          "count": 0.166667
+          "count": 0.153846
         },
         {
           "value": "29.0 to 48.0",
-          "count": 0.5
+          "count": 0.461538
         },
         {
           "value": "48.0 to 67.0",
-          "count": 0.083333
+          "count": 0.153846
         },
         {
           "value": "67.0 to 86.0",
@@ -159,7 +189,7 @@
         },
         {
           "value": "86.0 to 105.0",
-          "count": 0.083333
+          "count": 0.076923
         },
         {
           "value": "105.0 to 124.0",
@@ -175,11 +205,11 @@
         },
         {
           "value": "162.0 to 181.0",
-          "count": 0.083333
+          "count": 0.076923
         },
         {
           "value": "181.0 to 200.0",
-          "count": 0.083333
+          "count": 0.076923
         }
       ]
     }

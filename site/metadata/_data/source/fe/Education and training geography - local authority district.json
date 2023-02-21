@@ -1,5 +1,5 @@
 {
-  "path": "data/csv/fe/e-and-t-geography-detailed-202122-q4.csv",
+  "path": "data/csv/fe/Education and training geography - local authority district.csv",
   "dimensions": [
     {
       "name": "date",
@@ -10,6 +10,7 @@
     {
       "name": "geography_code",
       "categories": [
+        "E06000014",
         "E07000163",
         "E07000164",
         "E07000165",
@@ -22,23 +23,6 @@
         "E08000034",
         "E08000035",
         "E08000036"
-      ]
-    },
-    {
-      "name": "geography_name",
-      "categories": [
-        "Bradford",
-        "Calderdale",
-        "Craven",
-        "Hambleton",
-        "Harrogate",
-        "Kirklees",
-        "Leeds",
-        "Richmondshire",
-        "Ryedale",
-        "Scarborough",
-        "Selby",
-        "Wakefield"
       ]
     },
     {
@@ -98,48 +82,94 @@
   ],
   "facts": [
     {
+      "name": "geography_name",
+      "data_type": "string",
+      "value_distribution": [
+        {
+          "value": "Leeds",
+          "count": 0.076923
+        },
+        {
+          "value": "Selby",
+          "count": 0.076923
+        },
+        {
+          "value": "York",
+          "count": 0.076923
+        },
+        {
+          "value": "Wakefield",
+          "count": 0.076923
+        },
+        {
+          "value": "Calderdale",
+          "count": 0.076923
+        },
+        {
+          "value": "Harrogate",
+          "count": 0.076923
+        },
+        {
+          "value": "Kirklees",
+          "count": 0.076923
+        },
+        {
+          "value": "Ryedale",
+          "count": 0.076923
+        },
+        {
+          "value": "Bradford",
+          "count": 0.076923
+        },
+        {
+          "value": "Richmondshire",
+          "count": 0.076923
+        }
+      ]
+    },
+    {
       "name": "e_and_t_aims_enrolments",
       "data_type": "string",
       "value_distribution": [
         {
           "value": "low",
-          "count": 0.776711
+          "count": 0.776649
         },
         {
           "value": "10",
-          "count": 0.075263
+          "count": 0.076184
         },
         {
           "value": "20",
-          "count": 0.031246
+          "count": 0.031151
         },
         {
           "value": "30",
-          "count": 0.017607
+          "count": 0.01773
         },
         {
           "value": "40",
-          "count": 0.011538
+          "count": 0.011451
         },
         {
           "value": "50",
-          "count": 0.009404
+          "count": 0.009081
         },
         {
           "value": "60",
-          "count": 0.00767
+          "count": 0.007449
         },
         {
           "value": "70",
-          "count": 0.005035
+          "count": 0.005202
         },
         {
           "value": "90",
-          "count": 0.004302
+          "count": 0.00434
         },
         {
           "value": "80",
-          "count": 0.004268
+          "count": 0.004248
         }
       ]
     },
@@ -149,43 +179,43 @@
       "value_distribution": [
         {
           "value": "low",
-          "count": 0.802054
+          "count": 0.802198
         },
         {
           "value": "10",
-          "count": 0.070695
+          "count": 0.070828
         },
         {
           "value": "20",
-          "count": 0.027278
+          "count": 0.02795
         },
         {
           "value": "30",
-          "count": 0.015773
+          "count": 0.015606
         },
         {
           "value": "40",
-          "count": 0.010838
+          "count": 0.01062
         },
         {
           "value": "50",
-          "count": 0.00727
+          "count": 0.007264
         },
         {
           "value": "60",
-          "count": 0.006403
+          "count": 0.00631
         },
         {
           "value": "70",
-          "count": 0.004602
+          "count": 0.004494
         },
         {
           "value": "80",
-          "count": 0.003968
+          "count": 0.004248
         },
         {
           "value": "90",
-          "count": 0.003368
+          "count": 0.003417
         }
       ]
     }

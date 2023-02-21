@@ -1,5 +1,5 @@
 {
-  "path": "data/csv/a-level/alevel_as_entries_results_by_region_singleyr_201822_complete.csv",
+  "path": "data/csv/a-level/Student counts and Results - A level by region and subject (end of 16-18 study).csv",
   "dimensions": [
     {
       "name": "date",
@@ -12,30 +12,15 @@
       ]
     },
     {
-      "name": "Qualification",
-      "categories": [
-        "A level",
-        "AS level"
-      ]
-    },
-    {
-      "name": "geography_name",
-      "categories": [
-        "Bradford",
-        "Calderdale",
-        "Kirklees",
-        "Leeds",
-        "Wakefield"
-      ]
-    },
-    {
       "name": "geography_code",
       "categories": [
+        "E06000014",
         "E08000032",
         "E08000033",
         "E08000034",
         "E08000035",
-        "E08000036"
+        "E08000036",
+        "E10000023"
       ]
     },
     {
@@ -158,10 +143,8 @@
         "Portuguese",
         "Punjabi",
         "Russian",
-        "Science SA",
         "Science in Society",
         "Spanish",
-        "Statistics",
         "Textiles",
         "Total Accounting and finance",
         "Total Anthropology",
@@ -210,48 +193,82 @@
   ],
   "facts": [
     {
+      "name": "geography_name",
+      "data_type": "string",
+      "value_distribution": [
+        {
+          "value": "Bradford",
+          "count": 0.142857
+        },
+        {
+          "value": "Calderdale",
+          "count": 0.142857
+        },
+        {
+          "value": "Kirklees",
+          "count": 0.142857
+        },
+        {
+          "value": "Leeds",
+          "count": 0.142857
+        },
+        {
+          "value": "Wakefield",
+          "count": 0.142857
+        },
+        {
+          "value": "York",
+          "count": 0.142857
+        },
+        {
+          "value": "North Yorkshire",
+          "count": 0.142857
+        }
+      ]
+    },
+    {
       "name": "Number at grade A*.",
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-1.32 to 132.1",
-          "count": 0.891835
+          "value": "-0.73 to 73.0",
+          "count": 0.896395
         },
         {
-          "value": "132.1 to 264.2",
-          "count": 0.005229
+          "value": "73.0 to 146.0",
+          "count": 0.016689
         },
         {
-          "value": "264.2 to 396.3",
-          "count": 0.001743
+          "value": "146.0 to 219.0",
+          "count": 0.007343
         },
         {
-          "value": "396.3 to 528.4",
-          "count": 0.001651
+          "value": "219.0 to 292.0",
+          "count": 0.003738
         },
         {
-          "value": "528.4 to 660.5",
-          "count": 0.00055
+          "value": "292.0 to 365.0",
+          "count": 0.002136
         },
         {
-          "value": "660.5 to 792.6",
-          "count": 0.000183
+          "value": "365.0 to 438.0",
+          "count": 0.000801
         },
         {
-          "value": "792.6 to 924.7",
-          "count": 0.000459
+          "value": "438.0 to 511.0",
+          "count": 0.001068
         },
         {
-          "value": "924.7 to 1056.8",
-          "count": 9.2e-05
+          "value": "511.0 to 584.0",
+          "count": 0.000534
         },
         {
-          "value": "1056.8 to 1188.9",
-          "count": 0.0
+          "value": "584.0 to 657.0",
+          "count": 0.000134
         },
         {
-          "value": "1188.9 to 1321.0",
-          "count": 9.2e-05
+          "value": "657.0 to 730.0",
+          "count": 0.000134
         }
       ]
     },
@@ -260,44 +277,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-2.04 to 203.9",
-          "count": 0.890275
+          "value": "-0.86 to 85.7",
+          "count": 0.87757
         },
         {
-          "value": "203.9 to 407.8",
-          "count": 0.004771
+          "value": "85.7 to 171.4",
+          "count": 0.029506
         },
         {
-          "value": "407.8 to 611.7",
-          "count": 0.002844
+          "value": "171.4 to 257.1",
+          "count": 0.010147
         },
         {
-          "value": "611.7 to 815.6",
-          "count": 0.001927
+          "value": "257.1 to 342.8",
+          "count": 0.003872
         },
         {
-          "value": "815.6 to 1019.5",
-          "count": 0.000642
+          "value": "342.8 to 428.5",
+          "count": 0.002804
         },
         {
-          "value": "1019.5 to 1223.4",
-          "count": 0.00055
+          "value": "428.5 to 514.2",
+          "count": 0.001869
         },
         {
-          "value": "1223.4 to 1427.3",
-          "count": 0.000183
+          "value": "514.2 to 599.9",
+          "count": 0.001335
         },
         {
-          "value": "1427.3 to 1631.2",
-          "count": 0.000367
+          "value": "599.9 to 685.6",
+          "count": 0.001068
         },
         {
-          "value": "1631.2 to 1835.1",
-          "count": 0.000183
+          "value": "685.6 to 771.3",
+          "count": 0.000534
         },
         {
-          "value": "1835.1 to 2039.0",
-          "count": 9.2e-05
+          "value": "771.3 to 857.0",
+          "count": 0.000267
         }
       ]
     },
@@ -306,44 +323,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-2.41 to 240.7",
-          "count": 0.890826
+          "value": "-0.96 to 96.0",
+          "count": 0.865821
         },
         {
-          "value": "240.7 to 481.4",
-          "count": 0.00367
+          "value": "96.0 to 192.0",
+          "count": 0.044593
         },
         {
-          "value": "481.4 to 722.1",
-          "count": 0.003028
+          "value": "192.0 to 288.0",
+          "count": 0.00721
         },
         {
-          "value": "722.1 to 962.8",
-          "count": 0.001651
+          "value": "288.0 to 384.0",
+          "count": 0.003338
         },
         {
-          "value": "962.8 to 1203.5",
-          "count": 0.001009
+          "value": "384.0 to 480.0",
+          "count": 0.003338
         },
         {
-          "value": "1203.5 to 1444.2",
-          "count": 0.000275
+          "value": "480.0 to 576.0",
+          "count": 0.001736
         },
         {
-          "value": "1444.2 to 1684.9",
-          "count": 0.000367
+          "value": "576.0 to 672.0",
+          "count": 0.001202
         },
         {
-          "value": "1684.9 to 1925.6",
-          "count": 0.000367
+          "value": "672.0 to 768.0",
+          "count": 0.001068
         },
         {
-          "value": "1925.6 to 2166.3",
-          "count": 0.000367
+          "value": "768.0 to 864.0",
+          "count": 0.000267
         },
         {
-          "value": "2166.3 to 2407.0",
-          "count": 0.000275
+          "value": "864.0 to 960.0",
+          "count": 0.000401
         }
       ]
     },
@@ -352,44 +369,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-2.12 to 212.4",
-          "count": 0.89
+          "value": "-0.75 to 74.5",
+          "count": 0.855007
         },
         {
-          "value": "212.4 to 424.8",
-          "count": 0.004404
+          "value": "74.5 to 149.0",
+          "count": 0.050067
         },
         {
-          "value": "424.8 to 637.2",
-          "count": 0.002661
+          "value": "149.0 to 223.5",
+          "count": 0.011348
         },
         {
-          "value": "637.2 to 849.6",
-          "count": 0.001927
+          "value": "223.5 to 298.0",
+          "count": 0.003872
         },
         {
-          "value": "849.6 to 1062.0",
-          "count": 0.000917
+          "value": "298.0 to 372.5",
+          "count": 0.003738
         },
         {
-          "value": "1062.0 to 1274.4",
-          "count": 0.00055
+          "value": "372.5 to 447.0",
+          "count": 0.001869
         },
         {
-          "value": "1274.4 to 1486.8",
-          "count": 0.000459
+          "value": "447.0 to 521.5",
+          "count": 0.001736
         },
         {
-          "value": "1486.8 to 1699.2",
-          "count": 0.000459
+          "value": "521.5 to 596.0",
+          "count": 0.000801
         },
         {
-          "value": "1699.2 to 1911.6",
-          "count": 9.2e-05
+          "value": "596.0 to 670.5",
+          "count": 0.0
         },
         {
-          "value": "1911.6 to 2124.0",
-          "count": 0.000367
+          "value": "670.5 to 745.0",
+          "count": 0.000534
         }
       ]
     },
@@ -398,44 +415,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-1.54 to 153.6",
-          "count": 0.890367
+          "value": "-0.48 to 47.5",
+          "count": 0.866756
         },
         {
-          "value": "153.6 to 307.2",
-          "count": 0.004679
+          "value": "47.5 to 95.0",
+          "count": 0.040854
         },
         {
-          "value": "307.2 to 460.8",
-          "count": 0.003394
+          "value": "95.0 to 142.5",
+          "count": 0.01028
         },
         {
-          "value": "460.8 to 614.4",
-          "count": 0.00156
+          "value": "142.5 to 190.0",
+          "count": 0.005207
         },
         {
-          "value": "614.4 to 768.0",
-          "count": 0.000367
+          "value": "190.0 to 237.5",
+          "count": 0.002537
         },
         {
-          "value": "768.0 to 921.6",
-          "count": 0.000642
+          "value": "237.5 to 285.0",
+          "count": 0.002136
         },
         {
-          "value": "921.6 to 1075.2",
-          "count": 0.000367
+          "value": "285.0 to 332.5",
+          "count": 0.000534
         },
         {
-          "value": "1075.2 to 1228.8",
-          "count": 0.000183
+          "value": "332.5 to 380.0",
+          "count": 0.000267
         },
         {
-          "value": "1228.8 to 1382.4",
-          "count": 0.000183
+          "value": "380.0 to 427.5",
+          "count": 0.000267
         },
         {
-          "value": "1382.4 to 1536.0",
-          "count": 9.2e-05
+          "value": "427.5 to 475.0",
+          "count": 0.000134
         }
       ]
     },
@@ -444,44 +461,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-0.68 to 68.0",
-          "count": 0.887339
+          "value": "-0.19 to 19.1",
+          "count": 0.86729
         },
         {
-          "value": "68.0 to 136.0",
-          "count": 0.006881
+          "value": "19.1 to 38.2",
+          "count": 0.031242
         },
         {
-          "value": "136.0 to 204.0",
-          "count": 0.003303
+          "value": "38.2 to 57.3",
+          "count": 0.01482
         },
         {
-          "value": "204.0 to 272.0",
-          "count": 0.002294
+          "value": "57.3 to 76.4",
+          "count": 0.00721
         },
         {
-          "value": "272.0 to 340.0",
-          "count": 0.000734
+          "value": "76.4 to 95.5",
+          "count": 0.004005
         },
         {
-          "value": "340.0 to 408.0",
-          "count": 0.000459
+          "value": "95.5 to 114.6",
+          "count": 0.002403
         },
         {
-          "value": "408.0 to 476.0",
-          "count": 0.000367
+          "value": "114.6 to 133.7",
+          "count": 0.001068
         },
         {
-          "value": "476.0 to 544.0",
-          "count": 0.000183
+          "value": "133.7 to 152.8",
+          "count": 0.000267
         },
         {
-          "value": "544.0 to 612.0",
-          "count": 0.000183
+          "value": "152.8 to 171.9",
+          "count": 0.000401
         },
         {
-          "value": "612.0 to 680.0",
-          "count": 9.2e-05
+          "value": "171.9 to 191.0",
+          "count": 0.000267
         }
       ]
     },
@@ -490,90 +507,136 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-0.31 to 31.2",
-          "count": 0.890183
+          "value": "-0.07 to 6.8",
+          "count": 0.883712
         },
         {
-          "value": "31.2 to 62.4",
-          "count": 0.005872
+          "value": "6.8 to 13.6",
+          "count": 0.022563
         },
         {
-          "value": "62.4 to 93.6",
-          "count": 0.00211
+          "value": "13.6 to 20.4",
+          "count": 0.009479
         },
         {
-          "value": "93.6 to 124.8",
-          "count": 0.001376
+          "value": "20.4 to 27.2",
+          "count": 0.004539
         },
         {
-          "value": "124.8 to 156.0",
-          "count": 0.000826
+          "value": "27.2 to 34.0",
+          "count": 0.003872
         },
         {
-          "value": "156.0 to 187.2",
-          "count": 0.000826
+          "value": "34.0 to 40.8",
+          "count": 0.001469
         },
         {
-          "value": "187.2 to 218.4",
-          "count": 9.2e-05
+          "value": "40.8 to 47.6",
+          "count": 0.001068
         },
         {
-          "value": "218.4 to 249.6",
-          "count": 0.000275
+          "value": "47.6 to 54.4",
+          "count": 0.001068
         },
         {
-          "value": "249.6 to 280.8",
-          "count": 0.000183
+          "value": "54.4 to 61.2",
+          "count": 0.001068
         },
         {
-          "value": "280.8 to 312.0",
-          "count": 9.2e-05
+          "value": "61.2 to 68.0",
+          "count": 0.000134
         }
       ]
     },
     {
-      "name": "Exam entries",
+      "name": "q_grade_achieved",
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-9.03 to 902.6",
-          "count": 0.888991
+          "value": "-0.0 to 0.2",
+          "count": 0.92243
         },
         {
-          "value": "902.6 to 1805.2",
-          "count": 0.005046
+          "value": "0.2 to 0.4",
+          "count": 0.0
         },
         {
-          "value": "1805.2 to 2707.8",
-          "count": 0.002936
+          "value": "0.4 to 0.6",
+          "count": 0.0
         },
         {
-          "value": "2707.8 to 3610.4",
-          "count": 0.00211
+          "value": "0.6 to 0.8",
+          "count": 0.0
         },
         {
-          "value": "3610.4 to 4513.0",
-          "count": 0.001101
+          "value": "0.8 to 1.0",
+          "count": 0.005474
         },
         {
-          "value": "4513.0 to 5415.6",
-          "count": 0.000275
+          "value": "1.0 to 1.2",
+          "count": 0.0
         },
         {
-          "value": "5415.6 to 6318.2",
-          "count": 0.000367
+          "value": "1.2 to 1.4",
+          "count": 0.0
         },
         {
-          "value": "6318.2 to 7220.8",
-          "count": 0.00055
+          "value": "1.4 to 1.6",
+          "count": 0.0
         },
         {
-          "value": "7220.8 to 8123.4",
-          "count": 0.000183
+          "value": "1.6 to 1.8",
+          "count": 0.0
         },
         {
-          "value": "8123.4 to 9026.0",
-          "count": 0.000275
+          "value": "1.8 to 2.0",
+          "count": 0.001068
+        }
+      ]
+    },
+    {
+      "name": "Total number of students",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-3.5 to 350.1",
+          "count": 0.863551
+        },
+        {
+          "value": "350.1 to 700.2",
+          "count": 0.041789
+        },
+        {
+          "value": "700.2 to 1050.3",
+          "count": 0.009613
+        },
+        {
+          "value": "1050.3 to 1400.4",
+          "count": 0.005607
+        },
+        {
+          "value": "1400.4 to 1750.5",
+          "count": 0.003071
+        },
+        {
+          "value": "1750.5 to 2100.6",
+          "count": 0.001335
+        },
+        {
+          "value": "2100.6 to 2450.7",
+          "count": 0.00227
+        },
+        {
+          "value": "2450.7 to 2800.8",
+          "count": 0.001068
+        },
+        {
+          "value": "2800.8 to 3150.9",
+          "count": 0.000267
+        },
+        {
+          "value": "3150.9 to 3501.0",
+          "count": 0.000401
         }
       ]
     },
@@ -582,44 +645,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-3.36 to 336.0",
-          "count": 0.890459
+          "value": "-1.59 to 158.7",
+          "count": 0.88785
         },
         {
-          "value": "336.0 to 672.0",
-          "count": 0.005505
+          "value": "158.7 to 317.4",
+          "count": 0.021762
         },
         {
-          "value": "672.0 to 1008.0",
-          "count": 0.002294
+          "value": "317.4 to 476.1",
+          "count": 0.009079
         },
         {
-          "value": "1008.0 to 1344.0",
-          "count": 0.001651
+          "value": "476.1 to 634.8",
+          "count": 0.003738
         },
         {
-          "value": "1344.0 to 1680.0",
-          "count": 0.001009
+          "value": "634.8 to 793.5",
+          "count": 0.00267
         },
         {
-          "value": "1680.0 to 2016.0",
-          "count": 0.000183
+          "value": "793.5 to 952.2",
+          "count": 0.001602
         },
         {
-          "value": "2016.0 to 2352.0",
-          "count": 0.000183
+          "value": "952.2 to 1110.9",
+          "count": 0.000935
         },
         {
-          "value": "2352.0 to 2688.0",
-          "count": 0.000459
+          "value": "1110.9 to 1269.6",
+          "count": 0.000801
         },
         {
-          "value": "2688.0 to 3024.0",
-          "count": 0.0
+          "value": "1269.6 to 1428.3",
+          "count": 0.000401
         },
         {
-          "value": "3024.0 to 3360.0",
-          "count": 9.2e-05
+          "value": "1428.3 to 1587.0",
+          "count": 0.000134
         }
       ]
     },
@@ -628,44 +691,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-5.64 to 563.7",
-          "count": 0.890642
+          "value": "-2.4 to 239.6",
+          "count": 0.875167
         },
         {
-          "value": "563.7 to 1127.4",
-          "count": 0.004771
+          "value": "239.6 to 479.2",
+          "count": 0.033511
         },
         {
-          "value": "1127.4 to 1691.1",
-          "count": 0.002385
+          "value": "479.2 to 718.8",
+          "count": 0.008411
         },
         {
-          "value": "1691.1 to 2254.8",
-          "count": 0.001927
+          "value": "718.8 to 958.4",
+          "count": 0.004673
         },
         {
-          "value": "2254.8 to 2818.5",
-          "count": 0.000826
+          "value": "958.4 to 1198.0",
+          "count": 0.00227
         },
         {
-          "value": "2818.5 to 3382.2",
-          "count": 0.000275
+          "value": "1198.0 to 1437.6",
+          "count": 0.001736
         },
         {
-          "value": "3382.2 to 3945.9",
-          "count": 0.000367
+          "value": "1437.6 to 1677.2",
+          "count": 0.001068
         },
         {
-          "value": "3945.9 to 4509.6",
-          "count": 0.000367
+          "value": "1677.2 to 1916.8",
+          "count": 0.001469
         },
         {
-          "value": "4509.6 to 5073.3",
-          "count": 0.000183
+          "value": "1916.8 to 2156.4",
+          "count": 0.000267
         },
         {
-          "value": "5073.3 to 5637.0",
-          "count": 9.2e-05
+          "value": "2156.4 to 2396.0",
+          "count": 0.000401
         }
       ]
     },
@@ -674,44 +737,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-7.47 to 746.6",
-          "count": 0.890367
+          "value": "-2.99 to 298.7",
+          "count": 0.868224
         },
         {
-          "value": "746.6 to 1493.2",
-          "count": 0.004037
+          "value": "298.7 to 597.4",
+          "count": 0.038985
         },
         {
-          "value": "1493.2 to 2239.8",
-          "count": 0.002936
+          "value": "597.4 to 896.1",
+          "count": 0.008945
         },
         {
-          "value": "2239.8 to 2986.4",
-          "count": 0.00211
+          "value": "896.1 to 1194.8",
+          "count": 0.004673
         },
         {
-          "value": "2986.4 to 3733.0",
-          "count": 0.000917
+          "value": "1194.8 to 1493.5",
+          "count": 0.00267
         },
         {
-          "value": "3733.0 to 4479.6",
-          "count": 0.000275
+          "value": "1493.5 to 1792.2",
+          "count": 0.001869
         },
         {
-          "value": "4479.6 to 5226.2",
-          "count": 0.000275
+          "value": "1792.2 to 2090.9",
+          "count": 0.001469
         },
         {
-          "value": "5226.2 to 5972.8",
-          "count": 0.000642
+          "value": "2090.9 to 2389.6",
+          "count": 0.001469
         },
         {
-          "value": "5972.8 to 6719.4",
-          "count": 0.0
+          "value": "2389.6 to 2688.3",
+          "count": 0.000267
         },
         {
-          "value": "6719.4 to 7466.0",
-          "count": 0.000275
+          "value": "2688.3 to 2987.0",
+          "count": 0.000401
         }
       ]
     },
@@ -720,44 +783,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-8.37 to 836.5",
-          "count": 0.889725
+          "value": "-3.33 to 332.5",
+          "count": 0.863952
         },
         {
-          "value": "836.5 to 1673.0",
-          "count": 0.004404
+          "value": "332.5 to 665.0",
+          "count": 0.04219
         },
         {
-          "value": "1673.0 to 2509.5",
-          "count": 0.002844
+          "value": "665.0 to 997.5",
+          "count": 0.009212
         },
         {
-          "value": "2509.5 to 3346.0",
-          "count": 0.00211
+          "value": "997.5 to 1330.0",
+          "count": 0.00534
         },
         {
-          "value": "3346.0 to 4182.5",
-          "count": 0.001101
+          "value": "1330.0 to 1662.5",
+          "count": 0.002804
         },
         {
-          "value": "4182.5 to 5019.0",
-          "count": 0.000275
+          "value": "1662.5 to 1995.0",
+          "count": 0.001736
         },
         {
-          "value": "5019.0 to 5855.5",
-          "count": 0.000367
+          "value": "1995.0 to 2327.5",
+          "count": 0.001602
         },
         {
-          "value": "5855.5 to 6692.0",
-          "count": 0.00055
+          "value": "2327.5 to 2660.0",
+          "count": 0.001469
         },
         {
-          "value": "6692.0 to 7528.5",
-          "count": 0.000183
+          "value": "2660.0 to 2992.5",
+          "count": 0.000267
         },
         {
-          "value": "7528.5 to 8365.0",
-          "count": 0.000275
+          "value": "2992.5 to 3325.0",
+          "count": 0.000401
         }
       ]
     },
@@ -766,44 +829,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "-8.81 to 881.1",
-          "count": 0.88945
+          "value": "-3.47 to 346.7",
+          "count": 0.863151
         },
         {
-          "value": "881.1 to 1762.2",
-          "count": 0.004495
+          "value": "346.7 to 693.4",
+          "count": 0.042323
         },
         {
-          "value": "1762.2 to 2643.3",
-          "count": 0.002936
+          "value": "693.4 to 1040.1",
+          "count": 0.009613
         },
         {
-          "value": "2643.3 to 3524.4",
-          "count": 0.002202
+          "value": "1040.1 to 1386.8",
+          "count": 0.005474
         },
         {
-          "value": "3524.4 to 4405.5",
-          "count": 0.001009
+          "value": "1386.8 to 1733.5",
+          "count": 0.003071
         },
         {
-          "value": "4405.5 to 5286.6",
-          "count": 0.000367
+          "value": "1733.5 to 2080.2",
+          "count": 0.001335
         },
         {
-          "value": "5286.6 to 6167.7",
-          "count": 0.000367
+          "value": "2080.2 to 2426.9",
+          "count": 0.002003
         },
         {
-          "value": "6167.7 to 7048.8",
-          "count": 0.00055
+          "value": "2426.9 to 2773.6",
+          "count": 0.001335
         },
         {
-          "value": "7048.8 to 7929.9",
-          "count": 0.000183
+          "value": "2773.6 to 3120.3",
+          "count": 0.000267
         },
         {
-          "value": "7929.9 to 8811.0",
-          "count": 0.000275
+          "value": "3120.3 to 3467.0",
+          "count": 0.000401
         }
       ]
     },
@@ -813,35 +876,35 @@
       "value_distribution": [
         {
           "value": "-0.1 to 10.0",
-          "count": 0.266422
+          "count": 0.284246
         },
         {
           "value": "10.0 to 20.0",
-          "count": 0.061927
+          "count": 0.145928
         },
         {
           "value": "20.0 to 30.0",
-          "count": 0.015505
+          "count": 0.046862
         },
         {
           "value": "30.0 to 40.0",
-          "count": 0.006697
+          "count": 0.016422
         },
         {
           "value": "40.0 to 50.0",
-          "count": 0.002752
+          "count": 0.007877
         },
         {
           "value": "50.0 to 60.0",
-          "count": 0.000642
+          "count": 0.001335
         },
         {
           "value": "60.0 to 70.0",
-          "count": 0.000459
+          "count": 0.000935
         },
         {
           "value": "70.0 to 80.0",
-          "count": 0.000275
+          "count": 0.000401
         },
         {
           "value": "80.0 to 90.0",
@@ -849,7 +912,7 @@
         },
         {
           "value": "90.0 to 100.0",
-          "count": 0.00211
+          "count": 0.006809
         }
       ]
     },
@@ -859,35 +922,35 @@
       "value_distribution": [
         {
           "value": "-0.1 to 10.0",
-          "count": 0.106514
+          "count": 0.095995
         },
         {
           "value": "10.0 to 20.0",
-          "count": 0.110183
+          "count": 0.168358
         },
         {
           "value": "20.0 to 30.0",
-          "count": 0.077615
+          "count": 0.164219
         },
         {
           "value": "30.0 to 40.0",
-          "count": 0.027982
+          "count": 0.046328
         },
         {
           "value": "40.0 to 50.0",
-          "count": 0.014404
+          "count": 0.018158
         },
         {
           "value": "50.0 to 60.0",
-          "count": 0.005413
+          "count": 0.003738
         },
         {
           "value": "60.0 to 70.0",
-          "count": 0.00422
+          "count": 0.003738
         },
         {
           "value": "70.0 to 80.0",
-          "count": 0.00211
+          "count": 0.000267
         },
         {
           "value": "80.0 to 90.0",
@@ -895,7 +958,7 @@
         },
         {
           "value": "90.0 to 100.0",
-          "count": 0.008349
+          "count": 0.010013
         }
       ]
     },
@@ -905,35 +968,35 @@
       "value_distribution": [
         {
           "value": "-0.1 to 10.0",
-          "count": 0.076147
+          "count": 0.04526
         },
         {
           "value": "10.0 to 20.0",
-          "count": 0.062752
+          "count": 0.073031
         },
         {
           "value": "20.0 to 30.0",
-          "count": 0.11633
+          "count": 0.208545
         },
         {
           "value": "30.0 to 40.0",
-          "count": 0.070826
+          "count": 0.133378
         },
         {
           "value": "40.0 to 50.0",
-          "count": 0.020092
+          "count": 0.035781
         },
         {
           "value": "50.0 to 60.0",
-          "count": 0.002018
+          "count": 0.004005
         },
         {
           "value": "60.0 to 70.0",
-          "count": 0.001927
+          "count": 0.00267
         },
         {
           "value": "70.0 to 80.0",
-          "count": 0.000642
+          "count": 0.001335
         },
         {
           "value": "80.0 to 90.0",
@@ -941,7 +1004,7 @@
         },
         {
           "value": "90.0 to 100.0",
-          "count": 0.006055
+          "count": 0.006809
         }
       ]
     },
@@ -951,43 +1014,43 @@
       "value_distribution": [
         {
           "value": "-0.1 to 10.0",
-          "count": 0.077339
+          "count": 0.072897
         },
         {
           "value": "10.0 to 20.0",
-          "count": 0.077706
+          "count": 0.127637
         },
         {
           "value": "20.0 to 30.0",
-          "count": 0.117982
+          "count": 0.197463
         },
         {
           "value": "30.0 to 40.0",
-          "count": 0.056055
+          "count": 0.086115
         },
         {
           "value": "40.0 to 50.0",
-          "count": 0.016881
+          "count": 0.020961
         },
         {
           "value": "50.0 to 60.0",
-          "count": 0.00211
+          "count": 0.002003
         },
         {
           "value": "60.0 to 70.0",
-          "count": 0.001651
+          "count": 0.000935
         },
         {
           "value": "70.0 to 80.0",
-          "count": 0.000459
+          "count": 0.000534
         },
         {
           "value": "80.0 to 90.0",
-          "count": 9.2e-05
+          "count": 0.000134
         },
         {
           "value": "90.0 to 100.0",
-          "count": 0.006514
+          "count": 0.002136
         }
       ]
     },
@@ -997,35 +1060,35 @@
       "value_distribution": [
         {
           "value": "-0.1 to 10.0",
-          "count": 0.153394
+          "count": 0.24486
         },
         {
           "value": "10.0 to 20.0",
-          "count": 0.126881
+          "count": 0.192523
         },
         {
           "value": "20.0 to 30.0",
-          "count": 0.046055
+          "count": 0.05247
         },
         {
           "value": "30.0 to 40.0",
-          "count": 0.016789
+          "count": 0.015354
         },
         {
           "value": "40.0 to 50.0",
-          "count": 0.006606
+          "count": 0.003738
         },
         {
           "value": "50.0 to 60.0",
-          "count": 0.001376
+          "count": 0.000534
         },
         {
           "value": "60.0 to 70.0",
-          "count": 0.000183
+          "count": 0.000267
         },
         {
           "value": "70.0 to 80.0",
-          "count": 0.000275
+          "count": 0.000401
         },
         {
           "value": "80.0 to 90.0",
@@ -1033,7 +1096,7 @@
         },
         {
           "value": "90.0 to 100.0",
-          "count": 0.005229
+          "count": 0.000668
         }
       ]
     },
@@ -1043,35 +1106,35 @@
       "value_distribution": [
         {
           "value": "-0.1 to 10.0",
-          "count": 0.275596
+          "count": 0.452737
         },
         {
           "value": "10.0 to 20.0",
-          "count": 0.053119
+          "count": 0.047397
         },
         {
           "value": "20.0 to 30.0",
-          "count": 0.01367
+          "count": 0.006809
         },
         {
           "value": "30.0 to 40.0",
-          "count": 0.005413
+          "count": 0.001602
         },
         {
           "value": "40.0 to 50.0",
-          "count": 0.004037
+          "count": 0.001736
         },
         {
           "value": "50.0 to 60.0",
-          "count": 0.000275
+          "count": 0.0
         },
         {
           "value": "60.0 to 70.0",
-          "count": 0.000734
+          "count": 0.0
         },
         {
           "value": "70.0 to 80.0",
-          "count": 0.000367
+          "count": 0.0
         },
         {
           "value": "80.0 to 90.0",
@@ -1079,7 +1142,7 @@
         },
         {
           "value": "90.0 to 100.0",
-          "count": 0.003578
+          "count": 0.000534
         }
       ]
     },
@@ -1089,43 +1152,43 @@
       "value_distribution": [
         {
           "value": "-0.1 to 10.0",
-          "count": 0.086055
+          "count": 0.057677
         },
         {
           "value": "10.0 to 20.0",
-          "count": 0.067798
+          "count": 0.085981
         },
         {
           "value": "20.0 to 30.0",
-          "count": 0.071284
+          "count": 0.114953
         },
         {
           "value": "30.0 to 40.0",
-          "count": 0.060092
+          "count": 0.101335
         },
         {
           "value": "40.0 to 50.0",
-          "count": 0.029725
+          "count": 0.069693
         },
         {
           "value": "50.0 to 60.0",
-          "count": 0.013028
+          "count": 0.031509
         },
         {
           "value": "60.0 to 70.0",
-          "count": 0.010367
+          "count": 0.018158
         },
         {
           "value": "70.0 to 80.0",
-          "count": 0.004679
+          "count": 0.006943
         },
         {
           "value": "80.0 to 90.0",
-          "count": 0.001101
+          "count": 0.002937
         },
         {
           "value": "90.0 to 100.0",
-          "count": 0.012661
+          "count": 0.021629
         }
       ]
     },
@@ -1135,43 +1198,43 @@
       "value_distribution": [
         {
           "value": "-0.1 to 10.0",
-          "count": 0.03945
+          "count": 0.007877
         },
         {
           "value": "10.0 to 20.0",
-          "count": 0.016147
+          "count": 0.008812
         },
         {
           "value": "20.0 to 30.0",
-          "count": 0.021193
+          "count": 0.016956
         },
         {
           "value": "30.0 to 40.0",
-          "count": 0.034587
+          "count": 0.040187
         },
         {
           "value": "40.0 to 50.0",
-          "count": 0.058257
+          "count": 0.078104
         },
         {
           "value": "50.0 to 60.0",
-          "count": 0.058624
+          "count": 0.097463
         },
         {
           "value": "60.0 to 70.0",
-          "count": 0.056697
+          "count": 0.109079
         },
         {
           "value": "70.0 to 80.0",
-          "count": 0.026422
+          "count": 0.073431
         },
         {
           "value": "80.0 to 90.0",
-          "count": 0.013853
+          "count": 0.030174
         },
         {
           "value": "90.0 to 100.0",
-          "count": 0.03156
+          "count": 0.048732
         }
       ]
     },
@@ -1181,43 +1244,43 @@
       "value_distribution": [
         {
           "value": "-0.1 to 10.0",
-          "count": 0.020275
+          "count": 0.00227
         },
         {
           "value": "10.0 to 20.0",
-          "count": 0.004679
+          "count": 0.001869
         },
         {
           "value": "20.0 to 30.0",
-          "count": 0.007982
+          "count": 0.001068
         },
         {
           "value": "30.0 to 40.0",
-          "count": 0.013578
+          "count": 0.004272
         },
         {
           "value": "40.0 to 50.0",
-          "count": 0.018807
+          "count": 0.010414
         },
         {
           "value": "50.0 to 60.0",
-          "count": 0.016789
+          "count": 0.016422
         },
         {
           "value": "60.0 to 70.0",
-          "count": 0.037339
+          "count": 0.040988
         },
         {
           "value": "70.0 to 80.0",
-          "count": 0.06211
+          "count": 0.1
         },
         {
           "value": "80.0 to 90.0",
-          "count": 0.078257
+          "count": 0.151135
         },
         {
           "value": "90.0 to 100.0",
-          "count": 0.096972
+          "count": 0.182377
         }
       ]
     },
@@ -1227,43 +1290,43 @@
       "value_distribution": [
         {
           "value": "-0.1 to 10.0",
-          "count": 0.01055
+          "count": 0.000801
         },
         {
           "value": "10.0 to 20.0",
-          "count": 0.001743
+          "count": 0.0
         },
         {
           "value": "20.0 to 30.0",
-          "count": 0.00211
+          "count": 0.000534
         },
         {
           "value": "30.0 to 40.0",
-          "count": 0.004312
+          "count": 0.000534
         },
         {
           "value": "40.0 to 50.0",
-          "count": 0.011101
+          "count": 0.002403
         },
         {
           "value": "50.0 to 60.0",
-          "count": 0.007982
+          "count": 0.000935
         },
         {
           "value": "60.0 to 70.0",
-          "count": 0.013853
+          "count": 0.003338
         },
         {
           "value": "70.0 to 80.0",
-          "count": 0.020367
+          "count": 0.016822
         },
         {
           "value": "80.0 to 90.0",
-          "count": 0.047798
+          "count": 0.063818
         },
         {
           "value": "90.0 to 100.0",
-          "count": 0.236972
+          "count": 0.421629
         }
       ]
     },
@@ -1273,43 +1336,43 @@
       "value_distribution": [
         {
           "value": "-0.1 to 10.0",
-          "count": 0.006239
+          "count": 0.000267
         },
         {
           "value": "10.0 to 20.0",
-          "count": 0.000367
+          "count": 0.0
         },
         {
           "value": "20.0 to 30.0",
-          "count": 0.001284
+          "count": 0.000534
         },
         {
           "value": "30.0 to 40.0",
-          "count": 0.000642
+          "count": 0.0
         },
         {
           "value": "40.0 to 50.0",
-          "count": 0.005138
+          "count": 0.000401
         },
         {
           "value": "50.0 to 60.0",
-          "count": 0.001468
+          "count": 0.000267
         },
         {
           "value": "60.0 to 70.0",
-          "count": 0.006697
+          "count": 0.0
         },
         {
           "value": "70.0 to 80.0",
-          "count": 0.01156
+          "count": 0.001469
         },
         {
           "value": "80.0 to 90.0",
-          "count": 0.01422
+          "count": 0.00534
         },
         {
           "value": "90.0 to 100.0",
-          "count": 0.309174
+          "count": 0.502537
         }
       ]
     }

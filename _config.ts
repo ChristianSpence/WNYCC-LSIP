@@ -28,14 +28,6 @@ site.use(minify_html());
 
 site.loadData([".csv"], csvLoader);
 
-const data = [
-  "ks4/ks4.csv",
-];
-
-data.forEach((source) => {
-  site.remoteFile(`_data/source/${source}`, `data/csv/${source}`);
-});
-
 site.remoteFile(
   "_includes/css/reset.css",
   "https://unpkg.com/modern-css-reset/dist/reset.css",
