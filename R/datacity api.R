@@ -110,18 +110,14 @@ grouped <- lapply(seq_along(filtered), function(area) {
 out <- list()
 
 for (table in names(grouped[[1]])) {
+  out[[table]] <- grouped[[1]][[table]][-(1:nrow(grouped[[1]][[table]])), ]
   for (area in names(grouped)) {
-    out[[table]] <- grouped[[area]][[table]]
-  }
+    out[[table]] <- dplyr::bind_rows(out[[table]], grouped[[area]][[table]])
+    }
   out[[table]] <- dplyr::bind_rows(out[[table]], grouped[[area]][[table]])
-}
+  }
+
 
 lapply(seq_along(out), function(df) {
   readr::write_csv(out[[df]], paste0("data/csv/datacity/", names(out)[df], ".csv"))
 })
-
-
-
-
-
-

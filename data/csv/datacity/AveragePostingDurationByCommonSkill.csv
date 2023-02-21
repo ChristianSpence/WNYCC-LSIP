@@ -1,4 +1,824 @@
 LA,Thing,Count
+Bradford,Microsoft Software,60
+Bradford,Imagination,59.2941176470588
+Bradford,Constructive Feedback,53.1578947368421
+Bradford,Logical Reasoning,51
+Bradford,Portuguese Language,50.7647058823529
+Bradford,Open Mindset,48.2352941176471
+Bradford,Creativity,46.3478260869565
+Bradford,Cooperation,46.2173913043478
+Bradford,Spanish Language,46.1904761904762
+Bradford,Curiosity,46.0952380952381
+Bradford,Program Management,45.15
+Bradford,Resourcefulness,45.0869565217391
+Bradford,Typing,45.0625
+Bradford,Critical Thinking,43.4230769230769
+Bradford,Telephone Skills,43.2682926829268
+Bradford,Active Listening,43
+Bradford,Smartphone Operation,43
+Bradford,Complex Problem Solving,42.9411764705882
+Bradford,Team Performance Management,42.7272727272727
+Bradford,Motivational Skills,42.4074074074074
+Bradford,Decorating,41.7837837837838
+Bradford,Business Administration,41.4888888888889
+Bradford,Adaptability,41.1111111111111
+Bradford,Self-Discipline,41
+Bradford,Reliability,40.8636363636364
+Bradford,Greeting Customers,40.5
+Bradford,Video Conferencing,40.4444444444444
+Bradford,Arithmetic,40.1666666666667
+Bradford,Visionary,40
+Bradford,Public Speaking,40
+Bradford,Advocacy,39.84375
+Bradford,Sorting,39.6785714285714
+Bradford,Emotional Intelligence,39
+Bradford,Information Gathering,38.7727272727273
+Bradford,Editing,38.7619047619048
+Bradford,Discussion Facilitation,38.5882352941176
+Bradford,Social Media,38.5
+Bradford,Rapport Building,38.5
+Bradford,Plan Execution,38.2083333333333
+Bradford,Team Building,38.1818181818182
+Bradford,Organizational Skills,38
+Bradford,Loading And Unloading,37.6
+Bradford,Progress Reporting,37.5
+Bradford,Proactivity,37.4857142857143
+Bradford,Energetic,37.3225806451613
+Bradford,Troubleshooting (Problem Solving),37.2291666666667
+Bradford,Creative Thinking,37.0952380952381
+Bradford,Intellectual Curiosity,37.0833333333333
+Bradford,Quality Control,37
+Bradford,Context Switch,37
+Bradford,Lateral Thinking,36.6
+Bradford,Caring Nature,36.1111111111111
+Bradford,Mandarin Chinese,35.8235294117647
+Bradford,Writing,35.6813186813187
+Bradford,Listening Skills,35.625
+Bradford,Compassion,35.5
+Bradford,Relationship Building,35.35
+Bradford,Honesty,35.304347826087
+Bradford,Mechanical Aptitude,35.3
+Bradford,Goal-Oriented,35.2777777777778
+Bradford,Cleanliness,35.2380952380952
+Bradford,Ability To Meet Deadlines,35.1458333333333
+Bradford,Accountability,35.0666666666667
+Bradford,Mathematics,35.0398009950249
+Bradford,Microsoft Office,34.5094339622642
+Bradford,First Aid,34.4117647058824
+Bradford,Emotional Stability,34.4117647058824
+Bradford,Operations,34.35
+Bradford,Financial Acumen,34.2352941176471
+Bradford,Resilience,34.2285714285714
+Bradford,Willingness To Learn,34.1326530612245
+Bradford,Tenacity,34.0333333333333
+Bradford,Advising,34.0277777777778
+Bradford,Training And Development,33.9818181818182
+Bradford,Positivity,33.9649122807018
+Bradford,Negotiation,33.75
+Bradford,Professionalism,33.75
+Bradford,Time Management,33.5212765957447
+Bradford,Scheduling,33.5
+Bradford,Collaboration,33.2631578947368
+Bradford,Problem Solving,33.2619047619048
+Bradford,People Management,33.2222222222222
+Bradford,Valid Driver's License,33.2
+Bradford,Patience,33.1818181818182
+Bradford,Teaching,33.0714285714286
+Bradford,Filing,33.0520833333333
+Bradford,Computer Literacy,32.9880952380952
+Bradford,Collections,32.84
+Bradford,Relationship Management,32.7307692307692
+Bradford,Strong Work Ethic,32.6947368421053
+Bradford,Verbal Communication Skills,32.6470588235294
+Bradford,Diagnostic Skills,32.6470588235294
+Bradford,Consultative Approaches,32.6190476190476
+Bradford,Punctuality,32.5909090909091
+Bradford,Detail Oriented,32.5380434782609
+Bradford,Analytical Skills,32.4565217391304
+Bradford,Data Reporting,32.25
+Bradford,Technical Curiosity,32
+Bradford,Italian Language,32
+Bradford,Safety Assurance,31.9655172413793
+Calderdale,Business Acumen,43.6
+Calderdale,Lifting Ability,39.8333333333333
+Calderdale,Team Management,38.6666666666667
+Calderdale,Problem Solving,38.5
+Calderdale,Creativity,37.8181818181818
+Calderdale,Self-Motivation,37.7017543859649
+Calderdale,Cleanliness,37.5714285714286
+Calderdale,Positivity,35.1052631578947
+Calderdale,Sales,34.9213483146067
+Calderdale,Analytical Skills,34.6666666666667
+Calderdale,Forecasting,34.625
+Calderdale,Spreadsheets,34.6
+Calderdale,Professionalism,34.4193548387097
+Calderdale,Microsoft Office,33.9772727272727
+Calderdale,Budgeting,33.7142857142857
+Calderdale,Teamwork,33.4761904761905
+Calderdale,Leadership,33.3
+Calderdale,Relationship Management,33.1666666666667
+Calderdale,Management,33.1304347826087
+Calderdale,Adaptability,32.875
+Calderdale,Resilience,32.6363636363636
+Calderdale,Communications,32.461038961039
+Calderdale,First Aid,32.4444444444444
+Calderdale,Multitasking,32.1363636363636
+Calderdale,Strong Work Ethic,31.8571428571429
+Calderdale,Filing,31.7307692307692
+Calderdale,Honesty,31.6666666666667
+Calderdale,Willingness To Learn,31.6603773584906
+Calderdale,Advising,31.625
+Calderdale,Business Administration,31.5384615384615
+Calderdale,Motivational Skills,31.5
+Calderdale,Computer Literacy,31.25
+Calderdale,Microsoft Excel,31.1818181818182
+Calderdale,Ability To Meet Deadlines,30.76
+Calderdale,Negotiation,30.7142857142857
+Calderdale,People Management,30.7
+Calderdale,Customer Service,30.5288461538462
+Calderdale,Mathematics,30.5263157894737
+Calderdale,Punctuality,30.5
+Calderdale,Microsoft Word,30.4285714285714
+Calderdale,Enthusiasm,30.325
+Calderdale,Verbal Communication Skills,30.125
+Calderdale,Calmness Under Pressure,30.125
+Calderdale,Coaching,30.047619047619
+Calderdale,Investigation,30
+Calderdale,Typing,30
+Calderdale,Microsoft Outlook,29.741935483871
+Calderdale,Telephone Skills,29.7142857142857
+Calderdale,Quick Learning,28.8666666666667
+Calderdale,Planning,28.8541666666667
+Calderdale,English Language,28.8461538461538
+Calderdale,Detail Oriented,28.7692307692308
+Calderdale,Troubleshooting (Problem Solving),28.6923076923077
+Calderdale,Patience,28.6363636363636
+Calderdale,Quality Assurance,28.5714285714286
+Calderdale,Proactivity,28.2916666666667
+Calderdale,Energetic,28.1428571428571
+Calderdale,Interpersonal Communications,28.0769230769231
+Calderdale,Team Leadership,28
+Calderdale,Record Keeping,27.7857142857143
+Calderdale,Decision Making,27.7333333333333
+Calderdale,Research,27.7083333333333
+Calderdale,Microsoft PowerPoint,27.6071428571429
+Calderdale,Loading And Unloading,27.6
+Calderdale,Operations,27.5
+Calderdale,Advocacy,27.2857142857143
+Calderdale,Taking Messages,27
+Calderdale,Accountability,26.8181818181818
+Calderdale,Coordinating,26.5333333333333
+Calderdale,Prioritization,26.4705882352941
+Calderdale,Literacy,26.28125
+Calderdale,Scheduling,26.2352941176471
+Calderdale,Confident Communicator,26.1666666666667
+Calderdale,Persuasive Communication,26.1428571428571
+Calderdale,Presentations,26.0606060606061
+Calderdale,Clerical Works,26
+Calderdale,Time Management,25.9423076923077
+Calderdale,Quality Control,25.9
+Calderdale,Teaching,25.6153846153846
+Calderdale,Reliability,25.6153846153846
+Calderdale,Administrative Functions,25.3225806451613
+Calderdale,Influencing Skills,25.2592592592593
+Calderdale,Mentorship,25.25
+Calderdale,Empathy,25.2222222222222
+Calderdale,Composure,24.625
+Calderdale,Innovation,24.6153846153846
+Calderdale,Packaging And Labeling,24.6
+Calderdale,Organizational Skills,24.6
+Calderdale,Social Media,24.1363636363636
+Calderdale,Safety Assurance,24
+Calderdale,Writing,23.65625
+Calderdale,Consulting,23.5555555555556
+Calderdale,Information Technology,23.0909090909091
+Calderdale,Report Writing,23
+Calderdale,Intellectual Curiosity,22.5
+Calderdale,Training And Development,22.3913043478261
+Calderdale,Listening Skills,22.2857142857143
+Calderdale,Collections,22.0666666666667
+Calderdale,Assertiveness,22
+Calderdale,Curiosity,21.1333333333333
+Craven,Typing,45
+Craven,Microsoft Outlook,39.8888888888889
+Craven,Innovation,39.5714285714286
+Craven,Resilience,39.5
+Craven,Safety Assurance,39
+Craven,Operations,36.75
+Craven,Written English,36.6666666666667
+Craven,Strong Work Ethic,36.5833333333333
+Craven,Prioritization,36.2222222222222
+Craven,Negotiation,36
+Craven,Administrative Functions,35.5882352941176
+Craven,Teaching,35.375
+Craven,Problem Solving,35.2666666666667
+Craven,Budgeting,35
+Craven,Mentorship,35
+Craven,Verbal Communication Skills,34.8461538461538
+Craven,Mathematics,34.6666666666667
+Craven,Computer Literacy,34.4285714285714
+Craven,Influencing Skills,34.2857142857143
+Craven,Professionalism,33.8333333333333
+Craven,Microsoft Excel,33.8235294117647
+Craven,Advising,33.75
+Craven,Time Management,33.2222222222222
+Craven,Self-Motivation,32.9473684210526
+Craven,Teamwork,32.4615384615385
+Craven,Multitasking,32.4615384615385
+Craven,Planning,32.3478260869565
+Craven,Report Writing,32.2857142857143
+Craven,Quality Control,32.2222222222222
+Craven,Research,31.9090909090909
+Craven,Willingness To Learn,31.4
+Craven,Training And Development,31.3333333333333
+Craven,Communications,30.8936170212766
+Craven,Proactivity,30.8333333333333
+Craven,Team Building,30.8
+Craven,Literacy,30.5555555555556
+Craven,Leadership,30
+Craven,Microsoft PowerPoint,30
+Craven,Customer Service,29.9090909090909
+Craven,Coaching,29.9090909090909
+Craven,Filing,29.4444444444444
+Craven,Sales,29.3666666666667
+Craven,Positivity,29
+Craven,Decision Making,28.8888888888889
+Craven,Interpersonal Communications,28.5555555555556
+Craven,Forecasting,28.4
+Craven,Scheduling,28.2
+Craven,Enthusiasm,28.125
+Craven,Writing,28
+Craven,English Language,28
+Craven,First Aid,28
+Craven,Detail Oriented,27.9642857142857
+Craven,Coordinating,27.9166666666667
+Craven,Spreadsheets,27.75
+Craven,Management,27.2352941176471
+Craven,Presentations,26.8823529411765
+Craven,Honesty,26.2857142857143
+Craven,Analytical Skills,26.25
+Craven,Business Administration,25.5
+Craven,Microsoft Office,25.4736842105263
+Craven,Energetic,24.5
+Craven,Social Media,24.4
+Craven,Loading And Unloading,18.5
+Hambleton,People Management,50.7142857142857
+Hambleton,Literacy,44
+Hambleton,Coaching,41.6666666666667
+Hambleton,Administrative Functions,40.1818181818182
+Hambleton,Professionalism,39.5
+Hambleton,Quality Assurance,38.25
+Hambleton,Leadership,38.1333333333333
+Hambleton,Cleanliness,37.75
+Hambleton,Resilience,37.25
+Hambleton,Management,36.8709677419355
+Hambleton,Proactivity,36.625
+Hambleton,Enthusiasm,35.9615384615385
+Hambleton,Computer Literacy,35.7272727272727
+Hambleton,Training And Development,35.7
+Hambleton,Verbal Communication Skills,35
+Hambleton,Self-Motivation,34.9090909090909
+Hambleton,Influencing Skills,34.6666666666667
+Hambleton,Filing,34.5714285714286
+Hambleton,Detail Oriented,34.452380952381
+Hambleton,Strong Work Ethic,34.3333333333333
+Hambleton,Mathematics,33.85
+Hambleton,Customer Service,33.8
+Hambleton,Reliability,33.8
+Hambleton,Scheduling,33.7777777777778
+Hambleton,Operations,33.6842105263158
+Hambleton,Microsoft PowerPoint,33.5
+Hambleton,Teamwork,33
+Hambleton,Communications,32.4745762711864
+Hambleton,Multitasking,32.2
+Hambleton,Honesty,32.1111111111111
+Hambleton,Microsoft Excel,31.7142857142857
+Hambleton,Microsoft Office,30.7142857142857
+Hambleton,Planning,30.5652173913044
+Hambleton,Problem Solving,30.2
+Hambleton,Time Management,30.1538461538462
+Hambleton,Willingness To Learn,29.8
+Hambleton,Forecasting,29.75
+Hambleton,Coordinating,29.4545454545455
+Hambleton,Packaging And Labeling,29.4285714285714
+Hambleton,Interpersonal Communications,29.375
+Hambleton,Loading And Unloading,29.2222222222222
+Hambleton,Sales,29.1538461538462
+Hambleton,Innovation,29.0769230769231
+Hambleton,Mentorship,28.625
+Hambleton,Presentations,26.6428571428571
+Hambleton,Investigation,26.5
+Hambleton,Microsoft Outlook,25.7142857142857
+Hambleton,Team Building,25.1666666666667
+Hambleton,Budgeting,23.2
+Hambleton,Analytical Skills,21.5714285714286
+Hambleton,Positivity,18.2857142857143
+Hambleton,Writing,18.1428571428571
+Hambleton,Microsoft Word,18
+Harrogate,Retail Sales,47.7142857142857
+Harrogate,Motivational Skills,43
+Harrogate,Resourcefulness,42
+Harrogate,Written English,41.1666666666667
+Harrogate,Compassion,39.8666666666667
+Harrogate,Persuasive Communication,39.8571428571429
+Harrogate,Information Technology,39
+Harrogate,Teaching,38.6875
+Harrogate,Report Writing,38.4545454545455
+Harrogate,German Language,38.3333333333333
+Harrogate,Grammar,38.2857142857143
+Harrogate,Accountability,38.1111111111111
+Harrogate,Safety Assurance,37.8571428571429
+Harrogate,Troubleshooting (Problem Solving),37.8125
+Harrogate,Team Management,37.6666666666667
+Harrogate,Influencing Skills,37.5
+Harrogate,Social Skills,37.4285714285714
+Harrogate,Organizational Skills,37.3333333333333
+Harrogate,Detail Oriented,37.247311827957
+Harrogate,Honesty,37.1333333333333
+Harrogate,Literacy,37
+Harrogate,Customer Service,36.6631578947368
+Harrogate,Sales,36.6590909090909
+Harrogate,English Language,36.4827586206897
+Harrogate,Composure,36.3157894736842
+Harrogate,Taking Messages,36.25
+Harrogate,Strong Work Ethic,36.1304347826087
+Harrogate,Computer Literacy,36.0714285714286
+Harrogate,Team Performance Management,36
+Harrogate,Calmness Under Pressure,36
+Harrogate,Packaging And Labeling,36
+Harrogate,Microsoft Word,35.9285714285714
+Harrogate,Training And Development,35.8333333333333
+Harrogate,Information Gathering,35.75
+Harrogate,Prioritization,35.7222222222222
+Harrogate,Supervision,35.5
+Harrogate,Filing,35.3809523809524
+Harrogate,Spreadsheets,35.3
+Harrogate,Sorting,35.25
+Harrogate,Loading And Unloading,35.1538461538462
+Harrogate,Diplomacy,35
+Harrogate,Microsoft PowerPoint,34.9583333333333
+Harrogate,Self-Motivation,34.8918918918919
+Harrogate,Verbal Communication Skills,34.8461538461538
+Harrogate,Microsoft Outlook,34.76
+Harrogate,Professionalism,34.5714285714286
+Harrogate,Mathematics,34.4861111111111
+Harrogate,Innovation,34.3793103448276
+Harrogate,Advising,34.3571428571429
+Harrogate,Assertiveness,34.3333333333333
+Harrogate,Listening Skills,34.2857142857143
+Harrogate,Writing,34.2368421052632
+Harrogate,Team Leadership,34.1666666666667
+Harrogate,Administrative Functions,34.15625
+Harrogate,Enthusiasm,34.1176470588235
+Harrogate,Creativity,34.0555555555556
+Harrogate,Forecasting,34.047619047619
+Harrogate,People Management,33.9375
+Harrogate,Teamwork,33.75
+Harrogate,Social Media,33.7083333333333
+Harrogate,Resilience,33.6
+Harrogate,Empathy,33.3333333333333
+Harrogate,Presentations,33.2222222222222
+Harrogate,Management,33.1818181818182
+Harrogate,Record Keeping,33
+Harrogate,Microsoft Excel,32.94
+Harrogate,Problem Solving,32.9148936170213
+Harrogate,Scheduling,32.8823529411765
+Harrogate,Quality Control,32.8333333333333
+Harrogate,Interpersonal Communications,32.7446808510638
+Harrogate,Coordinating,32.5833333333333
+Harrogate,Lifting Ability,32.5454545454545
+Harrogate,Leadership,32.4893617021277
+Harrogate,Communications,32.3677419354839
+Harrogate,Mentorship,32.3529411764706
+Harrogate,Multitasking,32.1304347826087
+Harrogate,Cleanliness,32.0666666666667
+Harrogate,Consulting,32
+Harrogate,Decision Making,31.9411764705882
+Harrogate,Rapport Building,31.8
+Harrogate,Editing,31.7777777777778
+Harrogate,Analytical Skills,31.6
+Harrogate,Budgeting,31.5
+Harrogate,Planning,31.4426229508197
+Harrogate,Time Management,31.3333333333333
+Harrogate,Confident Communicator,31.25
+Harrogate,Goal Setting,31.1428571428571
+Harrogate,Governance,31
+Harrogate,Willingness To Learn,30.952380952381
+Harrogate,Research,30.8484848484848
+Harrogate,First Aid,30.7777777777778
+Harrogate,Positivity,30.7407407407407
+Harrogate,Relationship Management,30.5833333333333
+Harrogate,Negotiation,30.4705882352941
+Harrogate,Energetic,30.3529411764706
+Harrogate,Microsoft Office,30.2777777777778
+Harrogate,Business Administration,30.1538461538462
+Harrogate,Ability To Meet Deadlines,30.0952380952381
+Harrogate,Proactivity,30
+Harrogate,Operations,29.9302325581395
+Kirklees,German Language,48.2
+Kirklees,Spanish Language,47.4444444444444
+Kirklees,Reliability,43.6666666666667
+Kirklees,Team Performance Management,43.5
+Kirklees,Supervision,43
+Kirklees,Persuasive Communication,42.2222222222222
+Kirklees,Support Colleagues,42.2
+Kirklees,Valid Driver's License,40.625
+Kirklees,Report Writing,40.2727272727273
+Kirklees,French Language,40
+Kirklees,Analytical Skills,39.5142857142857
+Kirklees,Clerical Works,39.25
+Kirklees,Microsoft Windows,38.6666666666667
+Kirklees,English Language,38.5283018867925
+Kirklees,Critical Thinking,38.3
+Kirklees,Telephone Skills,38.1666666666667
+Kirklees,Record Keeping,38.1666666666667
+Kirklees,Patience,38.1304347826087
+Kirklees,Troubleshooting (Problem Solving),38.125
+Kirklees,Timelines,37.9
+Kirklees,Project Design,37.8888888888889
+Kirklees,Creativity,37.8
+Kirklees,Decisiveness,37.375
+Kirklees,Loading And Unloading,37.1111111111111
+Kirklees,Strategic Thinking,36.7142857142857
+Kirklees,Coordinating,36.4594594594595
+Kirklees,Cleanliness,36.3461538461538
+Kirklees,Safety Assurance,36.2083333333333
+Kirklees,Curiosity,36.1666666666667
+Kirklees,Empathy,36
+Kirklees,Packaging And Labeling,35.8285714285714
+Kirklees,Verbal Communication Skills,35.7777777777778
+Kirklees,Punctuality,35.6923076923077
+Kirklees,Writing,35.625
+Kirklees,Microsoft Outlook,35.4259259259259
+Kirklees,Microsoft Office,35.3478260869565
+Kirklees,Rapport Building,35.1578947368421
+Kirklees,Spreadsheets,35
+Kirklees,Goal Setting,35
+Kirklees,Honesty,34.7741935483871
+Kirklees,Prioritization,34.6666666666667
+Kirklees,Strong Work Ethic,34.5869565217391
+Kirklees,Intellectual Curiosity,34.5294117647059
+Kirklees,Confident Communicator,34.3333333333333
+Kirklees,Literacy,34.2461538461538
+Kirklees,Coaching,34.1555555555556
+Kirklees,Administrative Functions,34.1186440677966
+Kirklees,Word Processing,34
+Kirklees,Quality Control,33.96
+Kirklees,Microsoft Excel,33.9204545454545
+Kirklees,Self-Motivation,33.91
+Kirklees,First Aid,33.85
+Kirklees,Investigation,33.5882352941176
+Kirklees,Physical Fitness,33.5714285714286
+Kirklees,Detail Oriented,33.5379746835443
+Kirklees,Sales,33.4852941176471
+Kirklees,Microsoft PowerPoint,33.4838709677419
+Kirklees,Interpersonal Communications,33.4375
+Kirklees,Mathematics,33.4121621621622
+Kirklees,Customer Service,33.3967391304348
+Kirklees,Presentations,33.2407407407407
+Kirklees,Analytical Thinking,33.1666666666667
+Kirklees,Governance,33.1666666666667
+Kirklees,Collaboration,33.1428571428571
+Kirklees,Team Leadership,33.0909090909091
+Kirklees,Positivity,33.0185185185185
+Kirklees,Decision Making,33
+Kirklees,Microsoft Word,32.8928571428571
+Kirklees,Problem Solving,32.8817204301075
+Kirklees,Consulting,32.8666666666667
+Kirklees,Management,32.56
+Kirklees,Quality Assurance,32.1923076923077
+Kirklees,Negotiation,32.1621621621622
+Kirklees,Social Media,32.1428571428571
+Kirklees,Multitasking,32.1315789473684
+Kirklees,Grammar,32.0714285714286
+Kirklees,Resilience,32.0689655172414
+Kirklees,Advocacy,32
+Kirklees,Computer Literacy,31.9855072463768
+Kirklees,Willingness To Learn,31.9540229885058
+Kirklees,Proactivity,31.8775510204082
+Kirklees,Communications,31.777358490566
+Kirklees,Training And Development,31.7735849056604
+Kirklees,Editing,31.7
+Kirklees,Greeting Customers,31.6153846153846
+Kirklees,Business Acumen,31.4736842105263
+Kirklees,Advising,31.421052631579
+Kirklees,Retail Sales,31.2
+Kirklees,Relationship Management,31.2
+Kirklees,Business Administration,31.1578947368421
+Kirklees,Scheduling,31.1111111111111
+Kirklees,Filing,31.0793650793651
+Kirklees,Enthusiasm,30.8024691358025
+Kirklees,Team Building,30.8
+Kirklees,Motivational Skills,30.6666666666667
+Kirklees,Information Gathering,30.6
+Kirklees,Leadership,30.4285714285714
+Kirklees,Organizational Skills,30.375
+Kirklees,Planning,30.3369565217391
+Kirklees,Relationship Building,30.25
+Leeds,Visionary,48.125
+Leeds,Business Proposals,46.6
+Leeds,Memos,44.8
+Leeds,Aesthetics,43.2857142857143
+Leeds,Sorting,41.6486486486486
+Leeds,Mechanical Aptitude,41.2142857142857
+Leeds,Lateral Thinking,41.2
+Leeds,Composure,40.3823529411765
+Leeds,Wireless Communications,40.1666666666667
+Leeds,Calmness Under Pressure,39.9333333333333
+Leeds,Personal Integrity,39.5454545454545
+Leeds,Active Listening,39.4117647058824
+Leeds,Persistence,38.7142857142857
+Leeds,Clerical Works,38.2884615384615
+Leeds,Real Estate,38.1111111111111
+Leeds,Incident Reporting,38.0666666666667
+Leeds,Team Leadership,37.6583333333333
+Leeds,Emotional Intelligence,37.6296296296296
+Leeds,German Language,37.5769230769231
+Leeds,Positivity,37.2539682539682
+Leeds,Mobile Devices,37
+Leeds,Information Organization,37
+Leeds,Foreign Language,37
+Leeds,Emergency Procedures,36.9285714285714
+Leeds,Rapport Building,36.84375
+Leeds,Solutions Focused,36.8148148148148
+Leeds,Self-Awareness,36.6
+Leeds,Information Processing,36.5
+Leeds,Complex Problem Solving,36.4545454545455
+Leeds,Checklists,36.375
+Leeds,Growth Mindedness,36.1666666666667
+Leeds,Written English,36.0222222222222
+Leeds,Cultural Responsiveness,36
+Leeds,Progress Reporting,35.7948717948718
+Leeds,Desktop Computing,35.7142857142857
+Leeds,Critical Thinking,35.7073170731707
+Leeds,Project Design,35.4761904761905
+Leeds,Negotiation,35.4097222222222
+Leeds,Web Browsers,35.3333333333333
+Leeds,Confident Communicator,35.2068965517241
+Leeds,Lifting Ability,35.1702127659574
+Leeds,Record Keeping,35.1134020618557
+Leeds,Punctuality,35.0444444444444
+Leeds,Coaching,35.0229357798165
+Leeds,Personal Computers,34.875
+Leeds,Word Processing,34.7241379310345
+Leeds,Relationship Management,34.6842105263158
+Leeds,Constructive Feedback,34.6315789473684
+Leeds,Team Building,34.4776119402985
+Leeds,Taking Messages,34.4666666666667
+Leeds,Smartphone Operation,34.4285714285714
+Leeds,Business Ethics,34.4285714285714
+Leeds,Assertiveness,34.3548387096774
+Leeds,Brainstorming,34.3333333333333
+Leeds,Decorating,34.3103448275862
+Leeds,Writing,34.2885375494071
+Leeds,Microsoft Software,34.2727272727273
+Leeds,Proactivity,34.25
+Leeds,Training And Development,34.2483660130719
+Leeds,Results Focused,34.1785714285714
+Leeds,Entrepreneurship,34.1666666666667
+Leeds,Teaching,34.041958041958
+Leeds,Report Writing,34.0096153846154
+Leeds,Intellectual Curiosity,34
+Leeds,Caring Nature,33.9545454545455
+Leeds,Typing,33.9242424242424
+Leeds,Creativity,33.9125
+Leeds,Verbal Communication Skills,33.88
+Leeds,Creative Thinking,33.8484848484848
+Leeds,Decision Making,33.7769784172662
+Leeds,Problem Reporting,33.75
+Leeds,Professionalism,33.7401960784314
+Leeds,People Management,33.7142857142857
+Leeds,Multilingualism,33.7142857142857
+Leeds,Systems Thinking,33.7142857142857
+Leeds,Microsoft Windows,33.65
+Leeds,Filing,33.6477987421384
+Leeds,Valid Driver's License,33.6363636363636
+Leeds,Empathy,33.621359223301
+Leeds,Detail Oriented,33.5971943887776
+Leeds,Social Media,33.5923566878981
+Leeds,Interpersonal Communications,33.5653846153846
+Leeds,Telephone Skills,33.5116279069767
+Leeds,Swimming,33.5
+Leeds,Analytical Thinking,33.4666666666667
+Leeds,Accountability,33.4539007092199
+Leeds,Advising,33.4056603773585
+Leeds,Budgeting,33.38125
+Leeds,Leadership,33.3068965517241
+Leeds,Data Reporting,33.2916666666667
+Leeds,Spreadsheets,33.2820512820513
+Leeds,Physical Stamina,33.25
+Leeds,Prioritization,33.2228915662651
+Leeds,Operations,33.2060606060606
+Leeds,Willingness To Learn,33.1745454545454
+Leeds,Support Colleagues,33.1724137931034
+Leeds,Computer Literacy,33.1455399061033
+Leeds,Listening Skills,33.1136363636364
+Leeds,Planning,33.0567164179104
+Leeds,Business Acumen,33.0181818181818
+Richmondshire,Administrative Functions,50.5
+Richmondshire,Detail Oriented,43.2142857142857
+Richmondshire,Mathematics,42.125
+Richmondshire,Multitasking,41.6666666666667
+Richmondshire,Microsoft Excel,39.6666666666667
+Richmondshire,Filing,39.5714285714286
+Richmondshire,Time Management,38.5
+Richmondshire,Self-Motivation,37.75
+Richmondshire,Customer Service,36.7222222222222
+Richmondshire,Management,36.7
+Richmondshire,Willingness To Learn,35.1111111111111
+Richmondshire,Communications,35.08
+Richmondshire,Sales,34.5555555555556
+Richmondshire,Problem Solving,31.8571428571429
+Richmondshire,Interpersonal Communications,30
+Richmondshire,Enthusiasm,29.8461538461538
+Richmondshire,Microsoft Office,23.7142857142857
+Ryedale,Planning,37.7142857142857
+Ryedale,Cleanliness,37.25
+Ryedale,Willingness To Learn,36.625
+Ryedale,Problem Solving,36.6153846153846
+Ryedale,Teamwork,36.5
+Ryedale,Mathematics,36.3333333333333
+Ryedale,Detail Oriented,36.1176470588235
+Ryedale,Mentorship,35.3333333333333
+Ryedale,Communications,35.0967741935484
+Ryedale,Computer Literacy,35
+Ryedale,Filing,34.6666666666667
+Ryedale,Microsoft Office,34.5
+Ryedale,Operations,34.2
+Ryedale,Strong Work Ethic,34
+Ryedale,Time Management,33.8571428571429
+Ryedale,Microsoft Excel,33.75
+Ryedale,Presentations,33.1666666666667
+Ryedale,Self-Motivation,32.75
+Ryedale,Sales,32.6666666666667
+Ryedale,Management,32.2857142857143
+Ryedale,Interpersonal Communications,30.1666666666667
+Ryedale,Enthusiasm,29.6111111111111
+Ryedale,Proactivity,29.6
+Ryedale,Customer Service,27.8636363636364
+Ryedale,Administrative Functions,22.5
+Scarborough,Positivity,37.6
+Scarborough,Record Keeping,37.5
+Scarborough,Enthusiasm,37.1428571428571
+Scarborough,Strong Work Ethic,35.8571428571429
+Scarborough,Filing,35.7142857142857
+Scarborough,Computer Literacy,35.5
+Scarborough,Operations,34.7777777777778
+Scarborough,Administrative Functions,34.25
+Scarborough,Teamwork,33.5555555555556
+Scarborough,Time Management,32.8125
+Scarborough,Planning,32.7272727272727
+Scarborough,Teaching,32.6666666666667
+Scarborough,Detail Oriented,32.5555555555556
+Scarborough,Mathematics,32.3333333333333
+Scarborough,Customer Service,31.5769230769231
+Scarborough,Management,30.9
+Scarborough,Communications,29.9428571428571
+Scarborough,Willingness To Learn,28.2307692307692
+Scarborough,Sales,27.7222222222222
+Scarborough,Presentations,27.7142857142857
+Scarborough,Literacy,26.7142857142857
+Scarborough,Self-Motivation,25.5333333333333
+Scarborough,Microsoft Outlook,25.3333333333333
+Scarborough,Leadership,24.4285714285714
+Scarborough,Honesty,24.4285714285714
+Scarborough,Microsoft Excel,23.2222222222222
+Scarborough,Problem Solving,23.1428571428571
+Scarborough,Interpersonal Communications,22.5
+Selby,Professional Networking,60
+Selby,Reservations,60
+Selby,Sales,43
+Selby,Management,42.8620689655172
+Selby,Microsoft Outlook,39.4
+Selby,Problem Solving,38.0769230769231
+Selby,Enthusiasm,37.5454545454545
+Selby,Microsoft Office,37
+Selby,Teaching,36.9
+Selby,Innovation,36.8
+Selby,Cleanliness,36.6
+Selby,Communications,36.5
+Selby,Customer Service,36.4736842105263
+Selby,Self-Motivation,36.1666666666667
+Selby,Social Media,35.8333333333333
+Selby,Willingness To Learn,35.4444444444444
+Selby,Writing,35.1428571428571
+Selby,Strong Work Ethic,35.0909090909091
+Selby,Honesty,34.5
+Selby,Operations,34.2222222222222
+Selby,Leadership,34
+Selby,Administrative Functions,33.0909090909091
+Selby,Planning,32.6
+Selby,Interpersonal Communications,32.4
+Selby,Detail Oriented,31.9473684210526
+Selby,Microsoft Excel,31.4285714285714
+Selby,Mathematics,31.0769230769231
+Selby,Time Management,30.9
+Selby,Teamwork,30.7777777777778
+Selby,Filing,29.8571428571429
+Selby,Computer Literacy,27.5
+Selby,Positivity,26.4444444444444
+Selby,Multitasking,23.25
+Selby,Coaching,23
+Wakefield,Information Gathering,44.8333333333333
+Wakefield,Persuasive Communication,43.8333333333333
+Wakefield,Relationship Management,43.65
+Wakefield,Written English,42.8333333333333
+Wakefield,Supervision,42.0869565217391
+Wakefield,Calmness Under Pressure,41.7692307692308
+Wakefield,Consulting,41.25
+Wakefield,Collaboration,41.2222222222222
+Wakefield,Team Performance Management,40.625
+Wakefield,Teaching,40.051282051282
+Wakefield,Telephone Skills,39.8125
+Wakefield,Composure,39.7272727272727
+Wakefield,Solutions Focused,39.6666666666667
+Wakefield,Lifting Ability,39
+Wakefield,Swimming,38.5333333333333
+Wakefield,Verbal Communication Skills,38.4313725490196
+Wakefield,Self-Discipline,38.4285714285714
+Wakefield,Investigation,38.125
+Wakefield,Quality Control,37.7
+Wakefield,Negotiation,37.3157894736842
+Wakefield,Punctuality,37.0666666666667
+Wakefield,Motivational Skills,36.875
+Wakefield,People Management,36.7368421052632
+Wakefield,Team Building,36.7
+Wakefield,French Language,36.625
+Wakefield,Loading And Unloading,36.55
+Wakefield,Needs Assessment,36
+Wakefield,Research,35.9347826086956
+Wakefield,Social Media,35.3428571428571
+Wakefield,Problem Solving,35.296875
+Wakefield,Microsoft Office,35.2950819672131
+Wakefield,Team Management,35
+Wakefield,Intellectual Curiosity,34.875
+Wakefield,Positivity,34.5588235294118
+Wakefield,Report Writing,34.5185185185185
+Wakefield,Quality Assurance,34.4782608695652
+Wakefield,Administrative Functions,34.4225352112676
+Wakefield,Collections,34.40625
+Wakefield,Troubleshooting (Problem Solving),34.4
+Wakefield,Grammar,34.1428571428571
+Wakefield,Diplomacy,34.0909090909091
+Wakefield,Coordinating,34.0526315789474
+Wakefield,Writing,33.88
+Wakefield,Record Keeping,33.8095238095238
+Wakefield,Time Management,33.6833333333333
+Wakefield,Advising,33.6666666666667
+Wakefield,Detail Oriented,33.5882352941176
+Wakefield,Safety Assurance,33.5833333333333
+Wakefield,Operations,33.5555555555556
+Wakefield,Management,33.2
+Wakefield,Support Colleagues,33.1538461538462
+Wakefield,Presentations,33.1489361702128
+Wakefield,Customer Service,33.0808823529412
+Wakefield,Microsoft Outlook,33.0357142857143
+Wakefield,Ability To Meet Deadlines,32.952380952381
+Wakefield,Body Language,32.9333333333333
+Wakefield,Microsoft Excel,32.8358208955224
+Wakefield,Tenacity,32.7857142857143
+Wakefield,Strategic Thinking,32.6666666666667
+Wakefield,Leadership,32.6451612903226
+Wakefield,Cleanliness,32.6
+Wakefield,Decorating,32.5
+Wakefield,Proactivity,32.4516129032258
+Wakefield,Budgeting,32.4
+Wakefield,Strong Work Ethic,32.3947368421053
+Wakefield,Training And Development,32.0487804878049
+Wakefield,Spreadsheets,31.8888888888889
+Wakefield,Self-Motivation,31.8539325842697
+Wakefield,Decision Making,31.8333333333333
+Wakefield,Empathy,31.7272727272727
+Wakefield,Computer Literacy,31.7166666666667
+Wakefield,Enthusiasm,31.6933333333333
+Wakefield,Listening Skills,31.6666666666667
+Wakefield,Professionalism,31.6170212765957
+Wakefield,Quick Learning,31.6086956521739
+Wakefield,First Aid,31.6060606060606
+Wakefield,Communications,31.5368421052632
+Wakefield,Willingness To Learn,31.5074626865672
+Wakefield,Creative Thinking,31.5
+Wakefield,Confident Communicator,31.3636363636364
+Wakefield,Taking Messages,31.3333333333333
+Wakefield,Curiosity,31.3333333333333
+Wakefield,Business Acumen,31.2
+Wakefield,Packaging And Labeling,31.1875
+Wakefield,Analytical Skills,31.1666666666667
+Wakefield,Mathematics,31.0918367346939
+Wakefield,Mentorship,31.0689655172414
+Wakefield,Sales,31.0105263157895
+Wakefield,Interpersonal Communications,31
+Wakefield,Caring Nature,31
+Wakefield,Scheduling,30.9444444444444
+Wakefield,English Language,30.9354838709677
+Wakefield,Planning,30.8354430379747
+Wakefield,Typing,30.7894736842105
+Wakefield,Teamwork,30.6851851851852
+Wakefield,Microsoft PowerPoint,30.6129032258064
+Wakefield,Reliability,30.6
+Wakefield,Prioritization,30.5882352941176
+Wakefield,Coaching,30.3513513513514
+Wakefield,Microsoft Word,30
 York,Progress Reporting,52.5
 York,Sorting,48
 York,Imagination,47.3333333333333
