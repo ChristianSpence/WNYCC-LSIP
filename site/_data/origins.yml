@@ -1,0 +1,20 @@
+ks4:
+  name: Key Stage 4 GCSE
+
+a-level:
+  name: A-levels
+
+fe:
+  name: Further Education
+
+fe_dest:
+  name: 16-18 Destinations
+
+he:
+  name: Higher Education
+
+datacity:
+  name: The Data City
+
+linkedin:
+  name: LinkedIn Jobs

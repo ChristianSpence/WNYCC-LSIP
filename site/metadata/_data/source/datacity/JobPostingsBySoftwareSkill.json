@@ -1,0 +1,158 @@
+{
+  "path": "data/csv/datacity/JobPostingsBySoftwareSkill.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        ".NET Framework",
+        "Accounting Software",
+        "Active Directory",
+        "Adobe After Effects",
+        "Adobe Creative Suite",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Amazon DynamoDB",
+        "Amazon Web Services",
+        "Angular (Web Framework)",
+        "Ansible",
+        "Apache Airflow",
+        "Apache Kafka",
+        "Apache Spark",
+        "Apple IOS",
+        "Application Programming Interface (API)",
+        "Aruba (Network Management Software)",
+        "AutoCAD",
+        "AutoCAD Civil 3D",
+        "Autodesk Revit",
+        "Azure Active Directory",
+        "Azure DevOps",
+        "Building Management Systems",
+        "C (Programming Language)",
+        "C# (Programming Language)",
+        "C++ (Programming Language)",
+        "Cascading Style Sheets (CSS)",
+        "Chef (Configuration Management Tool)",
+        "Data Lakes",
+        "Datadog",
+        "Design Software",
+        "Docker (Software)",
+        "Docker Swarm",
+        "Firewall",
+        "Geographic Information Systems",
+        "Git (Version Control System)",
+        "Gitlab",
+        "Go (Programming Language)",
+        "GraphQL",
+        "HTML5",
+        "HyperText Markup Language (HTML)",
+        "IOS Applications",
+        "Information Technology Infrastructure Library",
+        "JIRA",
+        "Java (Programming Language)",
+        "JavaScript (Programming Language)",
+        "Jenkins",
+        "Jest (JavaScript Testing Framework)",
+        "Kotlin",
+        "Kubernetes",
+        "Linux",
+        "Mac OS",
+        "Management Information Systems",
+        "Microsoft 365",
+        "Microsoft Access",
+        "Microsoft Azure",
+        "Microsoft Excel",
+        "Microsoft Office",
+        "Microsoft Office 365",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Project",
+        "Microsoft SQL Servers",
+        "Microsoft SharePoint",
+        "Microsoft Teams",
+        "Microsoft Windows 10",
+        "Microsoft Word",
+        "MongoDB",
+        "NoSQL",
+        "Node.js",
+        "Operating Systems",
+        "PHP (Scripting Language)",
+        "Payroll Systems",
+        "PostgreSQL",
+        "Puppet (Configuration Management Tool)",
+        "Python (Programming Language)",
+        "R (Programming Language)",
+        "RESTful API",
+        "React Native",
+        "React Redux",
+        "React.js",
+        "Reliability Availability Maintainability And Safety Software",
+        "SAP Applications",
+        "SQL (Programming Language)",
+        "Scala (Programming Language)",
+        "ServiceNow",
+        "Software Systems",
+        "SolidWorks (CAD)",
+        "Spring Boot",
+        "Spring Framework",
+        "Tableau (Business Intelligence Software)",
+        "Terraform",
+        "TypeScript",
+        "Vue.js",
+        "WebKit",
+        "Windows PowerShell",
+        "Windows Servers",
+        "Zoom (Video Conferencing Tool)",
+        "eClinicalWorks (ECW)"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "854.88 to 2987.6",
+          "count": 0.67
+        },
+        {
+          "value": "2987.6 to 5099.2",
+          "count": 0.17
+        },
+        {
+          "value": "5099.2 to 7210.8",
+          "count": 0.01
+        },
+        {
+          "value": "7210.8 to 9322.4",
+          "count": 0.07
+        },
+        {
+          "value": "9322.4 to 11434.0",
+          "count": 0.05
+        },
+        {
+          "value": "11434.0 to 13545.6",
+          "count": 0.01
+        },
+        {
+          "value": "13545.6 to 15657.2",
+          "count": 0.0
+        },
+        {
+          "value": "15657.2 to 17768.8",
+          "count": 0.0
+        },
+        {
+          "value": "17768.8 to 19880.4",
+          "count": 0.01
+        },
+        {
+          "value": "19880.4 to 21992.0",
+          "count": 0.01
+        }
+      ]
+    }
+  ]
+}

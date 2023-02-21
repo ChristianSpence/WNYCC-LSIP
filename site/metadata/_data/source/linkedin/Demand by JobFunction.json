@@ -1,0 +1,200 @@
+{
+  "path": "data/csv/linkedin/Demand by JobFunction.csv",
+  "dimensions": [
+    {
+      "name": "Local Area",
+      "categories": [
+        "West Yorkshire",
+        "York And North Yorkshire"
+      ]
+    },
+    {
+      "name": "JobFunction Growth Rank",
+      "categories": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "name": "JobFunction Name",
+      "categories": [
+        "Accounting",
+        "Administrative",
+        "Arts and Design",
+        "Business Development",
+        "Customer Success and Support",
+        "Education",
+        "Engineering",
+        "Finance",
+        "Healthcare Services",
+        "Human Resources",
+        "Information Technology",
+        "Legal",
+        "Marketing",
+        "Media and Communication",
+        "Operations",
+        "Other",
+        "Program and Project Management",
+        "Research",
+        "Sales"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "% Proportion of Hiring for the Job Function out of all Hiring in Region (2017)",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "0.01 to 0.03",
+          "count": 0.184211
+        },
+        {
+          "value": "0.03 to 0.05",
+          "count": 0.421053
+        },
+        {
+          "value": "0.05 to 0.06",
+          "count": 0.105263
+        },
+        {
+          "value": "0.06 to 0.08",
+          "count": 0.105263
+        },
+        {
+          "value": "0.08 to 0.09",
+          "count": 0.078947
+        },
+        {
+          "value": "0.09 to 0.11",
+          "count": 0.052632
+        },
+        {
+          "value": "0.11 to 0.12",
+          "count": 0.0
+        },
+        {
+          "value": "0.12 to 0.14",
+          "count": 0.026316
+        },
+        {
+          "value": "0.14 to 0.15",
+          "count": 0.0
+        },
+        {
+          "value": "0.15 to 0.17",
+          "count": 0.026316
+        }
+      ]
+    },
+    {
+      "name": "% Proportion of Hiring for the Job Function out of all Hiring in Region (2021)",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "0.02 to 0.04",
+          "count": 0.473684
+        },
+        {
+          "value": "0.04 to 0.05",
+          "count": 0.157895
+        },
+        {
+          "value": "0.05 to 0.07",
+          "count": 0.131579
+        },
+        {
+          "value": "0.07 to 0.08",
+          "count": 0.131579
+        },
+        {
+          "value": "0.08 to 0.1",
+          "count": 0.052632
+        },
+        {
+          "value": "0.1 to 0.12",
+          "count": 0.0
+        },
+        {
+          "value": "0.12 to 0.13",
+          "count": 0.0
+        },
+        {
+          "value": "0.13 to 0.15",
+          "count": 0.0
+        },
+        {
+          "value": "0.15 to 0.16",
+          "count": 0.026316
+        },
+        {
+          "value": "0.16 to 0.18",
+          "count": 0.026316
+        }
+      ]
+    },
+    {
+      "name": "\u0394Percentage points difference in % Share of Hires by Job Function (2021 minus 2017)",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.02 to -0.02",
+          "count": 0.052632
+        },
+        {
+          "value": "-0.02 to -0.01",
+          "count": 0.026316
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.026316
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.026316
+        },
+        {
+          "value": "-0.01 to -0.0",
+          "count": 0.157895
+        },
+        {
+          "value": "-0.0 to 0.0",
+          "count": 0.263158
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.078947
+        },
+        {
+          "value": "0.0 to 0.01",
+          "count": 0.236842
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.078947
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.052632
+        }
+      ]
+    }
+  ]
+}

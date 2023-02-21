@@ -1,0 +1,842 @@
+{
+  "path": "data/csv/linkedin/Heatmap by JobFunction.csv",
+  "dimensions": [
+    {
+      "name": "Geography",
+      "categories": [
+        "West Yorkshire",
+        "York And North Yorkshire"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Operations",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.5
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Customer Success and Support",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.5
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.5
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Healthcare Services",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.0 to 0.0",
+          "count": 0.5
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Engineering",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.5
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Legal",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.5
+        },
+        {
+          "value": "0.0 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Marketing",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "0.0 to 0.01",
+          "count": 0.5
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Research",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.0 to 0.0",
+          "count": 0.5
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Finance",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.5
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.01",
+          "count": 0.0
+        },
+        {
+          "value": "0.01 to 0.01",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Information Technology",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.5
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Program and Project Management",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.5
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.5
+        },
+        {
+          "value": "-0.01 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Accounting",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.5
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Administrative",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.0 to 0.0",
+          "count": 0.5
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.0
+        },
+        {
+          "value": "0.0 to 0.0",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Media and Communication",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.5
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Sales",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.02 to -0.01",
+          "count": 0.5
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Arts and Design",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.5
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.01",
+          "count": 0.0
+        },
+        {
+          "value": "-0.01 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.0
+        },
+        {
+          "value": "-0.0 to -0.0",
+          "count": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Business Development",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "-0.02 to -0.02",
+          "count": 0.5
+        },
+        {
+          "value": "-0.02 to -0.02",
+          "count": 0.0
+        },
+        {
+          "value": "-0.02 to -0.02",
+          "count": 0.0
+        },
+        {
+          "value": "-0.02 to -0.02",
+          "count": 0.0
+        },
+        {
+          "value": "-0.02 to -0.02",
+          "count": 0.0
+        },
+        {
+          "value": "-0.02 to -0.02",
+          "count": 0.0
+        },
+        {
+          "value": "-0.02 to -0.02",
+          "count": 0.0
+        },
+        {
+          "value": "-0.02 to -0.02",
+          "count": 0.0
+        },
+        {
+          "value": "-0.02 to -0.02",
+          "count": 0.0
+        },
+        {
+          "value": "-0.02 to -0.02",
+          "count": 0.5
+        }
+      ]
+    }
+  ]
+}

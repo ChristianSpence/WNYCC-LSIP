@@ -1,0 +1,158 @@
+{
+  "path": "data/csv/datacity/AveragePostingDurationByCommonSkill.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "Active Listening",
+        "Aesthetics",
+        "Analytical Thinking",
+        "Arithmetic",
+        "Brainstorming",
+        "Business Ethics",
+        "Business Proposals",
+        "Calmness Under Pressure",
+        "Caring Nature",
+        "Clerical Works",
+        "Client Confidentiality",
+        "Complex Problem Solving",
+        "Composure",
+        "Concision",
+        "Constructive Feedback",
+        "Context Switch",
+        "Cooperation",
+        "Creativity",
+        "Critical Thinking",
+        "Cultural Responsiveness",
+        "Decorating",
+        "Desktop Computing",
+        "Diagnostic Skills",
+        "Discussion Facilitation",
+        "Driven Personality",
+        "Emergency Procedures",
+        "Emotional Intelligence",
+        "Entrepreneurship",
+        "Extroverted",
+        "Foreign Language",
+        "German Language",
+        "Good Driving Record",
+        "Google Sheets",
+        "Greeting Customers",
+        "Growth Mindedness",
+        "Imagination",
+        "Incident Reporting",
+        "Information Gathering",
+        "Information Organization",
+        "Information Processing",
+        "Intellectual Curiosity",
+        "Lateral Thinking",
+        "Loading And Unloading",
+        "Logical Reasoning",
+        "Mandarin Chinese",
+        "Mechanical Aptitude",
+        "Memos",
+        "Microsoft Software",
+        "Microsoft Windows",
+        "Motivational Skills",
+        "Negotiation",
+        "Open Mindset",
+        "Parent Communication",
+        "People Management",
+        "Persistence",
+        "Personal Integrity",
+        "Plan Execution",
+        "Portuguese Language",
+        "Positivity",
+        "Proactivity",
+        "Professional Networking",
+        "Professionalism",
+        "Progress Reporting",
+        "Project Design",
+        "Punctuality",
+        "Quality Control",
+        "Rapport Building",
+        "Real Estate",
+        "Relationship Management",
+        "Reservations",
+        "Resourcefulness",
+        "Results Focused",
+        "Self-Awareness",
+        "Self-Sufficiency",
+        "Sign Languages",
+        "Smartphone Operation",
+        "Social Media",
+        "Social Skills",
+        "Solutions Focused",
+        "Sorting",
+        "Spanish Language",
+        "Spatial Abilities",
+        "Supervision",
+        "Swedish Language",
+        "Swimming",
+        "Tape Measure",
+        "Teaching",
+        "Team Building",
+        "Team Leadership",
+        "Team Performance Management",
+        "Technical Acumen",
+        "Telephone Skills",
+        "Troubleshooting (Problem Solving)",
+        "Typing",
+        "Valid Driver's License",
+        "Verbal Communication Skills",
+        "Visionary",
+        "Voicemail",
+        "Web Browsers",
+        "Writing"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "33.26 to 35.07",
+          "count": 0.48
+        },
+        {
+          "value": "35.07 to 36.86",
+          "count": 0.23
+        },
+        {
+          "value": "36.86 to 38.65",
+          "count": 0.15
+        },
+        {
+          "value": "38.65 to 40.44",
+          "count": 0.07
+        },
+        {
+          "value": "40.44 to 42.22",
+          "count": 0.01
+        },
+        {
+          "value": "42.22 to 44.01",
+          "count": 0.02
+        },
+        {
+          "value": "44.01 to 45.8",
+          "count": 0.01
+        },
+        {
+          "value": "45.8 to 47.59",
+          "count": 0.01
+        },
+        {
+          "value": "47.59 to 49.38",
+          "count": 0.0
+        },
+        {
+          "value": "49.38 to 51.17",
+          "count": 0.02
+        }
+      ]
+    }
+  ]
+}

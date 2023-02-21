@@ -1,0 +1,92 @@
+{
+  "path": "data/csv/datacity/LEPCounts.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "Black Country",
+        "Cheshire and Warrington",
+        "Coast to Capital",
+        "Cumbria",
+        "Derby, Derbyshire, Nottingham and Nottinghamshire",
+        "Dorset",
+        "Enterprise M3",
+        "Gloucestershire",
+        "Greater Birmingham and Solihull",
+        "Greater Cambridge and Greater Peterborough",
+        "Greater Lincolnshire",
+        "Greater Manchester",
+        "Heart of the South West",
+        "Hertfordshire",
+        "Hull and East Riding",
+        "Lancashire",
+        "Leeds City Region",
+        "Leicester and Leicestershire",
+        "Liverpool City Region",
+        "London",
+        "New Anglia",
+        "North East",
+        "Oxfordshire",
+        "Sheffield City Region",
+        "Solent",
+        "South East",
+        "South East Midlands",
+        "Stoke-on-Trent and Staffordshire",
+        "Swindon and Wiltshire",
+        "Tees Valley",
+        "Thames Valley Berkshire",
+        "West of England",
+        "Worcestershire",
+        "York and North Yorkshire"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "-151.06 to 15207.1",
+          "count": 0.942857
+        },
+        {
+          "value": "15207.1 to 30413.2",
+          "count": 0.0
+        },
+        {
+          "value": "30413.2 to 45619.3",
+          "count": 0.0
+        },
+        {
+          "value": "45619.3 to 60825.4",
+          "count": 0.028571
+        },
+        {
+          "value": "60825.4 to 76031.5",
+          "count": 0.0
+        },
+        {
+          "value": "76031.5 to 91237.6",
+          "count": 0.0
+        },
+        {
+          "value": "91237.6 to 106443.7",
+          "count": 0.0
+        },
+        {
+          "value": "106443.7 to 121649.8",
+          "count": 0.0
+        },
+        {
+          "value": "121649.8 to 136855.9",
+          "count": 0.0
+        },
+        {
+          "value": "136855.9 to 152062.0",
+          "count": 0.028571
+        }
+      ]
+    }
+  ]
+}

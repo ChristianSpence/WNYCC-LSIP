@@ -1,0 +1,150 @@
+{
+  "path": "data/csv/linkedin/Top 20 InDemand Jobs.csv",
+  "dimensions": [
+    {
+      "name": "Local Area",
+      "categories": [
+        "West Yorkshire",
+        "York And North Yorkshire"
+      ]
+    },
+    {
+      "name": "Job Growth Rank",
+      "categories": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "name": "Job Name",
+      "categories": [
+        "Architect",
+        "Bar Staff",
+        "Brand Associate",
+        "Business Development Representative",
+        "Content Coordinator",
+        "Copywriter",
+        "Data Analyst",
+        "Data Engineer",
+        "Data Scientist",
+        "DevOps Consultant",
+        "Digital Marketing Consultant",
+        "Finance Specialist",
+        "Financial Consultant",
+        "Food Service Worker",
+        "Food and Beverage Server",
+        "Full Stack Engineer",
+        "Head Of Marketing",
+        "Human Resources Administrator",
+        "Legal Assistant",
+        "Maintenance Engineer",
+        "Marketing Assistant",
+        "Marketing Specialist",
+        "Material Handler",
+        "Physical Therapist",
+        "Process Engineer",
+        "Recruiter",
+        "Retail Specialist",
+        "Search Engine Optimization Executive",
+        "Server Assistant",
+        "Social Media Coordinator",
+        "Social Media Manager",
+        "Software Account Executive",
+        "Sports Coach",
+        "Supply Chain Associate",
+        "Talent Acquisition Manager",
+        "User Experience Researcher",
+        "Warehouse Team Lead"
+      ]
+    },
+    {
+      "name": "JobFunction Name",
+      "categories": [
+        "Arts and Design",
+        "Business Development",
+        "Education",
+        "Engineering",
+        "Finance",
+        "Healthcare Services",
+        "Human Resources",
+        "Information Technology",
+        "Legal",
+        "Marketing",
+        "Media and Communication",
+        "Operations",
+        "Sales"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Emergence Metric (Compound annual growth rate in % share of hiring-2017 to 2021)",
+      "data_type": "floating",
+      "value_distribution": [
+        {
+          "value": "0.09 to 0.11",
+          "count": 0.225
+        },
+        {
+          "value": "0.11 to 0.12",
+          "count": 0.125
+        },
+        {
+          "value": "0.12 to 0.14",
+          "count": 0.175
+        },
+        {
+          "value": "0.14 to 0.16",
+          "count": 0.225
+        },
+        {
+          "value": "0.16 to 0.18",
+          "count": 0.05
+        },
+        {
+          "value": "0.18 to 0.19",
+          "count": 0.05
+        },
+        {
+          "value": "0.19 to 0.21",
+          "count": 0.05
+        },
+        {
+          "value": "0.21 to 0.23",
+          "count": 0.05
+        },
+        {
+          "value": "0.23 to 0.24",
+          "count": 0.025
+        },
+        {
+          "value": "0.24 to 0.26",
+          "count": 0.025
+        }
+      ]
+    },
+    {
+      "name": "<--This job list contains TOP 20 jobs for each Chamber Region, with highest growth in demand from 2017 to 2021. The TOP 20 list has been derived from the full list of ALL growing jobs listed in Sheet 2",
+      "data_type": "floating",
+      "value_distribution": []
+    }
+  ]
+}

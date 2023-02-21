@@ -1,0 +1,158 @@
+{
+  "path": "data/csv/datacity/JobPostingsByCertificationsSkill.csv",
+  "dimensions": [
+    {
+      "name": "Thing",
+      "categories": [
+        "APICS Certified Supply Chain Professional",
+        "AWS Certified Security Specialty",
+        "Associate Project Management",
+        "Association Of Chartered Certified Accountants",
+        "Association Of Proposal Management Professionals (APMP) Certification",
+        "Bachelor Of Science in Business",
+        "Bachelor Of Science in Business Administration",
+        "Bachelor Of Science in Nursing (BSN)",
+        "Basic Life Support (BLS) Certification",
+        "CIPD Level 3",
+        "CIPD Level 5",
+        "CIPD Level 7",
+        "CSCS Card",
+        "Certificate In Advanced English (CAE)",
+        "Certificate In English Language Teaching To Adults (CELTA)",
+        "Certified Association Executive",
+        "Certified Business Manager",
+        "Certified Control Systems Technician",
+        "Certified Ethical Hacker",
+        "Certified In Production And Inventory Management",
+        "Certified Industrial Hygienist (CIH)",
+        "Certified Information Privacy Professional",
+        "Certified Information Security Manager",
+        "Certified Information System Auditor (CISA)",
+        "Certified Information Systems Security Professional",
+        "Certified Internal Auditor",
+        "Certified International Property Specialist",
+        "Certified Internet Webmaster",
+        "Certified Nurse Practitioner",
+        "Certified Ostomy Care Nurse",
+        "Certified Pediatric Nurse Practitioner",
+        "Certified Power Quality Professional",
+        "Certified Professional Coder",
+        "Certified Professional In Learning And Performance",
+        "Certified Public Accountant",
+        "Certified Scrum Master",
+        "Certified Scrum Product Owner",
+        "Chartered Accountant",
+        "Chartered Engineer",
+        "Chartered Financial Analyst",
+        "Chartered Financial Planner",
+        "Chartered Institute For The Management Of Sport And Physical Activity (CIMSPA)",
+        "Chartered Institute Of Management Accountants (CIMA)",
+        "Chartered Institute Of Marketing (CIM)",
+        "Chartered Institute Of Personnel And Development (CIPD) Certified",
+        "Cisco Certified Design Professional",
+        "Cisco Certified Network Associate",
+        "Cisco Certified Network Professional",
+        "Clinical Nurse Specialists (CNS)",
+        "Communication Certificates",
+        "CompTIA A+",
+        "CompTIA Certification",
+        "CompTIA Linux+",
+        "CompTIA Network+",
+        "Core Domestic Gas Safety (CCN1)",
+        "DO-178B/C (Software Considerations in Airborne Systems and Equipment Certification)",
+        "Diploma In Nursing",
+        "Doctor Of Dental Surgery (DDS)",
+        "Forklift Certification",
+        "Functional Skills Qualification",
+        "GIAC Certifications",
+        "Gas Meter Safety (MET1)",
+        "General Certificate Of Secondary Education",
+        "HVAC Certification",
+        "IOSH Managing Safely",
+        "ITIL Certifications",
+        "ITIL Foundation Certification",
+        "Information Advice And Guidance (IAG) Qualification",
+        "Institute Of Internal Auditors (IIA)",
+        "Licensed Practical Nurse",
+        "Licensed Professional Counselor (LPC)",
+        "Linux/GNU Certified Administrator",
+        "Master Of Business Administration (MBA)",
+        "Microsoft Certified Partner",
+        "Microsoft Certified Professional",
+        "Microsoft Certified Systems Administrator (MCSA)",
+        "Microsoft Certified Systems Engineer",
+        "NEBOSH Certificate",
+        "NEBOSH Diploma",
+        "NIST Cybersecurity Framework (CSF)",
+        "National Council Licensure Examination",
+        "National Examination Board In Occupational Safety And Health (NEBOSH) Certified",
+        "Nurse Practitioner",
+        "Offensive Security Certified Professional",
+        "PRINCE2  (PRojects IN Controlled Environments 2)",
+        "Pediatric Advanced Life Support",
+        "Post Graduate Certificate In Education (PGCE)",
+        "Project Management Professional Certification",
+        "Psychiatric-Mental Health Nurse Practitioner",
+        "Registered Diagnostic Cardiac Sonographer",
+        "Registered Dietitian (RD/RDN)",
+        "Residential Electronics Systems Integrator",
+        "Salesforce Certification",
+        "Salesforce Certified Sales Cloud Consultant",
+        "Security Clearance",
+        "Six Sigma Green Belt Certification",
+        "Smart Meter Installer Core (CMA1)",
+        "Software Development Engineer in Test",
+        "VMware Certified Professional (VCP)",
+        "Wine & Spirit Education Trust (WSET) Certification"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "Count",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "24.2 to 1417.6",
+          "count": 0.91
+        },
+        {
+          "value": "1417.6 to 2797.2",
+          "count": 0.04
+        },
+        {
+          "value": "2797.2 to 4176.8",
+          "count": 0.01
+        },
+        {
+          "value": "4176.8 to 5556.4",
+          "count": 0.02
+        },
+        {
+          "value": "5556.4 to 6936.0",
+          "count": 0.0
+        },
+        {
+          "value": "6936.0 to 8315.6",
+          "count": 0.0
+        },
+        {
+          "value": "8315.6 to 9695.2",
+          "count": 0.01
+        },
+        {
+          "value": "9695.2 to 11074.8",
+          "count": 0.0
+        },
+        {
+          "value": "11074.8 to 12454.4",
+          "count": 0.0
+        },
+        {
+          "value": "12454.4 to 13834.0",
+          "count": 0.01
+        }
+      ]
+    }
+  ]
+}
