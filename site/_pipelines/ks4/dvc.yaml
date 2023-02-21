@@ -4,7 +4,9 @@ stages:
     wdir: ../../..
     deps:
       - site/_pipelines/ks4/prepare.py
-      - data/csv/ks4/ks4.csv
+      - data/csv/ks4/Key stage 4 performance.csv
     outs:
-      - site/wycc/supply/ks4/_data/:
+      - site/wycc/supply/ks4/_data/stats.csv:
+          cache: false
+      - site/wycc/supply/ks4/_data/summary.json:
           cache: false

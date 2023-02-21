@@ -11,7 +11,7 @@ LA_CODES = {
 
 
 def read_data(region=None):
-    data = pd.read_csv('data/csv/ks4/ks4.csv')
+    data = pd.read_csv('data/csv/ks4/Key stage 4 performance.csv')
     if region:
         data = data[data.geography_code.isin(LA_CODES[region])]
     return data
@@ -20,13 +20,13 @@ def read_data(region=None):
 if __name__ == '__main__':
     region = sys.argv[1]
     OUTDIR = os.path.join('site', region, 'supply', 'ks4', '_data')
-    os.makedirs(OUTDIR)
+    os.makedirs(OUTDIR, exist_ok=True)
 
     data = read_data(region)
+    data = data[data.date == "2021/22"]
 
     # Select key stats
     stats = data[[
-        'date',
         'geography_code',
         'Average Attainment 8 score of all pupils',
         'Total number of schools',
@@ -42,8 +42,7 @@ if __name__ == '__main__':
         'Percentage of pupils achieving grades 4 or above in English and Mathematics GCSEs',
         'Percentage of pupils achieving grades 5 or above in English and Mathematics GCSEs',
     ]]
-    stats.date = stats.date.str.replace('/', '-')
-    stats.set_index(['date', 'geography_code'], inplace=True)
+    stats.set_index(['geography_code'], inplace=True)
 
     # Rename columns
     stats = stats.rename(columns={
@@ -76,6 +75,6 @@ if __name__ == '__main__':
         'total_number_of_pupils_at_the_end_of_key_stage_4',
         'total_number_of_pupils_entering_english_and_mathematics_gcses',
         'total_number_of_pupils_entering_the_english_baccalaureate',
-    ]].groupby('date').sum()
+    ]].sum()
 
     summary.to_json(os.path.join(OUTDIR, 'summary.json'), orient='index')

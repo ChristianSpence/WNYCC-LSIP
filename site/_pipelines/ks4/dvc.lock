@@ -3,14 +3,16 @@ stages:
   prep-wy:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/ks4/prepare.py wycc
     deps:
-    - path: data/csv/ks4/ks4.csv
-      md5: 277a5fbd076af820560d769aad7301dd
-      size: 3151
+    - path: data/csv/ks4/Key stage 4 performance.csv
+      md5: 27fbc5a31ef986824aa950275ee5bb1e
+      size: 3292
     - path: site/_pipelines/ks4/prepare.py
-      md5: ba40907288078a843a9c7135a07527c4
-      size: 4273
+      md5: a56052a519dd3289eacc8bb3b1d6c7d3
+      size: 4258
     outs:
-    - path: site/wycc/supply/ks4/_data/
-      md5: 5752f2621d54b55e696f244c27d11bb5.dir
-      size: 1568
-      nfiles: 2
+    - path: site/wycc/supply/ks4/_data/stats.csv
+      md5: c98a2aaece2123679bf119a7f4696f82
+      size: 1288
+    - path: site/wycc/supply/ks4/_data/summary.json
+      md5: 6dd67cb90c862aae451fbbd485f8076a
+      size: 223
