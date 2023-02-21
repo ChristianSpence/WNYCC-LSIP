@@ -14,8 +14,8 @@ title: Metadata Catalogue
   Metadata is available for the following datasets.
 </p>
 
-{% for origin in search.values("origin", "metadata") | sort %}
-  <h2>{{ origin }}</h2>
+{% for origin, details in origins %}
+  <h2>{{ details.name or origin }}</h2>
   <ul>
   {% for metadata_page in search.pages("metadata origin=" + origin, "title") %}
     <li><a href="{{ metadata_page.url }}">{{ metadata_page.title }}</a></li>
