@@ -6,5 +6,5 @@ stages:
       - site/_pipelines/ks4/prepare.py
       - data/csv/ks4/ks4.csv
     outs:
-      - site/wycc/supply/_data/ks4:
+      - site/wycc/supply/ks4/_data/:
           cache: false

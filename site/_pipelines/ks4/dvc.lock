@@ -7,10 +7,10 @@ stages:
       md5: 277a5fbd076af820560d769aad7301dd
       size: 3151
     - path: site/_pipelines/ks4/prepare.py
-      md5: 64ad2cb89e68dfd49d47cd92d3d22312
+      md5: ba40907288078a843a9c7135a07527c4
       size: 4273
     outs:
-    - path: site/wycc/supply/_data/ks4
+    - path: site/wycc/supply/ks4/_data/
       md5: 5752f2621d54b55e696f244c27d11bb5.dir
       size: 1568
       nfiles: 2

@@ -19,7 +19,7 @@ def read_data(region=None):
 
 if __name__ == '__main__':
     region = sys.argv[1]
-    OUTDIR = os.path.join('site', region, 'supply', '_data', 'ks4')
+    OUTDIR = os.path.join('site', region, 'supply', 'ks4', '_data')
     os.makedirs(OUTDIR)
 
     data = read_data(region)
