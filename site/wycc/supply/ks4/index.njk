@@ -1,7 +1,133 @@
-<pre>
-  {{- summary | dump(2) -}}
-</pre>
+---
+series:
+  - value: E08000032
+    colour: red
+  - value: E08000033
+    colour: orange
+  - value: E08000034
+    colour: yellow
+  - value: E08000035
+    colour: green
+  - value: E08000036
+    colour: blue
 
-<pre>
-  {{- stats | dump(2) -}}
-</pre>
+metric_name_mapper:
+  total_number_of_pupils_achieving_the_english_baccalaureate_grades_5_or_above: Pupils achieving\ngrade 5+\nin English\nBaccalaureate
+  total_number_of_pupils_achieving_the_english_baccalaureate_grades_4_or_above: Pupils achieving\ngrade 4+\nin English\nBaccalaureate
+  total_number_of_pupils_achieving_grades_5_or_above_in_english_and_mathematics_gcse: Pupils achieving\ngrade 5+\nin English and\nMaths GCSE
+  total_number_of_pupils_achieving_grades_4_or_above_in_english_and_mathematics_gcse: Pupils achieving\ngrade 4+\nin English and\nMaths GCSE
+  percentage_of_pupils_achieving_the_english_baccalaureate_grades_5_or_above: Percentage achieving\ngrade 5+\nin English\nBaccalaureate
+  percentage_of_pupils_achieving_the_english_baccalaureate_grades_4_or_above: Percentage achieving\ngrade 4+\nin English\nBaccalaureate
+  percentage_of_pupils_achieving_grades_5_or_above_in_english_and_mathematics_gcse: Percentage achieving\ngrade 5+\nin English and\nMaths GCSE
+  percentage_of_pupils_achieving_grades_4_or_above_in_english_and_mathematics_gcse: Percentage achieving\ngrade 4+\nin English and\nMaths GCSE
+---
+
+{% comp 'dashboard.grid', { max_width: '10rem' } %}
+  {{ comp.dashboard.headline({
+      title: 'Schools delivering KS4',
+      headline: summary.total_number_of_schools
+    }) | safe }}
+  {{ comp.dashboard.headline({
+      title: 'Students at end of KS4',
+      headline: summary.total_number_of_pupils_at_the_end_of_key_stage_4 
+    }) | safe }}
+  {{ comp.dashboard.headline({
+      title: 'Students entering English and Maths GCSE',
+      headline: summary.total_number_of_pupils_entering_english_and_mathematics_gcses 
+    }) | safe }}
+  {{ comp.dashboard.headline({
+      title: 'Students entering the English Baccalaureate',
+      headline: summary.total_number_of_pupils_entering_the_english_baccalaureate 
+    }) | safe }}
+{% endcomp %}
+
+{% comp 'dashboard.flex' %}
+  {% comp 'dashboard.pane', { classes: 'greedy' } %}
+    {{ comp.oi.chart.bar({
+      config: {
+        data: stats.rows | value_mapper({
+          key: 'geography_code',
+          mapper: mapper.geo_code_to_name
+        }),
+        category: "geography_code",
+        series: [
+          {
+            title: "Attainment 8 score by Local Authority",
+            value: "average_attainment_8_score_of_all_pupils"
+          }
+        ],
+        axis: {
+          x: {
+            tickSize: 10
+          }
+        }
+      }
+    }) | safe }}
+  {% endcomp %}
+
+  {% comp 'dashboard.pane' %}
+    <table class="centred-block">
+      <thead>
+        <tr>
+          <th>Local Authority<br/>District</th>
+          <th>Total pupils<br/>at end of KS4</th>
+          <th>Pupil to school<br/>ratio</th>
+          <th>Average Baccalaureate<br/>score</th>
+          <th>Average Attainment<br/>8 score</th>
+        </tr>
+      </thead>
+      <tbody>
+      {%- for row in stats.rows | value_mapper({
+          key: 'geography_code',
+          mapper: mapper.geo_code_to_name
+        }) %}
+      <tr>
+        <td>{{ row.geography_code }}</td>
+        <td class="centred">{{ row.total_number_of_schools }}</td>
+        <td class="centred">{{ row.pupil_to_school_ratio }}</td>
+        <td class="centred">{{ row.average_ebacc_aps_score_per_pupil }}</td>
+        <td class="centred">{{ row.average_attainment_8_score_of_all_pupils }}</td>
+      </tr>
+      {% endfor -%}
+      </tbody>
+    </table>
+  {% endcomp %}
+{% endcomp %}
+
+{% comp 'dashboard.grid' %}
+  {% comp 'dashboard.pane' %}
+    {{ comp.oi.chart.bar({
+      config: {
+        data: totals_by_geography.rows | value_mapper({
+          key: "measure",
+          mapper: metric_name_mapper
+        }),
+        stacked: true,
+        category: "measure",
+        series: series,
+        axis: {
+          x: {
+            tickSize: 5000
+          }
+        }
+      }
+    }) | safe }}
+  {% endcomp %}
+
+  {% comp 'dashboard.pane' %}
+    {{ comp.oi.chart.bar({ config: {
+        category: "measure",
+        data: percentage_by_geography.rows | value_mapper({
+          key: "measure",
+          mapper: metric_name_mapper
+        }),
+        series: series,
+        axis: {
+          x: {
+            tickSize: 10
+          }
+        }
+      }
+    }) | safe }}
+  {% endcomp %}
+{% endcomp %}

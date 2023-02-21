@@ -1,0 +1,13 @@
+---
+css: |
+  .headline {
+    text-align: center;
+    & .value {
+      font-size: 2em;
+    }
+  }
+---
+{% comp 'dashboard.pane', { classes: 'headline' } %}
+  <div>{{ title }}</div>
+  <div class="value">{{ headline }}</div>
+{% endcomp %}

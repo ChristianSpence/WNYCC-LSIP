@@ -33,4 +33,9 @@ site.remoteFile(
   "https://unpkg.com/modern-css-reset/dist/reset.css",
 );
 
+site.filter('value_mapper', (data, config) => {
+  const { key, mapper } = config;
+  return data.map(v => ({ ...v, [key]: mapper[v[key]] || v[key] }));
+})
+
 export default site;

@@ -7,12 +7,18 @@ stages:
       md5: 27fbc5a31ef986824aa950275ee5bb1e
       size: 3292
     - path: site/_pipelines/ks4/prepare.py
-      md5: a56052a519dd3289eacc8bb3b1d6c7d3
-      size: 4258
+      md5: bda94df523a8a7801acac02e2e6a85bf
+      size: 5383
     outs:
+    - path: site/wycc/supply/ks4/_data/percentage_by_geography.csv
+      md5: d9454a0052a792648377c3b4af903120
+      size: 470
     - path: site/wycc/supply/ks4/_data/stats.csv
-      md5: c98a2aaece2123679bf119a7f4696f82
-      size: 1288
+      md5: 79b1a95ba8579297572c24d0f90b6588
+      size: 1347
     - path: site/wycc/supply/ks4/_data/summary.json
       md5: 6dd67cb90c862aae451fbbd485f8076a
       size: 223
+    - path: site/wycc/supply/ks4/_data/totals_by_geography.csv
+      md5: debdd50a30e73a8e7e10ae9125ab4148
+      size: 473

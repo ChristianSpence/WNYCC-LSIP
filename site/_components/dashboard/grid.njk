@@ -1,0 +1,21 @@
+---
+css: |
+  .auto-grid {
+    --max-width: 32rem;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(var(--max-width), 1fr));
+    height: 100%;
+    & > * {
+      margin-top: 0;
+    }
+  }
+---
+{% set style_overrides -%}
+{% if max_width %}--max-width:{{ max_width }};{% endif -%}
+{% endset -%}
+
+
+<div class='auto-grid' style="{{ style_overrides }}">
+  {{ content | safe }}
+</div>

@@ -8,5 +8,9 @@ stages:
     outs:
       - site/wycc/supply/ks4/_data/stats.csv:
           cache: false
+      - site/wycc/supply/ks4/_data/totals_by_geography.csv:
+          cache: false
+      - site/wycc/supply/ks4/_data/percentage_by_geography.csv:
+          cache: false
       - site/wycc/supply/ks4/_data/summary.json:
           cache: false

@@ -33,6 +33,7 @@ if __name__ == '__main__':
         'Total number of pupils at the end of key stage 4',
         'Total number of pupils entering English and Mathematics GCSEs',
         'Total number of pupils entering the English Baccalaureate',
+        'Average EBacc APS score per pupil',
         'Total number of pupils achieving the English Baccalaureate (grades 4 or above in English and maths, A*-C in unreformed subjects)',
         'Total number of pupils achieving the English Baccalaureate (grades 5 or above in English and maths, A*-C in unreformed subjects)',
         'Total number of pupils achieving grades 4 or above in English and Mathematics GCSEs',
@@ -78,3 +79,23 @@ if __name__ == '__main__':
     ]].sum()
 
     summary.to_json(os.path.join(OUTDIR, 'summary.json'), orient='index')
+
+    totals_by_area = stats[[
+      "total_number_of_pupils_achieving_the_english_baccalaureate_grades_5_or_above",
+      "total_number_of_pupils_achieving_the_english_baccalaureate_grades_4_or_above",
+      "total_number_of_pupils_achieving_grades_5_or_above_in_english_and_mathematics_gcse",
+      "total_number_of_pupils_achieving_grades_4_or_above_in_english_and_mathematics_gcse",
+    ]].transpose()
+    totals_by_area.index.names=["measure"]
+    
+    totals_by_area.to_csv(os.path.join(OUTDIR, 'totals_by_geography.csv'))
+
+    percentage_by_area = stats[[
+      "percentage_of_pupils_achieving_the_english_baccalaureate_grades_5_or_above",
+      "percentage_of_pupils_achieving_the_english_baccalaureate_grades_4_or_above",
+      "percentage_of_pupils_achieving_grades_5_or_above_in_english_and_mathematics_gcse",
+      "percentage_of_pupils_achieving_grades_4_or_above_in_english_and_mathematics_gcse",
+    ]].transpose().astype('float')
+    percentage_by_area.index.names=["measure"]
+    
+    percentage_by_area.to_csv(os.path.join(OUTDIR, 'percentage_by_geography.csv'))
