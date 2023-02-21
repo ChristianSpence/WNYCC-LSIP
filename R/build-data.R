@@ -1,6 +1,6 @@
 # Defines all LAD codes for the projects
 geog_codes <- list(wy = paste0("E080000", 32:36),
-                   ny = c("E0600000014", # York
+                   ny = c("E06000014", # York
                           paste0("E070001", 63:69) # Craven:Selby
                    )
 )
