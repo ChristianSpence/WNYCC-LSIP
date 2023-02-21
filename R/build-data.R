@@ -314,7 +314,7 @@ ukprn_he_yorks <- table51 |> dplyr::select(UKPRN, `HE provider`, `Region of HE p
 table51_filtered <- table51 |>
   dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
 
-readr::write_csv(table51_filtered, "data/csv/he/table51.csv")
+readr::write_csv(table51_filtered, "data/csv/he/HE qualifiers by HE provider and subject of study 2019-20 to 2021-22.csv")
 saveRDS(table51_filtered, "data/app/hesa51.rds")
 
 
@@ -331,7 +331,7 @@ table51_051 <- lapply(table51_051.files, function(file) {
 }) |>
   dplyr::bind_rows()
 
-readr::write_csv(table51_051, "data/csv/he/table51-051.csv")
+readr::write_csv(table51_051, "data/csv/he/HE qualifiers by HE provider and subject of study 2019-20 to 2021-22 (051).csv")
 saveRDS(table51_051, "data/app/hesa51-051.rds")
 
 
@@ -347,7 +347,7 @@ table19 <- lapply(table19.files, function(file) {
 }) |>
   dplyr::bind_rows()
 
-readr::write_csv(table19, "data/csv/he/table19.csv")
+readr::write_csv(table19, "data/csv/he/HE qualifiers by HE provider and subject of study 2014-15 to 2018-19.csv")
 saveRDS(table19, "data/app/hesa19.rds")
 
 
@@ -367,7 +367,7 @@ table1 <- lapply(table1.files, function(file) {
     dplyr::filter(UKPRN %in% ukprn_he_yorks$UKPRN)
 }) |> dplyr::bind_rows()
 
-readr::write_csv(table1, "data/csv/he/table1.csv")
+readr::write_csv(table1, "data/csv/he/HE student enrolments by HE provider 2014-15 to 2021-22.csv")
 saveRDS(table1, "data/app/hesa1.rds")
 
 # Table 13 - HE student enrolments by HE provider and subject of study 2014/15 to 2018/19
@@ -386,7 +386,7 @@ table13 <- lapply(table13.files, function(file) {
 }) |>
   dplyr::bind_rows()
 
-readr::write_csv(table13, "data/csv/he/table13.csv")
+readr::write_csv(table13, "data/csv/he/HE student enrolments by HE provider and subject of study 2014-15 to 2018-19.csv")
 saveRDS(table13, "data/app/hesa13.rds")
 
 
@@ -407,7 +407,7 @@ table49 <- lapply(table49.files, function(file) {
 }) |>
   dplyr::bind_rows()
 
-readr::write_csv(table49, "data/csv/he/table49.csv")
+readr::write_csv(table49, "data/csv/he/HE student enrolments by HE provider and subject of study 2019-20 to 2020-21.csv")
 saveRDS(table49, "data/app/hesa49.rds")
 
 
@@ -425,7 +425,7 @@ table49_051 <- lapply(table49_051.files, function(file) {
 }) |>
   dplyr::bind_rows()
 
-readr::write_csv(table49_051, "data/csv/he/table49_051.csv")
+readr::write_csv(table49_051, "data/csv/he/HE student enrolments by HE provider and subject of study 2019-20 to 2020-21 (051).csv")
 saveRDS(table49_051, "data/app/hesa49_051.rds")
 
 
@@ -447,7 +447,7 @@ grad.table1 <- lapply(grad.table1.files, function(file) {
 }) |>
   dplyr::bind_rows()
 
-readr::write_csv(grad.table1, "data/csv/he/grad-table-1.csv")
+readr::write_csv(grad.table1, "data/csv/he/Graduate activities by provider and sex.csv")
 saveRDS(grad.table1, "data/app/hesa-grad-table-1.rds")
 
 #########
@@ -466,7 +466,7 @@ grad.table6 <- lapply(grad.table6.files, function(file) {
 }) |>
   dplyr::bind_rows()
 
-readr::write_csv(grad.table6, "data/csv/he/grad-table-6.csv")
+readr::write_csv(grad.table6, "data/csv/he/Graduate activities by provider.csv")
 saveRDS(grad.table6, "data/app/hesa-grad-table-6.rds")
 
 ####
@@ -487,5 +487,5 @@ grad.table28 <- lapply(grad.table28.files, function(file) {
 }) |>
   dplyr::bind_rows()
 
-readr::write_csv(grad.table28, "data/csv/he/grad-table-28.csv")
+readr::write_csv(grad.table28, "data/csv/he/Graduate activities by provider and subject area of degree.csv")
 saveRDS(grad.table28, "data/app/hesa-grad-table-28.rds")
