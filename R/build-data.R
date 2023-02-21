@@ -218,10 +218,12 @@ fe_dest <- lapply(list.files("data/FE_destination/data", full.names = TRUE),
                   }) |>
   setNames(basename(list.files("data/FE_destination/data")))
 
+fe_dest_names <- c("16-18 local authority level destinations")
+
 for (i in seq_along(fe_dest)) {
   if (is.data.frame(fe_dest[[i]])) {
     rename_variables(fe_dest[[i]], fe_dest_lookup) |>
-    readr::write_csv(paste0("data/csv/fe_dest/", names(fe_dest[i])))
+    readr::write_csv(paste0("data/csv/fe_dest/", fe_dest_names[i], ".csv"))
   }
 }
 
@@ -245,6 +247,35 @@ fe_dest |>
 
 
 # HESA --------------------------------------------------------------------
+
+# HE UKPRN geography lookup
+
+ukprn_region_lookup <- data.frame(UKPRN = c("10007785",
+                                            "10007148",
+                                            "10021682",
+                                            "10003854",
+                                            "10003861",
+                                            "10034449",
+                                            "10007795",
+                                            "10003863",
+                                            "10004740",
+                                            "10007713",
+                                            "10007167")) |>
+  dplyr::mutate(region = dplyr::case_when(UKPRN %in% c("10007785",
+                                                       "10007148",
+                                                       "10021682",
+                                                       "10003854",
+                                                       "10003861",
+                                                       "10034449",
+                                                       "10007795",
+                                                       "10003863") ~ "WY",
+                                          UKPRN %in% c("10004740",
+                                                       "10007713",
+                                                       "10007167") ~ "NY")
+  )
+
+readr::write_csv(ukprn_region_lookup, "data/csv/lookups/ukprn_region_lookup.csv")
+
 
 # HESA 51 -----------------------------------------------------------------
 
