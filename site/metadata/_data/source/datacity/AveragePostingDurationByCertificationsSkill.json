@@ -4,19 +4,79 @@
     {
       "name": "LA",
       "categories": [
+        "Bradford",
+        "Calderdale",
+        "Craven",
+        "Hambleton",
+        "Harrogate",
+        "Kirklees",
+        "Leeds",
+        "Richmondshire",
+        "Ryedale",
+        "Scarborough",
+        "Selby",
+        "Wakefield",
         "York"
       ]
     },
     {
       "name": "Thing",
       "categories": [
+        "AWS Certified Security Specialty",
         "Association Of Chartered Certified Accountants",
+        "Association Of Proposal Management Professionals (APMP) Certification",
+        "Bachelor Of Science in Business",
+        "Bachelor Of Science in Business Administration",
+        "Bachelor Of Science in Nursing (BSN)",
+        "CIPD Level 3",
+        "CIPD Level 5",
         "CSCS Card",
+        "Certified Information Privacy Professional",
+        "Certified Information Security Manager",
+        "Certified Information System Auditor (CISA)",
+        "Certified Information Systems Security Professional",
+        "Certified Internal Auditor",
+        "Certified International Property Specialist",
+        "Certified Investment Management Analyst",
+        "Certified Nurse Practitioner",
+        "Certified Professional In Learning And Performance",
+        "Chartered Accountant",
+        "Chartered Engineer",
+        "Chartered Financial Analyst",
         "Chartered Institute Of Management Accountants (CIMA)",
+        "Chartered Institute Of Marketing (CIM)",
         "Chartered Institute Of Personnel And Development (CIPD) Certified",
+        "Cisco Certified Network Associate",
+        "Cisco Certified Network Professional",
+        "Clinical Nurse Specialists (CNS)",
+        "CompTIA Security+",
+        "Core Domestic Gas Safety (CCN1)",
+        "Forklift Certification",
         "Functional Skills Qualification",
+        "GIAC Certifications",
         "General Certificate Of Secondary Education",
-        "PRINCE2  (PRojects IN Controlled Environments 2)"
+        "IOSH Managing Safely",
+        "ITIL Certifications",
+        "ITIL Foundation Certification",
+        "Institute Of Internal Auditors (IIA)",
+        "Licensed Professional Counselor (LPC)",
+        "Linux/GNU Certified Administrator",
+        "Master Of Business Administration (MBA)",
+        "Microsoft Certified Professional",
+        "Microsoft Certified Solutions Expert",
+        "Microsoft Certified Systems Administrator (MCSA)",
+        "Microsoft Certified Systems Engineer",
+        "NEBOSH Certificate",
+        "NEBOSH Diploma",
+        "NIST Cybersecurity Framework (CSF)",
+        "National Examination Board In Occupational Safety And Health (NEBOSH) Certified",
+        "Nurse Practitioner",
+        "PRINCE2  (PRojects IN Controlled Environments 2)",
+        "Project Management Professional Certification",
+        "Psychiatric-Mental Health Nurse Practitioner",
+        "Security Clearance",
+        "Six Sigma Green Belt Certification",
+        "Software Development Engineer in Test"
       ]
     }
   ],
@@ -26,44 +86,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "22.09 to 23.14",
+          "value": "10.95 to 15.9",
+          "count": 0.037594
+        },
+        {
+          "value": "15.9 to 20.8",
+          "count": 0.082707
+        },
+        {
+          "value": "20.8 to 25.7",
+          "count": 0.097744
+        },
+        {
+          "value": "25.7 to 30.6",
+          "count": 0.240602
+        },
+        {
+          "value": "30.6 to 35.5",
           "count": 0.285714
         },
         {
-          "value": "23.14 to 24.18",
-          "count": 0.0
+          "value": "35.5 to 40.4",
+          "count": 0.135338
         },
         {
-          "value": "24.18 to 25.22",
-          "count": 0.0
+          "value": "40.4 to 45.3",
+          "count": 0.067669
         },
         {
-          "value": "25.22 to 26.26",
-          "count": 0.0
+          "value": "45.3 to 50.2",
+          "count": 0.022556
         },
         {
-          "value": "26.26 to 27.3",
-          "count": 0.0
+          "value": "50.2 to 55.1",
+          "count": 0.007519
         },
         {
-          "value": "27.3 to 28.34",
-          "count": 0.142857
-        },
-        {
-          "value": "28.34 to 29.38",
-          "count": 0.142857
-        },
-        {
-          "value": "29.38 to 30.42",
-          "count": 0.0
-        },
-        {
-          "value": "30.42 to 31.46",
-          "count": 0.0
-        },
-        {
-          "value": "31.46 to 32.5",
-          "count": 0.428571
+          "value": "55.1 to 60.0",
+          "count": 0.022556
         }
       ]
     }
