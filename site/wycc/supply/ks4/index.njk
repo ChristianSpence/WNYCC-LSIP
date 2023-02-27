@@ -38,28 +38,6 @@ title: Key Stage 4
         }
       }
     ) | safe }}
-{#
-    {{ comp.oi.chart.bar({
-      config: {
-        data: stats.rows | value_mapper({
-          key: 'geography_code',
-          mapper: mapper.geo_code_to_name
-        }),
-        category: "geography_code",
-        series: [
-          {
-            title: "Attainment 8 score by Local Authority",
-            value: "average_attainment_8_score_of_all_pupils"
-          }
-        ],
-        axis: {
-          x: {
-            tickSize: 10
-          }
-        }
-      }
-    }) | safe }}
-#}
   {% endcomp %}
 
   {% comp 'dashboard.pane' %}
