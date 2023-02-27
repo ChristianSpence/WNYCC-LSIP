@@ -20,6 +20,10 @@ metric_name_mapper:
   percentage_of_pupils_achieving_the_english_baccalaureate_grades_4_or_above: Percentage achieving\ngrade 4+\nin English\nBaccalaureate
   percentage_of_pupils_achieving_grades_5_or_above_in_english_and_mathematics_gcse: Percentage achieving\ngrade 5+\nin English and\nMaths GCSE
   percentage_of_pupils_achieving_grades_4_or_above_in_english_and_mathematics_gcse: Percentage achieving\ngrade 4+\nin English and\nMaths GCSE
+colour_scale: >-
+  rgb(122, 76, 139) 0%, rgb(124, 109, 168) 12.5%, rgb(115, 138, 177) 25%,
+  rgb(107, 164, 178) 37.5%, rgb(104, 188, 170) 50%, rgb(133, 211, 146) 62.5%,
+  rgb(189, 229, 97) 75%, rgb(254, 240, 65) 87.5%, rgb(254, 240, 65) 100%
 ---
 
 {% comp 'dashboard.grid', { max_width: '10rem' } %}
@@ -42,7 +46,23 @@ metric_name_mapper:
 {% endcomp %}
 
 {% comp 'dashboard.flex' %}
-  {% comp 'dashboard.pane', { classes: 'greedy' } %}
+  {% comp 'dashboard.pane', { classes: 'greedy centred' } %}
+    <p>Average Attainment 8 score for all pupils</p>
+    {{ comp.oi.map.hex_cartogram(
+      {
+        config: {
+          hexjson: 'hexjson.wy',
+          hexScale: 0.8,
+          data: stats.rows,
+          matchKey: 'geography_code',
+          titleProp: 'n',
+          valueProp: 'average_attainment_8_score_of_all_pupils',
+          min: 40, max: 50,
+          scale: colour_scale
+        }
+      }
+    ) | safe }}
+{#
     {{ comp.oi.chart.bar({
       config: {
         data: stats.rows | value_mapper({
@@ -63,6 +83,7 @@ metric_name_mapper:
         }
       }
     }) | safe }}
+#}
   {% endcomp %}
 
   {% comp 'dashboard.pane' %}
