@@ -1,5 +1,4 @@
 .tooltip {
-  overflow: hidden;
   & * {
     margin-top: 0;
   }
