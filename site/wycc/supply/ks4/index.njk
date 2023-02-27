@@ -1,30 +1,5 @@
 ---
 title: Key Stage 4
-series:
-  - value: E08000032
-    colour: red
-  - value: E08000033
-    colour: orange
-  - value: E08000034
-    colour: yellow
-  - value: E08000035
-    colour: green
-  - value: E08000036
-    colour: blue
-
-metric_name_mapper:
-  total_number_of_pupils_achieving_the_english_baccalaureate_grades_5_or_above: Pupils achieving\ngrade 5+\nin English\nBaccalaureate
-  total_number_of_pupils_achieving_the_english_baccalaureate_grades_4_or_above: Pupils achieving\ngrade 4+\nin English\nBaccalaureate
-  total_number_of_pupils_achieving_grades_5_or_above_in_english_and_mathematics_gcse: Pupils achieving\ngrade 5+\nin English and\nMaths GCSE
-  total_number_of_pupils_achieving_grades_4_or_above_in_english_and_mathematics_gcse: Pupils achieving\ngrade 4+\nin English and\nMaths GCSE
-  percentage_of_pupils_achieving_the_english_baccalaureate_grades_5_or_above: Percentage achieving\ngrade 5+\nin English\nBaccalaureate
-  percentage_of_pupils_achieving_the_english_baccalaureate_grades_4_or_above: Percentage achieving\ngrade 4+\nin English\nBaccalaureate
-  percentage_of_pupils_achieving_grades_5_or_above_in_english_and_mathematics_gcse: Percentage achieving\ngrade 5+\nin English and\nMaths GCSE
-  percentage_of_pupils_achieving_grades_4_or_above_in_english_and_mathematics_gcse: Percentage achieving\ngrade 4+\nin English and\nMaths GCSE
-colour_scale: >-
-  rgb(122, 76, 139) 0%, rgb(124, 109, 168) 12.5%, rgb(115, 138, 177) 25%,
-  rgb(107, 164, 178) 37.5%, rgb(104, 188, 170) 50%, rgb(133, 211, 146) 62.5%,
-  rgb(189, 229, 97) 75%, rgb(254, 240, 65) 87.5%, rgb(254, 240, 65) 100%
 ---
 
 {% comp 'dashboard.grid', { max_width: '10rem' } %}
@@ -59,7 +34,7 @@ colour_scale: >-
           titleProp: 'n',
           valueProp: 'average_attainment_8_score_of_all_pupils',
           min: 40, max: 50,
-          scale: colour_scale
+          scale: colour_scale.sample
         }
       }
     ) | safe }}
@@ -144,6 +119,7 @@ colour_scale: >-
           mapper: metric_name_mapper
         }),
         series: series,
+        legend: { show: true },
         axis: {
           x: {
             tickSize: 10
