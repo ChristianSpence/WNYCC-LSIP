@@ -14,3 +14,19 @@ stages:
           cache: false
       - site/wycc/supply/ks4/_data/summary.json:
           cache: false
+
+  prep-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/ks4/prepare.py nycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/ks4/prepare.py
+      - data/csv/ks4/Key stage 4 performance.csv
+    outs:
+      - site/nycc/supply/ks4/_data/stats.csv:
+          cache: false
+      - site/nycc/supply/ks4/_data/totals_by_geography.csv:
+          cache: false
+      - site/nycc/supply/ks4/_data/percentage_by_geography.csv:
+          cache: false
+      - site/nycc/supply/ks4/_data/summary.json:
+          cache: false

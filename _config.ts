@@ -1,4 +1,5 @@
 import lume from "lume/mod.ts";
+import jsonLoader from "lume/core/loaders/json.ts";
 import base_path from "lume/plugins/base_path.ts";
 import date from "lume/plugins/date.ts";
 import inline from "lume/plugins/inline.ts";
@@ -29,6 +30,7 @@ site.use(base_path());
 site.use(minify_html());
 
 site.loadData([".csv"], csvLoader);
+site.loadData([".hexjson"], jsonLoader);
 
 site.remoteFile(
   "_includes/css/reset.css",
