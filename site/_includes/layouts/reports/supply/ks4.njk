@@ -73,6 +73,7 @@ layout: layouts/default.njk
 {% comp 'dashboard.grid' %}
 
 {% comp 'dashboard.pane' %}
+<p class="centred">Counts of pupils at levels of attainment</p>
 {{ comp.oi.chart.bar({
       config: {
         data: totals_by_geography.rows | value_mapper({
@@ -91,6 +92,7 @@ layout: layouts/default.njk
 {% endcomp %}
 
 {% comp 'dashboard.pane' %}
+<p class="centred">Percentage of pupils at levels of attainment</p>
 {{ comp.oi.chart.bar({ config: {
         category: "measure",
         data: percentage_by_geography.rows | value_mapper({
