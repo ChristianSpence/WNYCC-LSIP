@@ -1,0 +1,494 @@
+Major Group,Sub-Major Group,Minor Group,Unit   Group,Group Title
+1,NA,NA,NA,"MANAGERS, DIRECTORS AND SENIOR OFFICIALS"
+1,11,NA,NA,CORPORATE MANAGERS AND DIRECTORS
+1,11,111,NA,Chief Executives and Senior Officials
+1,11,111,1115,Chief executives and senior officials
+1,11,111,1116,Elected officers and representatives
+1,11,112,1116,Production Managers and Directors
+1,11,112,1121,Production managers and directors in manufacturing
+1,11,112,1122,Production managers and directors in construction
+1,11,112,1123,Production managers and directors in mining and energy
+1,11,113,1123,Functional Managers and Directors
+1,11,113,1131,Financial managers and directors
+1,11,113,1132,Marketing and sales directors
+1,11,113,1133,Purchasing managers and directors
+1,11,113,1134,Advertising and public relations directors
+1,11,113,1135,Human resource managers and directors
+1,11,113,1136,Information technology and telecommunications directors
+1,11,113,1139,Functional managers and directors n.e.c.
+1,11,115,1139,Financial Institution Managers and Directors
+1,11,115,1150,Financial institution managers and directors
+1,11,116,1150,Managers and Directors in Transport and Logistics
+1,11,116,1161,Managers and directors in transport and distribution
+1,11,116,1162,Managers and directors in storage and warehousing
+1,11,117,1162,Senior Officers in Protective Services
+1,11,117,1171,Officers in armed forces
+1,11,117,1172,Senior police officers
+1,11,117,1173,"Senior officers in fire, ambulance, prison and related services"
+1,11,118,1173,Health and Social Services Managers and Directors
+1,11,118,1181,Health services and public health managers and directors
+1,11,118,1184,Social services managers and directors
+1,11,119,1184,Managers and Directors in Retail and Wholesale
+1,11,119,1190,Managers and directors in retail and wholesale
+1,12,119,1190,OTHER MANAGERS AND PROPRIETORS
+1,12,121,1190,Managers and Proprietors in Agriculture Related Services
+1,12,121,1211,Managers and proprietors in agriculture and horticulture
+1,12,121,1213,"Managers and proprietors in forestry, fishing and related services"
+1,12,122,1213,Managers and Proprietors in Hospitality and Leisure Services
+1,12,122,1221,Hotel and accommodation managers and proprietors
+1,12,122,1223,Restaurant and catering establishment managers and proprietors
+1,12,122,1224,Publicans and managers of licensed premises
+1,12,122,1225,Leisure and sports managers
+1,12,122,1226,Travel agency managers and proprietors
+1,12,124,1226,Managers and Proprietors in Health and Care Services
+1,12,124,1241,Health care practice managers
+1,12,124,1242,"Residential, day and domiciliary  care managers and proprietors"
+1,12,125,1242,Managers and Proprietors in Other Services
+1,12,125,1251,"Property, housing and estate managers"
+1,12,125,1252,Garage managers and proprietors
+1,12,125,1253,Hairdressing and beauty salon managers and proprietors
+1,12,125,1254,Shopkeepers and proprietors – wholesale and retail
+1,12,125,1255,Waste disposal and environmental services managers
+1,12,125,1259,Managers and proprietors in other services n.e.c.
+2,12,125,1259,PROFESSIONAL OCCUPATIONS
+2,21,125,1259,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS"
+2,21,211,1259,Natural and Social Science Professionals
+2,21,211,2111,Chemical scientists
+2,21,211,2112,Biological scientists and biochemists
+2,21,211,2113,Physical scientists
+2,21,211,2114,Social and humanities scientists
+2,21,211,2119,Natural and social science professionals n.e.c.
+2,21,212,2119,Engineering Professionals
+2,21,212,2121,Civil engineers
+2,21,212,2122,Mechanical engineers
+2,21,212,2123,Electrical engineers
+2,21,212,2124,Electronics engineers
+2,21,212,2126,Design and development engineers
+2,21,212,2127,Production and process engineers
+2,21,212,2129,Engineering professionals n.e.c.
+2,21,213,2129,Information Technology and Telecommunications Professionals
+2,21,213,2133,IT specialist managers
+2,21,213,2134,IT project and programme managers
+2,21,213,2135,"IT business analysts, architects and systems designers"
+2,21,213,2136,Programmers and software development professionals
+2,21,213,2137,Web design and development professionals
+2,21,213,2139,Information technology and telecommunications professionals n.e.c.
+2,21,214,2139,Conservation and Environment Professionals
+2,21,214,2141,Conservation professionals
+2,21,214,2142,Environment professionals
+2,21,215,2142,Research and Development Managers
+2,21,215,2150,Research and development managers
+2,22,215,2150,HEALTH PROFESSIONALS
+2,22,221,2150,Health Professionals
+2,22,221,2211,Medical practitioners
+2,22,221,2212,Psychologists
+2,22,221,2213,Pharmacists
+2,22,221,2214,Ophthalmic opticians
+2,22,221,2215,Dental practitioners
+2,22,221,2216,Veterinarians
+2,22,221,2217,Medical radiographers
+2,22,221,2218,Podiatrists
+2,22,221,2219,Health professionals n.e.c.
+2,22,222,2219,Therapy Professionals
+2,22,222,2221,Physiotherapists
+2,22,222,2222,Occupational therapists
+2,22,222,2223,Speech and language therapists
+2,22,222,2229,Therapy professionals n.e.c.
+2,22,223,2229,Nursing and Midwifery Professionals
+2,22,223,2231,Nurses
+2,22,223,2232,Midwives
+2,23,223,2232,TEACHING AND EDUCATIONAL PROFESSIONALS
+2,23,231,2232,Teaching and Educational Professionals
+2,23,231,2311,Higher education teaching professionals
+2,23,231,2312,Further education teaching professionals
+2,23,231,2314,Secondary education teaching professionals
+2,23,231,2315,Primary and nursery education teaching professionals
+2,23,231,2316,Special needs education teaching professionals
+2,23,231,2317,Senior professionals of educational establishments
+2,23,231,2318,Education advisers and school inspectors
+2,23,231,2319,Teaching and other educational professionals n.e.c.
+2,24,231,2319,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS"
+2,24,241,2319,Legal Professionals
+2,24,241,2412,Barristers and judges
+2,24,241,2413,Solicitors
+2,24,241,2419,Legal professionals n.e.c.
+2,24,242,2419,"Business, Research and Administrative Professionals"
+2,24,242,2421,Chartered and certified accountants
+2,24,242,2423,Management consultants and business analysts
+2,24,242,2424,Business and financial project management professionals
+2,24,242,2425,"Actuaries, economists and statisticians"
+2,24,242,2426,Business and related research professionals
+2,24,242,2429,"Business, research and administrative professionals n.e.c."
+2,24,243,2429,"Architects, Town Planners and Surveyors"
+2,24,243,2431,Architects
+2,24,243,2432,Town planning officers
+2,24,243,2433,Quantity surveyors
+2,24,243,2434,Chartered surveyors
+2,24,243,2435,Chartered architectural technologists
+2,24,243,2436,Construction project managers and related professionals
+2,24,244,2436,Welfare Professionals
+2,24,244,2442,Social workers
+2,24,244,2443,Probation officers
+2,24,244,2444,Clergy
+2,24,244,2449,Welfare professionals n.e.c.
+2,24,245,2449,Librarians and Related Professionals
+2,24,245,2451,Librarians
+2,24,245,2452,Archivists and curators
+2,24,246,2452,Quality and Regulatory Professionals
+2,24,246,2461,Quality control and planning engineers
+2,24,246,2462,Quality assurance and regulatory professionals
+2,24,246,2463,Environmental health professionals
+2,24,247,2463,Media Professionals
+2,24,247,2471,"Journalists, newspaper and periodical editors"
+2,24,247,2472,Public relations professionals
+2,24,247,2473,Advertising accounts managers and creative directors
+3,24,247,2473,ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS
+3,31,247,2473,"SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS"
+3,31,311,2473,"Science, Engineering and Production Technicians"
+3,31,311,3111,Laboratory technicians
+3,31,311,3112,Electrical and electronics technicians
+3,31,311,3113,Engineering technicians
+3,31,311,3114,Building and civil engineering technicians
+3,31,311,3115,Quality assurance technicians
+3,31,311,3116,"Planning, process and production technicians"
+3,31,311,3119,"Science, engineering and production technicians n.e.c."
+3,31,312,3119,Draughtspersons and Related Architectural Technicians
+3,31,312,3121,Architectural and town planning technicians
+3,31,312,3122,Draughtspersons
+3,31,313,3122,Information Technology Technicians
+3,31,313,3131,IT operations technicians
+3,31,313,3132,IT user support technicians
+3,32,313,3132,HEALTH AND SOCIAL CARE ASSOCIATE PROFESSIONALS
+3,32,321,3132,Health Associate Professionals
+3,32,321,3213,Paramedics
+3,32,321,3216,Dispensing opticians
+3,32,321,3217,Pharmaceutical technicians
+3,32,321,3218,Medical and dental technicians
+3,32,321,3219,Health associate professionals n.e.c.
+3,32,323,3219,Welfare and Housing Associate Professionals
+3,32,323,3231,Youth and community workers
+3,32,323,3233,Child and early years officers
+3,32,323,3234,Housing officers
+3,32,323,3235,Counsellors
+3,32,323,3239,Welfare and housing associate professionals n.e.c.
+3,33,323,3239,PROTECTIVE SERVICE OCCUPATIONS
+3,33,331,3239,Protective Service Occupations
+3,33,331,3311,NCOs and other ranks
+3,33,331,3312,Police officers (sergeant and below)
+3,33,331,3313,Fire service officers (watch manager and below)
+3,33,331,3314,Prison service officers (below principal officer)
+3,33,331,3315,Police community support officers
+3,33,331,3319,Protective service associate professionals n.e.c.
+3,34,331,3319,"CULTURE, MEDIA AND SPORTS OCCUPATIONS"
+3,34,341,3319,"Artistic, Literary and Media Occupations"
+3,34,341,3411,Artists
+3,34,341,3412,"Authors, writers and translators"
+3,34,341,3413,"Actors, entertainers and presenters"
+3,34,341,3414,Dancers and choreographers
+3,34,341,3415,Musicians
+3,34,341,3416,"Arts officers, producers and directors"
+3,34,341,3417,"Photographers, audio-visual and broadcasting equipment operators"
+3,34,342,3417,Design Occupations
+3,34,342,3421,Graphic designers
+3,34,342,3422,"Product, clothing and related designers"
+3,34,344,3422,Sports and Fitness Occupations
+3,34,344,3441,Sports players
+3,34,344,3442,"Sports coaches, instructors and officials"
+3,34,344,3443,Fitness instructors
+3,35,344,3443,BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS
+3,35,351,3443,Transport Associate Professionals
+3,35,351,3511,Air traffic controllers
+3,35,351,3512,Aircraft pilots and flight engineers
+3,35,351,3513,Ship and hovercraft officers
+3,35,352,3513,Legal Associate Professionals
+3,35,352,3520,Legal associate professionals
+3,35,353,3520,"Business, Finance and Related Associate Professionals"
+3,35,353,3531,"Estimators, valuers and assessors"
+3,35,353,3532,Brokers
+3,35,353,3533,Insurance underwriters
+3,35,353,3534,Finance and investment analysts and advisers
+3,35,353,3535,Taxation experts
+3,35,353,3536,Importers and exporters
+3,35,353,3537,Financial and accounting technicians
+3,35,353,3538,Financial accounts managers
+3,35,353,3539,Business and related associate professionals n.e.c.
+3,35,354,3539,"Sales, Marketing and Related Associate Professionals"
+3,35,354,3541,Buyers and procurement officers
+3,35,354,3542,Business sales executives
+3,35,354,3543,Marketing associate professionals
+3,35,354,3544,Estate agents and auctioneers
+3,35,354,3545,Sales accounts and business development managers
+3,35,354,3546,Conference and exhibition managers and organisers
+3,35,355,3546,Conservation and Environmental Associate Professionals
+3,35,355,3550,Conservation and environmental associate professionals
+3,35,356,3550,Public Services and Other Associate Professionals
+3,35,356,3561,Public services associate professionals
+3,35,356,3562,Human resources and industrial relations officers
+3,35,356,3563,Vocational and industrial trainers and instructors
+3,35,356,3564,Careers advisers and vocational guidance specialists
+3,35,356,3565,Inspectors of standards and regulations
+3,35,356,3567,Health and safety officers
+4,35,356,3567,ADMINISTRATIVE AND SECRETARIAL OCCUPATIONS
+4,41,356,3567,ADMINISTRATIVE OCCUPATIONS
+4,41,411,3567,Administrative Occupations: Government and Related Organisations
+4,41,411,4112,National government administrative occupations
+4,41,411,4113,Local government administrative occupations
+4,41,411,4114,Officers of non-governmental organisations
+4,41,412,4114,Administrative Occupations: Finance
+4,41,412,4121,Credit controllers
+4,41,412,4122,"Book-keepers, payroll managers and wages clerks"
+4,41,412,4123,Bank and post office clerks
+4,41,412,4124,Finance officers
+4,41,412,4129,Financial administrative occupations n.e.c.
+4,41,413,4129,Administrative Occupations: Records
+4,41,413,4131,Records clerks and assistants
+4,41,413,4132,Pensions and insurance clerks and assistants
+4,41,413,4133,Stock control clerks and assistants
+4,41,413,4134,Transport and distribution clerks and assistants
+4,41,413,4135,Library clerks and assistants
+4,41,413,4138,Human resources administrative occupations
+4,41,415,4138,Other Administrative Occupations
+4,41,415,4151,Sales administrators
+4,41,415,4159,Other administrative occupations n.e.c.
+4,41,416,4159,Administrative Occupations: Office Managers and Supervisors
+4,41,416,4161,Office managers
+4,41,416,4162,Office supervisors
+4,42,416,4162,SECRETARIAL AND RELATED OCCUPATIONS
+4,42,421,4162,Secretarial and Related Occupations
+4,42,421,4211,Medical secretaries
+4,42,421,4212,Legal secretaries
+4,42,421,4213,School secretaries
+4,42,421,4214,Company secretaries
+4,42,421,4215,Personal assistants and other secretaries
+4,42,421,4216,Receptionists
+4,42,421,4217,Typists and related keyboard occupations
+5,42,421,4217,SKILLED TRADES OCCUPATIONS
+5,51,421,4217,SKILLED AGRICULTURAL AND RELATED TRADES
+5,51,511,4217,Agricultural and Related Trades
+5,51,511,5111,Farmers
+5,51,511,5112,Horticultural trades
+5,51,511,5113,Gardeners and landscape gardeners
+5,51,511,5114,Groundsmen and greenkeepers
+5,51,511,5119,Agricultural and fishing trades n.e.c.
+5,52,511,5119,"SKILLED METAL, ELECTRICAL AND ELECTRONIC TRADES"
+5,52,521,5119,"Metal Forming, Welding and Related Trades"
+5,52,521,5211,Smiths and forge workers
+5,52,521,5212,"Moulders, core makers and die casters"
+5,52,521,5213,Sheet metal workers
+5,52,521,5214,"Metal plate workers, and riveters"
+5,52,521,5215,Welding trades
+5,52,521,5216,Pipe fitters
+5,52,522,5216,"Metal Machining, Fitting and Instrument Making Trades"
+5,52,522,5221,Metal machining setters and setter-operators
+5,52,522,5222,"Tool makers, tool fitters and markers-out"
+5,52,522,5223,Metal working production and maintenance fitters
+5,52,522,5224,Precision instrument makers and repairers
+5,52,522,5225,Air-conditioning and refrigeration engineers
+5,52,523,5225,Vehicle Trades
+5,52,523,5231,"Vehicle technicians, mechanics and electricians"
+5,52,523,5232,Vehicle body builders and repairers
+5,52,523,5234,Vehicle paint technicians
+5,52,523,5235,Aircraft maintenance and related trades
+5,52,523,5236,Boat and ship builders and repairers
+5,52,523,5237,Rail and rolling stock builders and repairers
+5,52,524,5237,Electrical and Electronic Trades
+5,52,524,5241,Electricians and electrical fitters
+5,52,524,5242,Telecommunications engineers
+5,52,524,5244,"TV, video and audio engineers"
+5,52,524,5245,IT engineers
+5,52,524,5249,Electrical and electronic trades n.e.c.
+5,52,525,5249,"Skilled Metal, Electrical and Electronic Trades Supervisors"
+5,52,525,5250,"Skilled metal, electrical and electronic trades supervisors"
+5,53,525,5250,SKILLED CONSTRUCTION AND BUILDING TRADES
+5,53,531,5250,Construction and Building Trades
+5,53,531,5311,Steel erectors
+5,53,531,5312,Bricklayers and masons
+5,53,531,5313,"Roofers, roof tilers and slaters"
+5,53,531,5314,Plumbers and heating and ventilating engineers
+5,53,531,5315,Carpenters and joiners
+5,53,531,5316,"Glaziers, window fabricators and fitters"
+5,53,531,5319,Construction and building trades n.e.c.
+5,53,532,5319,Building Finishing Trades
+5,53,532,5321,Plasterers
+5,53,532,5322,Floorers and wall tilers
+5,53,532,5323,Painters and decorators
+5,53,533,5323,Construction and Building Trades Supervisors
+5,53,533,5330,Construction and building trades supervisors
+5,54,533,5330,"TEXTILES, PRINTING AND OTHER SKILLED TRADES"
+5,54,541,5330,Textiles and Garments Trades
+5,54,541,5411,Weavers and knitters
+5,54,541,5412,Upholsterers
+5,54,541,5413,Footwear and leather working trades
+5,54,541,5414,Tailors and dressmakers
+5,54,541,5419,"Textiles, garments and related trades n.e.c."
+5,54,542,5419,Printing Trades
+5,54,542,5421,Pre-press technicians
+5,54,542,5422,Printers
+5,54,542,5423,Print finishing and binding workers
+5,54,543,5423,Food Preparation and Hospitality Trades
+5,54,543,5431,Butchers
+5,54,543,5432,Bakers and flour confectioners
+5,54,543,5433,Fishmongers and poultry dressers
+5,54,543,5434,Chefs
+5,54,543,5435,Cooks
+5,54,543,5436,Catering and bar managers
+5,54,544,5436,Other Skilled Trades
+5,54,544,5441,"Glass and ceramics makers, decorators and finishers"
+5,54,544,5442,Furniture makers and other craft woodworkers
+5,54,544,5443,Florists
+5,54,544,5449,Other skilled trades n.e.c.
+6,54,544,5449,"CARING, LEISURE AND OTHER SERVICE OCCUPATIONS"
+6,61,544,5449,CARING PERSONAL SERVICE OCCUPATIONS
+6,61,612,5449,Childcare and Related Personal Services
+6,61,612,6121,Nursery nurses and assistants
+6,61,612,6122,Childminders and related occupations
+6,61,612,6123,Playworkers
+6,61,612,6125,Teaching assistants
+6,61,612,6126,Educational support assistants
+6,61,613,6126,Animal Care and Control Services
+6,61,613,6131,Veterinary nurses
+6,61,613,6132,Pest control officers
+6,61,613,6139,Animal care services occupations n.e.c.
+6,61,614,6139,Caring Personal Services
+6,61,614,6141,Nursing auxiliaries and assistants
+6,61,614,6142,Ambulance staff (excluding paramedics)
+6,61,614,6143,Dental nurses
+6,61,614,6144,Houseparents and residential wardens
+6,61,614,6145,Care workers and home carers
+6,61,614,6146,Senior care workers
+6,61,614,6147,Care escorts
+6,61,614,6148,"Undertakers, mortuary and crematorium assistants"
+6,62,614,6148,"LEISURE, TRAVEL AND RELATED PERSONAL SERVICE OCCUPATIONS"
+6,62,621,6148,Leisure and Travel Services
+6,62,621,6211,Sports and leisure assistants
+6,62,621,6212,Travel agents
+6,62,621,6214,Air travel assistants
+6,62,621,6215,Rail travel assistants
+6,62,621,6219,Leisure and travel service occupations n.e.c.
+6,62,622,6219,Hairdressers and Related Services
+6,62,622,6221,Hairdressers and barbers
+6,62,622,6222,Beauticians and related occupations
+6,62,623,6222,Housekeeping and Related Services
+6,62,623,6231,Housekeepers and related occupations
+6,62,623,6232,Caretakers
+6,62,624,6232,Cleaning and Housekeeping Managers and Supervisors
+6,62,624,6240,Cleaning and housekeeping managers and supervisors
+7,62,624,6240,SALES AND CUSTOMER SERVICE OCCUPATIONS
+7,71,624,6240,SALES OCCUPATIONS
+7,71,711,6240,Sales Assistants and Retail Cashiers
+7,71,711,7111,Sales and retail assistants
+7,71,711,7112,Retail cashiers and check-out operators
+7,71,711,7113,Telephone salespersons
+7,71,711,7114,Pharmacy and other dispensing assistants
+7,71,711,7115,Vehicle and parts salespersons and advisers
+7,71,712,7115,Sales Related Occupations
+7,71,712,7121,Collector salespersons and credit agents
+7,71,712,7122,"Debt, rent and other cash collectors"
+7,71,712,7123,Roundspersons and van salespersons
+7,71,712,7124,Market and street traders and assistants
+7,71,712,7125,Merchandisers and window dressers
+7,71,712,7129,Sales related occupations n.e.c.
+7,71,713,7129,Sales Supervisors
+7,71,713,7130,Sales supervisors
+7,72,713,7130,CUSTOMER SERVICE OCCUPATIONS
+7,72,721,7130,Customer Service Occupations
+7,72,721,7211,Call and contact centre occupations
+7,72,721,7213,Telephonists
+7,72,721,7214,Communication operators
+7,72,721,7215,Market research interviewers
+7,72,721,7219,Customer service occupations n.e.c.
+7,72,722,7219,Customer Service Managers and Supervisors
+7,72,722,7220,Customer service managers and supervisors
+8,72,722,7220,"PROCESS, PLANT AND MACHINE OPERATIVES"
+8,81,722,7220,"PROCESS, PLANT AND MACHINE OPERATIVES"
+8,81,811,7220,Process Operatives
+8,81,811,8111,"Food, drink and tobacco process operatives"
+8,81,811,8112,Glass and ceramics process operatives
+8,81,811,8113,Textile process operatives
+8,81,811,8114,Chemical and related process operatives
+8,81,811,8115,Rubber process operatives
+8,81,811,8116,Plastics process operatives
+8,81,811,8117,Metal making and treating process operatives
+8,81,811,8118,Electroplaters
+8,81,811,8119,Process operatives n.e.c.
+8,81,812,8119,Plant and Machine Operatives
+8,81,812,8121,Paper and wood machine operatives
+8,81,812,8122,Coal mine operatives
+8,81,812,8123,Quarry workers and related operatives
+8,81,812,8124,Energy plant operatives
+8,81,812,8125,Metal working machine operatives
+8,81,812,8126,Water and sewerage plant operatives
+8,81,812,8127,Printing machine assistants
+8,81,812,8129,Plant and machine operatives n.e.c.
+8,81,813,8129,Assemblers and Routine Operatives
+8,81,813,8131,Assemblers (electrical and electronic products)
+8,81,813,8132,Assemblers (vehicles and metal goods)
+8,81,813,8133,Routine inspectors and testers
+8,81,813,8134,"Weighers, graders and sorters"
+8,81,813,8135,"Tyre, exhaust and windscreen fitters"
+8,81,813,8137,Sewing machinists
+8,81,813,8139,Assemblers and routine operatives n.e.c.
+8,81,814,8139,Construction Operatives
+8,81,814,8141,"Scaffolders, stagers and riggers"
+8,81,814,8142,Road construction operatives
+8,81,814,8143,Rail construction and maintenance operatives
+8,81,814,8149,Construction operatives n.e.c.
+8,82,814,8149,TRANSPORT AND MOBILE MACHINE DRIVERS AND OPERATIVES
+8,82,821,8149,Road Transport Drivers
+8,82,821,8211,Large goods vehicle drivers
+8,82,821,8212,Van drivers
+8,82,821,8213,Bus and coach drivers
+8,82,821,8214,Taxi and cab drivers and chauffeurs
+8,82,821,8215,Driving instructors
+8,82,822,8215,Mobile Machine Drivers and Operatives
+8,82,822,8221,Crane drivers
+8,82,822,8222,Fork-lift truck drivers
+8,82,822,8223,Agricultural machinery drivers
+8,82,822,8229,Mobile machine drivers and operatives n.e.c.
+8,82,823,8229,Other Drivers and Transport Operatives
+8,82,823,8231,Train and tram drivers
+8,82,823,8232,Marine and waterways transport operatives
+8,82,823,8233,Air transport operatives
+8,82,823,8234,Rail transport operatives
+8,82,823,8239,Other drivers and transport operatives n.e.c.
+9,82,823,8239,ELEMENTARY OCCUPATIONS
+9,91,823,8239,ELEMENTARY TRADES AND RELATED OCCUPATIONS
+9,91,911,8239,Elementary Agricultural Occupations
+9,91,911,9111,Farm workers
+9,91,911,9112,Forestry workers
+9,91,911,9119,Fishing and other elementary agriculture occupations n.e.c.
+9,91,912,9119,Elementary Construction Occupations
+9,91,912,9120,Elementary construction occupations
+9,91,913,9120,Elementary Process Plant Occupations
+9,91,913,9132,Industrial cleaning process occupations
+9,91,913,9134,"Packers, bottlers, canners and fillers"
+9,91,913,9139,Elementary process plant occupations n.e.c.
+9,92,913,9139,ELEMENTARY ADMINISTRATION AND SERVICE OCCUPATIONS
+9,92,921,9139,Elementary Administration Occupations
+9,92,921,9211,"Postal workers, mail sorters, messengers and couriers"
+9,92,921,9219,Elementary administration occupations n.e.c.
+9,92,923,9219,Elementary Cleaning Occupations
+9,92,923,9231,Window cleaners
+9,92,923,9232,Street cleaners
+9,92,923,9233,Cleaners and domestics
+9,92,923,9234,"Launderers, dry cleaners and pressers"
+9,92,923,9235,Refuse and salvage occupations
+9,92,923,9236,Vehicle valeters and cleaners
+9,92,923,9239,Elementary cleaning occupations n.e.c.
+9,92,924,9239,Elementary Security Occupations
+9,92,924,9241,Security guards and related occupations
+9,92,924,9242,Parking and civil enforcement occupations
+9,92,924,9244,School midday and crossing patrol occupations
+9,92,924,9249,Elementary security occupations n.e.c.
+9,92,925,9249,Elementary Sales Occupations
+9,92,925,9251,Shelf fillers
+9,92,925,9259,Elementary sales occupations n.e.c.
+9,92,926,9259,Elementary Storage Occupations
+9,92,926,9260,Elementary storage occupations
+9,92,927,9260,Other Elementary Services Occupations
+9,92,927,9271,Hospital porters
+9,92,927,9272,Kitchen and catering assistants
+9,92,927,9273,Waiters and waitresses
+9,92,927,9274,Bar staff
+9,92,927,9275,Leisure and theme park attendants
+9,92,927,9279,Other elementary services occupations n.e.c.
