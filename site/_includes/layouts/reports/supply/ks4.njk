@@ -1,0 +1,112 @@
+---
+layout: layouts/default.njk
+---
+
+{% comp 'dashboard.grid', {max_width: '10rem'} %}
+{{ comp.dashboard.headline({
+      title: 'Schools delivering KS4',
+      headline: summary.total_number_of_schools
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Students at end of KS4',
+      headline: summary.total_number_of_pupils_at_the_end_of_key_stage_4 
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Students entering English and Maths GCSE',
+      headline: summary.total_number_of_pupils_entering_english_and_mathematics_gcses 
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Students entering the English Baccalaureate',
+      headline: summary.total_number_of_pupils_entering_the_english_baccalaureate 
+    }) | safe }}
+{% endcomp %}
+
+{% comp 'dashboard.flex' %}
+{% comp 'dashboard.pane', {classes: 'greedy centred'} %}
+<p>Average Attainment 8 score for all pupils</p>
+{{ comp.oi.map.hex_cartogram(
+      {
+        config: {
+          hexjson: hex_layout,
+          hexScale: 0.8,
+          data: stats.rows,
+          matchKey: 'geography_code',
+          titleProp: 'n',
+          valueProp: 'average_attainment_8_score_of_all_pupils',
+          min: 30,
+          scale: colour_scale.sample
+        }
+      }
+    ) | safe }}
+{% endcomp %}
+
+{% comp 'dashboard.pane' %}
+<table class="centred-block">
+  <thead>
+    <tr>
+      <th>Local Authority<br />District</th>
+      <th>Total pupils<br />at end of KS4</th>
+      <th>Pupil to school<br />ratio</th>
+      <th>Average Baccalaureate<br />score</th>
+      <th>Average Attainment<br />8 score</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for row in stats.rows | value_mapper({
+          key: 'geography_code',
+          mapper: mapper.geo_code_to_name
+        }) %}
+      <tr>
+        <td>{{ row.geography_code }}</td>
+        <td class="centred">{{ row.total_number_of_schools }}</td>
+        <td class="centred">{{ row.pupil_to_school_ratio }}</td>
+        <td class="centred">{{ row.average_ebacc_aps_score_per_pupil }}</td>
+        <td class="centred">{{ row.average_attainment_8_score_of_all_pupils }}</td>
+      </tr>
+    {% endfor -%}
+  </tbody>
+</table>
+{% endcomp %}
+{% endcomp %}
+
+{# Start of bar chart row #}
+{% comp 'dashboard.grid' %}
+
+{% comp 'dashboard.pane' %}
+<p class="centred">Counts of pupils at levels of attainment</p>
+{{ comp.oi.chart.bar({
+      config: {
+        data: totals_by_geography.rows | value_mapper({
+          key: "measure",
+          mapper: mapper.supply.ks4
+        }),
+        stacked: true,
+        category: "measure",
+        series: series,
+        legend: { show: true },
+        axis: {
+          x: { tickSize: 5000 }
+        }
+      }
+    }) | safe }}
+{% endcomp %}
+
+{% comp 'dashboard.pane' %}
+<p class="centred">Percentage of pupils at levels of attainment</p>
+{{ comp.oi.chart.bar({ config: {
+        category: "measure",
+        data: percentage_by_geography.rows | value_mapper({
+          key: "measure",
+          mapper: mapper.supply.ks4
+        }),
+        series: series,
+        legend: { show: true },
+        axis: {
+          x: { tickSize: 10 }
+        }
+      }
+    }) | safe }}
+{% endcomp %}
+
+{% endcomp %}
+{# End of bar chart row #}

@@ -1,0 +1,11 @@
+svg.hex-map {
+  & .hex {
+    & path {
+      transform: scale(0.95);
+      transition: transform 0.1s linear;
+    }
+    &:hover path {
+      transform: scale(0.90);
+    }
+  }
+}

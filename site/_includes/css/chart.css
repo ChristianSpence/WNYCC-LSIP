@@ -1,0 +1,11 @@
+.tooltip {
+  & * {
+    margin-top: 0;
+  }
+}
+.legend {
+  display: flex;
+  & * + * {
+    margin-top: 0;
+  }
+}

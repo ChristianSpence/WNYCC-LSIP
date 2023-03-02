@@ -1,0 +1,17 @@
+---
+css: |
+  .flex-layout {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: stretch;
+    align-content: stretch;
+    gap: 1rem;
+    & > * {
+      margin-top: 0;
+      flex-grow: 1;
+    }
+  }
+---
+<div class='flex-layout'>
+  {{ content | safe }}
+</div>

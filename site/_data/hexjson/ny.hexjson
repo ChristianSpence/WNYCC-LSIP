@@ -1,0 +1,13 @@
+{
+	"layout":"odd-r",
+	"hexes": {
+		"E06000014":{"n":"York","q":3,"r":2,"region":"E12000003","colour":"#F9BC26"},
+		"E07000163":{"n":"Craven","q":1,"r":2,"region":"E12000003","colour":"#F9BC26"},
+		"E07000164":{"n":"Hambleton","q":2,"r":3,"region":"E12000003","colour":"#F9BC26"},
+		"E07000165":{"n":"Harrogate","q":2,"r":2,"region":"E12000003","colour":"#F9BC26"},
+		"E07000166":{"n":"Richmondshire","q":1,"r":3,"region":"E12000003","colour":"#F9BC26"},
+		"E07000167":{"n":"Ryedale","q":4,"r":2,"region":"E12000003","colour":"#F9BC26"},
+		"E07000168":{"n":"Scarborough","q":3,"r":3,"region":"E12000003","colour":"#F9BC26"},
+		"E07000169":{"n":"Selby","q":2,"r":1,"region":"E12000003","colour":"#F9BC26"}
+	}
+}

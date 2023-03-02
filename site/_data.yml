@@ -1,4 +1,4 @@
-layout: layouts/base.njk
+layout: layouts/default.njk
 
 metas:
   # type: The page type (by default is website).

@@ -1,0 +1,19 @@
+---
+css: |
+  .pane {
+    --pane-width: unset;
+    --border: 2px solid grey;
+    width: var(--pane-width);
+    border: var(--border);
+    border-radius: 0.2rem;
+    padding: 0.5rem;
+  }
+---
+{% set style_overrides -%}
+  {% if width %}--pane-width:{{ width }};{% endif -%}
+  {% if no_border %}--border: none;padding: 0;{% endif -%}
+{% endset -%}
+
+<div class="pane {{ classes }}" style="{{ style_overrides }}">
+  {{ content | safe }}
+</div>
