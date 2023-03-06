@@ -1,13 +1,13 @@
 LA,Thing,Count
-Bradford,CSCS Card,4081
-Bradford,General Certificate Of Secondary Education,1765
+Bradford,CSCS Card,4085
+Bradford,General Certificate Of Secondary Education,1763
 Bradford,Psychiatric-Mental Health Nurse Practitioner,1089
 Bradford,Chartered Institute Of Management Accountants (CIMA),1049
 Bradford,Association Of Chartered Certified Accountants,1032
-Bradford,Functional Skills Qualification,947
+Bradford,Functional Skills Qualification,945
 Bradford,Chartered Institute Of Personnel And Development (CIPD) Certified,452
 Bradford,Certified Information Systems Security Professional,448
-Bradford,PRINCE2  (PRojects IN Controlled Environments 2),177
+Bradford,PRINCE2  (PRojects IN Controlled Environments 2),175
 Bradford,Doctor Of Dental Surgery (DDS),156
 Bradford,Certified Information Security Manager,143
 Bradford,GIAC Certifications,128
@@ -15,7 +15,7 @@ Bradford,Certified Information System Auditor (CISA),128
 Bradford,AWS Certified Security Specialty,128
 Bradford,ITIL Certifications,120
 Bradford,Cisco Certified Network Professional,118
-Bradford,NEBOSH Certificate,110
+Bradford,NEBOSH Certificate,108
 Bradford,IOSH Managing Safely,97
 Bradford,Cisco Certified Design Professional,96
 Bradford,Software Development Engineer in Test,96
@@ -45,70 +45,69 @@ Bradford,Registered Diagnostic Cardiac Sonographer,16
 Bradford,Cisco Certified Network Associate,12
 Bradford,Certified Internet Webmaster,11
 Bradford,CompTIA A+,9
-Bradford,Bachelor Of Science in Business,9
-Bradford,Basic Life Support (BLS) Certification,8
 Bradford,Six Sigma Green Belt Certification,8
-Bradford,Microsoft Certified Systems Engineer,7
-Bradford,Core Domestic Gas Safety (CCN1),7
+Bradford,Basic Life Support (BLS) Certification,8
 Bradford,Chartered Financial Planner,7
-Bradford,Communication Certificates,6
-Bradford,Certified Scrum Product Owner,6
+Bradford,Core Domestic Gas Safety (CCN1),7
+Bradford,Microsoft Certified Systems Engineer,7
 Bradford,Nurse Practitioner,6
-Bradford,Information Advice And Guidance (IAG) Qualification,3
-Bradford,Salesforce Certified Administrator,3
+Bradford,Certified Scrum Product Owner,6
+Bradford,Communication Certificates,6
 Bradford,State Bar Membership,3
-Bradford,No Child Left Behind Act (NCLB) Standards,3
+Bradford,Information Advice And Guidance (IAG) Qualification,3
 Bradford,American Society For Clinical Pathology (ASCP) Certification,3
-Bradford,Clinical Nurse Specialists (CNS),2
-Bradford,Post Graduate Certificate In Education (PGCE),2
-Bradford,Juniper Networks Certified Internet Associate,2
-Bradford,Residential Electronics Systems Integrator,2
-Bradford,Certified Purchasing Professional,2
-Bradford,Certified Nephrology Nurse,2
-Bradford,Certified Ethical Hacker,2
-Bradford,Associate Project Management,2
+Bradford,Salesforce Certified Administrator,3
+Bradford,No Child Left Behind Act (NCLB) Standards,3
+Bradford,Product Certification,2
 Bradford,Cisco Certified Internetwork Expert,2
 Bradford,CISCO Certified Network Professional - Security,2
-Bradford,Clamp Truck Certification,2
-Bradford,Product Certification,2
-Bradford,International Computer Driving Licence (ICDL/ECDL),2
+Bradford,Certified Ethical Hacker,2
+Bradford,Associate Project Management,2
+Bradford,Juniper Networks Certified Internet Associate,2
+Bradford,Post Graduate Certificate In Education (PGCE),2
 Bradford,Institute Of Internal Auditors (IIA),2
 Bradford,Enterprise Desktop Administrator (Microsoft Certified IT Professional),2
 Bradford,Asset Management Certification,2
 Bradford,Associate Member of the Chartered Institute of Personnel and Development,2
-Bradford,(American Society For Quality) ASQ Certified,1
-Bradford,Top Secret-Sensitive Compartmented Information (TS/SCI Clearance),1
-Bradford,Juniper Network Certified Internet Professional (JNCIP),1
-Bradford,Pega Certified Senior System Architect,1
-Bradford,CompTIA Security+,1
-Bradford,Registered Dietitian (RD/RDN),1
+Bradford,Clamp Truck Certification,2
+Bradford,Certified Purchasing Professional,2
+Bradford,Certified Nephrology Nurse,2
+Bradford,Residential Electronics Systems Integrator,2
+Bradford,International Computer Driving Licence (ICDL/ECDL),2
+Bradford,Clinical Nurse Specialists (CNS),2
+Bradford,Certified Financial Risk Management,1
+Bradford,Certified Financial Planner,1
 Bradford,SAS Certified Platform Administrator,1
 Bradford,Microsoft Azure Certification,1
 Bradford,Juniper Networks Certified Internet Specialist,1
 Bradford,Certification In Control Self-Assessment,1
 Bradford,Quality Inspector Certification,1
-Bradford,Certified Financial Risk Management,1
-Bradford,Certified Financial Planner,1
-Bradford,Commercial Driver's License (CDL),1
-Bradford,Certified Emergency Nurse (CEN),1
-Bradford,Red Hat Certification Programs,1
 Bradford,SAP Certification,1
 Bradford,Chartered Member Of The Chartered Institute Of Personnel And Development (MCIPD),1
 Bradford,Certified Business Manager,1
 Bradford,Certified Associate In Project Management,1
-Calderdale,General Certificate Of Secondary Education,542
-Calderdale,Functional Skills Qualification,319
-Calderdale,Chartered Institute Of Management Accountants (CIMA),251
-Calderdale,Association Of Chartered Certified Accountants,244
+Bradford,(American Society For Quality) ASQ Certified,1
+Bradford,Juniper Network Certified Internet Professional (JNCIP),1
+Bradford,Red Hat Certification Programs,1
+Bradford,Commercial Driver's License (CDL),1
+Bradford,Certified Emergency Nurse (CEN),1
+Bradford,Registered Dietitian (RD/RDN),1
+Bradford,CompTIA Security+,1
+Bradford,Pega Certified Senior System Architect,1
+Bradford,Top Secret-Sensitive Compartmented Information (TS/SCI Clearance),1
+Calderdale,General Certificate Of Secondary Education,491
+Calderdale,Functional Skills Qualification,308
+Calderdale,Association Of Chartered Certified Accountants,211
+Calderdale,Chartered Institute Of Management Accountants (CIMA),210
 Calderdale,Master Of Business Administration (MBA),96
-Calderdale,PRINCE2  (PRojects IN Controlled Environments 2),80
-Calderdale,Chartered Institute Of Personnel And Development (CIPD) Certified,72
-Calderdale,Chartered Accountant,54
+Calderdale,PRINCE2  (PRojects IN Controlled Environments 2),77
+Calderdale,Chartered Institute Of Personnel And Development (CIPD) Certified,55
+Calderdale,Chartered Accountant,52
 Calderdale,Chartered Financial Analyst,43
-Calderdale,Microsoft Certified Professional,36
 Calderdale,ITIL Certifications,35
 Calderdale,Certified Information System Auditor (CISA),35
-Calderdale,CSCS Card,34
+Calderdale,Microsoft Certified Professional,31
+Calderdale,CSCS Card,28
 Calderdale,Cisco Certified Network Associate,27
 Calderdale,ITIL Foundation Certification,25
 Calderdale,Post Graduate Certificate In Education (PGCE),24
@@ -121,70 +120,65 @@ Calderdale,Certified Information Security Manager,17
 Calderdale,Certified Internal Auditor,17
 Calderdale,CompTIA Certification,15
 Calderdale,Registered Dietitian (RD/RDN),15
-Calderdale,CIPD Level 5,14
-Calderdale,Certified Information Systems Security Professional,14
-Calderdale,VMware Certified Professional (VCP),12
+Calderdale,Certified Information Systems Security Professional,13
 Calderdale,IOSH Managing Safely,12
-Calderdale,Project Management Professional Certification,9
-Calderdale,Association Of Proposal Management Professionals (APMP) Certification,9
+Calderdale,VMware Certified Professional (VCP),12
 Calderdale,Aquatic Facility Operator (AFO) Certification,9
-Calderdale,National Apprenticeship Certificate,8
-Calderdale,CIPD Level 3,8
+Calderdale,CIPD Level 5,9
+Calderdale,Association Of Proposal Management Professionals (APMP) Certification,9
 Calderdale,Certified Information Privacy Professional,8
 Calderdale,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,8
-Calderdale,Microsoft Azure Certification,7
+Calderdale,Project Management Professional Certification,8
 Calderdale,Certified Scrum Product Owner,7
 Calderdale,Lean Six Sigma Black Belt,7
 Calderdale,Certified In Risk And Information Systems Control,7
-Calderdale,Cisco Certified Security Professional,6
 Calderdale,Certified Business Analysis Professional,6
 Calderdale,Microsoft Certified IT Professional,6
 Calderdale,Microsoft Certified: Azure Fundamentals,6
 Calderdale,ITIL Practitioner Certification,6
 Calderdale,Certified Fraud Examiner,6
+Calderdale,Forklift Certification,5
 Calderdale,Citrix Certified Integration Architecture,5
 Calderdale,Citrix Certified Enterprise Administrator,5
 Calderdale,CompTIA Security+,5
+Calderdale,Microsoft Azure Certification,5
 Calderdale,Certified Ethical Hacker,5
-Calderdale,Forklift Certification,5
-Calderdale,ITIL Expert Certification,4
-Calderdale,IAM Certificate In Asset Management,4
+Calderdale,Registered Sleep Technologist,4
 Calderdale,Licensed Practical Nurse,4
 Calderdale,Certified Healthcare Emergency Professional,4
-Calderdale,Registered Sleep Technologist,4
+Calderdale,ITIL Expert Certification,4
+Calderdale,IAM Certificate In Asset Management,4
+Calderdale,Cisco Certified Security Professional,4
 Calderdale,Agile Certification,4
-Calderdale,Certification Of Capability In Business Analysis (CCBA),3
+Calderdale,CIPD Level 3,3
+Calderdale,Communication Certificates,3
 Calderdale,Salesforce Certified System Architect,3
 Calderdale,Certified Secure Software Lifecycle Professional,3
 Calderdale,EC Council Certified Security Analyst,3
-Calderdale,Communication Certificates,3
 Calderdale,Offensive Security Certified Professional,3
 Calderdale,GIAC Penetration Tester,3
 Calderdale,GIAC Exploit Researcher And Advanced Penetration Tester,3
 Calderdale,GIAC Certifications,3
 Calderdale,Certified Scrum Master,3
 Calderdale,Certified Management Accountant,3
-Calderdale,Information Advice And Guidance (IAG) Qualification,2
+Calderdale,Certified First Responder,2
 Calderdale,Certified International Property Specialist,2
 Calderdale,AWS Certified Solutions Architect Associate,2
 Calderdale,CompTIA Network+,2
 Calderdale,NEBOSH Certificate,2
 Calderdale,Professional Engineer,2
 Calderdale,Cisco Certified Internetwork Expert,2
-Calderdale,Certified First Responder,2
-Calderdale,Systems Security Certified Practitioner,1
-Calderdale,Nurse Practitioner,1
-Calderdale,Licensed Professional Counselor (LPC),1
-Calderdale,American Board Of Optometry Certified,1
-Calderdale,Associate Project Management,1
+Calderdale,Certificate Of Clinical Competence In Speech-Language Pathology (CCC-SLP),1
+Calderdale,Radiology Certified Coder,1
+Calderdale,Chartered Institute Of Marketing (CIM),1
+Calderdale,Clinical Nurse Specialists (CNS),1
+Calderdale,CIPD Level 7,1
 Calderdale,Microsoft Certified Technology Specialist,1
+Calderdale,Information Advice And Guidance (IAG) Qualification,1
 Calderdale,CompTIA A+,1
 Calderdale,Certified Wireless Security Professional,1
 Calderdale,Certified Wireless Network Administrator,1
 Calderdale,Advanced Cardiovascular Life Support (ACLS) Certification,1
-Calderdale,Clinical Nurse Specialists (CNS),1
-Calderdale,CIPD Level 7,1
-Calderdale,Radiology Certified Coder,1
 Calderdale,Six Sigma Green Belt Certification,1
 Calderdale,Six Sigma Black Belt Certification,1
 Calderdale,PMI Agile Certified Practitioner,1
@@ -196,6 +190,8 @@ Calderdale,Chartered Professional Engineer,1
 Calderdale,Certified Professional Management Consultant,1
 Calderdale,Certified Business Manager,1
 Calderdale,Basic Life Support (BLS) Certification,1
+Calderdale,Advanced Life Support,1
+Calderdale,Associate Project Management,1
 Craven,General Certificate Of Secondary Education,282
 Craven,Certified International Property Specialist,95
 Craven,Association Of Chartered Certified Accountants,69
@@ -204,30 +200,27 @@ Craven,Functional Skills Qualification,38
 Craven,PRINCE2  (PRojects IN Controlled Environments 2),24
 Craven,Six Sigma Green Belt Certification,21
 Craven,CSCS Card,10
-Craven,Chartered Institute Of Personnel And Development (CIPD) Certified,9
 Craven,Doctor Of Veterinary Medicine (DVM/VMD),9
+Craven,Chartered Institute Of Personnel And Development (CIPD) Certified,9
+Craven,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,8
 Craven,Six Sigma Black Belt Certification,8
 Craven,Lean Six Sigma Black Belt,8
-Craven,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,8
 Craven,IOSH Managing Safely,6
-Craven,Salesforce Certified Administrator,5
 Craven,PMI Professional in Business Analysis,5
-Craven,CIPD Level 3,3
-Craven,CIPD Level 5,3
+Craven,Salesforce Certified Administrator,5
+Craven,Basic Life Support (BLS) Certification,3
+Craven,Professional in Human Resources,3
+Craven,Master Of Business Administration (MBA),3
 Craven,Certified Industrial Hygienist (CIH),3
 Craven,NEBOSH Certificate,3
-Craven,Professional in Human Resources,3
-Craven,Basic Life Support (BLS) Certification,3
-Craven,Master Of Business Administration (MBA),3
-Craven,Forklift Certification,2
-Craven,Chartered Accountant,2
+Craven,CIPD Level 5,3
+Craven,CIPD Level 3,3
 Craven,Clinical Nurse Specialists (CNS),2
 Craven,Certified Diabetes Educator,2
 Craven,Associate Project Management,2
-Craven,Post Graduate Certificate In Education (PGCE),1
-Craven,Licensed Professional Counselor (LPC),1
-Craven,Certified Scrum Product Owner,1
-Craven,Six Sigma Certification,1
+Craven,Chartered Accountant,2
+Craven,Forklift Certification,2
+Craven,Standards Of Training Certification and Watchkeeping,1
 Craven,Project Management Professional Certification,1
 Craven,ITIL Foundation Certification,1
 Craven,ITIL Certifications,1
@@ -236,34 +229,36 @@ Craven,Cisco Certified Network Associate,1
 Craven,Certified Information Privacy Professional,1
 Craven,Bachelor Of Science in Business Administration,1
 Craven,Advanced Emergency Medical Technician (AEMT),1
-Craven,Standards Of Training Certification and Watchkeeping,1
-Hambleton,General Certificate Of Secondary Education,516
-Hambleton,Security Clearance,72
+Craven,Six Sigma Certification,1
+Craven,Post Graduate Certificate In Education (PGCE),1
+Craven,Certified Scrum Product Owner,1
+Craven,Licensed Professional Counselor (LPC),1
+Hambleton,General Certificate Of Secondary Education,507
 Hambleton,Functional Skills Qualification,67
-Hambleton,CSCS Card,58
+Hambleton,CSCS Card,55
 Hambleton,CompTIA Certification,42
-Hambleton,Certified Business Manager,41
-Hambleton,Chartered Institute Of Management Accountants (CIMA),22
-Hambleton,Association Of Chartered Certified Accountants,21
-Hambleton,IOSH Managing Safely,17
+Hambleton,Certified Business Manager,36
+Hambleton,Chartered Institute Of Management Accountants (CIMA),20
+Hambleton,Association Of Chartered Certified Accountants,19
 Hambleton,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,15
+Hambleton,Security Clearance,15
+Hambleton,IOSH Managing Safely,13
 Hambleton,Personal Trainer Certification,10
-Hambleton,CIPD Level 3,6
 Hambleton,Nurse Practitioner,5
-Hambleton,PRINCE2  (PRojects IN Controlled Environments 2),5
-Hambleton,Certified Quality Auditor,3
 Hambleton,Master Of Business Administration (MBA),3
-Hambleton,Project Management Professional Certification,2
+Hambleton,CIPD Level 3,3
+Hambleton,Certified Quality Auditor,3
 Hambleton,CIPD Level 7,2
+Hambleton,PRINCE2  (PRojects IN Controlled Environments 2),2
 Hambleton,CIPD Level 5,1
-Harrogate,General Certificate Of Secondary Education,1064
-Harrogate,Functional Skills Qualification,434
-Harrogate,Association Of Chartered Certified Accountants,380
+Harrogate,General Certificate Of Secondary Education,1061
+Harrogate,Functional Skills Qualification,435
+Harrogate,Association Of Chartered Certified Accountants,378
 Harrogate,HVAC Certification,133
 Harrogate,Chartered Institute Of Management Accountants (CIMA),95
 Harrogate,Security Clearance,91
-Harrogate,Chartered Institute Of Personnel And Development (CIPD) Certified,63
-Harrogate,CSCS Card,48
+Harrogate,Chartered Institute Of Personnel And Development (CIPD) Certified,64
+Harrogate,CSCS Card,50
 Harrogate,Certified International Property Specialist,44
 Harrogate,Chartered Financial Analyst,43
 Harrogate,PRINCE2  (PRojects IN Controlled Environments 2),41
@@ -276,168 +271,168 @@ Harrogate,Certified Public Accountant,21
 Harrogate,Cisco Certified Network Associate,20
 Harrogate,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,19
 Harrogate,Institute Of Internal Auditors (IIA),19
-Harrogate,Master Of Business Administration (MBA),18
 Harrogate,Forklift Certification,18
+Harrogate,Master Of Business Administration (MBA),18
 Harrogate,Six Sigma Black Belt Certification,17
 Harrogate,VMware Certified Professional (VCP),15
 Harrogate,Microsoft Certified Systems Administrator (MCSA),15
-Harrogate,CIPD Level 5,14
 Harrogate,Microsoft Certified Professional,14
+Harrogate,CIPD Level 5,14
 Harrogate,Cisco Certified Network Professional,13
+Harrogate,CIPD Level 3,12
 Harrogate,Microsoft Certified Systems Engineer,12
-Harrogate,CIPD Level 3,11
-Harrogate,Certified Senior Lighting Technician,10
 Harrogate,CompTIA A+,10
-Harrogate,Certification In Control Self-Assessment,9
-Harrogate,Certified Internet Webmaster,9
-Harrogate,Microsoft Certified IT Professional,9
+Harrogate,Certified Senior Lighting Technician,10
 Harrogate,Six Sigma Certification,9
+Harrogate,Certified Internet Webmaster,9
+Harrogate,Certification In Control Self-Assessment,9
+Harrogate,Microsoft Certified IT Professional,9
+Harrogate,CompTIA Network+,8
 Harrogate,Certified Information Systems Security Professional,8
 Harrogate,Associate Project Management,8
-Harrogate,CompTIA Network+,8
-Harrogate,Six Sigma Green Belt Certification,7
 Harrogate,NIST Cybersecurity Framework (CSF),7
 Harrogate,CompTIA Security+,7
 Harrogate,Certified Information Security Manager,7
 Harrogate,Certified Ethical Hacker,7
-Harrogate,Certified Welder,7
 Harrogate,Chartered Institute Of Marketing (CIM),7
-Harrogate,IOSH Managing Safely,6
-Harrogate,Certified Information Privacy Professional,6
+Harrogate,Certified Welder,7
+Harrogate,Six Sigma Green Belt Certification,7
 Harrogate,Project Management Professional Certification,6
+Harrogate,Certified Information Privacy Professional,6
+Harrogate,IOSH Managing Safely,6
 Harrogate,NEBOSH Diploma,5
-Harrogate,Solidworks Certification,4
+Harrogate,Commercial Driver's License (CDL),4
 Harrogate,Personal Trainer Certification,4
 Harrogate,Salesforce Certified Platform Developer II,4
 Harrogate,Salesforce Certified Platform Developer I,4
 Harrogate,Salesforce Certification,4
 Harrogate,Cisco Certified Network Associate (CCNA) Routing And Switching,4
-Harrogate,Commercial Driver's License (CDL),4
+Harrogate,Solidworks Certification,4
+Harrogate,CISCO Certified Network Professional - Security,3
+Harrogate,Lean Six Sigma Black Belt,3
+Harrogate,VMware Certified Associate,3
 Harrogate,Salesforce Certified Administrator,3
 Harrogate,Offensive Security Certified Professional,3
-Harrogate,Lean Six Sigma Black Belt,3
-Harrogate,CISCO Certified Network Professional - Security,3
-Harrogate,VMware Certified Associate,3
-Harrogate,CIPD Level 7,2
-Harrogate,Certified Sales Executive,2
 Harrogate,Chartered Accountant,2
-Harrogate,Pega Certified Senior System Architect,2
-Harrogate,Chartered Life Underwriter,2
+Harrogate,Board Certified/Board Eligible,2
 Harrogate,ITIL Practitioner Certification,2
 Harrogate,Cisco Certified Internetwork Expert,2
+Harrogate,Chartered Life Underwriter,2
+Harrogate,Pega Certified Senior System Architect,2
+Harrogate,CIPD Level 7,2
 Harrogate,AWS Certified Solutions Architect,2
-Harrogate,Board Certified/Board Eligible,2
-Harrogate,Bachelor Of Science in Business,1
-Harrogate,Google Adwords Certification,1
-Harrogate,Post Graduate Certificate In Education (PGCE),1
-Harrogate,NEBOSH Certificate,1
-Harrogate,National Apprenticeship Certificate,1
-Harrogate,ASNT Non-Destructive Tester,1
-Harrogate,Certified Internal Auditor,1
-Harrogate,Certified Accounting Technician,1
-Harrogate,Certified Dental Technician,1
-Harrogate,(American Society For Quality) ASQ Certified,1
-Harrogate,Certified Veterinary Technician,1
+Harrogate,Certified Sales Executive,2
 Harrogate,Doctor Of Veterinary Medicine (DVM/VMD),1
-Kirklees,General Certificate Of Secondary Education,864
-Kirklees,Functional Skills Qualification,488
-Kirklees,Association Of Chartered Certified Accountants,365
-Kirklees,Chartered Institute Of Management Accountants (CIMA),222
+Harrogate,Certified Veterinary Technician,1
+Harrogate,(American Society For Quality) ASQ Certified,1
+Harrogate,ASNT Non-Destructive Tester,1
+Harrogate,Certified Dental Technician,1
+Harrogate,NEBOSH Certificate,1
+Harrogate,Google Adwords Certification,1
+Harrogate,Certified Internal Auditor,1
+Harrogate,Bachelor Of Science in Business,1
+Harrogate,Post Graduate Certificate In Education (PGCE),1
+Harrogate,National Apprenticeship Certificate,1
+Harrogate,Certified Accounting Technician,1
+Kirklees,General Certificate Of Secondary Education,854
+Kirklees,Functional Skills Qualification,479
+Kirklees,Association Of Chartered Certified Accountants,363
+Kirklees,Chartered Institute Of Management Accountants (CIMA),223
 Kirklees,CSCS Card,190
 Kirklees,Certified International Property Specialist,75
 Kirklees,ITIL Certifications,66
 Kirklees,PRINCE2  (PRojects IN Controlled Environments 2),59
-Kirklees,Chartered Accountant,55
+Kirklees,Chartered Accountant,52
 Kirklees,Security Clearance,50
 Kirklees,NEBOSH Diploma,39
+Kirklees,Chartered Institute Of Personnel And Development (CIPD) Certified,31
 Kirklees,Core Domestic Gas Safety (CCN1),31
 Kirklees,IOSH Managing Safely,29
-Kirklees,Chartered Institute Of Personnel And Development (CIPD) Certified,28
 Kirklees,Nurse Practitioner,25
 Kirklees,Agile Certification,22
 Kirklees,Linux/GNU Certified Administrator,20
-Kirklees,Certified Information Privacy Professional,20
 Kirklees,Post Graduate Certificate In Education (PGCE),20
+Kirklees,Certified Information Privacy Professional,20
 Kirklees,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,19
 Kirklees,Chartered Member Of The Chartered Institute Of Personnel And Development (MCIPD),18
+Kirklees,Chartered Engineer,17
 Kirklees,Offensive Security Certified Professional,17
 Kirklees,Certified Information Systems Security Professional,17
 Kirklees,Certified Ethical Hacker,17
-Kirklees,Chartered Engineer,17
 Kirklees,Licensed Professional Counselor (LPC),16
 Kirklees,Certified Scrum Product Owner,16
 Kirklees,Standards Of Training Certification and Watchkeeping,15
 Kirklees,ITIL Foundation Certification,14
+Kirklees,CIPD Level 5,13
 Kirklees,Master Of Public Administration,13
 Kirklees,Communication Certificates,12
-Kirklees,CIPD Level 5,11
 Kirklees,NEBOSH Certificate,11
 Kirklees,Microsoft Certified Professional,10
-Kirklees,Forklift Certification,10
 Kirklees,Master Of Laws,10
+Kirklees,Forklift Certification,10
 Kirklees,Heating Specialist,10
 Kirklees,HVAC Certification,9
 Kirklees,CIPD Level 3,7
-Kirklees,Certified Accounting Technician,7
 Kirklees,Red Hat Certification Programs,7
+Kirklees,Certified Accounting Technician,7
 Kirklees,Cisco Certified Network Associate,6
-Kirklees,ITIL Practitioner Certification,5
 Kirklees,Six Sigma Green Belt Certification,5
-Kirklees,Institute Of Internal Auditors (IIA),5
-Kirklees,Microsoft Azure Certification,5
-Kirklees,CompTIA Certification,5
+Kirklees,ITIL Practitioner Certification,5
 Kirklees,Project Management Professional Certification,5
+Kirklees,Institute Of Internal Auditors (IIA),5
+Kirklees,CompTIA Certification,5
+Kirklees,Microsoft Azure Certification,5
 Kirklees,System Operator Certification,4
-Kirklees,Registered Diagnostic Cardiac Sonographer,4
-Kirklees,Associate Member of the Chartered Institute of Personnel and Development,4
-Kirklees,Construction Health And Safety Technician,4
 Kirklees,Microsoft Certified Azure Solutions Architect,4
 Kirklees,Google Professional Cloud Architect,4
 Kirklees,AWS Certified SysOps Administrator,4
 Kirklees,AWS Certified Developer,4
 Kirklees,AWS Certified DevOps Engineer,4
-Kirklees,SAP Certification,3
-Kirklees,Master Of Business Administration (MBA),3
+Kirklees,Associate Member of the Chartered Institute of Personnel and Development,4
+Kirklees,Construction Health And Safety Technician,4
+Kirklees,Registered Diagnostic Cardiac Sonographer,4
 Kirklees,Certified Scrum Master,3
+Kirklees,SAP Certification,3
+Kirklees,Bachelor Of Science in Business,3
 Kirklees,Certified Associate In Project Management,3
 Kirklees,Cisco Certified Internetwork Expert,3
-Kirklees,Bachelor Of Science in Business,3
-Kirklees,LR-Jet (Pilot Certificate Aircraft Type Designation),2
-Kirklees,Professional Engineer,2
-Kirklees,CompTIA Network+,2
+Kirklees,Master Of Business Administration (MBA),3
 Kirklees,Certified Power Quality Professional,2
-Kirklees,Microsoft Certified Systems Engineer,2
 Kirklees,Associate Project Management,2
-Kirklees,Information Advice And Guidance (IAG) Qualification,2
-Kirklees,Advanced Life Support,2
+Kirklees,Microsoft Certified Systems Engineer,2
 Kirklees,Certified In Production And Inventory Management,2
 Kirklees,APICS Certified Supply Chain Professional,2
-Kirklees,Chartered Institute Of Marketing (CIM),1
-Kirklees,CIPD Level 7,1
-Kirklees,Cisco Certified Security Professional,1
+Kirklees,Information Advice And Guidance (IAG) Qualification,2
+Kirklees,Advanced Life Support,2
+Kirklees,Professional Engineer,2
+Kirklees,CompTIA Network+,2
+Kirklees,LR-Jet (Pilot Certificate Aircraft Type Designation),2
 Kirklees,Certification In Control Self-Assessment,1
-Kirklees,Clinical Nurse Specialists (CNS),1
+Kirklees,Cisco Certified Security Professional,1
 Kirklees,National Apprenticeship Certificate,1
-Kirklees,Family Nurse Practitioner,1
-Kirklees,Certified Sales Executive,1
+Kirklees,CIPD Level 7,1
+Kirklees,Product Certification,1
+Kirklees,Top Secret-Sensitive Compartmented Information (TS/SCI Clearance),1
 Kirklees,VMware Certified Professional (VCP),1
 Kirklees,ServiceNow Certified System Administrator (CSA),1
 Kirklees,ServiceNow Certified Implementation Specialist (CIS),1
-Kirklees,Facebook Blueprint Certification,1
+Kirklees,Chartered Institute Of Marketing (CIM),1
 Kirklees,Professional in Human Resources,1
 Kirklees,Licensed Practical Nurse,1
 Kirklees,Association Of Proposal Management Professionals (APMP) Certification,1
 Kirklees,National Council Licensure Examination,1
 Kirklees,Bachelor Of Science in Nursing (BSN),1
-Kirklees,Product Certification,1
-Kirklees,Top Secret-Sensitive Compartmented Information (TS/SCI Clearance),1
-Leeds,General Certificate Of Secondary Education,5666
+Kirklees,Facebook Blueprint Certification,1
+Kirklees,Family Nurse Practitioner,1
+Kirklees,Certified Sales Executive,1
+Kirklees,Clinical Nurse Specialists (CNS),1
+Leeds,General Certificate Of Secondary Education,5674
 Leeds,CSCS Card,3450
-Leeds,Functional Skills Qualification,1776
-Leeds,Chartered Institute Of Management Accountants (CIMA),1046
-Leeds,PRINCE2  (PRojects IN Controlled Environments 2),912
-Leeds,Nurse Practitioner,886
-Leeds,Association Of Chartered Certified Accountants,883
+Leeds,Functional Skills Qualification,1777
+Leeds,Chartered Institute Of Management Accountants (CIMA),1045
+Leeds,PRINCE2  (PRojects IN Controlled Environments 2),909
+Leeds,Nurse Practitioner,890
+Leeds,Association Of Chartered Certified Accountants,882
 Leeds,Security Clearance,786
 Leeds,Chartered Institute Of Personnel And Development (CIPD) Certified,774
 Leeds,Certified Nurse Practitioner,666
@@ -445,7 +440,7 @@ Leeds,Post Graduate Certificate In Education (PGCE),610
 Leeds,HVAC Certification,425
 Leeds,Core Domestic Gas Safety (CCN1),423
 Leeds,Diploma In Nursing,367
-Leeds,Psychiatric-Mental Health Nurse Practitioner,338
+Leeds,Psychiatric-Mental Health Nurse Practitioner,339
 Leeds,Certified International Property Specialist,313
 Leeds,Bachelor Of Science in Business,228
 Leeds,ITIL Certifications,215
@@ -465,22 +460,22 @@ Leeds,Cisco Certified Network Associate,142
 Leeds,Chartered Institute For The Management Of Sport And Physical Activity (CIMSPA),139
 Leeds,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,113
 Leeds,Institute Of Internal Auditors (IIA),104
-Leeds,CIPD Level 5,103
+Leeds,CIPD Level 5,101
 Leeds,Chartered Financial Analyst,100
 Leeds,Certified Ostomy Care Nurse,100
 Leeds,Chartered Engineer,99
 Leeds,IOSH Managing Safely,96
 Leeds,Licensed Professional Counselor (LPC),94
-Leeds,Forklift Certification,91
+Leeds,Forklift Certification,92
 Leeds,Microsoft Certified Professional,90
 Leeds,Wine & Spirit Education Trust (WSET) Certification,90
 Leeds,Association Of Proposal Management Professionals (APMP) Certification,89
 Leeds,Certified Information Privacy Professional,84
+Leeds,Registered Dietitian (RD/RDN),81
 Leeds,Certified Power Quality Professional,81
 Leeds,NEBOSH Diploma,80
-Leeds,Registered Dietitian (RD/RDN),77
-Leeds,Salesforce Certified Sales Cloud Consultant,77
 Leeds,Certified Information Security Manager,77
+Leeds,Salesforce Certified Sales Cloud Consultant,77
 Leeds,Salesforce Certification,75
 Leeds,CIPD Level 3,72
 Leeds,CIPD Level 7,67
@@ -488,11 +483,11 @@ Leeds,CompTIA A+,66
 Leeds,National Council Licensure Examination,65
 Leeds,Licensed Practical Nurse,65
 Leeds,Certified Industrial Hygienist (CIH),64
-Leeds,Certified Information System Auditor (CISA),59
 Leeds,Linux/GNU Certified Administrator,59
+Leeds,Certified Information System Auditor (CISA),59
 Leeds,Chartered Accountant,58
-Leeds,Microsoft Certified Systems Engineer,53
 Leeds,Bachelor Of Science in Business Administration,53
+Leeds,Microsoft Certified Systems Engineer,53
 Leeds,Information Advice And Guidance (IAG) Qualification,52
 Leeds,Gas Meter Safety (MET1),47
 Leeds,Microsoft Certified Systems Administrator (MCSA),45
@@ -500,54 +495,54 @@ Leeds,Certified Control Systems Technician,44
 Leeds,CompTIA Linux+,41
 Leeds,Registered Diagnostic Cardiac Sonographer,40
 Leeds,Smart Meter Installer Core (CMA1),38
+Leeds,Certified Dental Technician,35
 Leeds,Chartered Institute Of Marketing (CIM),35
 Leeds,Meter Operation Code Of Practice Agreement (MOCOPA),35
-Leeds,Certified Dental Technician,35
 Leeds,Certified Scrum Master,32
 Leeds,Certified Ethical Hacker,32
-Leeds,Chartered Financial Planner,31
 Leeds,Associate Project Management,31
-Leeds,Certified Welder,30
-Leeds,GIAC Certifications,30
-Leeds,Microsoft Certified Solutions Expert,30
-Leeds,Certified Scrum Product Owner,30
+Leeds,Chartered Financial Planner,31
 Leeds,Basic Life Support (BLS) Certification,30
+Leeds,Microsoft Certified Solutions Expert,30
+Leeds,GIAC Certifications,30
+Leeds,Certified Welder,30
+Leeds,Certified Scrum Product Owner,30
 Leeds,CompTIA Network+,28
-Leeds,Certified Internet Webmaster,27
 Leeds,Six Sigma Green Belt Certification,27
+Leeds,Certified Internet Webmaster,27
 Leeds,International Certificate Of Competence,25
 Leeds,Associate Degree In Nursing,24
 Leeds,Product Certification,23
 Leeds,CompTIA Security+,23
 Leeds,Communication Certificates,21
 Leeds,Certified Chief Information Security Officer,20
-Leeds,American Medical Technologists (AMT) Certification,20
 Leeds,Contractor License,20
+Leeds,American Medical Technologists (AMT) Certification,20
 Leeds,Emergency Nurses Association,19
 Leeds,Certified Nursing Assistant,19
 Leeds,CompTIA Certification,18
 Leeds,Qualified Security Assessor,18
+Leeds,Enterprise Desktop Administrator (Microsoft Certified IT Professional),17
 Leeds,Cisco Certified Security Professional,17
-Leeds,Facebook Blueprint Certification,16
 Leeds,Board Certified Behavior Analyst,16
-Leeds,Enterprise Desktop Administrator (Microsoft Certified IT Professional),16
+Leeds,Facebook Blueprint Certification,16
 Richmondshire,General Certificate Of Secondary Education,59
 Richmondshire,Functional Skills Qualification,37
 Richmondshire,CSCS Card,10
 Richmondshire,Drone Pilot Certificate,6
-Richmondshire,Chartered Institute Of Management Accountants (CIMA),4
-Richmondshire,Association Of Chartered Certified Accountants,4
 Richmondshire,ITIL Foundation Certification,4
 Richmondshire,ITIL Certifications,4
+Richmondshire,Chartered Institute Of Management Accountants (CIMA),4
+Richmondshire,Association Of Chartered Certified Accountants,4
 Richmondshire,PRINCE2  (PRojects IN Controlled Environments 2),2
+Richmondshire,Associate Project Management,1
 Richmondshire,Master Of Business Administration (MBA),1
 Richmondshire,Chartered Financial Analyst,1
+Richmondshire,Loss Prevention Certified,1
+Richmondshire,Licensed Professional Counselor (LPC),1
 Richmondshire,Microsoft Certified Technology Associate,1
 Richmondshire,Microsoft Certified Professional,1
 Richmondshire,CompTIA A+,1
-Richmondshire,Loss Prevention Certified,1
-Richmondshire,Licensed Professional Counselor (LPC),1
-Richmondshire,Associate Project Management,1
 Ryedale,General Certificate Of Secondary Education,92
 Ryedale,Functional Skills Qualification,59
 Ryedale,Chartered Institute Of Management Accountants (CIMA),40
@@ -564,9 +559,9 @@ Ryedale,ITIL Foundation Certification,2
 Ryedale,ITIL Certifications,2
 Ryedale,CIPD Level 3,2
 Ryedale,Forklift Certification,1
+Ryedale,Certified Healthcare Emergency Professional,1
 Ryedale,National Apprenticeship Certificate,1
 Ryedale,Certified Financial Risk Management,1
-Ryedale,Certified Healthcare Emergency Professional,1
 Scarborough,General Certificate Of Secondary Education,178
 Scarborough,Functional Skills Qualification,149
 Scarborough,Chartered Institute Of Management Accountants (CIMA),35
@@ -574,12 +569,12 @@ Scarborough,Association Of Chartered Certified Accountants,35
 Scarborough,Certified International Property Specialist,16
 Scarborough,CSCS Card,9
 Scarborough,Security Clearance,6
-Scarborough,Certified Accounting Technician,4
 Scarborough,PRINCE2  (PRojects IN Controlled Environments 2),4
+Scarborough,Certified Accounting Technician,4
 Scarborough,Chartered Financial Analyst,3
-Scarborough,Master Of Business Administration (MBA),2
-Scarborough,Forklift Certification,2
 Scarborough,CIPD Level 3,2
+Scarborough,Forklift Certification,2
+Scarborough,Master Of Business Administration (MBA),2
 Scarborough,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,1
 Scarborough,Institute Of Internal Auditors (IIA),1
 Selby,General Certificate Of Secondary Education,128
@@ -587,8 +582,8 @@ Selby,Functional Skills Qualification,63
 Selby,PRINCE2  (PRojects IN Controlled Environments 2),13
 Selby,Association Of Chartered Certified Accountants,12
 Selby,Chartered Institute Of Management Accountants (CIMA),10
-Selby,Forklift Certification,9
 Selby,Association Of Proposal Management Professionals (APMP) Certification,9
+Selby,Forklift Certification,9
 Selby,Certified Scrum Master,7
 Selby,Certified International Property Specialist,7
 Selby,NEBOSH Certificate,6
@@ -600,22 +595,22 @@ Selby,Cisco Certified Security Professional,3
 Selby,Cisco Certified Internetwork Expert,3
 Selby,Certified Information Systems Security Professional,3
 Selby,Certified Ethical Hacker,3
-Selby,CSCS Card,2
-Selby,Institute Of Internal Auditors (IIA),2
 Selby,Product Certification,2
 Selby,Microsoft Certified Systems Engineer,2
 Selby,Microsoft Certified Professional,2
-Selby,Post Graduate Certificate In Education (PGCE),1
-Selby,Microsoft Office Specialist,1
+Selby,Institute Of Internal Auditors (IIA),2
+Selby,CSCS Card,2
 Selby,Microsoft Certified Systems Administrator (MCSA),1
 Selby,Microsoft Certified Solution Developer (MCSD),1
 Selby,Cisco Certified Network Professional,1
 Selby,Cisco Certified Network Associate,1
 Selby,Chartered Institute Of Personnel And Development (CIPD) Certified,1
-Wakefield,General Certificate Of Secondary Education,1732
+Selby,Post Graduate Certificate In Education (PGCE),1
+Selby,Microsoft Office Specialist,1
+Wakefield,General Certificate Of Secondary Education,1731
 Wakefield,Association Of Chartered Certified Accountants,1178
 Wakefield,Chartered Institute Of Management Accountants (CIMA),1099
-Wakefield,Functional Skills Qualification,726
+Wakefield,Functional Skills Qualification,725
 Wakefield,Clinical Nurse Specialists (CNS),622
 Wakefield,Nurse Practitioner,537
 Wakefield,CSCS Card,221
@@ -631,62 +626,57 @@ Wakefield,Chartered Institute Of Marketing (CIM),40
 Wakefield,Certified Internet Webmaster,39
 Wakefield,Certified Nurse Practitioner,34
 Wakefield,Chartered Accountant,25
-Wakefield,Doctor Of Pharmacy (PharmD),21
 Wakefield,Offensive Security Certified Professional,21
+Wakefield,Doctor Of Pharmacy (PharmD),21
 Wakefield,Project Management Professional Certification,18
+Wakefield,Salesforce Certification,17
 Wakefield,IOSH Managing Safely,17
 Wakefield,Certified International Property Specialist,17
-Wakefield,Salesforce Certification,17
 Wakefield,Chartered Financial Analyst,16
 Wakefield,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,14
-Wakefield,Early Educator Certification,14
 Wakefield,International Institute Of Business Analysis (IIBA) Certified,14
+Wakefield,Early Educator Certification,14
 Wakefield,ITIL Certifications,13
 Wakefield,Software Development Engineer in Test,13
 Wakefield,Certified Information Systems Security Professional,11
-Wakefield,Quality Certification,9
-Wakefield,Master Of Business Administration (MBA),9
 Wakefield,Cisco Certified Network Professional,9
 Wakefield,Certified Information Security Manager,9
 Wakefield,Certified Information System Auditor (CISA),9
 Wakefield,Basic Life Support (BLS) Certification,9
-Wakefield,Institute Of Internal Auditors (IIA),8
+Wakefield,Master Of Business Administration (MBA),9
+Wakefield,Quality Certification,9
 Wakefield,Cisco Certified Internetwork Expert,8
 Wakefield,Certified In The Governance Of Enterprise IT,8
 Wakefield,CompTIA A+,8
 Wakefield,Association Of Proposal Management Professionals (APMP) Certification,8
-Wakefield,Chartered Member Of The Chartered Institute Of Personnel And Development (MCIPD),7
+Wakefield,Institute Of Internal Auditors (IIA),8
 Wakefield,Cisco Certified Network Associate,7
+Wakefield,Chartered Member Of The Chartered Institute Of Personnel And Development (MCIPD),7
 Wakefield,Top Secret-Sensitive Compartmented Information (TS/SCI Clearance),6
-Wakefield,Certified Safety Professional,5
 Wakefield,Salesforce Certified Administrator,5
-Wakefield,Security Clearance,5
 Wakefield,Patient Care Technician,5
+Wakefield,Security Clearance,5
+Wakefield,Certified Safety Professional,5
 Wakefield,Physical Security Professional,4
 Wakefield,Certified Emergency Nurse (CEN),4
-Wakefield,Teaching English As A Foreign Language,3
-Wakefield,(American Society For Quality) ASQ Certified,3
 Wakefield,Licensed Professional Counselor (LPC),3
 Wakefield,ITIL Foundation Certification,3
 Wakefield,Certified Power Quality Professional,3
+Wakefield,Certificate Of Clinical Competence In Speech-Language Pathology (CCC-SLP),3
 Wakefield,Associate Degree In Nursing,3
 Wakefield,Six Sigma Black Belt Certification,3
-Wakefield,Certificate Of Clinical Competence In Speech-Language Pathology (CCC-SLP),3
-Wakefield,Personal Trainer Certification,2
-Wakefield,Diploma In Nursing,2
-Wakefield,Bachelor Of Science in Business,2
-Wakefield,Environmental Certification,2
+Wakefield,Teaching English As A Foreign Language,3
+Wakefield,(American Society For Quality) ASQ Certified,3
 Wakefield,Microsoft Certified Systems Engineer,2
 Wakefield,GIAC Certifications,2
 Wakefield,Advanced Pediatric Life Support,2
+Wakefield,Personal Trainer Certification,2
 Wakefield,Certified Information Privacy Professional,2
-Wakefield,Certified Investment Management Analyst,2
 Wakefield,CompTIA Network+,2
-Wakefield,Clamp Truck Certification,1
-Wakefield,Certified Sales Executive,1
-Wakefield,Certified Accounting Technician,1
-Wakefield,Six Sigma Certification,1
-Wakefield,Forklift Certification,1
+Wakefield,Certified Investment Management Analyst,2
+Wakefield,Bachelor Of Science in Business,2
+Wakefield,Environmental Certification,2
+Wakefield,Diploma In Nursing,2
 Wakefield,Microsoft Certified Desktop Support Technician,1
 Wakefield,Enterprise Desktop Administrator (Microsoft Certified IT Professional),1
 Wakefield,CompTIA Advanced Security Practitioner (CASP+),1
@@ -694,21 +684,26 @@ Wakefield,Certified Wireless Network Administrator,1
 Wakefield,Certified Wireless Analysis Professional,1
 Wakefield,Agile Certification,1
 Wakefield,AWS Certified DevOps Engineer,1
-Wakefield,Pediatric Advanced Life Support,1
-Wakefield,Doctor Of Dental Surgery (DDS),1
+Wakefield,Clamp Truck Certification,1
+Wakefield,Certified Sales Executive,1
+Wakefield,Certified Accounting Technician,1
 Wakefield,CDL Class A License,1
-York,General Certificate Of Secondary Education,946
+Wakefield,Doctor Of Dental Surgery (DDS),1
+Wakefield,Six Sigma Certification,1
+Wakefield,Forklift Certification,1
+Wakefield,Pediatric Advanced Life Support,1
+York,General Certificate Of Secondary Education,1066
 York,CSCS Card,687
 York,Certified Nurse Practitioner,358
-York,Functional Skills Qualification,155
+York,Functional Skills Qualification,159
 York,PRINCE2  (PRojects IN Controlled Environments 2),120
-York,Association Of Chartered Certified Accountants,114
-York,Chartered Institute Of Management Accountants (CIMA),97
+York,Association Of Chartered Certified Accountants,111
+York,Chartered Institute Of Management Accountants (CIMA),96
 York,Chartered Financial Analyst,96
-York,Chartered Institute Of Personnel And Development (CIPD) Certified,72
+York,Chartered Institute Of Personnel And Development (CIPD) Certified,69
 York,DO-178B/C (Software Considerations in Airborne Systems and Equipment Certification),65
 York,Licensed Practical Nurse,62
-York,Nurse Practitioner,61
+York,Nurse Practitioner,57
 York,ITIL Certifications,49
 York,Microsoft Certified Partner,48
 York,Software Development Engineer in Test,45
@@ -716,8 +711,8 @@ York,Master Of Business Administration (MBA),41
 York,NEBOSH Diploma,40
 York,Clinical Nurse Specialists (CNS),39
 York,CIPD Level 5,36
-York,Project Management Professional Certification,33
 York,ITIL Foundation Certification,33
+York,Project Management Professional Certification,33
 York,Post Graduate Certificate In Education (PGCE),31
 York,CIPD Level 3,27
 York,Psychiatric-Mental Health Nurse Practitioner,27
@@ -726,88 +721,85 @@ York,Basic Life Support (BLS) Certification,24
 York,Residential Electronics Systems Integrator,24
 York,Licensed Professional Counselor (LPC),22
 York,Advanced Life Support,22
-York,Chartered Engineer,21
 York,Basic Cardiac Life Support,21
 York,Advanced Cardiovascular Life Support (ACLS) Certification,21
+York,Chartered Engineer,21
 York,IOSH Managing Safely,18
 York,Association Of Proposal Management Professionals (APMP) Certification,16
 York,Pediatric Advanced Life Support,16
-York,Certified International Property Specialist,15
-York,Microsoft Certified Systems Administrator (MCSA),15
 York,Associate Project Management,15
+York,Microsoft Certified Systems Administrator (MCSA),15
+York,Certified International Property Specialist,15
 York,Cisco Certified Network Associate,10
 York,Certified Safety Professional,10
-York,Microsoft Azure Certification,9
-York,Certified Manager (CM),9
 York,Information Advice And Guidance (IAG) Qualification,9
+York,Microsoft Azure Certification,9
+York,Cisco Certified Network Professional,8
 York,CIPD Level 7,8
 York,Top Secret-Sensitive Compartmented Information (TS/SCI Clearance),8
-York,Cisco Certified Network Professional,8
-York,Microsoft Certified Professional,7
 York,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,7
 York,Certified First Responder,7
+York,Microsoft Certified Professional,7
 York,NEBOSH Certificate,6
 York,Certified Scrum Master,6
-York,Associate Member of the Chartered Institute of Personnel and Development,6
-York,Registered Dietitian (RD/RDN),6
 York,Oncology Certified Nurse,6
+York,Certified Information Systems Security Professional,5
+York,Security Clearance,5
+York,Certified Scrum Product Owner,5
 York,Salesforce Certified Administrator,5
 York,Certified Power Quality Professional,5
-York,Security Clearance,5
-York,Certified Information Systems Security Professional,5
-York,Certified Scrum Product Owner,5
-York,Forklift Certification,4
-York,ITIL Practitioner Certification,4
-York,Certified Strength And Conditioning Specialist,4
-York,Patient Care Technician,4
-York,Critical Care Registered Nurse (CCRN),4
 York,Master Of Laws,4
 York,Microsoft Certified Systems Engineer,4
-York,Certified Information Privacy Professional,3
-York,Certified Healthcare Emergency Professional,3
-York,Certified Professional Estimator,3
-York,International Institute Of Business Analysis (IIBA) Certified,3
+York,Critical Care Registered Nurse (CCRN),4
+York,ITIL Practitioner Certification,4
+York,Certified Strength And Conditioning Specialist,4
+York,Certificate In English Language Teaching To Adults (CELTA),3
 York,CompTIA Certification,3
 York,Certified Internal Auditor,3
-York,Certificate In English Language Teaching To Adults (CELTA),3
+York,Certified Professional Estimator,3
+York,Certified Information Privacy Professional,3
+York,Certified Healthcare Emergency Professional,3
+York,Certified Accounting Technician,2
+York,Certified Public Accountant,2
+York,Certified Financial Planner,2
+York,Registered Dietitian (RD/RDN),2
+York,National Apprenticeship Certificate,2
 York,Google Analytics Certification,2
 York,Google Adwords Certification,2
-York,Certified Public Accountant,2
-York,Bachelor Of Science in Business,2
-York,Certified Financial Planner,2
-York,Certified Accounting Technician,2
-York,National Apprenticeship Certificate,2
 York,Chartered Fellow Of The Chartered Institute Of Personnel and Development (FCIPD),2
-York,Certified Veterinary Technician,1
-York,Hazard Analysis And Critical Control Point (HACCP) Certification,1
-York,Certified Industrial Hygienist (CIH),1
+York,Forklift Certification,2
+York,Bachelor Of Science in Business,2
+York,VMware Certified Professional (VCP),1
+York,SAS Certification,1
+York,Chartered Accountant,1
+York,Systems Security Certified Practitioner,1
+York,System Operator Certification,1
+York,International Institute Of Business Analysis (IIBA) Certified,1
+York,CompTIA Security+,1
+York,CompTIA Cybersecurity Analyst (CySA+),1
+York,CompTIA Advanced Security Practitioner (CASP+),1
+York,Certified Ethical Hacker,1
+York,Juniper Network Certified Internet Professional (JNCIP),1
 York,Enterprise Desktop Administrator (Microsoft Certified IT Professional),1
 York,Certified Integrated Resource Manager,1
 York,Certified Information System Auditor (CISA),1
 York,Certified Information Security Manager,1
 York,Certified In Risk And Information Systems Control,1
-York,Juniper Network Certified Internet Professional (JNCIP),1
-York,Chartered Accountant,1
-York,VMware Certified Professional (VCP),1
-York,Systems Security Certified Practitioner,1
-York,System Operator Certification,1
-York,CompTIA Security+,1
-York,CompTIA Cybersecurity Analyst (CySA+),1
-York,CompTIA Advanced Security Practitioner (CASP+),1
-York,Certified Ethical Hacker,1
-York,SAS Certification,1
-York,General Certificate Of Secondary Education,946
+York,Certified Veterinary Technician,1
+York,Hazard Analysis And Critical Control Point (HACCP) Certification,1
+York,Certified Industrial Hygienist (CIH),1
+York,General Certificate Of Secondary Education,1066
 York,CSCS Card,687
 York,Certified Nurse Practitioner,358
-York,Functional Skills Qualification,155
+York,Functional Skills Qualification,159
 York,PRINCE2  (PRojects IN Controlled Environments 2),120
-York,Association Of Chartered Certified Accountants,114
-York,Chartered Institute Of Management Accountants (CIMA),97
+York,Association Of Chartered Certified Accountants,111
+York,Chartered Institute Of Management Accountants (CIMA),96
 York,Chartered Financial Analyst,96
-York,Chartered Institute Of Personnel And Development (CIPD) Certified,72
+York,Chartered Institute Of Personnel And Development (CIPD) Certified,69
 York,DO-178B/C (Software Considerations in Airborne Systems and Equipment Certification),65
 York,Licensed Practical Nurse,62
-York,Nurse Practitioner,61
+York,Nurse Practitioner,57
 York,ITIL Certifications,49
 York,Microsoft Certified Partner,48
 York,Software Development Engineer in Test,45
@@ -815,8 +807,8 @@ York,Master Of Business Administration (MBA),41
 York,NEBOSH Diploma,40
 York,Clinical Nurse Specialists (CNS),39
 York,CIPD Level 5,36
-York,Project Management Professional Certification,33
 York,ITIL Foundation Certification,33
+York,Project Management Professional Certification,33
 York,Post Graduate Certificate In Education (PGCE),31
 York,CIPD Level 3,27
 York,Psychiatric-Mental Health Nurse Practitioner,27
@@ -825,73 +817,70 @@ York,Basic Life Support (BLS) Certification,24
 York,Residential Electronics Systems Integrator,24
 York,Licensed Professional Counselor (LPC),22
 York,Advanced Life Support,22
-York,Chartered Engineer,21
 York,Basic Cardiac Life Support,21
 York,Advanced Cardiovascular Life Support (ACLS) Certification,21
+York,Chartered Engineer,21
 York,IOSH Managing Safely,18
 York,Association Of Proposal Management Professionals (APMP) Certification,16
 York,Pediatric Advanced Life Support,16
-York,Certified International Property Specialist,15
-York,Microsoft Certified Systems Administrator (MCSA),15
 York,Associate Project Management,15
+York,Microsoft Certified Systems Administrator (MCSA),15
+York,Certified International Property Specialist,15
 York,Cisco Certified Network Associate,10
 York,Certified Safety Professional,10
-York,Microsoft Azure Certification,9
-York,Certified Manager (CM),9
 York,Information Advice And Guidance (IAG) Qualification,9
+York,Microsoft Azure Certification,9
+York,Cisco Certified Network Professional,8
 York,CIPD Level 7,8
 York,Top Secret-Sensitive Compartmented Information (TS/SCI Clearance),8
-York,Cisco Certified Network Professional,8
-York,Microsoft Certified Professional,7
 York,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,7
 York,Certified First Responder,7
+York,Microsoft Certified Professional,7
 York,NEBOSH Certificate,6
 York,Certified Scrum Master,6
-York,Associate Member of the Chartered Institute of Personnel and Development,6
-York,Registered Dietitian (RD/RDN),6
 York,Oncology Certified Nurse,6
+York,Certified Information Systems Security Professional,5
+York,Security Clearance,5
+York,Certified Scrum Product Owner,5
 York,Salesforce Certified Administrator,5
 York,Certified Power Quality Professional,5
-York,Security Clearance,5
-York,Certified Information Systems Security Professional,5
-York,Certified Scrum Product Owner,5
-York,Forklift Certification,4
-York,ITIL Practitioner Certification,4
-York,Certified Strength And Conditioning Specialist,4
-York,Patient Care Technician,4
-York,Critical Care Registered Nurse (CCRN),4
 York,Master Of Laws,4
 York,Microsoft Certified Systems Engineer,4
-York,Certified Information Privacy Professional,3
-York,Certified Healthcare Emergency Professional,3
-York,Certified Professional Estimator,3
-York,International Institute Of Business Analysis (IIBA) Certified,3
+York,Critical Care Registered Nurse (CCRN),4
+York,ITIL Practitioner Certification,4
+York,Certified Strength And Conditioning Specialist,4
+York,Certificate In English Language Teaching To Adults (CELTA),3
 York,CompTIA Certification,3
 York,Certified Internal Auditor,3
-York,Certificate In English Language Teaching To Adults (CELTA),3
+York,Certified Professional Estimator,3
+York,Certified Information Privacy Professional,3
+York,Certified Healthcare Emergency Professional,3
+York,Certified Accounting Technician,2
+York,Certified Public Accountant,2
+York,Certified Financial Planner,2
+York,Registered Dietitian (RD/RDN),2
+York,National Apprenticeship Certificate,2
 York,Google Analytics Certification,2
 York,Google Adwords Certification,2
-York,Certified Public Accountant,2
-York,Bachelor Of Science in Business,2
-York,Certified Financial Planner,2
-York,Certified Accounting Technician,2
-York,National Apprenticeship Certificate,2
 York,Chartered Fellow Of The Chartered Institute Of Personnel and Development (FCIPD),2
-York,Certified Veterinary Technician,1
-York,Hazard Analysis And Critical Control Point (HACCP) Certification,1
-York,Certified Industrial Hygienist (CIH),1
+York,Forklift Certification,2
+York,Bachelor Of Science in Business,2
+York,VMware Certified Professional (VCP),1
+York,SAS Certification,1
+York,Chartered Accountant,1
+York,Systems Security Certified Practitioner,1
+York,System Operator Certification,1
+York,International Institute Of Business Analysis (IIBA) Certified,1
+York,CompTIA Security+,1
+York,CompTIA Cybersecurity Analyst (CySA+),1
+York,CompTIA Advanced Security Practitioner (CASP+),1
+York,Certified Ethical Hacker,1
+York,Juniper Network Certified Internet Professional (JNCIP),1
 York,Enterprise Desktop Administrator (Microsoft Certified IT Professional),1
 York,Certified Integrated Resource Manager,1
 York,Certified Information System Auditor (CISA),1
 York,Certified Information Security Manager,1
 York,Certified In Risk And Information Systems Control,1
-York,Juniper Network Certified Internet Professional (JNCIP),1
-York,Chartered Accountant,1
-York,VMware Certified Professional (VCP),1
-York,Systems Security Certified Practitioner,1
-York,System Operator Certification,1
-York,CompTIA Security+,1
-York,CompTIA Cybersecurity Analyst (CySA+),1
-York,CompTIA Advanced Security Practitioner (CASP+),1
-York,Certified Ethical Hacker,1
-York,SAS Certification,1
+York,Certified Veterinary Technician,1
+York,Hazard Analysis And Critical Control Point (HACCP) Certification,1
+York,Certified Industrial Hygienist (CIH),1

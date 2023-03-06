@@ -1,15 +1,15 @@
 LA,Thing,Count
 Bradford,Microsoft Software,60
 Bradford,Alteryx,59
+Bradford,Pinterest,57.7727272727273
 Bradford,Looker Analytics,57
 Bradford,Document Object Model,57
-Bradford,Pinterest,56.9565217391304
 Bradford,WebKit,56.2
+Bradford,TikTok,55.1428571428571
 Bradford,Profibus,55
 Bradford,Design Software,55
 Bradford,Microsoft Dynamics,54.1
 Bradford,Payroll Systems,53.2857142857143
-Bradford,TikTok,53.125
 Bradford,Screaming Frog (Website Crawler),52
 Bradford,Shell Script,52
 Bradford,Gatsby.js,51
@@ -85,47 +85,42 @@ Bradford,Microsoft Office 365,32.8571428571429
 Bradford,Kubernetes,32.4117647058824
 Bradford,Microsoft SharePoint,32.4
 Bradford,Order Management Systems,32.1666666666667
-Bradford,Adobe Photoshop,32.0344827586207
 Bradford,Docker (Software),32
 Bradford,GraphQL,32
 Bradford,MongoDB,32
 Bradford,Slack (Software),32
 Bradford,React Redux,31.9444444444444
 Bradford,Microsoft 365,31.8918918918919
+Bradford,Adobe Photoshop,31.7857142857143
 Bradford,Human Resources Information System (HRIS),31.7647058823529
 Bradford,Adobe After Effects,31.6666666666667
 Bradford,Management Information Systems,31.6666666666667
 Bradford,Cloud Services,31.6
-Bradford,Adobe Premiere Pro,31.4705882352941
 Bradford,Apache Kafka,31.4117647058824
 Bradford,Data Lakes,31.1176470588235
+Bradford,Learning Management Systems,31.1111111111111
 Calderdale,SAP Applications,48.3846153846154
-Calderdale,Operating Systems,39.8888888888889
-Calderdale,Sage 50 (Accounting Software),38.6666666666667
+Calderdale,Operating Systems,43.75
+Calderdale,Microsoft Azure,41.125
 Calderdale,C (Programming Language),37.5555555555556
+Calderdale,Sage 50 (Accounting Software),37.5
 Calderdale,JavaScript (Programming Language),37.25
-Calderdale,Microsoft Azure,35.6
-Calderdale,Adobe Illustrator,34.375
-Calderdale,Microsoft Office,33.9772727272727
-Calderdale,Microsoft Excel,31.1818181818182
-Calderdale,Microsoft Word,30.4285714285714
-Calderdale,Microsoft Outlook,29.741935483871
-Calderdale,Microsoft PowerPoint,27.6071428571429
-Calderdale,Xero (Accounting Software),27.6
-Calderdale,Cascading Style Sheets (CSS),27
-Calderdale,HyperText Markup Language (HTML),26.8333333333333
-Calderdale,SQL (Programming Language),26.3571428571429
-Calderdale,Adobe Photoshop,25.4
-Calderdale,Adobe InDesign,24.25
-Calderdale,Java (Programming Language),24
-Calderdale,Active Directory,22.7142857142857
-Calderdale,Microsoft 365,22.25
-Calderdale,Microsoft Office 365,20.5833333333333
-Calderdale,Reporting Tools,16.375
+Calderdale,Microsoft Office,34.1627906976744
+Calderdale,Microsoft Word,31.8333333333333
+Calderdale,Adobe Illustrator,31.5714285714286
+Calderdale,Microsoft Excel,31.3333333333333
+Calderdale,Microsoft Outlook,29.9666666666667
+Calderdale,HyperText Markup Language (HTML),28.2
+Calderdale,Microsoft PowerPoint,27.6296296296296
+Calderdale,SQL (Programming Language),27.1538461538462
+Calderdale,Adobe InDesign,25
+Calderdale,Adobe Photoshop,24
+Calderdale,Cascading Style Sheets (CSS),24
+Calderdale,Active Directory,23.6666666666667
+Calderdale,Xero (Accounting Software),22.5
+Calderdale,Microsoft Office 365,19.4545454545455
 Calderdale,Warehouse Management Systems,15.5
 Calderdale,PHP (Scripting Language),15
-Calderdale,SQL Server Integration Services (SSIS),12.3333333333333
-Calderdale,Visual Basic For Applications,10.75
 Craven,Microsoft Outlook,39.8888888888889
 Craven,Microsoft Excel,33.8235294117647
 Craven,Microsoft PowerPoint,30
@@ -138,39 +133,39 @@ Hambleton,Microsoft Word,18
 Harrogate,SAP Applications,47.4
 Harrogate,Xero (Accounting Software),43.1666666666667
 Harrogate,Python (Programming Language),39.8
-Harrogate,Microsoft Azure,38.4444444444444
+Harrogate,Microsoft Azure,38.2
 Harrogate,Adobe Creative Suite,36.875
 Harrogate,Microsoft Office 365,36.7272727272727
 Harrogate,Adobe Photoshop,36.1428571428571
-Harrogate,Microsoft Word,35.9285714285714
 Harrogate,AutoCAD,35.2
 Harrogate,Adobe InDesign,35.1666666666667
 Harrogate,Microsoft PowerPoint,34.9583333333333
-Harrogate,Microsoft Outlook,34.76
+Harrogate,C# (Programming Language),34.6666666666667
 Harrogate,IOS Applications,34.5
-Harrogate,C# (Programming Language),34.4
+Harrogate,Microsoft Word,34.4666666666667
 Harrogate,Microsoft Teams,34.3636363636364
+Harrogate,Microsoft Outlook,33.9615384615385
 Harrogate,Firewall,33.25
-Harrogate,Microsoft Excel,32.94
+Harrogate,Microsoft Excel,32.8627450980392
 Harrogate,Adobe Illustrator,32.8
 Harrogate,Microsoft SharePoint,32.6
+Harrogate,Java (Programming Language),31.125
 Harrogate,Accounting Software,31
+Harrogate,Microsoft Office,30.8108108108108
 Harrogate,Linux,30.6666666666667
 Harrogate,SQL (Programming Language),30.5
-Harrogate,Java (Programming Language),30.4285714285714
 Harrogate,Apple IOS,30.4
-Harrogate,Microsoft Office,30.2777777777778
 Harrogate,Operating Systems,30.125
 Harrogate,WordPress,28.7272727272727
 Harrogate,Amazon Web Services,28
+Harrogate,Cascading Style Sheets (CSS),27.5714285714286
+Harrogate,HyperText Markup Language (HTML),27.1428571428571
 Harrogate,Zoom (Video Conferencing Tool),26.7
 Harrogate,PHP (Scripting Language),26.4285714285714
-Harrogate,Cascading Style Sheets (CSS),26.1666666666667
-Harrogate,HyperText Markup Language (HTML),25.6666666666667
+Harrogate,JavaScript (Programming Language),26
 Harrogate,Information Technology Infrastructure Library,25.625
-Harrogate,JavaScript (Programming Language),24.75
 Harrogate,Adobe After Effects,24.6666666666667
-Harrogate,Application Programming Interface (API),16
+Harrogate,Application Programming Interface (API),21
 Kirklees,React.js,43.1428571428571
 Kirklees,Management Information Systems,42.2
 Kirklees,Firewall,41.75
@@ -181,14 +176,13 @@ Kirklees,Apple IOS,37.2
 Kirklees,AutoCAD,37.0952380952381
 Kirklees,Microsoft Teams,36.5555555555556
 Kirklees,Microsoft Office 365,36
-Kirklees,Microsoft Outlook,35.4259259259259
-Kirklees,Microsoft Office,35.3478260869565
+Kirklees,Microsoft Office,35.1739130434783
+Kirklees,Microsoft Outlook,35.0943396226415
 Kirklees,C (Programming Language),34.875
-Kirklees,Microsoft Azure,34.2777777777778
-Kirklees,Accounting Software,34.2352941176471
+Kirklees,Microsoft Azure,34.4210526315789
 Kirklees,Adobe Creative Suite,34
 Kirklees,Microsoft Windows 10,34
-Kirklees,Microsoft Excel,33.9204545454545
+Kirklees,Microsoft Excel,33.6436781609195
 Kirklees,Microsoft SharePoint,33.5555555555556
 Kirklees,Microsoft PowerPoint,33.4838709677419
 Kirklees,Reliability Availability Maintainability And Safety Software,33.2
@@ -199,59 +193,60 @@ Kirklees,WordPress,32.2666666666667
 Kirklees,Information Technology Infrastructure Library,32.125
 Kirklees,SAP Applications,31.8888888888889
 Kirklees,HTML5,31.6666666666667
+Kirklees,Accounting Software,31.2666666666667
 Kirklees,Pinterest,31
 Kirklees,C# (Programming Language),30.7692307692308
-Kirklees,PHP (Scripting Language),30.5555555555556
-Kirklees,JavaScript (Programming Language),30.4117647058824
+Kirklees,PHP (Scripting Language),29.8888888888889
+Kirklees,JavaScript (Programming Language),29.625
 Kirklees,Software Systems,29.4444444444444
 Kirklees,Adobe Photoshop,28.9090909090909
-Kirklees,SQL (Programming Language),28.5652173913044
-Kirklees,Cascading Style Sheets (CSS),28.4615384615385
+Kirklees,SQL (Programming Language),28.2727272727273
 Kirklees,Adobe Illustrator,28.1
 Kirklees,Adobe InDesign,28.0769230769231
 Kirklees,Amazon Web Services,28
-Kirklees,Application Programming Interface (API),27.9333333333333
 Kirklees,SolidWorks (CAD),27.5454545454545
 Kirklees,Windows Servers,27.4285714285714
+Kirklees,Cascading Style Sheets (CSS),27.25
+Kirklees,Git (Version Control System),27.25
 Kirklees,Microsoft SQL Servers,27
 Kirklees,Microsoft Access,27
+Kirklees,Application Programming Interface (API),26.8571428571429
 Kirklees,Design Software,26.7142857142857
-Kirklees,Technical Data Management Systems,26.5
 Kirklees,HyperText Markup Language (HTML),26.4545454545455
-Kirklees,Git (Version Control System),25.8571428571429
 Kirklees,SQL Server Reporting Services,25.2
 Kirklees,Aruba (Network Management Software),24.6666666666667
-Kirklees,Active Directory,24.6
 Kirklees,Kubernetes,24.6
+Kirklees,Active Directory,24.6
 Kirklees,SQL Server Analysis Services,24
-Kirklees,Java (Programming Language),23.5
 Kirklees,Payroll Systems,23.5
+Kirklees,Java (Programming Language),23.5
 Kirklees,Zoom (Video Conferencing Tool),23.1428571428571
-Kirklees,SQL Server Integration Services (SSIS),22.6
 Kirklees,Sage 50 (Accounting Software),22.6
+Kirklees,SQL Server Integration Services (SSIS),22.6
 Kirklees,Transact-SQL,21.4
 Kirklees,JIRA,21
 Leeds,Pinterest,51.8
+Leeds,Cisco Meraki,50
 Leeds,Windows Forms,49.5
 Leeds,PL/SQL,48.8
 Leeds,Teamcity,47.5
-Leeds,Cisco Meraki,47.1428571428571
 Leeds,SketchUp (3D Modeling Software),44.6666666666667
 Leeds,Symfony,44
+Leeds,Dynamic Host Configuration Protocol (DHCP),43.9666666666667
 Leeds,Document Object Model,43.4117647058824
 Leeds,Autodesk 3DS Max (3D Graphics Software),43.25
 Leeds,Ajax (Programming Language),43.1428571428571
 Leeds,Hyper-V,42.741935483871
-Leeds,Dynamic Host Configuration Protocol (DHCP),42.46875
 Leeds,Azure Active Directory,42.0967741935484
 Leeds,LinkedIn,42.0769230769231
 Leeds,Xamarin,41.875
 Leeds,Recruitment Software,41.875
 Leeds,Database Systems,41.5238095238095
-Leeds,SQL Server Integration Services (SSIS),40.9285714285714
+Leeds,Togaf,41.0833333333333
 Leeds,Microsoft Project,40.8518518518519
 Leeds,Transact-SQL,40.6315789473684
 Leeds,SQL Server Reporting Services,40.5333333333333
+Leeds,SQL Server Integration Services (SSIS),40.3846153846154
 Leeds,Shell Script,40.3
 Leeds,Splunk,40
 Leeds,Octopus Deploy,39.7
@@ -263,13 +258,12 @@ Leeds,Human Resources Information System (HRIS),39
 Leeds,Zendesk,39
 Leeds,Bitbucket,38.8571428571429
 Leeds,Microsoft Power Platform,38.8181818181818
-Leeds,Togaf,38.7692307692308
-Leeds,Management Information Systems,38.741935483871
+Leeds,Umbraco,38.75
+Leeds,Payroll Systems,38.6756756756757
 Leeds,JavaScript Frameworks,38.4666666666667
 Leeds,SAS (Software),38.4285714285714
 Leeds,Package Management Systems,38.3333333333333
 Leeds,Procurement Software,38.1111111111111
-Leeds,Payroll Systems,38.0833333333333
 Leeds,Figma (Design Software),37.8888888888889
 Leeds,Microsoft Access,37.5094339622642
 Leeds,Visual Basic For Applications,37.4705882352941
@@ -277,12 +271,13 @@ Leeds,Ansible,37.2666666666667
 Leeds,Entity Framework,37.25
 Leeds,LAMP (Software Bundle),37.1111111111111
 Leeds,Enterprise Application Software,37.0526315789474
+Leeds,Management Information Systems,37.0357142857143
 Leeds,Firmware,36.875
+Leeds,Project Management Software,36.7567567567568
 Leeds,Microsoft SQL Servers,36.6909090909091
 Leeds,Apache Subversion,36.5833333333333
 Leeds,Middleware,36.5714285714286
 Leeds,Navisworks (BIM Software),36.5454545454545
-Leeds,Project Management Software,36.5277777777778
 Leeds,Amazon DynamoDB,36.4285714285714
 Leeds,Crystal Reports (Reporting Software),36.4166666666667
 Leeds,Chef (Configuration Management Tool),36.2857142857143
@@ -290,47 +285,46 @@ Leeds,Web Applications,36.2380952380952
 Leeds,Electronic Document Management Systems,36.2
 Leeds,ECMAScript 2015,36.1428571428571
 Leeds,Database Management Systems,36.1111111111111
+Leeds,Laravel,36
 Leeds,Leaflet (Software),36
 Leeds,Tekla (BIM Software),35.875
 Leeds,React Redux,35.7777777777778
-Leeds,R (Programming Language),35.76
 Leeds,Windows Servers,35.6428571428571
 Leeds,Reliability Availability Maintainability And Safety Software,35.64
+Leeds,AutoCAD,35.625
 Leeds,Ruby (Programming Language),35.5833333333333
+Leeds,Accounting Software,35.5128205128205
+Leeds,Microsoft Software,35.5
 Leeds,Blazor,35.4285714285714
-Leeds,Microsoft Azure,35.4105263157895
 Leeds,C++ (Programming Language),35.3947368421053
+Leeds,R (Programming Language),35.375
 Leeds,Web Browsers,35.3333333333333
 Leeds,Team Foundation Server,35.3076923076923
 Leeds,TikTok,35.2352941176471
-Leeds,React.js,35.1666666666667
+Leeds,Microsoft Azure,35.1413043478261
 Leeds,Amazon S3,35.125
-Leeds,AutoCAD,35.1063829787234
-Leeds,Accounting Software,35.0526315789474
 Leeds,C (Programming Language),35.0344827586207
 Leeds,Content Management Systems,35
 Leeds,IBM Information Management System,35
 Leeds,SASS,34.9444444444444
+Leeds,Go (Programming Language),34.8823529411765
 Leeds,Microsoft Visual Studio,34.8095238095238
 Leeds,Webforms,34.7777777777778
 Leeds,JQuery,34.7727272727273
-Leeds,Laravel,34.75
+Leeds,React.js,34.7560975609756
 Leeds,QuickBooks (Accounting Software),34.75
+Leeds,Operating Systems,34.5909090909091
 Leeds,Building Management Systems,34.5714285714286
-Leeds,Excel Solver,34.5
+Leeds,Cascading Style Sheets (CSS),34.5057471264368
 Leeds,Customer Relationship Management (CRM) Software,34.5
+Leeds,Excel Solver,34.5
+Leeds,Software Systems,34.48
 Leeds,Warehouse Management Systems,34.45
 Leeds,WordPress,34.4
-Leeds,Swift (Programming Language),34.4
 Leeds,HubSpot CRM,34.4
+Leeds,Swift (Programming Language),34.4
 Leeds,Gitlab,34.3076923076923
 Leeds,Microsoft Visio,34.2941176470588
-Leeds,Microsoft Software,34.2727272727273
-Leeds,Cascading Style Sheets (CSS),34.2558139534884
-Leeds,Operating Systems,34.1617647058824
-Leeds,3D Modeling Software,34.1538461538462
-Leeds,Amazon Redshift,34.1428571428571
-Leeds,Visual Basic (Programming Language),34.125
 Richmondshire,Microsoft Excel,39.6666666666667
 Richmondshire,Microsoft Office,23.7142857142857
 Ryedale,Microsoft Office,34.5
@@ -344,23 +338,23 @@ Wakefield,Software Systems,48.4
 Wakefield,AutoCAD,47.5
 Wakefield,Adobe After Effects,42.6666666666667
 Wakefield,Accounting Software,42.5
-Wakefield,Payroll Systems,39.2
-Wakefield,SQL (Programming Language),37.8
+Wakefield,SQL (Programming Language),37.5454545454545
 Wakefield,Operating Systems,37.5454545454545
+Wakefield,Payroll Systems,37
 Wakefield,Reliability Availability Maintainability And Safety Software,36.1111111111111
+Wakefield,JavaScript (Programming Language),35.8888888888889
 Wakefield,Microsoft Office,35.2950819672131
-Wakefield,JavaScript (Programming Language),35
 Wakefield,Applicant Tracking Systems,34
 Wakefield,Microsoft SharePoint,33.9
-Wakefield,Sage 50 (Accounting Software),33.5454545454545
 Wakefield,HyperText Markup Language (HTML),33.4
 Wakefield,Microsoft Outlook,33.0357142857143
-Wakefield,Microsoft Excel,32.8358208955224
+Wakefield,Sage 50 (Accounting Software),32.9166666666667
+Wakefield,Microsoft Excel,32.7352941176471
+Wakefield,PHP (Scripting Language),32.7142857142857
 Wakefield,Sage Accounting Software,32.4285714285714
 Wakefield,Microsoft Teams,32
 Wakefield,Microsoft Office 365,31.5454545454545
 Wakefield,Adobe Illustrator,31.5
-Wakefield,PHP (Scripting Language),31
 Wakefield,Microsoft PowerPoint,30.6129032258064
 Wakefield,SAP Applications,30.6
 Wakefield,Command-Line Interface,30.3333333333333
@@ -370,96 +364,96 @@ Wakefield,Adobe Creative Suite,29.6666666666667
 Wakefield,Adobe InDesign,29.4117647058824
 Wakefield,Adobe Photoshop,28.12
 Wakefield,Windows Servers,27.8888888888889
+Wakefield,Cascading Style Sheets (CSS),27.7142857142857
 Wakefield,Xero (Accounting Software),27.4545454545455
 Wakefield,Management Information Systems,26.2222222222222
-Wakefield,Cascading Style Sheets (CSS),25.1666666666667
 Wakefield,Active Directory,23.5
 Wakefield,IOS Applications,19.6666666666667
 Wakefield,Apple IOS,17.8333333333333
 Wakefield,Heat Maps,14
 York,Project Management Software,48.7142857142857
 York,Customer Relationship Management (CRM) Software,47.6666666666667
-York,Adobe Creative Suite,42.8
-York,Firewall,42.5714285714286
+York,Firewall,44.6666666666667
+York,Adobe Creative Suite,44
 York,Adobe InDesign,40.8181818181818
 York,Aruba (Network Management Software),37.7142857142857
-York,Microsoft Office,34.4666666666667
-York,Microsoft Word,34.3809523809524
+York,Microsoft Word,35.1052631578947
+York,Microsoft Office,34.3333333333333
 York,Python (Programming Language),33.4545454545455
 York,Operating Systems,33.1666666666667
-York,Microsoft Outlook,32.7272727272727
-York,SAP Applications,32.6428571428571
-York,Microsoft Excel,32.4772727272727
-York,Microsoft PowerPoint,32.1428571428571
-York,Payroll Systems,31.8333333333333
-York,Microsoft Office 365,31.4
-York,Microsoft Azure,30.7777777777778
-York,HyperText Markup Language (HTML),30.6842105263158
-York,Adobe Photoshop,30.0625
-York,Content Management Systems,29.875
+York,Microsoft Azure,33.125
+York,Microsoft Office 365,33
+York,Microsoft PowerPoint,32.8928571428571
+York,Microsoft Excel,32.3095238095238
+York,Microsoft Outlook,32.2903225806452
+York,SAP Applications,32.2307692307692
+York,HyperText Markup Language (HTML),30.6666666666667
+York,Adobe Photoshop,30
 York,Microsoft SharePoint,29.8
-York,Cascading Style Sheets (CSS),29.625
-York,Zoom (Video Conferencing Tool),29.2222222222222
+York,Content Management Systems,29.7142857142857
+York,Cascading Style Sheets (CSS),29.5333333333333
+York,Microsoft 365,29.3333333333333
 York,Apple IOS,29
-York,JavaScript (Programming Language),28.6470588235294
 York,Linux,28.6363636363636
+York,JavaScript (Programming Language),28.5
+York,Payroll Systems,28.4
 York,React.js,28.1666666666667
-York,SQL (Programming Language),28
-York,Microsoft 365,27.6
-York,Java (Programming Language),27
-York,Design Software,27
+York,Windows Servers,28
+York,SQL (Programming Language),27.8333333333333
+York,Zoom (Video Conferencing Tool),27.25
 York,JSON,27
-York,Windows Servers,26.4
-York,Microsoft Teams,26.1538461538462
+York,Design Software,27
+York,Microsoft Teams,27
+York,Java (Programming Language),27
 York,C# (Programming Language),26
+York,Active Directory,25.8
 York,Application Programming Interface (API),25
 York,Microsoft Windows 10,25
 York,PHP (Scripting Language),24.1428571428571
 York,Adobe Illustrator,23.7777777777778
-York,Active Directory,23.5
-York,Information Technology Infrastructure Library,21.4444444444444
+York,Information Technology Infrastructure Library,22.625
 York,WordPress,21
 York,Git (Version Control System),21
 York,Project Management Software,48.7142857142857
 York,Customer Relationship Management (CRM) Software,47.6666666666667
-York,Adobe Creative Suite,42.8
-York,Firewall,42.5714285714286
+York,Firewall,44.6666666666667
+York,Adobe Creative Suite,44
 York,Adobe InDesign,40.8181818181818
 York,Aruba (Network Management Software),37.7142857142857
-York,Microsoft Office,34.4666666666667
-York,Microsoft Word,34.3809523809524
+York,Microsoft Word,35.1052631578947
+York,Microsoft Office,34.3333333333333
 York,Python (Programming Language),33.4545454545455
 York,Operating Systems,33.1666666666667
-York,Microsoft Outlook,32.7272727272727
-York,SAP Applications,32.6428571428571
-York,Microsoft Excel,32.4772727272727
-York,Microsoft PowerPoint,32.1428571428571
-York,Payroll Systems,31.8333333333333
-York,Microsoft Office 365,31.4
-York,Microsoft Azure,30.7777777777778
-York,HyperText Markup Language (HTML),30.6842105263158
-York,Adobe Photoshop,30.0625
-York,Content Management Systems,29.875
+York,Microsoft Azure,33.125
+York,Microsoft Office 365,33
+York,Microsoft PowerPoint,32.8928571428571
+York,Microsoft Excel,32.3095238095238
+York,Microsoft Outlook,32.2903225806452
+York,SAP Applications,32.2307692307692
+York,HyperText Markup Language (HTML),30.6666666666667
+York,Adobe Photoshop,30
 York,Microsoft SharePoint,29.8
-York,Cascading Style Sheets (CSS),29.625
-York,Zoom (Video Conferencing Tool),29.2222222222222
+York,Content Management Systems,29.7142857142857
+York,Cascading Style Sheets (CSS),29.5333333333333
+York,Microsoft 365,29.3333333333333
 York,Apple IOS,29
-York,JavaScript (Programming Language),28.6470588235294
 York,Linux,28.6363636363636
+York,JavaScript (Programming Language),28.5
+York,Payroll Systems,28.4
 York,React.js,28.1666666666667
-York,SQL (Programming Language),28
-York,Microsoft 365,27.6
-York,Java (Programming Language),27
-York,Design Software,27
+York,Windows Servers,28
+York,SQL (Programming Language),27.8333333333333
+York,Zoom (Video Conferencing Tool),27.25
 York,JSON,27
-York,Windows Servers,26.4
-York,Microsoft Teams,26.1538461538462
+York,Design Software,27
+York,Microsoft Teams,27
+York,Java (Programming Language),27
 York,C# (Programming Language),26
+York,Active Directory,25.8
 York,Application Programming Interface (API),25
 York,Microsoft Windows 10,25
 York,PHP (Scripting Language),24.1428571428571
 York,Adobe Illustrator,23.7777777777778
-York,Active Directory,23.5
-York,Information Technology Infrastructure Library,21.4444444444444
+York,Information Technology Infrastructure Library,22.625
 York,WordPress,21
 York,Git (Version Control System),21
