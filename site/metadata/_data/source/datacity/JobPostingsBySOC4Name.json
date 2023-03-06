@@ -22,8 +22,10 @@
     {
       "name": "Thing",
       "categories": [
+        "Actors, entertainers and presenters",
         "Actuaries, economists and statisticians",
         "Advertising and public relations directors",
+        "Agricultural and fishing trades n.e.c.",
         "Agricultural machinery drivers",
         "Air-conditioning and refrigeration engineers",
         "Aircraft maintenance and related trades",
@@ -93,6 +95,7 @@
         "Electronics engineers",
         "Electroplaters",
         "Elementary administration occupations n.e.c.",
+        "Elementary cleaning occupations n.e.c.",
         "Elementary construction occupations",
         "Elementary process plant occupations n.e.c.",
         "Elementary security occupations n.e.c.",
@@ -163,6 +166,7 @@
         "Medical radiographers",
         "Merchandisers and window dressers",
         "Metal machining setters and setter-operators",
+        "Metal making and treating process operatives",
         "Metal working machine operatives",
         "Metal working production and maintenance fitters",
         "Mobile machine drivers and operatives n.e.c.",
@@ -240,7 +244,6 @@
         "Social services managers and directors",
         "Social workers",
         "Solicitors",
-        "Special needs education teaching professionals",
         "Sports and leisure assistants",
         "Sports coaches, instructors and officials",
         "Steel erectors",
@@ -282,43 +285,43 @@
       "data_type": "integer",
       "value_distribution": [
         {
-          "value": "-323.75 to 32476.3",
+          "value": "-323.88 to 32488.9",
           "count": 0.997128
         },
         {
-          "value": "32476.3 to 64951.6",
+          "value": "32488.9 to 64976.8",
           "count": 0.001436
         },
         {
-          "value": "64951.6 to 97426.9",
+          "value": "64976.8 to 97464.7",
           "count": 0.0
         },
         {
-          "value": "97426.9 to 129902.2",
+          "value": "97464.7 to 129952.6",
           "count": 0.0
         },
         {
-          "value": "129902.2 to 162377.5",
+          "value": "129952.6 to 162440.5",
           "count": 0.0
         },
         {
-          "value": "162377.5 to 194852.8",
+          "value": "162440.5 to 194928.4",
           "count": 0.0
         },
         {
-          "value": "194852.8 to 227328.1",
+          "value": "194928.4 to 227416.3",
           "count": 0.000718
         },
         {
-          "value": "227328.1 to 259803.4",
+          "value": "227416.3 to 259904.2",
           "count": 0.0
         },
         {
-          "value": "259803.4 to 292278.7",
+          "value": "259904.2 to 292392.1",
           "count": 0.0
         },
         {
-          "value": "292278.7 to 324754.0",
+          "value": "292392.1 to 324880.0",
           "count": 0.000718
         }
       ]

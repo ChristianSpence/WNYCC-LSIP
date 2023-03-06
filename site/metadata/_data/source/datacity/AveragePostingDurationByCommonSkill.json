@@ -235,44 +235,44 @@
       "data_type": "floating",
       "value_distribution": [
         {
-          "value": "17.96 to 22.2",
-          "count": 0.007843
+          "value": "13.95 to 18.6",
+          "count": 0.005911
         },
         {
-          "value": "22.2 to 26.4",
-          "count": 0.046078
+          "value": "18.6 to 23.2",
+          "count": 0.013793
         },
         {
-          "value": "26.4 to 30.6",
-          "count": 0.098039
+          "value": "23.2 to 27.8",
+          "count": 0.053202
         },
         {
-          "value": "30.6 to 34.8",
-          "count": 0.463725
+          "value": "27.8 to 32.4",
+          "count": 0.238424
         },
         {
-          "value": "34.8 to 39.0",
-          "count": 0.261765
+          "value": "32.4 to 37.0",
+          "count": 0.474877
         },
         {
-          "value": "39.0 to 43.2",
-          "count": 0.080392
+          "value": "37.0 to 41.6",
+          "count": 0.151724
         },
         {
-          "value": "43.2 to 47.4",
-          "count": 0.02451
+          "value": "41.6 to 46.2",
+          "count": 0.042365
         },
         {
-          "value": "47.4 to 51.6",
-          "count": 0.010784
+          "value": "46.2 to 50.8",
+          "count": 0.011823
         },
         {
-          "value": "51.6 to 55.8",
-          "count": 0.002941
+          "value": "50.8 to 55.4",
+          "count": 0.003941
         },
         {
-          "value": "55.8 to 60.0",
-          "count": 0.003922
+          "value": "55.4 to 60.0",
+          "count": 0.003941
         }
       ]
     }

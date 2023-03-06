@@ -31,6 +31,24 @@
       ]
     },
     {
+      "name": "geography_name",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Craven",
+        "Hambleton",
+        "Harrogate",
+        "Kirklees",
+        "Leeds",
+        "Richmondshire",
+        "Ryedale",
+        "Scarborough",
+        "Selby",
+        "Wakefield",
+        "York"
+      ]
+    },
+    {
       "name": "apprenticeships_or_further_education",
       "categories": [
         "Apprenticeships",
@@ -91,52 +109,6 @@
       "name": "la_name",
       "data_type": "floating",
       "value_distribution": []
-    },
-    {
-      "name": "geography_name",
-      "data_type": "string",
-      "value_distribution": [
-        {
-          "value": "Leeds",
-          "count": 0.081213
-        },
-        {
-          "value": "Bradford",
-          "count": 0.080603
-        },
-        {
-          "value": "Kirklees",
-          "count": 0.079384
-        },
-        {
-          "value": "Calderdale",
-          "count": 0.079232
-        },
-        {
-          "value": "Wakefield",
-          "count": 0.077251
-        },
-        {
-          "value": "Hambleton",
-          "count": 0.076794
-        },
-        {
-          "value": "Scarborough",
-          "count": 0.076489
-        },
-        {
-          "value": "York",
-          "count": 0.075423
-        },
-        {
-          "value": "Selby",
-          "count": 0.075423
-        },
-        {
-          "value": "Richmondshire",
-          "count": 0.07527
-        }
-      ]
     },
     {
       "name": "starts",

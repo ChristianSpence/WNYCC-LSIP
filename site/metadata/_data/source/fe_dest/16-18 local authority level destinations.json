@@ -30,6 +30,18 @@
       ]
     },
     {
+      "name": "geography_name",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Kirklees",
+        "Leeds",
+        "North Yorkshire",
+        "Wakefield",
+        "York"
+      ]
+    },
+    {
       "name": "Institution group",
       "categories": [
         "State-funded mainstream colleges",
@@ -95,40 +107,6 @@
     }
   ],
   "facts": [
-    {
-      "name": "geography_name",
-      "data_type": "string",
-      "value_distribution": [
-        {
-          "value": "Bradford",
-          "count": 0.143149
-        },
-        {
-          "value": "Calderdale",
-          "count": 0.143149
-        },
-        {
-          "value": "Leeds",
-          "count": 0.143149
-        },
-        {
-          "value": "North Yorkshire",
-          "count": 0.143149
-        },
-        {
-          "value": "York",
-          "count": 0.142566
-        },
-        {
-          "value": "Wakefield",
-          "count": 0.142566
-        },
-        {
-          "value": "Kirklees",
-          "count": 0.142274
-        }
-      ]
-    },
     {
       "name": "Number of pupils completing 16-18 study",
       "data_type": "floating",

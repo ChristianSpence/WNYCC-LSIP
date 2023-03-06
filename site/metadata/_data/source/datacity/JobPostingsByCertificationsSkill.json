@@ -36,7 +36,6 @@
         "Advanced Life Support",
         "Advanced Pediatric Life Support",
         "Agile Certification",
-        "American Board Of Optometry Certified",
         "American Medical Technologists (AMT) Certification",
         "American Society For Clinical Pathology (ASCP) Certification",
         "Aquatic Facility Operator (AFO) Certification",
@@ -64,7 +63,6 @@
         "Certificate In English Language Teaching To Adults (CELTA)",
         "Certificate Of Clinical Competence In Speech-Language Pathology (CCC-SLP)",
         "Certification In Control Self-Assessment",
-        "Certification Of Capability In Business Analysis (CCBA)",
         "Certified Accounting Technician",
         "Certified Associate In Project Management",
         "Certified Association Executive",
@@ -95,7 +93,6 @@
         "Certified Internet Webmaster",
         "Certified Investment Management Analyst",
         "Certified Management Accountant",
-        "Certified Manager (CM)",
         "Certified Nephrology Nurse",
         "Certified Nurse Practitioner",
         "Certified Nursing Assistant",
@@ -292,44 +289,44 @@
       "data_type": "integer",
       "value_distribution": [
         {
-          "value": "-4.67 to 567.5",
-          "count": 0.96875
+          "value": "-4.67 to 568.3",
+          "count": 0.968362
         },
         {
-          "value": "567.5 to 1134.0",
-          "count": 0.023438
+          "value": "568.3 to 1135.6",
+          "count": 0.023729
         },
         {
-          "value": "1134.0 to 1700.5",
-          "count": 0.001116
+          "value": "1135.6 to 1702.9",
+          "count": 0.00113
         },
         {
-          "value": "1700.5 to 2267.0",
-          "count": 0.003348
+          "value": "1702.9 to 2270.2",
+          "count": 0.00339
         },
         {
-          "value": "2267.0 to 2833.5",
+          "value": "2270.2 to 2837.5",
           "count": 0.0
         },
         {
-          "value": "2833.5 to 3400.0",
+          "value": "2837.5 to 3404.8",
           "count": 0.0
         },
         {
-          "value": "3400.0 to 3966.5",
-          "count": 0.001116
+          "value": "3404.8 to 3972.1",
+          "count": 0.00113
         },
         {
-          "value": "3966.5 to 4533.0",
-          "count": 0.001116
+          "value": "3972.1 to 4539.4",
+          "count": 0.00113
         },
         {
-          "value": "4533.0 to 5099.5",
+          "value": "4539.4 to 5106.7",
           "count": 0.0
         },
         {
-          "value": "5099.5 to 5666.0",
-          "count": 0.001116
+          "value": "5106.7 to 5674.0",
+          "count": 0.00113
         }
       ]
     }

@@ -26,6 +26,24 @@
       ]
     },
     {
+      "name": "geography_name",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Craven",
+        "Hambleton",
+        "Harrogate",
+        "Kirklees",
+        "Leeds",
+        "Richmondshire",
+        "Ryedale",
+        "Scarborough",
+        "Selby",
+        "Wakefield",
+        "York"
+      ]
+    },
+    {
       "name": "age_summary_with_unknowns",
       "categories": [
         "19-24",
@@ -56,52 +74,6 @@
     }
   ],
   "facts": [
-    {
-      "name": "geography_name",
-      "data_type": "string",
-      "value_distribution": [
-        {
-          "value": "Bradford",
-          "count": 0.083499
-        },
-        {
-          "value": "York",
-          "count": 0.083499
-        },
-        {
-          "value": "Leeds",
-          "count": 0.083499
-        },
-        {
-          "value": "Kirklees",
-          "count": 0.083499
-        },
-        {
-          "value": "Calderdale",
-          "count": 0.083499
-        },
-        {
-          "value": "Wakefield",
-          "count": 0.082505
-        },
-        {
-          "value": "Harrogate",
-          "count": 0.079523
-        },
-        {
-          "value": "Hambleton",
-          "count": 0.075547
-        },
-        {
-          "value": "Richmondshire",
-          "count": 0.074553
-        },
-        {
-          "value": "Scarborough",
-          "count": 0.073559
-        }
-      ]
-    },
     {
       "name": "p_total",
       "data_type": "string",

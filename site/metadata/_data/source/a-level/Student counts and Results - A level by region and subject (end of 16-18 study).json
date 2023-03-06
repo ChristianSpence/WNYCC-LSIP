@@ -12,6 +12,18 @@
       ]
     },
     {
+      "name": "geography_name",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Kirklees",
+        "Leeds",
+        "North Yorkshire",
+        "Wakefield",
+        "York"
+      ]
+    },
+    {
       "name": "geography_code",
       "categories": [
         "E06000014",
@@ -192,40 +204,6 @@
     }
   ],
   "facts": [
-    {
-      "name": "geography_name",
-      "data_type": "string",
-      "value_distribution": [
-        {
-          "value": "Bradford",
-          "count": 0.142857
-        },
-        {
-          "value": "Calderdale",
-          "count": 0.142857
-        },
-        {
-          "value": "Kirklees",
-          "count": 0.142857
-        },
-        {
-          "value": "Leeds",
-          "count": 0.142857
-        },
-        {
-          "value": "Wakefield",
-          "count": 0.142857
-        },
-        {
-          "value": "York",
-          "count": 0.142857
-        },
-        {
-          "value": "North Yorkshire",
-          "count": 0.142857
-        }
-      ]
-    },
     {
       "name": "Number at grade A*.",
       "data_type": "floating",

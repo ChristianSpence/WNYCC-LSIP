@@ -1,0 +1,99 @@
+'data/csv/a-level/Attainment and other performance measures - region and student characteristics.csv':
+  facts:
+    - "APS per 'Best 3' entries (grade)"
+'data/csv/datacity/AveragePostingDurationBySoftwareSkill.csv':
+  dimensions:
+    - Thing
+  facts:
+    - Count
+'data/csv/datacity/JobPostingsByCommonSkill.csv':
+  dimensions:
+    - Thing
+  facts:
+    - Count
+'data/csv/datacity/AveragePostingDurationBySpecializedSkill.csv':
+  dimensions:
+    - Thing
+  facts:
+    - Count
+'data/csv/datacity/JobPostingsBySOC4Code.csv':
+  dimensions:
+    - Thing
+  facts:
+    - Count
+'data/csv/datacity/JobPostingsBySOC4Name.csv':
+  dimensions:
+    - Thing
+  facts:
+    - Count
+'data/csv/datacity/JobPostingsBySpecializedSkill.csv':
+  dimensions:
+    - Thing
+  facts:
+    - Count
+'data/csv/datacity/AveragePostingDurationByCommonSkill.csv':
+  dimensions:
+    - Thing
+  facts:
+    - Count
+'data/csv/datacity/AveragePostingDurationByCertificationsSkill.csv':
+  dimensions:
+    - Thing
+  facts:
+    - Count
+'data/csv/datacity/JobPostingsBySoftwareSkill.csv':
+  dimensions:
+    - Thing
+  facts:
+    - Count
+'data/csv/datacity/AverageAdvertisedSalaryBySOC4Code.csv':
+  dimensions:
+    - Thing
+  facts:
+    - Count
+'data/csv/ks4/Key stage 4 performance.csv':
+  facts:
+    - t_inp8calc
+'data/csv/lookups/geography.csv':
+  facts:
+    - geography_name
+'data/csv/lookups/ukprn_region_lookup.csv':
+  facts:
+    - region
+'data/csv/nomis/bres.csv':
+  facts:
+    - OBS_VALUE
+
+
+
+# 'data/csv/he/HE qualifiers by HE provider and subject of study 2019-20 to 2021-22 (051).csv': {}
+# 'data/csv/he/HE qualifiers by HE provider and subject of study 2019-20 to 2021-22.csv': {}
+# 'data/csv/he/Graduate activities by provider and sex.csv': {}
+# 'data/csv/he/Graduate activities by provider.csv': {}
+# 'data/csv/he/HE student enrolments by HE provider and subject of study 2019-20 to 2020-21.csv': {}
+# 'data/csv/he/HE student enrolments by HE provider and subject of study 2019-20 to 2020-21 (051).csv': {}
+# 'data/csv/he/HE student enrolments by HE provider and subject of study 2014-15 to 2018-19.csv': {}
+# 'data/csv/he/HE qualifiers by HE provider and subject of study 2014-15 to 2018-19.csv': {}
+# 'data/csv/he/HE student enrolments by HE provider 2014-15 to 2021-22.csv': {}
+# 'data/csv/he/Graduate activities by provider and subject area of degree.csv': {}
+# 'data/csv/fe/Further education and skills subject - free courses for jobs detailed.csv': {}
+# 'data/csv/fe/Education and training geography - English devolved areas.csv': {}
+# 'data/csv/fe/Education and training geography - local authority district.csv': {}
+# 'data/csv/fe/Further education and skills geography - detailed summary.csv': {}
+# 'data/csv/fe/Basic skills - regional breakdown.csv': {}
+# 'data/csv/fe/Community learning geography - local authority district.csv': {}
+# 'data/csv/nomis/ukbc-lu-emp.csv': {}
+# 'data/csv/linkedin/Top 20 InDemand Jobs.csv': {}
+# 'data/csv/linkedin/Skills Needed vs Added.csv': {}
+# 'data/csv/linkedin/All InDemand Jobs.csv': {}
+# 'data/csv/linkedin/Demand by JobFunction.csv': {}
+# 'data/csv/linkedin/Heatmap by JobFunction.csv': {}
+# 'data/csv/fe_dest/16-18 local authority level destinations.csv': {}
+# 'data/csv/datacity/AverageAdvertisedSalaryBySOC4Name.csv': {}
+# 'data/csv/datacity/JobPostingsByCertificationsSkill.csv': {}
+# 'data/csv/a-level/Student counts and Results - A level by region and subject (end of 16-18 study).csv': {}
+# 'data/csv/a-level/Entries and Results - A level and AS by region and subject.csv': {}
+
+# 'data/csv/a-level/Maths and science entries - percent entered by region.csv': {}
+# 'data/csv/lookups/soc2010.csv': {}
+

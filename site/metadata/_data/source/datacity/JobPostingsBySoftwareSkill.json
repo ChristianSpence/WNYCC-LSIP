@@ -32,8 +32,8 @@
         "Adobe InDesign",
         "Adobe Livecycle Designer",
         "Adobe Photoshop",
+        "Adobe Premiere Pro",
         "Adobe XD",
-        "Advance Steel (CAD Software)",
         "Advanced Business Application Programming (ABAP)",
         "Ajax (Programming Language)",
         "AlphaCAM",
@@ -123,8 +123,8 @@
         "Eclipse (Software)",
         "Elasticsearch",
         "Electrical CAD",
-        "Email Software",
         "Embedded C",
+        "Embedded Databases",
         "Embedded Software",
         "Ember.js",
         "Enterprise Application Software",
@@ -156,6 +156,7 @@
         "Google Maps",
         "Google Play",
         "Google Search Console",
+        "Google Sheets",
         "Google Tag Manager",
         "Google Workspace",
         "GraphQL",
@@ -167,10 +168,10 @@
         "Human Resources Information System (HRIS)",
         "Hyper-V",
         "HyperText Markup Language (HTML)",
-        "IBM Basic Assembly Language And Successors",
         "IBM Maximo",
         "IBM Notes",
         "IBM Rational ClearCase",
+        "IBM WebSphere MQ",
         "IFS ERP",
         "IOS Applications",
         "Information Technology Infrastructure Library",
@@ -205,6 +206,7 @@
         "Mac OS",
         "Mac OS X",
         "Management Information Systems",
+        "Marketing Software",
         "Medical Software",
         "Message Broker",
         "Message Queuing Telemetry Transport (MQTT)",
@@ -254,6 +256,7 @@
         "Objective-C (Programming Language)",
         "Oculus",
         "Office 365 Exchange Online",
+        "Office Management Software",
         "Office Online",
         "Open-Source Software",
         "OpenCV",
@@ -266,7 +269,6 @@
         "Oracle Hyperion Financial Management",
         "Order Management Systems",
         "PHP (Scripting Language)",
-        "PHP 7",
         "PHPUnit",
         "PL/SQL",
         "Package Management Systems",
@@ -397,39 +399,39 @@
       "value_distribution": [
         {
           "value": "-8.58 to 958.5",
-          "count": 0.928519
+          "count": 0.929941
         },
         {
           "value": "958.5 to 1916.0",
-          "count": 0.042741
+          "count": 0.041298
         },
         {
           "value": "1916.0 to 2873.5",
-          "count": 0.00958
+          "count": 0.009587
         },
         {
           "value": "2873.5 to 3831.0",
-          "count": 0.006632
+          "count": 0.006637
         },
         {
           "value": "3831.0 to 4788.5",
-          "count": 0.002948
+          "count": 0.00295
         },
         {
           "value": "4788.5 to 5746.0",
-          "count": 0.002211
+          "count": 0.002212
         },
         {
           "value": "5746.0 to 6703.5",
-          "count": 0.002948
+          "count": 0.00295
         },
         {
           "value": "6703.5 to 7661.0",
-          "count": 0.002211
+          "count": 0.002212
         },
         {
           "value": "7661.0 to 8618.5",
-          "count": 0.001474
+          "count": 0.001475
         },
         {
           "value": "8618.5 to 9576.0",

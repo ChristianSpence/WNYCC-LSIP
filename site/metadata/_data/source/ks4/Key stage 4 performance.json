@@ -8,6 +8,24 @@
       ]
     },
     {
+      "name": "geography_name",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Craven",
+        "Hambleton",
+        "Harrogate",
+        "Kirklees",
+        "Leeds",
+        "Richmondshire",
+        "Ryedale",
+        "Scarborough",
+        "Selby",
+        "Wakefield",
+        "York"
+      ]
+    },
+    {
       "name": "geography_code",
       "categories": [
         "E06000014",
@@ -27,52 +45,6 @@
     }
   ],
   "facts": [
-    {
-      "name": "geography_name",
-      "data_type": "string",
-      "value_distribution": [
-        {
-          "value": "York",
-          "count": 0.076923
-        },
-        {
-          "value": "Craven",
-          "count": 0.076923
-        },
-        {
-          "value": "Hambleton",
-          "count": 0.076923
-        },
-        {
-          "value": "Harrogate",
-          "count": 0.076923
-        },
-        {
-          "value": "Richmondshire",
-          "count": 0.076923
-        },
-        {
-          "value": "Ryedale",
-          "count": 0.076923
-        },
-        {
-          "value": "Scarborough",
-          "count": 0.076923
-        },
-        {
-          "value": "Selby",
-          "count": 0.076923
-        },
-        {
-          "value": "Bradford",
-          "count": 0.076923
-        },
-        {
-          "value": "Calderdale",
-          "count": 0.076923
-        }
-      ]
-    },
     {
       "name": "Total number of schools",
       "data_type": "integer",

@@ -69,6 +69,7 @@
         "Brand Management",
         "Brochures",
         "Building Codes",
+        "Building Envelope",
         "Bulk Material Handling",
         "Business Analysis",
         "Business Development",
@@ -86,7 +87,6 @@
         "Cabinetry",
         "Calculations",
         "Capacity Planning",
-        "Carbon Steel",
         "Care Standards Act 2000",
         "Caregiving",
         "Carpentry",
@@ -104,7 +104,6 @@
         "Cloudflare",
         "Cold Calling",
         "Commissioning",
-        "Communication Planning",
         "Community Management",
         "Competitive Analysis",
         "Competitor Analysis",
@@ -120,12 +119,10 @@
         "Continuous Improvement Process",
         "Contract Management",
         "Contract Of Sale",
-        "Contract Review",
         "Contractor Quality Control",
         "Control Systems",
         "Cooking",
         "Corporate Governance",
-        "Corporate Tax",
         "Corrective And Preventive Action (CAPA)",
         "Cost Benefit Analysis",
         "Cost Control",
@@ -169,6 +166,7 @@
         "Document Object Model",
         "Dual Fuel Smart Meter",
         "Due Diligence",
+        "Dynamic Host Configuration Protocol (DHCP)",
         "E-Commerce",
         "Economic Growth",
         "Economics",
@@ -177,7 +175,6 @@
         "Electrical Engineering",
         "Electrical Sockets",
         "Electrical Systems",
-        "Electrical Wiring",
         "Electronic Point Of Sale",
         "Electronics",
         "Email Marketing",
@@ -187,7 +184,6 @@
         "Employee Relations",
         "Endoscopy",
         "Energy Conservation",
-        "Engagement Surveys",
         "Engineering Design Process",
         "Engineering Drawings",
         "Enterprise Application Software",
@@ -216,7 +212,6 @@
         "Financial Planning",
         "Financial Statements",
         "Finished Good",
-        "Fire Alarm Systems",
         "Fire Management",
         "Firewall",
         "Fixed Asset Register",
@@ -243,14 +238,16 @@
         "Growth Strategies",
         "HVAC",
         "Hand Tools",
+        "Hardware Troubleshooting",
         "Hardware Virtualization",
         "Health And Safety Standards",
         "Help Desk Support",
-        "Home Health Care",
         "Housekeeping",
         "Hydraulics",
         "Hydrogeology",
         "Hyper-V",
+        "HyperText Markup Language (HTML)",
+        "ISO 14000 Series",
         "ISO 9000 Series",
         "Image Optimization",
         "Inbound Calls",
@@ -273,6 +270,7 @@
         "Key Performance Indicators (KPIs)",
         "Labor Law",
         "Lamination",
+        "Landscaping",
         "Lead Generation",
         "Lean Manufacturing",
         "Lean Methodologies",
@@ -294,10 +292,10 @@
         "Manual Handling",
         "Manufacturing Processes",
         "Market Intelligence",
-        "Market Requirements Documents",
         "Market Research",
         "Market Share",
         "Marketing",
+        "Marketing Channel",
         "Marketing Concepts",
         "Marketing Management",
         "Marketing Materials",
@@ -325,11 +323,9 @@
         "Nail Care",
         "Network Switches",
         "New Product Development",
-        "Newsletters",
         "Next.js",
         "Numeracy",
         "Nutrition Services",
-        "Occupational Safety And Health",
         "Office Administration",
         "Office Management",
         "Operating Systems",
@@ -347,7 +343,6 @@
         "Palletizing",
         "Partner Relationship Management",
         "Paving",
-        "Pay Per Click",
         "Payroll Administration",
         "Payroll Processing",
         "Payroll Systems",
@@ -385,7 +380,6 @@
         "Product Engineering",
         "Product Innovation",
         "Product Knowledge",
-        "Product Quality (QA/QC)",
         "Product Requirements",
         "Product Testing",
         "Production Engineering",
@@ -419,7 +413,6 @@
         "Reengineering",
         "Reference Management",
         "Regulatory Compliance",
-        "Regulatory Documents",
         "Remittance",
         "Remote Computing",
         "Remote Desktop Services",
@@ -437,6 +430,7 @@
         "SAP Applications",
         "SQL (Programming Language)",
         "Safety Audits",
+        "Safety Standards",
         "Safety Training",
         "Sage 50 (Accounting Software)",
         "Sales Engineering",
@@ -451,6 +445,7 @@
         "Service Design",
         "Service Development",
         "Service Improvement",
+        "Service Improvement Planning",
         "Service Quality",
         "Service-Level Agreement",
         "Sheet Metal",
@@ -475,7 +470,6 @@
         "Stakeholder Communications",
         "Standard Operating Procedure",
         "Statistical Analysis",
-        "Statutory Accounts",
         "Stock Control",
         "Stock Management",
         "Stock Rotation",
@@ -516,10 +510,8 @@
         "Templates",
         "Test Engineering",
         "Test Tools",
-        "TikTok",
         "Tooling",
         "Training Documentation",
-        "Transferable Skills Analysis",
         "Travel Arrangements",
         "Trenching",
         "Triage",
@@ -563,43 +555,43 @@
       "value_distribution": [
         {
           "value": "17.96 to 22.2",
-          "count": 0.00655
+          "count": 0.005519
         },
         {
           "value": "22.2 to 26.4",
-          "count": 0.010917
+          "count": 0.01766
         },
         {
           "value": "26.4 to 30.6",
-          "count": 0.063319
+          "count": 0.059603
         },
         {
           "value": "30.6 to 34.8",
-          "count": 0.076419
+          "count": 0.091611
         },
         {
           "value": "34.8 to 39.0",
-          "count": 0.264192
+          "count": 0.253863
         },
         {
           "value": "39.0 to 43.2",
-          "count": 0.237991
+          "count": 0.228477
         },
         {
           "value": "43.2 to 47.4",
-          "count": 0.167031
+          "count": 0.161148
         },
         {
           "value": "47.4 to 51.6",
-          "count": 0.087336
+          "count": 0.096026
         },
         {
           "value": "51.6 to 55.8",
-          "count": 0.034934
+          "count": 0.034216
         },
         {
           "value": "55.8 to 60.0",
-          "count": 0.05131
+          "count": 0.051876
         }
       ]
     }

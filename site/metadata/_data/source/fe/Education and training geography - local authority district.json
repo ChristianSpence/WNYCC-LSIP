@@ -26,6 +26,24 @@
       ]
     },
     {
+      "name": "geography_name",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Craven",
+        "Hambleton",
+        "Harrogate",
+        "Kirklees",
+        "Leeds",
+        "Richmondshire",
+        "Ryedale",
+        "Scarborough",
+        "Selby",
+        "Wakefield",
+        "York"
+      ]
+    },
+    {
       "name": "ssa_t1_desc",
       "categories": [
         "Agriculture, Horticulture and Animal Care",
@@ -81,52 +99,6 @@
     }
   ],
   "facts": [
-    {
-      "name": "geography_name",
-      "data_type": "string",
-      "value_distribution": [
-        {
-          "value": "Leeds",
-          "count": 0.076923
-        },
-        {
-          "value": "Selby",
-          "count": 0.076923
-        },
-        {
-          "value": "York",
-          "count": 0.076923
-        },
-        {
-          "value": "Wakefield",
-          "count": 0.076923
-        },
-        {
-          "value": "Calderdale",
-          "count": 0.076923
-        },
-        {
-          "value": "Harrogate",
-          "count": 0.076923
-        },
-        {
-          "value": "Kirklees",
-          "count": 0.076923
-        },
-        {
-          "value": "Ryedale",
-          "count": 0.076923
-        },
-        {
-          "value": "Bradford",
-          "count": 0.076923
-        },
-        {
-          "value": "Richmondshire",
-          "count": 0.076923
-        }
-      ]
-    },
     {
       "name": "e_and_t_aims_enrolments",
       "data_type": "string",

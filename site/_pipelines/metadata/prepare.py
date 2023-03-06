@@ -1,15 +1,19 @@
-import os
-import re
 import glob
 import json
 import logging
-import pandas as pd
-from vars import FORCED_DIMENSIONS, FORCED_FACTS
+import os
+import re
+import sys
 
+import pandas as pd
+import yaml
+
+with open('site/_pipelines/metadata/datasets.yaml', 'r') as f:
+    datasets = yaml.load(f.read(), Loader=yaml.loader.BaseLoader)
 
 logging.basicConfig(
     format="%(levelname)s:%(funcName)s:%(message)s",
-    level=logging.DEBUG
+    level=logging.INFO
 )
 
 SOURCE_PATH = os.path.join('data/csv')
@@ -69,9 +73,17 @@ class SourceFile(object):
     def metadata(self):
         self.load_data()
 
-        dimensions = [dimension for dimension in SourceFile.guess_dimensions(
-            self.data, overrides=self.overridden_dimensions, facts=self.overridden_facts)]
-        print(dimensions)
+        try:
+            dimensions = [dimension for dimension in SourceFile.guess_dimensions(
+                self.data, overrides=self.overridden_dimensions, facts=self.overridden_facts)]
+        except Exception as e:
+            logging.error(e)
+            logging.error('Problem guessing dimensions for %s', self.filename)
+            logging.info('Available columns %s', self.data.columns.values)
+            sys.exit(1)
+
+        logging.debug('Guessed dimensions, %s', dimensions)
+
         self.data.set_index(dimensions, inplace=True)
 
         dimension_metadata = [self.dimension_metadata(
@@ -97,7 +109,7 @@ class SourceFile(object):
         # First pass - let's check the data type
         types = [pd.api.types.infer_dtype(series) for _, series in df.items()]
         count_non_numeric = [len(series[pd.to_numeric(
-          series.map(str).str.replace(r'[%]$', '', regex=True),
+            series.map(str).str.replace(r'[%]$', '', regex=True),
             errors='coerce'
         ).isna()].unique()) for _, series in df.items()]
 
@@ -163,9 +175,19 @@ def get_tree(path, ext='csv'):
     return glob.glob(spec, recursive=True)
 
 
+def get_dataset_info(path, key, default=None):
+    if not path in datasets:
+        return default
+    return datasets[path].get(key, default)
+
+
 def build_metadata_files(source_path):
-    metadata = [SourceFile(f, base=SOURCE_PATH, dimensions=FORCED_DIMENSIONS, facts=FORCED_FACTS)
-                for f in get_tree(source_path)]
+    metadata = [SourceFile(
+        f,
+        base=SOURCE_PATH,
+        dimensions=get_dataset_info(f, 'dimensions', []),
+        facts=get_dataset_info(f, 'facts', [])
+    ) for f in get_tree(source_path)]
 
     for m in metadata:
         m.save_metadata(root=META_DIR)

@@ -24,6 +24,7 @@
       "categories": [
         "Ability To Meet Deadlines",
         "Accountability",
+        "Active Listening",
         "Adaptability",
         "Administrative Functions",
         "Advising",
@@ -97,7 +98,6 @@
         "Information Technology",
         "Innovation",
         "Intellectual Curiosity",
-        "Interactive Communications",
         "Interpersonal Communications",
         "Investigation",
         "Leadership",
@@ -108,6 +108,7 @@
         "Literacy",
         "Loading And Unloading",
         "Management",
+        "Mandarin Chinese",
         "Mathematics",
         "Mechanical Aptitude",
         "Mentorship",
@@ -115,6 +116,7 @@
         "Microsoft Office",
         "Microsoft Outlook",
         "Microsoft PowerPoint",
+        "Microsoft Software",
         "Microsoft Windows",
         "Microsoft Word",
         "Mobile Devices",
@@ -135,6 +137,7 @@
         "Persuasive Communication",
         "Physical Fitness",
         "Planning",
+        "Portuguese Language",
         "Positivity",
         "Presentations",
         "Prioritization",
@@ -184,6 +187,7 @@
         "Supervision",
         "Support Colleagues",
         "Swimming",
+        "Systems Thinking",
         "Tactfulness",
         "Taking Messages",
         "Teaching",
@@ -206,7 +210,6 @@
         "Valid Driver's License",
         "Verbal Communication Skills",
         "Video Conferencing",
-        "Welsh Language",
         "Willingness To Learn",
         "Word Processing",
         "Writing",
@@ -220,43 +223,43 @@
       "data_type": "integer",
       "value_distribution": [
         {
-          "value": "-341.13 to 34213.9",
+          "value": "-341.13 to 34213.8",
           "count": 0.991429
         },
         {
-          "value": "34213.9 to 68426.8",
+          "value": "34213.8 to 68426.6",
           "count": 0.005714
         },
         {
-          "value": "68426.8 to 102639.7",
+          "value": "68426.6 to 102639.4",
           "count": 0.0
         },
         {
-          "value": "102639.7 to 136852.6",
+          "value": "102639.4 to 136852.2",
           "count": 0.000714
         },
         {
-          "value": "136852.6 to 171065.5",
+          "value": "136852.2 to 171065.0",
           "count": 0.0
         },
         {
-          "value": "171065.5 to 205278.4",
+          "value": "171065.0 to 205277.8",
           "count": 0.0
         },
         {
-          "value": "205278.4 to 239491.3",
+          "value": "205277.8 to 239490.6",
           "count": 0.000714
         },
         {
-          "value": "239491.3 to 273704.2",
+          "value": "239490.6 to 273703.4",
           "count": 0.0
         },
         {
-          "value": "273704.2 to 307917.1",
+          "value": "273703.4 to 307916.2",
           "count": 0.0
         },
         {
-          "value": "307917.1 to 342130.0",
+          "value": "307916.2 to 342129.0",
           "count": 0.001429
         }
       ]

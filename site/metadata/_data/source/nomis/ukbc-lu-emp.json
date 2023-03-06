@@ -1,0 +1,168 @@
+{
+  "path": "data/csv/nomis/ukbc-lu-emp.csv",
+  "dimensions": [
+    {
+      "name": "DATE",
+      "categories": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "GEOGRAPHY_CODE",
+      "categories": [
+        "E06000014",
+        "E07000163",
+        "E07000164",
+        "E07000165",
+        "E07000166",
+        "E07000167",
+        "E07000168",
+        "E07000169",
+        "E08000032",
+        "E08000033",
+        "E08000034",
+        "E08000035",
+        "E08000036"
+      ]
+    },
+    {
+      "name": "GEOGRAPHY_NAME",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Craven",
+        "Hambleton",
+        "Harrogate",
+        "Kirklees",
+        "Leeds",
+        "Richmondshire",
+        "Ryedale",
+        "Scarborough",
+        "Selby",
+        "Wakefield",
+        "York"
+      ]
+    },
+    {
+      "name": "INDUSTRY_CODE",
+      "categories": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U"
+      ]
+    },
+    {
+      "name": "INDUSTRY_NAME",
+      "categories": [
+        "A : Agriculture, forestry and fishing",
+        "B : Mining and quarrying",
+        "C : Manufacturing",
+        "D : Electricity, gas, steam and air conditioning supply",
+        "E : Water supply; sewerage, waste management and remediation activities",
+        "F : Construction",
+        "G : Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "H : Transportation and storage",
+        "I : Accommodation and food service activities",
+        "J : Information and communication",
+        "K : Financial and insurance activities",
+        "L : Real estate activities",
+        "M : Professional, scientific and technical activities",
+        "N : Administrative and support service activities",
+        "O : Public administration and defence; compulsory social security",
+        "P : Education",
+        "Q : Human health and social work activities",
+        "R : Arts, entertainment and recreation",
+        "S : Other service activities",
+        "T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use",
+        "U : Activities of extraterritorial organisations and bodies"
+      ]
+    },
+    {
+      "name": "EMPLOYMENT_SIZEBAND_NAME",
+      "categories": [
+        "Large (250+)",
+        "Medium-sized (50 to 249)",
+        "Micro (0 to 9)",
+        "Small (10 to 49)"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "OBS_VALUE",
+      "data_type": "integer",
+      "value_distribution": [
+        {
+          "value": "-5.13 to 512.5",
+          "count": 0.937236
+        },
+        {
+          "value": "512.5 to 1025.0",
+          "count": 0.036419
+        },
+        {
+          "value": "1025.0 to 1537.5",
+          "count": 0.015497
+        },
+        {
+          "value": "1537.5 to 2050.0",
+          "count": 0.004649
+        },
+        {
+          "value": "2050.0 to 2562.5",
+          "count": 0.001409
+        },
+        {
+          "value": "2562.5 to 3075.0",
+          "count": 0.001479
+        },
+        {
+          "value": "3075.0 to 3587.5",
+          "count": 0.00155
+        },
+        {
+          "value": "3587.5 to 4100.0",
+          "count": 0.000282
+        },
+        {
+          "value": "4100.0 to 4612.5",
+          "count": 0.000916
+        },
+        {
+          "value": "4612.5 to 5125.0",
+          "count": 0.000564
+        }
+      ]
+    }
+  ]
+}

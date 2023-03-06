@@ -87,43 +87,43 @@
       "value_distribution": [
         {
           "value": "10.95 to 15.9",
-          "count": 0.037594
+          "count": 0.045455
         },
         {
           "value": "15.9 to 20.8",
-          "count": 0.082707
+          "count": 0.075758
         },
         {
           "value": "20.8 to 25.7",
-          "count": 0.097744
+          "count": 0.090909
         },
         {
           "value": "25.7 to 30.6",
-          "count": 0.240602
+          "count": 0.242424
         },
         {
           "value": "30.6 to 35.5",
-          "count": 0.285714
+          "count": 0.295455
         },
         {
           "value": "35.5 to 40.4",
-          "count": 0.135338
+          "count": 0.128788
         },
         {
           "value": "40.4 to 45.3",
-          "count": 0.067669
+          "count": 0.068182
         },
         {
           "value": "45.3 to 50.2",
-          "count": 0.022556
+          "count": 0.022727
         },
         {
           "value": "50.2 to 55.1",
-          "count": 0.007519
+          "count": 0.007576
         },
         {
           "value": "55.1 to 60.0",
-          "count": 0.022556
+          "count": 0.022727
         }
       ]
     }
