@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+R/datacityAPIkey.R
 
 
 # Lume built artefacts
