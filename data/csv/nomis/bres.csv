@@ -1,0 +1,1912 @@
+DATE,GEOGRAPHY_CODE,GEOGRAPHY_NAME,INDUSTRY_CODE,INDUSTRY_NAME,OBS_VALUE
+2015,E08000032,Bradford,A,"A : Agriculture, forestry and fishing",900
+2015,E08000032,Bradford,B,B : Mining and quarrying,75
+2015,E08000032,Bradford,C,C : Manufacturing,26000
+2015,E08000032,Bradford,D,"D : Electricity, gas, steam and air conditioning supply",150
+2015,E08000032,Bradford,E,"E : Water supply; sewerage, waste management and remediation activities",2500
+2015,E08000032,Bradford,F,F : Construction,7000
+2015,E08000032,Bradford,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,33000
+2015,E08000032,Bradford,H,H : Transportation and storage,8000
+2015,E08000032,Bradford,I,I : Accommodation and food service activities,10000
+2015,E08000032,Bradford,J,J : Information and communication,5000
+2015,E08000032,Bradford,K,K : Financial and insurance activities,9000
+2015,E08000032,Bradford,L,L : Real estate activities,3000
+2015,E08000032,Bradford,M,"M : Professional, scientific and technical activities",12000
+2015,E08000032,Bradford,N,N : Administrative and support service activities,13000
+2015,E08000032,Bradford,O,O : Public administration and defence; compulsory social security,9000
+2015,E08000032,Bradford,P,P : Education,24000
+2015,E08000032,Bradford,Q,Q : Human health and social work activities,32000
+2015,E08000032,Bradford,R,"R : Arts, entertainment and recreation",4000
+2015,E08000032,Bradford,S,S : Other service activities,2500
+2015,E08000032,Bradford,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E08000032,Bradford,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E08000033,Calderdale,A,"A : Agriculture, forestry and fishing",900
+2015,E08000033,Calderdale,B,B : Mining and quarrying,75
+2015,E08000033,Calderdale,C,C : Manufacturing,14000
+2015,E08000033,Calderdale,D,"D : Electricity, gas, steam and air conditioning supply",40
+2015,E08000033,Calderdale,E,"E : Water supply; sewerage, waste management and remediation activities",400
+2015,E08000033,Calderdale,F,F : Construction,4000
+2015,E08000033,Calderdale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,13000
+2015,E08000033,Calderdale,H,H : Transportation and storage,3000
+2015,E08000033,Calderdale,I,I : Accommodation and food service activities,6000
+2015,E08000033,Calderdale,J,J : Information and communication,1500
+2015,E08000033,Calderdale,K,K : Financial and insurance activities,8000
+2015,E08000033,Calderdale,L,L : Real estate activities,1250
+2015,E08000033,Calderdale,M,"M : Professional, scientific and technical activities",4500
+2015,E08000033,Calderdale,N,N : Administrative and support service activities,18000
+2015,E08000033,Calderdale,O,O : Public administration and defence; compulsory social security,3000
+2015,E08000033,Calderdale,P,P : Education,8000
+2015,E08000033,Calderdale,Q,Q : Human health and social work activities,11000
+2015,E08000033,Calderdale,R,"R : Arts, entertainment and recreation",2000
+2015,E08000033,Calderdale,S,S : Other service activities,1750
+2015,E08000033,Calderdale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E08000033,Calderdale,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E07000163,Craven,A,"A : Agriculture, forestry and fishing",2000
+2015,E07000163,Craven,B,B : Mining and quarrying,50
+2015,E07000163,Craven,C,C : Manufacturing,3000
+2015,E07000163,Craven,D,"D : Electricity, gas, steam and air conditioning supply",0
+2015,E07000163,Craven,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2015,E07000163,Craven,F,F : Construction,1500
+2015,E07000163,Craven,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4500
+2015,E07000163,Craven,H,H : Transportation and storage,1000
+2015,E07000163,Craven,I,I : Accommodation and food service activities,3500
+2015,E07000163,Craven,J,J : Information and communication,350
+2015,E07000163,Craven,K,K : Financial and insurance activities,2500
+2015,E07000163,Craven,L,L : Real estate activities,500
+2015,E07000163,Craven,M,"M : Professional, scientific and technical activities",1750
+2015,E07000163,Craven,N,N : Administrative and support service activities,6000
+2015,E07000163,Craven,O,O : Public administration and defence; compulsory social security,450
+2015,E07000163,Craven,P,P : Education,3000
+2015,E07000163,Craven,Q,Q : Human health and social work activities,2250
+2015,E07000163,Craven,R,"R : Arts, entertainment and recreation",600
+2015,E07000163,Craven,S,S : Other service activities,500
+2015,E07000163,Craven,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E07000163,Craven,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E07000164,Hambleton,A,"A : Agriculture, forestry and fishing",4000
+2015,E07000164,Hambleton,B,B : Mining and quarrying,30
+2015,E07000164,Hambleton,C,C : Manufacturing,6000
+2015,E07000164,Hambleton,D,"D : Electricity, gas, steam and air conditioning supply",100
+2015,E07000164,Hambleton,E,"E : Water supply; sewerage, waste management and remediation activities",400
+2015,E07000164,Hambleton,F,F : Construction,2250
+2015,E07000164,Hambleton,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,7000
+2015,E07000164,Hambleton,H,H : Transportation and storage,1750
+2015,E07000164,Hambleton,I,I : Accommodation and food service activities,4000
+2015,E07000164,Hambleton,J,J : Information and communication,600
+2015,E07000164,Hambleton,K,K : Financial and insurance activities,400
+2015,E07000164,Hambleton,L,L : Real estate activities,800
+2015,E07000164,Hambleton,M,"M : Professional, scientific and technical activities",2250
+2015,E07000164,Hambleton,N,N : Administrative and support service activities,3000
+2015,E07000164,Hambleton,O,O : Public administration and defence; compulsory social security,3500
+2015,E07000164,Hambleton,P,P : Education,3000
+2015,E07000164,Hambleton,Q,Q : Human health and social work activities,5000
+2015,E07000164,Hambleton,R,"R : Arts, entertainment and recreation",1000
+2015,E07000164,Hambleton,S,S : Other service activities,700
+2015,E07000164,Hambleton,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E07000164,Hambleton,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E07000165,Harrogate,A,"A : Agriculture, forestry and fishing",3000
+2015,E07000165,Harrogate,B,B : Mining and quarrying,50
+2015,E07000165,Harrogate,C,C : Manufacturing,5000
+2015,E07000165,Harrogate,D,"D : Electricity, gas, steam and air conditioning supply",75
+2015,E07000165,Harrogate,E,"E : Water supply; sewerage, waste management and remediation activities",250
+2015,E07000165,Harrogate,F,F : Construction,3500
+2015,E07000165,Harrogate,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,14000
+2015,E07000165,Harrogate,H,H : Transportation and storage,3000
+2015,E07000165,Harrogate,I,I : Accommodation and food service activities,9000
+2015,E07000165,Harrogate,J,J : Information and communication,2000
+2015,E07000165,Harrogate,K,K : Financial and insurance activities,2500
+2015,E07000165,Harrogate,L,L : Real estate activities,1500
+2015,E07000165,Harrogate,M,"M : Professional, scientific and technical activities",9000
+2015,E07000165,Harrogate,N,N : Administrative and support service activities,6000
+2015,E07000165,Harrogate,O,O : Public administration and defence; compulsory social security,2000
+2015,E07000165,Harrogate,P,P : Education,7000
+2015,E07000165,Harrogate,Q,Q : Human health and social work activities,12000
+2015,E07000165,Harrogate,R,"R : Arts, entertainment and recreation",2500
+2015,E07000165,Harrogate,S,S : Other service activities,1500
+2015,E07000165,Harrogate,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E07000165,Harrogate,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E08000034,Kirklees,A,"A : Agriculture, forestry and fishing",1000
+2015,E08000034,Kirklees,B,B : Mining and quarrying,125
+2015,E08000034,Kirklees,C,C : Manufacturing,25000
+2015,E08000034,Kirklees,D,"D : Electricity, gas, steam and air conditioning supply",200
+2015,E08000034,Kirklees,E,"E : Water supply; sewerage, waste management and remediation activities",800
+2015,E08000034,Kirklees,F,F : Construction,9000
+2015,E08000034,Kirklees,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,33000
+2015,E08000034,Kirklees,H,H : Transportation and storage,7000
+2015,E08000034,Kirklees,I,I : Accommodation and food service activities,10000
+2015,E08000034,Kirklees,J,J : Information and communication,2250
+2015,E08000034,Kirklees,K,K : Financial and insurance activities,3000
+2015,E08000034,Kirklees,L,L : Real estate activities,2000
+2015,E08000034,Kirklees,M,"M : Professional, scientific and technical activities",9000
+2015,E08000034,Kirklees,N,N : Administrative and support service activities,9000
+2015,E08000034,Kirklees,O,O : Public administration and defence; compulsory social security,6000
+2015,E08000034,Kirklees,P,P : Education,18000
+2015,E08000034,Kirklees,Q,Q : Human health and social work activities,21000
+2015,E08000034,Kirklees,R,"R : Arts, entertainment and recreation",3500
+2015,E08000034,Kirklees,S,S : Other service activities,2500
+2015,E08000034,Kirklees,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E08000034,Kirklees,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E08000035,Leeds,A,"A : Agriculture, forestry and fishing",1250
+2015,E08000035,Leeds,B,B : Mining and quarrying,175
+2015,E08000035,Leeds,C,C : Manufacturing,29000
+2015,E08000035,Leeds,D,"D : Electricity, gas, steam and air conditioning supply",4500
+2015,E08000035,Leeds,E,"E : Water supply; sewerage, waste management and remediation activities",2000
+2015,E08000035,Leeds,F,F : Construction,19000
+2015,E08000035,Leeds,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,56000
+2015,E08000035,Leeds,H,H : Transportation and storage,18000
+2015,E08000035,Leeds,I,I : Accommodation and food service activities,26000
+2015,E08000035,Leeds,J,J : Information and communication,16000
+2015,E08000035,Leeds,K,K : Financial and insurance activities,26000
+2015,E08000035,Leeds,L,L : Real estate activities,8000
+2015,E08000035,Leeds,M,"M : Professional, scientific and technical activities",49000
+2015,E08000035,Leeds,N,N : Administrative and support service activities,60000
+2015,E08000035,Leeds,O,O : Public administration and defence; compulsory social security,16000
+2015,E08000035,Leeds,P,P : Education,39000
+2015,E08000035,Leeds,Q,Q : Human health and social work activities,52000
+2015,E08000035,Leeds,R,"R : Arts, entertainment and recreation",12000
+2015,E08000035,Leeds,S,S : Other service activities,7000
+2015,E08000035,Leeds,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E08000035,Leeds,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E07000166,Richmondshire,A,"A : Agriculture, forestry and fishing",2250
+2015,E07000166,Richmondshire,B,B : Mining and quarrying,30
+2015,E07000166,Richmondshire,C,C : Manufacturing,1000
+2015,E07000166,Richmondshire,D,"D : Electricity, gas, steam and air conditioning supply",0
+2015,E07000166,Richmondshire,E,"E : Water supply; sewerage, waste management and remediation activities",200
+2015,E07000166,Richmondshire,F,F : Construction,1000
+2015,E07000166,Richmondshire,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3000
+2015,E07000166,Richmondshire,H,H : Transportation and storage,600
+2015,E07000166,Richmondshire,I,I : Accommodation and food service activities,3000
+2015,E07000166,Richmondshire,J,J : Information and communication,150
+2015,E07000166,Richmondshire,K,K : Financial and insurance activities,150
+2015,E07000166,Richmondshire,L,L : Real estate activities,350
+2015,E07000166,Richmondshire,M,"M : Professional, scientific and technical activities",1000
+2015,E07000166,Richmondshire,N,N : Administrative and support service activities,1000
+2015,E07000166,Richmondshire,O,O : Public administration and defence; compulsory social security,900
+2015,E07000166,Richmondshire,P,P : Education,1500
+2015,E07000166,Richmondshire,Q,Q : Human health and social work activities,1500
+2015,E07000166,Richmondshire,R,"R : Arts, entertainment and recreation",1000
+2015,E07000166,Richmondshire,S,S : Other service activities,350
+2015,E07000166,Richmondshire,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E07000166,Richmondshire,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E07000167,Ryedale,A,"A : Agriculture, forestry and fishing",3000
+2015,E07000167,Ryedale,B,B : Mining and quarrying,40
+2015,E07000167,Ryedale,C,C : Manufacturing,5000
+2015,E07000167,Ryedale,D,"D : Electricity, gas, steam and air conditioning supply",5
+2015,E07000167,Ryedale,E,"E : Water supply; sewerage, waste management and remediation activities",150
+2015,E07000167,Ryedale,F,F : Construction,1500
+2015,E07000167,Ryedale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3500
+2015,E07000167,Ryedale,H,H : Transportation and storage,700
+2015,E07000167,Ryedale,I,I : Accommodation and food service activities,3000
+2015,E07000167,Ryedale,J,J : Information and communication,150
+2015,E07000167,Ryedale,K,K : Financial and insurance activities,350
+2015,E07000167,Ryedale,L,L : Real estate activities,800
+2015,E07000167,Ryedale,M,"M : Professional, scientific and technical activities",1500
+2015,E07000167,Ryedale,N,N : Administrative and support service activities,1250
+2015,E07000167,Ryedale,O,O : Public administration and defence; compulsory social security,700
+2015,E07000167,Ryedale,P,P : Education,2250
+2015,E07000167,Ryedale,Q,Q : Human health and social work activities,1750
+2015,E07000167,Ryedale,R,"R : Arts, entertainment and recreation",1750
+2015,E07000167,Ryedale,S,S : Other service activities,300
+2015,E07000167,Ryedale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E07000167,Ryedale,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E07000168,Scarborough,A,"A : Agriculture, forestry and fishing",1500
+2015,E07000168,Scarborough,B,B : Mining and quarrying,75
+2015,E07000168,Scarborough,C,C : Manufacturing,5000
+2015,E07000168,Scarborough,D,"D : Electricity, gas, steam and air conditioning supply",45
+2015,E07000168,Scarborough,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2015,E07000168,Scarborough,F,F : Construction,1500
+2015,E07000168,Scarborough,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,7000
+2015,E07000168,Scarborough,H,H : Transportation and storage,1250
+2015,E07000168,Scarborough,I,I : Accommodation and food service activities,8000
+2015,E07000168,Scarborough,J,J : Information and communication,300
+2015,E07000168,Scarborough,K,K : Financial and insurance activities,600
+2015,E07000168,Scarborough,L,L : Real estate activities,1000
+2015,E07000168,Scarborough,M,"M : Professional, scientific and technical activities",1250
+2015,E07000168,Scarborough,N,N : Administrative and support service activities,2000
+2015,E07000168,Scarborough,O,O : Public administration and defence; compulsory social security,1250
+2015,E07000168,Scarborough,P,P : Education,3500
+2015,E07000168,Scarborough,Q,Q : Human health and social work activities,8000
+2015,E07000168,Scarborough,R,"R : Arts, entertainment and recreation",2000
+2015,E07000168,Scarborough,S,S : Other service activities,600
+2015,E07000168,Scarborough,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E07000168,Scarborough,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E07000169,Selby,A,"A : Agriculture, forestry and fishing",1750
+2015,E07000169,Selby,B,B : Mining and quarrying,600
+2015,E07000169,Selby,C,C : Manufacturing,7000
+2015,E07000169,Selby,D,"D : Electricity, gas, steam and air conditioning supply",1000
+2015,E07000169,Selby,E,"E : Water supply; sewerage, waste management and remediation activities",300
+2015,E07000169,Selby,F,F : Construction,1750
+2015,E07000169,Selby,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4500
+2015,E07000169,Selby,H,H : Transportation and storage,3500
+2015,E07000169,Selby,I,I : Accommodation and food service activities,2250
+2015,E07000169,Selby,J,J : Information and communication,800
+2015,E07000169,Selby,K,K : Financial and insurance activities,300
+2015,E07000169,Selby,L,L : Real estate activities,300
+2015,E07000169,Selby,M,"M : Professional, scientific and technical activities",3000
+2015,E07000169,Selby,N,N : Administrative and support service activities,3500
+2015,E07000169,Selby,O,O : Public administration and defence; compulsory social security,700
+2015,E07000169,Selby,P,P : Education,3500
+2015,E07000169,Selby,Q,Q : Human health and social work activities,3000
+2015,E07000169,Selby,R,"R : Arts, entertainment and recreation",400
+2015,E07000169,Selby,S,S : Other service activities,400
+2015,E07000169,Selby,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E07000169,Selby,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E08000036,Wakefield,A,"A : Agriculture, forestry and fishing",500
+2015,E08000036,Wakefield,B,B : Mining and quarrying,35
+2015,E08000036,Wakefield,C,C : Manufacturing,19000
+2015,E08000036,Wakefield,D,"D : Electricity, gas, steam and air conditioning supply",900
+2015,E08000036,Wakefield,E,"E : Water supply; sewerage, waste management and remediation activities",1000
+2015,E08000036,Wakefield,F,F : Construction,7000
+2015,E08000036,Wakefield,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,26000
+2015,E08000036,Wakefield,H,H : Transportation and storage,14000
+2015,E08000036,Wakefield,I,I : Accommodation and food service activities,9000
+2015,E08000036,Wakefield,J,J : Information and communication,2000
+2015,E08000036,Wakefield,K,K : Financial and insurance activities,2250
+2015,E08000036,Wakefield,L,L : Real estate activities,2500
+2015,E08000036,Wakefield,M,"M : Professional, scientific and technical activities",8000
+2015,E08000036,Wakefield,N,N : Administrative and support service activities,13000
+2015,E08000036,Wakefield,O,O : Public administration and defence; compulsory social security,8000
+2015,E08000036,Wakefield,P,P : Education,12000
+2015,E08000036,Wakefield,Q,Q : Human health and social work activities,21000
+2015,E08000036,Wakefield,R,"R : Arts, entertainment and recreation",4000
+2015,E08000036,Wakefield,S,S : Other service activities,2000
+2015,E08000036,Wakefield,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E08000036,Wakefield,U,U : Activities of extraterritorial organisations and bodies,0
+2015,E06000014,York,A,"A : Agriculture, forestry and fishing",600
+2015,E06000014,York,B,B : Mining and quarrying,0
+2015,E06000014,York,C,C : Manufacturing,4500
+2015,E06000014,York,D,"D : Electricity, gas, steam and air conditioning supply",150
+2015,E06000014,York,E,"E : Water supply; sewerage, waste management and remediation activities",250
+2015,E06000014,York,F,F : Construction,4500
+2015,E06000014,York,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,18000
+2015,E06000014,York,H,H : Transportation and storage,4500
+2015,E06000014,York,I,I : Accommodation and food service activities,11000
+2015,E06000014,York,J,J : Information and communication,2500
+2015,E06000014,York,K,K : Financial and insurance activities,4500
+2015,E06000014,York,L,L : Real estate activities,2000
+2015,E06000014,York,M,"M : Professional, scientific and technical activities",8000
+2015,E06000014,York,N,N : Administrative and support service activities,8000
+2015,E06000014,York,O,O : Public administration and defence; compulsory social security,5000
+2015,E06000014,York,P,P : Education,12000
+2015,E06000014,York,Q,Q : Human health and social work activities,16000
+2015,E06000014,York,R,"R : Arts, entertainment and recreation",3000
+2015,E06000014,York,S,S : Other service activities,2500
+2015,E06000014,York,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2015,E06000014,York,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E08000032,Bradford,A,"A : Agriculture, forestry and fishing",1250
+2016,E08000032,Bradford,B,B : Mining and quarrying,225
+2016,E08000032,Bradford,C,C : Manufacturing,23000
+2016,E08000032,Bradford,D,"D : Electricity, gas, steam and air conditioning supply",150
+2016,E08000032,Bradford,E,"E : Water supply; sewerage, waste management and remediation activities",2500
+2016,E08000032,Bradford,F,F : Construction,8000
+2016,E08000032,Bradford,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,36000
+2016,E08000032,Bradford,H,H : Transportation and storage,8000
+2016,E08000032,Bradford,I,I : Accommodation and food service activities,10000
+2016,E08000032,Bradford,J,J : Information and communication,6000
+2016,E08000032,Bradford,K,K : Financial and insurance activities,7000
+2016,E08000032,Bradford,L,L : Real estate activities,3500
+2016,E08000032,Bradford,M,"M : Professional, scientific and technical activities",12000
+2016,E08000032,Bradford,N,N : Administrative and support service activities,12000
+2016,E08000032,Bradford,O,O : Public administration and defence; compulsory social security,8000
+2016,E08000032,Bradford,P,P : Education,23000
+2016,E08000032,Bradford,Q,Q : Human health and social work activities,32000
+2016,E08000032,Bradford,R,"R : Arts, entertainment and recreation",4000
+2016,E08000032,Bradford,S,S : Other service activities,3500
+2016,E08000032,Bradford,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E08000032,Bradford,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E08000033,Calderdale,A,"A : Agriculture, forestry and fishing",1000
+2016,E08000033,Calderdale,B,B : Mining and quarrying,125
+2016,E08000033,Calderdale,C,C : Manufacturing,12000
+2016,E08000033,Calderdale,D,"D : Electricity, gas, steam and air conditioning supply",30
+2016,E08000033,Calderdale,E,"E : Water supply; sewerage, waste management and remediation activities",400
+2016,E08000033,Calderdale,F,F : Construction,4500
+2016,E08000033,Calderdale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,14000
+2016,E08000033,Calderdale,H,H : Transportation and storage,3000
+2016,E08000033,Calderdale,I,I : Accommodation and food service activities,5000
+2016,E08000033,Calderdale,J,J : Information and communication,2000
+2016,E08000033,Calderdale,K,K : Financial and insurance activities,7000
+2016,E08000033,Calderdale,L,L : Real estate activities,1750
+2016,E08000033,Calderdale,M,"M : Professional, scientific and technical activities",5000
+2016,E08000033,Calderdale,N,N : Administrative and support service activities,17000
+2016,E08000033,Calderdale,O,O : Public administration and defence; compulsory social security,3000
+2016,E08000033,Calderdale,P,P : Education,8000
+2016,E08000033,Calderdale,Q,Q : Human health and social work activities,10000
+2016,E08000033,Calderdale,R,"R : Arts, entertainment and recreation",2000
+2016,E08000033,Calderdale,S,S : Other service activities,2250
+2016,E08000033,Calderdale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E08000033,Calderdale,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E07000163,Craven,A,"A : Agriculture, forestry and fishing",2250
+2016,E07000163,Craven,B,B : Mining and quarrying,50
+2016,E07000163,Craven,C,C : Manufacturing,3000
+2016,E07000163,Craven,D,"D : Electricity, gas, steam and air conditioning supply",5
+2016,E07000163,Craven,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2016,E07000163,Craven,F,F : Construction,1500
+2016,E07000163,Craven,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,5000
+2016,E07000163,Craven,H,H : Transportation and storage,1000
+2016,E07000163,Craven,I,I : Accommodation and food service activities,3500
+2016,E07000163,Craven,J,J : Information and communication,600
+2016,E07000163,Craven,K,K : Financial and insurance activities,2500
+2016,E07000163,Craven,L,L : Real estate activities,400
+2016,E07000163,Craven,M,"M : Professional, scientific and technical activities",1750
+2016,E07000163,Craven,N,N : Administrative and support service activities,6000
+2016,E07000163,Craven,O,O : Public administration and defence; compulsory social security,350
+2016,E07000163,Craven,P,P : Education,3000
+2016,E07000163,Craven,Q,Q : Human health and social work activities,2000
+2016,E07000163,Craven,R,"R : Arts, entertainment and recreation",600
+2016,E07000163,Craven,S,S : Other service activities,700
+2016,E07000163,Craven,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E07000163,Craven,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E07000164,Hambleton,A,"A : Agriculture, forestry and fishing",4000
+2016,E07000164,Hambleton,B,B : Mining and quarrying,30
+2016,E07000164,Hambleton,C,C : Manufacturing,5000
+2016,E07000164,Hambleton,D,"D : Electricity, gas, steam and air conditioning supply",150
+2016,E07000164,Hambleton,E,"E : Water supply; sewerage, waste management and remediation activities",350
+2016,E07000164,Hambleton,F,F : Construction,3000
+2016,E07000164,Hambleton,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,7000
+2016,E07000164,Hambleton,H,H : Transportation and storage,1750
+2016,E07000164,Hambleton,I,I : Accommodation and food service activities,3500
+2016,E07000164,Hambleton,J,J : Information and communication,700
+2016,E07000164,Hambleton,K,K : Financial and insurance activities,300
+2016,E07000164,Hambleton,L,L : Real estate activities,700
+2016,E07000164,Hambleton,M,"M : Professional, scientific and technical activities",2250
+2016,E07000164,Hambleton,N,N : Administrative and support service activities,1750
+2016,E07000164,Hambleton,O,O : Public administration and defence; compulsory social security,3500
+2016,E07000164,Hambleton,P,P : Education,3500
+2016,E07000164,Hambleton,Q,Q : Human health and social work activities,5000
+2016,E07000164,Hambleton,R,"R : Arts, entertainment and recreation",1000
+2016,E07000164,Hambleton,S,S : Other service activities,900
+2016,E07000164,Hambleton,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E07000164,Hambleton,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E07000165,Harrogate,A,"A : Agriculture, forestry and fishing",4000
+2016,E07000165,Harrogate,B,B : Mining and quarrying,100
+2016,E07000165,Harrogate,C,C : Manufacturing,4500
+2016,E07000165,Harrogate,D,"D : Electricity, gas, steam and air conditioning supply",300
+2016,E07000165,Harrogate,E,"E : Water supply; sewerage, waste management and remediation activities",300
+2016,E07000165,Harrogate,F,F : Construction,4000
+2016,E07000165,Harrogate,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,15000
+2016,E07000165,Harrogate,H,H : Transportation and storage,3000
+2016,E07000165,Harrogate,I,I : Accommodation and food service activities,8000
+2016,E07000165,Harrogate,J,J : Information and communication,2500
+2016,E07000165,Harrogate,K,K : Financial and insurance activities,2000
+2016,E07000165,Harrogate,L,L : Real estate activities,1500
+2016,E07000165,Harrogate,M,"M : Professional, scientific and technical activities",9000
+2016,E07000165,Harrogate,N,N : Administrative and support service activities,6000
+2016,E07000165,Harrogate,O,O : Public administration and defence; compulsory social security,2000
+2016,E07000165,Harrogate,P,P : Education,7000
+2016,E07000165,Harrogate,Q,Q : Human health and social work activities,14000
+2016,E07000165,Harrogate,R,"R : Arts, entertainment and recreation",2250
+2016,E07000165,Harrogate,S,S : Other service activities,1750
+2016,E07000165,Harrogate,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E07000165,Harrogate,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E08000034,Kirklees,A,"A : Agriculture, forestry and fishing",1250
+2016,E08000034,Kirklees,B,B : Mining and quarrying,200
+2016,E08000034,Kirklees,C,C : Manufacturing,21000
+2016,E08000034,Kirklees,D,"D : Electricity, gas, steam and air conditioning supply",350
+2016,E08000034,Kirklees,E,"E : Water supply; sewerage, waste management and remediation activities",1000
+2016,E08000034,Kirklees,F,F : Construction,9000
+2016,E08000034,Kirklees,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,34000
+2016,E08000034,Kirklees,H,H : Transportation and storage,7000
+2016,E08000034,Kirklees,I,I : Accommodation and food service activities,9000
+2016,E08000034,Kirklees,J,J : Information and communication,3000
+2016,E08000034,Kirklees,K,K : Financial and insurance activities,2250
+2016,E08000034,Kirklees,L,L : Real estate activities,2250
+2016,E08000034,Kirklees,M,"M : Professional, scientific and technical activities",9000
+2016,E08000034,Kirklees,N,N : Administrative and support service activities,9000
+2016,E08000034,Kirklees,O,O : Public administration and defence; compulsory social security,5000
+2016,E08000034,Kirklees,P,P : Education,18000
+2016,E08000034,Kirklees,Q,Q : Human health and social work activities,21000
+2016,E08000034,Kirklees,R,"R : Arts, entertainment and recreation",3000
+2016,E08000034,Kirklees,S,S : Other service activities,3000
+2016,E08000034,Kirklees,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E08000034,Kirklees,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E08000035,Leeds,A,"A : Agriculture, forestry and fishing",1500
+2016,E08000035,Leeds,B,B : Mining and quarrying,400
+2016,E08000035,Leeds,C,C : Manufacturing,26000
+2016,E08000035,Leeds,D,"D : Electricity, gas, steam and air conditioning supply",3000
+2016,E08000035,Leeds,E,"E : Water supply; sewerage, waste management and remediation activities",4000
+2016,E08000035,Leeds,F,F : Construction,21000
+2016,E08000035,Leeds,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,58000
+2016,E08000035,Leeds,H,H : Transportation and storage,20000
+2016,E08000035,Leeds,I,I : Accommodation and food service activities,24000
+2016,E08000035,Leeds,J,J : Information and communication,21000
+2016,E08000035,Leeds,K,K : Financial and insurance activities,24000
+2016,E08000035,Leeds,L,L : Real estate activities,7000
+2016,E08000035,Leeds,M,"M : Professional, scientific and technical activities",48000
+2016,E08000035,Leeds,N,N : Administrative and support service activities,53000
+2016,E08000035,Leeds,O,O : Public administration and defence; compulsory social security,14000
+2016,E08000035,Leeds,P,P : Education,40000
+2016,E08000035,Leeds,Q,Q : Human health and social work activities,56000
+2016,E08000035,Leeds,R,"R : Arts, entertainment and recreation",12000
+2016,E08000035,Leeds,S,S : Other service activities,9000
+2016,E08000035,Leeds,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E08000035,Leeds,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E07000166,Richmondshire,A,"A : Agriculture, forestry and fishing",2500
+2016,E07000166,Richmondshire,B,B : Mining and quarrying,35
+2016,E07000166,Richmondshire,C,C : Manufacturing,1000
+2016,E07000166,Richmondshire,D,"D : Electricity, gas, steam and air conditioning supply",5
+2016,E07000166,Richmondshire,E,"E : Water supply; sewerage, waste management and remediation activities",150
+2016,E07000166,Richmondshire,F,F : Construction,1250
+2016,E07000166,Richmondshire,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3000
+2016,E07000166,Richmondshire,H,H : Transportation and storage,600
+2016,E07000166,Richmondshire,I,I : Accommodation and food service activities,3000
+2016,E07000166,Richmondshire,J,J : Information and communication,250
+2016,E07000166,Richmondshire,K,K : Financial and insurance activities,125
+2016,E07000166,Richmondshire,L,L : Real estate activities,400
+2016,E07000166,Richmondshire,M,"M : Professional, scientific and technical activities",1250
+2016,E07000166,Richmondshire,N,N : Administrative and support service activities,900
+2016,E07000166,Richmondshire,O,O : Public administration and defence; compulsory social security,800
+2016,E07000166,Richmondshire,P,P : Education,1500
+2016,E07000166,Richmondshire,Q,Q : Human health and social work activities,1250
+2016,E07000166,Richmondshire,R,"R : Arts, entertainment and recreation",1000
+2016,E07000166,Richmondshire,S,S : Other service activities,450
+2016,E07000166,Richmondshire,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E07000166,Richmondshire,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E07000167,Ryedale,A,"A : Agriculture, forestry and fishing",3500
+2016,E07000167,Ryedale,B,B : Mining and quarrying,100
+2016,E07000167,Ryedale,C,C : Manufacturing,5000
+2016,E07000167,Ryedale,D,"D : Electricity, gas, steam and air conditioning supply",15
+2016,E07000167,Ryedale,E,"E : Water supply; sewerage, waste management and remediation activities",45
+2016,E07000167,Ryedale,F,F : Construction,1750
+2016,E07000167,Ryedale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3500
+2016,E07000167,Ryedale,H,H : Transportation and storage,700
+2016,E07000167,Ryedale,I,I : Accommodation and food service activities,3000
+2016,E07000167,Ryedale,J,J : Information and communication,250
+2016,E07000167,Ryedale,K,K : Financial and insurance activities,150
+2016,E07000167,Ryedale,L,L : Real estate activities,450
+2016,E07000167,Ryedale,M,"M : Professional, scientific and technical activities",2000
+2016,E07000167,Ryedale,N,N : Administrative and support service activities,1000
+2016,E07000167,Ryedale,O,O : Public administration and defence; compulsory social security,450
+2016,E07000167,Ryedale,P,P : Education,2250
+2016,E07000167,Ryedale,Q,Q : Human health and social work activities,2000
+2016,E07000167,Ryedale,R,"R : Arts, entertainment and recreation",1750
+2016,E07000167,Ryedale,S,S : Other service activities,350
+2016,E07000167,Ryedale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E07000167,Ryedale,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E07000168,Scarborough,A,"A : Agriculture, forestry and fishing",2250
+2016,E07000168,Scarborough,B,B : Mining and quarrying,150
+2016,E07000168,Scarborough,C,C : Manufacturing,4500
+2016,E07000168,Scarborough,D,"D : Electricity, gas, steam and air conditioning supply",75
+2016,E07000168,Scarborough,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2016,E07000168,Scarborough,F,F : Construction,1500
+2016,E07000168,Scarborough,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,7000
+2016,E07000168,Scarborough,H,H : Transportation and storage,1250
+2016,E07000168,Scarborough,I,I : Accommodation and food service activities,8000
+2016,E07000168,Scarborough,J,J : Information and communication,450
+2016,E07000168,Scarborough,K,K : Financial and insurance activities,350
+2016,E07000168,Scarborough,L,L : Real estate activities,1000
+2016,E07000168,Scarborough,M,"M : Professional, scientific and technical activities",1250
+2016,E07000168,Scarborough,N,N : Administrative and support service activities,2500
+2016,E07000168,Scarborough,O,O : Public administration and defence; compulsory social security,1250
+2016,E07000168,Scarborough,P,P : Education,4000
+2016,E07000168,Scarborough,Q,Q : Human health and social work activities,9000
+2016,E07000168,Scarborough,R,"R : Arts, entertainment and recreation",1750
+2016,E07000168,Scarborough,S,S : Other service activities,700
+2016,E07000168,Scarborough,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E07000168,Scarborough,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E07000169,Selby,A,"A : Agriculture, forestry and fishing",2000
+2016,E07000169,Selby,B,B : Mining and quarrying,175
+2016,E07000169,Selby,C,C : Manufacturing,7000
+2016,E07000169,Selby,D,"D : Electricity, gas, steam and air conditioning supply",1000
+2016,E07000169,Selby,E,"E : Water supply; sewerage, waste management and remediation activities",600
+2016,E07000169,Selby,F,F : Construction,2000
+2016,E07000169,Selby,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4500
+2016,E07000169,Selby,H,H : Transportation and storage,4500
+2016,E07000169,Selby,I,I : Accommodation and food service activities,2000
+2016,E07000169,Selby,J,J : Information and communication,1000
+2016,E07000169,Selby,K,K : Financial and insurance activities,200
+2016,E07000169,Selby,L,L : Real estate activities,350
+2016,E07000169,Selby,M,"M : Professional, scientific and technical activities",3000
+2016,E07000169,Selby,N,N : Administrative and support service activities,3000
+2016,E07000169,Selby,O,O : Public administration and defence; compulsory social security,500
+2016,E07000169,Selby,P,P : Education,3500
+2016,E07000169,Selby,Q,Q : Human health and social work activities,2500
+2016,E07000169,Selby,R,"R : Arts, entertainment and recreation",450
+2016,E07000169,Selby,S,S : Other service activities,500
+2016,E07000169,Selby,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E07000169,Selby,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E08000036,Wakefield,A,"A : Agriculture, forestry and fishing",700
+2016,E08000036,Wakefield,B,B : Mining and quarrying,50
+2016,E08000036,Wakefield,C,C : Manufacturing,16000
+2016,E08000036,Wakefield,D,"D : Electricity, gas, steam and air conditioning supply",1000
+2016,E08000036,Wakefield,E,"E : Water supply; sewerage, waste management and remediation activities",1250
+2016,E08000036,Wakefield,F,F : Construction,8000
+2016,E08000036,Wakefield,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,27000
+2016,E08000036,Wakefield,H,H : Transportation and storage,16000
+2016,E08000036,Wakefield,I,I : Accommodation and food service activities,8000
+2016,E08000036,Wakefield,J,J : Information and communication,2250
+2016,E08000036,Wakefield,K,K : Financial and insurance activities,1500
+2016,E08000036,Wakefield,L,L : Real estate activities,2500
+2016,E08000036,Wakefield,M,"M : Professional, scientific and technical activities",7000
+2016,E08000036,Wakefield,N,N : Administrative and support service activities,14000
+2016,E08000036,Wakefield,O,O : Public administration and defence; compulsory social security,9000
+2016,E08000036,Wakefield,P,P : Education,12000
+2016,E08000036,Wakefield,Q,Q : Human health and social work activities,20000
+2016,E08000036,Wakefield,R,"R : Arts, entertainment and recreation",3000
+2016,E08000036,Wakefield,S,S : Other service activities,2500
+2016,E08000036,Wakefield,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E08000036,Wakefield,U,U : Activities of extraterritorial organisations and bodies,0
+2016,E06000014,York,A,"A : Agriculture, forestry and fishing",600
+2016,E06000014,York,B,B : Mining and quarrying,0
+2016,E06000014,York,C,C : Manufacturing,4000
+2016,E06000014,York,D,"D : Electricity, gas, steam and air conditioning supply",125
+2016,E06000014,York,E,"E : Water supply; sewerage, waste management and remediation activities",225
+2016,E06000014,York,F,F : Construction,4500
+2016,E06000014,York,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,18000
+2016,E06000014,York,H,H : Transportation and storage,4500
+2016,E06000014,York,I,I : Accommodation and food service activities,11000
+2016,E06000014,York,J,J : Information and communication,3500
+2016,E06000014,York,K,K : Financial and insurance activities,4000
+2016,E06000014,York,L,L : Real estate activities,2000
+2016,E06000014,York,M,"M : Professional, scientific and technical activities",8000
+2016,E06000014,York,N,N : Administrative and support service activities,7000
+2016,E06000014,York,O,O : Public administration and defence; compulsory social security,5000
+2016,E06000014,York,P,P : Education,11000
+2016,E06000014,York,Q,Q : Human health and social work activities,16000
+2016,E06000014,York,R,"R : Arts, entertainment and recreation",2500
+2016,E06000014,York,S,S : Other service activities,2500
+2016,E06000014,York,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2016,E06000014,York,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E08000032,Bradford,A,"A : Agriculture, forestry and fishing",1000
+2017,E08000032,Bradford,B,B : Mining and quarrying,50
+2017,E08000032,Bradford,C,C : Manufacturing,27000
+2017,E08000032,Bradford,D,"D : Electricity, gas, steam and air conditioning supply",100
+2017,E08000032,Bradford,E,"E : Water supply; sewerage, waste management and remediation activities",2250
+2017,E08000032,Bradford,F,F : Construction,8000
+2017,E08000032,Bradford,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,35000
+2017,E08000032,Bradford,H,H : Transportation and storage,8000
+2017,E08000032,Bradford,I,I : Accommodation and food service activities,11000
+2017,E08000032,Bradford,J,J : Information and communication,7000
+2017,E08000032,Bradford,K,K : Financial and insurance activities,8000
+2017,E08000032,Bradford,L,L : Real estate activities,3000
+2017,E08000032,Bradford,M,"M : Professional, scientific and technical activities",13000
+2017,E08000032,Bradford,N,N : Administrative and support service activities,15000
+2017,E08000032,Bradford,O,O : Public administration and defence; compulsory social security,9000
+2017,E08000032,Bradford,P,P : Education,22000
+2017,E08000032,Bradford,Q,Q : Human health and social work activities,32000
+2017,E08000032,Bradford,R,"R : Arts, entertainment and recreation",3500
+2017,E08000032,Bradford,S,S : Other service activities,2500
+2017,E08000032,Bradford,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E08000032,Bradford,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E08000033,Calderdale,A,"A : Agriculture, forestry and fishing",900
+2017,E08000033,Calderdale,B,B : Mining and quarrying,75
+2017,E08000033,Calderdale,C,C : Manufacturing,14000
+2017,E08000033,Calderdale,D,"D : Electricity, gas, steam and air conditioning supply",5
+2017,E08000033,Calderdale,E,"E : Water supply; sewerage, waste management and remediation activities",350
+2017,E08000033,Calderdale,F,F : Construction,4500
+2017,E08000033,Calderdale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,14000
+2017,E08000033,Calderdale,H,H : Transportation and storage,3000
+2017,E08000033,Calderdale,I,I : Accommodation and food service activities,7000
+2017,E08000033,Calderdale,J,J : Information and communication,2250
+2017,E08000033,Calderdale,K,K : Financial and insurance activities,7000
+2017,E08000033,Calderdale,L,L : Real estate activities,1500
+2017,E08000033,Calderdale,M,"M : Professional, scientific and technical activities",5000
+2017,E08000033,Calderdale,N,N : Administrative and support service activities,9000
+2017,E08000033,Calderdale,O,O : Public administration and defence; compulsory social security,3000
+2017,E08000033,Calderdale,P,P : Education,8000
+2017,E08000033,Calderdale,Q,Q : Human health and social work activities,9000
+2017,E08000033,Calderdale,R,"R : Arts, entertainment and recreation",1750
+2017,E08000033,Calderdale,S,S : Other service activities,2000
+2017,E08000033,Calderdale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E08000033,Calderdale,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E07000163,Craven,A,"A : Agriculture, forestry and fishing",2250
+2017,E07000163,Craven,B,B : Mining and quarrying,75
+2017,E07000163,Craven,C,C : Manufacturing,3000
+2017,E07000163,Craven,D,"D : Electricity, gas, steam and air conditioning supply",0
+2017,E07000163,Craven,E,"E : Water supply; sewerage, waste management and remediation activities",50
+2017,E07000163,Craven,F,F : Construction,2000
+2017,E07000163,Craven,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4500
+2017,E07000163,Craven,H,H : Transportation and storage,1000
+2017,E07000163,Craven,I,I : Accommodation and food service activities,4000
+2017,E07000163,Craven,J,J : Information and communication,500
+2017,E07000163,Craven,K,K : Financial and insurance activities,2000
+2017,E07000163,Craven,L,L : Real estate activities,500
+2017,E07000163,Craven,M,"M : Professional, scientific and technical activities",2500
+2017,E07000163,Craven,N,N : Administrative and support service activities,5000
+2017,E07000163,Craven,O,O : Public administration and defence; compulsory social security,400
+2017,E07000163,Craven,P,P : Education,2500
+2017,E07000163,Craven,Q,Q : Human health and social work activities,1750
+2017,E07000163,Craven,R,"R : Arts, entertainment and recreation",600
+2017,E07000163,Craven,S,S : Other service activities,450
+2017,E07000163,Craven,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E07000163,Craven,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E07000164,Hambleton,A,"A : Agriculture, forestry and fishing",4000
+2017,E07000164,Hambleton,B,B : Mining and quarrying,30
+2017,E07000164,Hambleton,C,C : Manufacturing,5000
+2017,E07000164,Hambleton,D,"D : Electricity, gas, steam and air conditioning supply",100
+2017,E07000164,Hambleton,E,"E : Water supply; sewerage, waste management and remediation activities",300
+2017,E07000164,Hambleton,F,F : Construction,3000
+2017,E07000164,Hambleton,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,7000
+2017,E07000164,Hambleton,H,H : Transportation and storage,2500
+2017,E07000164,Hambleton,I,I : Accommodation and food service activities,4500
+2017,E07000164,Hambleton,J,J : Information and communication,700
+2017,E07000164,Hambleton,K,K : Financial and insurance activities,350
+2017,E07000164,Hambleton,L,L : Real estate activities,800
+2017,E07000164,Hambleton,M,"M : Professional, scientific and technical activities",2500
+2017,E07000164,Hambleton,N,N : Administrative and support service activities,1500
+2017,E07000164,Hambleton,O,O : Public administration and defence; compulsory social security,4500
+2017,E07000164,Hambleton,P,P : Education,3000
+2017,E07000164,Hambleton,Q,Q : Human health and social work activities,4500
+2017,E07000164,Hambleton,R,"R : Arts, entertainment and recreation",800
+2017,E07000164,Hambleton,S,S : Other service activities,700
+2017,E07000164,Hambleton,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E07000164,Hambleton,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E07000165,Harrogate,A,"A : Agriculture, forestry and fishing",3500
+2017,E07000165,Harrogate,B,B : Mining and quarrying,50
+2017,E07000165,Harrogate,C,C : Manufacturing,5000
+2017,E07000165,Harrogate,D,"D : Electricity, gas, steam and air conditioning supply",50
+2017,E07000165,Harrogate,E,"E : Water supply; sewerage, waste management and remediation activities",350
+2017,E07000165,Harrogate,F,F : Construction,3500
+2017,E07000165,Harrogate,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,14000
+2017,E07000165,Harrogate,H,H : Transportation and storage,3500
+2017,E07000165,Harrogate,I,I : Accommodation and food service activities,9000
+2017,E07000165,Harrogate,J,J : Information and communication,2500
+2017,E07000165,Harrogate,K,K : Financial and insurance activities,2000
+2017,E07000165,Harrogate,L,L : Real estate activities,1500
+2017,E07000165,Harrogate,M,"M : Professional, scientific and technical activities",10000
+2017,E07000165,Harrogate,N,N : Administrative and support service activities,7000
+2017,E07000165,Harrogate,O,O : Public administration and defence; compulsory social security,2000
+2017,E07000165,Harrogate,P,P : Education,7000
+2017,E07000165,Harrogate,Q,Q : Human health and social work activities,11000
+2017,E07000165,Harrogate,R,"R : Arts, entertainment and recreation",2000
+2017,E07000165,Harrogate,S,S : Other service activities,1500
+2017,E07000165,Harrogate,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E07000165,Harrogate,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E08000034,Kirklees,A,"A : Agriculture, forestry and fishing",1000
+2017,E08000034,Kirklees,B,B : Mining and quarrying,100
+2017,E08000034,Kirklees,C,C : Manufacturing,26000
+2017,E08000034,Kirklees,D,"D : Electricity, gas, steam and air conditioning supply",250
+2017,E08000034,Kirklees,E,"E : Water supply; sewerage, waste management and remediation activities",800
+2017,E08000034,Kirklees,F,F : Construction,8000
+2017,E08000034,Kirklees,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,32000
+2017,E08000034,Kirklees,H,H : Transportation and storage,8000
+2017,E08000034,Kirklees,I,I : Accommodation and food service activities,11000
+2017,E08000034,Kirklees,J,J : Information and communication,3000
+2017,E08000034,Kirklees,K,K : Financial and insurance activities,2000
+2017,E08000034,Kirklees,L,L : Real estate activities,3000
+2017,E08000034,Kirklees,M,"M : Professional, scientific and technical activities",10000
+2017,E08000034,Kirklees,N,N : Administrative and support service activities,11000
+2017,E08000034,Kirklees,O,O : Public administration and defence; compulsory social security,5000
+2017,E08000034,Kirklees,P,P : Education,16000
+2017,E08000034,Kirklees,Q,Q : Human health and social work activities,19000
+2017,E08000034,Kirklees,R,"R : Arts, entertainment and recreation",3500
+2017,E08000034,Kirklees,S,S : Other service activities,2500
+2017,E08000034,Kirklees,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E08000034,Kirklees,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E08000035,Leeds,A,"A : Agriculture, forestry and fishing",1250
+2017,E08000035,Leeds,B,B : Mining and quarrying,75
+2017,E08000035,Leeds,C,C : Manufacturing,28000
+2017,E08000035,Leeds,D,"D : Electricity, gas, steam and air conditioning supply",2500
+2017,E08000035,Leeds,E,"E : Water supply; sewerage, waste management and remediation activities",3000
+2017,E08000035,Leeds,F,F : Construction,21000
+2017,E08000035,Leeds,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,58000
+2017,E08000035,Leeds,H,H : Transportation and storage,23000
+2017,E08000035,Leeds,I,I : Accommodation and food service activities,29000
+2017,E08000035,Leeds,J,J : Information and communication,20000
+2017,E08000035,Leeds,K,K : Financial and insurance activities,27000
+2017,E08000035,Leeds,L,L : Real estate activities,7000
+2017,E08000035,Leeds,M,"M : Professional, scientific and technical activities",51000
+2017,E08000035,Leeds,N,N : Administrative and support service activities,57000
+2017,E08000035,Leeds,O,O : Public administration and defence; compulsory social security,15000
+2017,E08000035,Leeds,P,P : Education,40000
+2017,E08000035,Leeds,Q,Q : Human health and social work activities,53000
+2017,E08000035,Leeds,R,"R : Arts, entertainment and recreation",11000
+2017,E08000035,Leeds,S,S : Other service activities,7000
+2017,E08000035,Leeds,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E08000035,Leeds,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E07000166,Richmondshire,A,"A : Agriculture, forestry and fishing",2250
+2017,E07000166,Richmondshire,B,B : Mining and quarrying,40
+2017,E07000166,Richmondshire,C,C : Manufacturing,1250
+2017,E07000166,Richmondshire,D,"D : Electricity, gas, steam and air conditioning supply",0
+2017,E07000166,Richmondshire,E,"E : Water supply; sewerage, waste management and remediation activities",45
+2017,E07000166,Richmondshire,F,F : Construction,1250
+2017,E07000166,Richmondshire,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3000
+2017,E07000166,Richmondshire,H,H : Transportation and storage,700
+2017,E07000166,Richmondshire,I,I : Accommodation and food service activities,3500
+2017,E07000166,Richmondshire,J,J : Information and communication,250
+2017,E07000166,Richmondshire,K,K : Financial and insurance activities,125
+2017,E07000166,Richmondshire,L,L : Real estate activities,450
+2017,E07000166,Richmondshire,M,"M : Professional, scientific and technical activities",1250
+2017,E07000166,Richmondshire,N,N : Administrative and support service activities,1000
+2017,E07000166,Richmondshire,O,O : Public administration and defence; compulsory social security,1000
+2017,E07000166,Richmondshire,P,P : Education,1500
+2017,E07000166,Richmondshire,Q,Q : Human health and social work activities,1250
+2017,E07000166,Richmondshire,R,"R : Arts, entertainment and recreation",800
+2017,E07000166,Richmondshire,S,S : Other service activities,350
+2017,E07000166,Richmondshire,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E07000166,Richmondshire,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E07000167,Ryedale,A,"A : Agriculture, forestry and fishing",3000
+2017,E07000167,Ryedale,B,B : Mining and quarrying,30
+2017,E07000167,Ryedale,C,C : Manufacturing,5000
+2017,E07000167,Ryedale,D,"D : Electricity, gas, steam and air conditioning supply",5
+2017,E07000167,Ryedale,E,"E : Water supply; sewerage, waste management and remediation activities",45
+2017,E07000167,Ryedale,F,F : Construction,1500
+2017,E07000167,Ryedale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3500
+2017,E07000167,Ryedale,H,H : Transportation and storage,700
+2017,E07000167,Ryedale,I,I : Accommodation and food service activities,3000
+2017,E07000167,Ryedale,J,J : Information and communication,225
+2017,E07000167,Ryedale,K,K : Financial and insurance activities,225
+2017,E07000167,Ryedale,L,L : Real estate activities,500
+2017,E07000167,Ryedale,M,"M : Professional, scientific and technical activities",2500
+2017,E07000167,Ryedale,N,N : Administrative and support service activities,1750
+2017,E07000167,Ryedale,O,O : Public administration and defence; compulsory social security,600
+2017,E07000167,Ryedale,P,P : Education,2250
+2017,E07000167,Ryedale,Q,Q : Human health and social work activities,1750
+2017,E07000167,Ryedale,R,"R : Arts, entertainment and recreation",1750
+2017,E07000167,Ryedale,S,S : Other service activities,300
+2017,E07000167,Ryedale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E07000167,Ryedale,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E07000168,Scarborough,A,"A : Agriculture, forestry and fishing",1750
+2017,E07000168,Scarborough,B,B : Mining and quarrying,20
+2017,E07000168,Scarborough,C,C : Manufacturing,5000
+2017,E07000168,Scarborough,D,"D : Electricity, gas, steam and air conditioning supply",40
+2017,E07000168,Scarborough,E,"E : Water supply; sewerage, waste management and remediation activities",50
+2017,E07000168,Scarborough,F,F : Construction,1500
+2017,E07000168,Scarborough,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,7000
+2017,E07000168,Scarborough,H,H : Transportation and storage,1250
+2017,E07000168,Scarborough,I,I : Accommodation and food service activities,9000
+2017,E07000168,Scarborough,J,J : Information and communication,350
+2017,E07000168,Scarborough,K,K : Financial and insurance activities,400
+2017,E07000168,Scarborough,L,L : Real estate activities,1000
+2017,E07000168,Scarborough,M,"M : Professional, scientific and technical activities",1500
+2017,E07000168,Scarborough,N,N : Administrative and support service activities,2250
+2017,E07000168,Scarborough,O,O : Public administration and defence; compulsory social security,1250
+2017,E07000168,Scarborough,P,P : Education,3500
+2017,E07000168,Scarborough,Q,Q : Human health and social work activities,8000
+2017,E07000168,Scarborough,R,"R : Arts, entertainment and recreation",1500
+2017,E07000168,Scarborough,S,S : Other service activities,500
+2017,E07000168,Scarborough,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E07000168,Scarborough,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E07000169,Selby,A,"A : Agriculture, forestry and fishing",1750
+2017,E07000169,Selby,B,B : Mining and quarrying,50
+2017,E07000169,Selby,C,C : Manufacturing,7000
+2017,E07000169,Selby,D,"D : Electricity, gas, steam and air conditioning supply",1250
+2017,E07000169,Selby,E,"E : Water supply; sewerage, waste management and remediation activities",450
+2017,E07000169,Selby,F,F : Construction,2250
+2017,E07000169,Selby,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4500
+2017,E07000169,Selby,H,H : Transportation and storage,5000
+2017,E07000169,Selby,I,I : Accommodation and food service activities,2500
+2017,E07000169,Selby,J,J : Information and communication,400
+2017,E07000169,Selby,K,K : Financial and insurance activities,300
+2017,E07000169,Selby,L,L : Real estate activities,400
+2017,E07000169,Selby,M,"M : Professional, scientific and technical activities",3000
+2017,E07000169,Selby,N,N : Administrative and support service activities,4500
+2017,E07000169,Selby,O,O : Public administration and defence; compulsory social security,900
+2017,E07000169,Selby,P,P : Education,3000
+2017,E07000169,Selby,Q,Q : Human health and social work activities,2500
+2017,E07000169,Selby,R,"R : Arts, entertainment and recreation",450
+2017,E07000169,Selby,S,S : Other service activities,400
+2017,E07000169,Selby,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E07000169,Selby,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E08000036,Wakefield,A,"A : Agriculture, forestry and fishing",500
+2017,E08000036,Wakefield,B,B : Mining and quarrying,100
+2017,E08000036,Wakefield,C,C : Manufacturing,17000
+2017,E08000036,Wakefield,D,"D : Electricity, gas, steam and air conditioning supply",1000
+2017,E08000036,Wakefield,E,"E : Water supply; sewerage, waste management and remediation activities",1250
+2017,E08000036,Wakefield,F,F : Construction,8000
+2017,E08000036,Wakefield,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,27000
+2017,E08000036,Wakefield,H,H : Transportation and storage,17000
+2017,E08000036,Wakefield,I,I : Accommodation and food service activities,9000
+2017,E08000036,Wakefield,J,J : Information and communication,2250
+2017,E08000036,Wakefield,K,K : Financial and insurance activities,1750
+2017,E08000036,Wakefield,L,L : Real estate activities,2500
+2017,E08000036,Wakefield,M,"M : Professional, scientific and technical activities",8000
+2017,E08000036,Wakefield,N,N : Administrative and support service activities,15000
+2017,E08000036,Wakefield,O,O : Public administration and defence; compulsory social security,9000
+2017,E08000036,Wakefield,P,P : Education,12000
+2017,E08000036,Wakefield,Q,Q : Human health and social work activities,19000
+2017,E08000036,Wakefield,R,"R : Arts, entertainment and recreation",2500
+2017,E08000036,Wakefield,S,S : Other service activities,1750
+2017,E08000036,Wakefield,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E08000036,Wakefield,U,U : Activities of extraterritorial organisations and bodies,0
+2017,E06000014,York,A,"A : Agriculture, forestry and fishing",600
+2017,E06000014,York,B,B : Mining and quarrying,0
+2017,E06000014,York,C,C : Manufacturing,4500
+2017,E06000014,York,D,"D : Electricity, gas, steam and air conditioning supply",50
+2017,E06000014,York,E,"E : Water supply; sewerage, waste management and remediation activities",225
+2017,E06000014,York,F,F : Construction,4500
+2017,E06000014,York,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,18000
+2017,E06000014,York,H,H : Transportation and storage,5000
+2017,E06000014,York,I,I : Accommodation and food service activities,12000
+2017,E06000014,York,J,J : Information and communication,3000
+2017,E06000014,York,K,K : Financial and insurance activities,4500
+2017,E06000014,York,L,L : Real estate activities,2250
+2017,E06000014,York,M,"M : Professional, scientific and technical activities",9000
+2017,E06000014,York,N,N : Administrative and support service activities,8000
+2017,E06000014,York,O,O : Public administration and defence; compulsory social security,6000
+2017,E06000014,York,P,P : Education,12000
+2017,E06000014,York,Q,Q : Human health and social work activities,15000
+2017,E06000014,York,R,"R : Arts, entertainment and recreation",2250
+2017,E06000014,York,S,S : Other service activities,2000
+2017,E06000014,York,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2017,E06000014,York,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E08000032,Bradford,A,"A : Agriculture, forestry and fishing",1000
+2018,E08000032,Bradford,B,B : Mining and quarrying,200
+2018,E08000032,Bradford,C,C : Manufacturing,27000
+2018,E08000032,Bradford,D,"D : Electricity, gas, steam and air conditioning supply",125
+2018,E08000032,Bradford,E,"E : Water supply; sewerage, waste management and remediation activities",3000
+2018,E08000032,Bradford,F,F : Construction,7000
+2018,E08000032,Bradford,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,34000
+2018,E08000032,Bradford,H,H : Transportation and storage,9000
+2018,E08000032,Bradford,I,I : Accommodation and food service activities,13000
+2018,E08000032,Bradford,J,J : Information and communication,5000
+2018,E08000032,Bradford,K,K : Financial and insurance activities,7000
+2018,E08000032,Bradford,L,L : Real estate activities,3500
+2018,E08000032,Bradford,M,"M : Professional, scientific and technical activities",13000
+2018,E08000032,Bradford,N,N : Administrative and support service activities,11000
+2018,E08000032,Bradford,O,O : Public administration and defence; compulsory social security,9000
+2018,E08000032,Bradford,P,P : Education,23000
+2018,E08000032,Bradford,Q,Q : Human health and social work activities,32000
+2018,E08000032,Bradford,R,"R : Arts, entertainment and recreation",4000
+2018,E08000032,Bradford,S,S : Other service activities,2250
+2018,E08000032,Bradford,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E08000032,Bradford,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E08000033,Calderdale,A,"A : Agriculture, forestry and fishing",900
+2018,E08000033,Calderdale,B,B : Mining and quarrying,150
+2018,E08000033,Calderdale,C,C : Manufacturing,14000
+2018,E08000033,Calderdale,D,"D : Electricity, gas, steam and air conditioning supply",25
+2018,E08000033,Calderdale,E,"E : Water supply; sewerage, waste management and remediation activities",450
+2018,E08000033,Calderdale,F,F : Construction,4000
+2018,E08000033,Calderdale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,13000
+2018,E08000033,Calderdale,H,H : Transportation and storage,3500
+2018,E08000033,Calderdale,I,I : Accommodation and food service activities,7000
+2018,E08000033,Calderdale,J,J : Information and communication,2000
+2018,E08000033,Calderdale,K,K : Financial and insurance activities,7000
+2018,E08000033,Calderdale,L,L : Real estate activities,1250
+2018,E08000033,Calderdale,M,"M : Professional, scientific and technical activities",5000
+2018,E08000033,Calderdale,N,N : Administrative and support service activities,10000
+2018,E08000033,Calderdale,O,O : Public administration and defence; compulsory social security,3000
+2018,E08000033,Calderdale,P,P : Education,8000
+2018,E08000033,Calderdale,Q,Q : Human health and social work activities,10000
+2018,E08000033,Calderdale,R,"R : Arts, entertainment and recreation",2000
+2018,E08000033,Calderdale,S,S : Other service activities,2000
+2018,E08000033,Calderdale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E08000033,Calderdale,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E07000163,Craven,A,"A : Agriculture, forestry and fishing",2250
+2018,E07000163,Craven,B,B : Mining and quarrying,75
+2018,E07000163,Craven,C,C : Manufacturing,3000
+2018,E07000163,Craven,D,"D : Electricity, gas, steam and air conditioning supply",0
+2018,E07000163,Craven,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2018,E07000163,Craven,F,F : Construction,1750
+2018,E07000163,Craven,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4500
+2018,E07000163,Craven,H,H : Transportation and storage,1000
+2018,E07000163,Craven,I,I : Accommodation and food service activities,3500
+2018,E07000163,Craven,J,J : Information and communication,600
+2018,E07000163,Craven,K,K : Financial and insurance activities,2000
+2018,E07000163,Craven,L,L : Real estate activities,600
+2018,E07000163,Craven,M,"M : Professional, scientific and technical activities",2500
+2018,E07000163,Craven,N,N : Administrative and support service activities,4500
+2018,E07000163,Craven,O,O : Public administration and defence; compulsory social security,400
+2018,E07000163,Craven,P,P : Education,2500
+2018,E07000163,Craven,Q,Q : Human health and social work activities,2000
+2018,E07000163,Craven,R,"R : Arts, entertainment and recreation",700
+2018,E07000163,Craven,S,S : Other service activities,450
+2018,E07000163,Craven,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E07000163,Craven,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E07000164,Hambleton,A,"A : Agriculture, forestry and fishing",4500
+2018,E07000164,Hambleton,B,B : Mining and quarrying,40
+2018,E07000164,Hambleton,C,C : Manufacturing,6000
+2018,E07000164,Hambleton,D,"D : Electricity, gas, steam and air conditioning supply",150
+2018,E07000164,Hambleton,E,"E : Water supply; sewerage, waste management and remediation activities",400
+2018,E07000164,Hambleton,F,F : Construction,2500
+2018,E07000164,Hambleton,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,6000
+2018,E07000164,Hambleton,H,H : Transportation and storage,1750
+2018,E07000164,Hambleton,I,I : Accommodation and food service activities,4500
+2018,E07000164,Hambleton,J,J : Information and communication,900
+2018,E07000164,Hambleton,K,K : Financial and insurance activities,350
+2018,E07000164,Hambleton,L,L : Real estate activities,1000
+2018,E07000164,Hambleton,M,"M : Professional, scientific and technical activities",2500
+2018,E07000164,Hambleton,N,N : Administrative and support service activities,1500
+2018,E07000164,Hambleton,O,O : Public administration and defence; compulsory social security,4500
+2018,E07000164,Hambleton,P,P : Education,3000
+2018,E07000164,Hambleton,Q,Q : Human health and social work activities,4500
+2018,E07000164,Hambleton,R,"R : Arts, entertainment and recreation",800
+2018,E07000164,Hambleton,S,S : Other service activities,800
+2018,E07000164,Hambleton,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E07000164,Hambleton,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E07000165,Harrogate,A,"A : Agriculture, forestry and fishing",3500
+2018,E07000165,Harrogate,B,B : Mining and quarrying,50
+2018,E07000165,Harrogate,C,C : Manufacturing,5000
+2018,E07000165,Harrogate,D,"D : Electricity, gas, steam and air conditioning supply",250
+2018,E07000165,Harrogate,E,"E : Water supply; sewerage, waste management and remediation activities",450
+2018,E07000165,Harrogate,F,F : Construction,3000
+2018,E07000165,Harrogate,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,14000
+2018,E07000165,Harrogate,H,H : Transportation and storage,3000
+2018,E07000165,Harrogate,I,I : Accommodation and food service activities,9000
+2018,E07000165,Harrogate,J,J : Information and communication,3000
+2018,E07000165,Harrogate,K,K : Financial and insurance activities,2250
+2018,E07000165,Harrogate,L,L : Real estate activities,1750
+2018,E07000165,Harrogate,M,"M : Professional, scientific and technical activities",9000
+2018,E07000165,Harrogate,N,N : Administrative and support service activities,7000
+2018,E07000165,Harrogate,O,O : Public administration and defence; compulsory social security,2000
+2018,E07000165,Harrogate,P,P : Education,7000
+2018,E07000165,Harrogate,Q,Q : Human health and social work activities,11000
+2018,E07000165,Harrogate,R,"R : Arts, entertainment and recreation",2250
+2018,E07000165,Harrogate,S,S : Other service activities,1250
+2018,E07000165,Harrogate,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E07000165,Harrogate,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E08000034,Kirklees,A,"A : Agriculture, forestry and fishing",1250
+2018,E08000034,Kirklees,B,B : Mining and quarrying,100
+2018,E08000034,Kirklees,C,C : Manufacturing,27000
+2018,E08000034,Kirklees,D,"D : Electricity, gas, steam and air conditioning supply",300
+2018,E08000034,Kirklees,E,"E : Water supply; sewerage, waste management and remediation activities",1000
+2018,E08000034,Kirklees,F,F : Construction,7000
+2018,E08000034,Kirklees,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,31000
+2018,E08000034,Kirklees,H,H : Transportation and storage,6000
+2018,E08000034,Kirklees,I,I : Accommodation and food service activities,11000
+2018,E08000034,Kirklees,J,J : Information and communication,3500
+2018,E08000034,Kirklees,K,K : Financial and insurance activities,2000
+2018,E08000034,Kirklees,L,L : Real estate activities,3000
+2018,E08000034,Kirklees,M,"M : Professional, scientific and technical activities",9000
+2018,E08000034,Kirklees,N,N : Administrative and support service activities,11000
+2018,E08000034,Kirklees,O,O : Public administration and defence; compulsory social security,5000
+2018,E08000034,Kirklees,P,P : Education,17000
+2018,E08000034,Kirklees,Q,Q : Human health and social work activities,20000
+2018,E08000034,Kirklees,R,"R : Arts, entertainment and recreation",3500
+2018,E08000034,Kirklees,S,S : Other service activities,2250
+2018,E08000034,Kirklees,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E08000034,Kirklees,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E08000035,Leeds,A,"A : Agriculture, forestry and fishing",1250
+2018,E08000035,Leeds,B,B : Mining and quarrying,175
+2018,E08000035,Leeds,C,C : Manufacturing,29000
+2018,E08000035,Leeds,D,"D : Electricity, gas, steam and air conditioning supply",4000
+2018,E08000035,Leeds,E,"E : Water supply; sewerage, waste management and remediation activities",4000
+2018,E08000035,Leeds,F,F : Construction,18000
+2018,E08000035,Leeds,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,57000
+2018,E08000035,Leeds,H,H : Transportation and storage,23000
+2018,E08000035,Leeds,I,I : Accommodation and food service activities,30000
+2018,E08000035,Leeds,J,J : Information and communication,27000
+2018,E08000035,Leeds,K,K : Financial and insurance activities,27000
+2018,E08000035,Leeds,L,L : Real estate activities,8000
+2018,E08000035,Leeds,M,"M : Professional, scientific and technical activities",53000
+2018,E08000035,Leeds,N,N : Administrative and support service activities,55000
+2018,E08000035,Leeds,O,O : Public administration and defence; compulsory social security,15000
+2018,E08000035,Leeds,P,P : Education,43000
+2018,E08000035,Leeds,Q,Q : Human health and social work activities,57000
+2018,E08000035,Leeds,R,"R : Arts, entertainment and recreation",12000
+2018,E08000035,Leeds,S,S : Other service activities,7000
+2018,E08000035,Leeds,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E08000035,Leeds,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E07000166,Richmondshire,A,"A : Agriculture, forestry and fishing",2500
+2018,E07000166,Richmondshire,B,B : Mining and quarrying,40
+2018,E07000166,Richmondshire,C,C : Manufacturing,1000
+2018,E07000166,Richmondshire,D,"D : Electricity, gas, steam and air conditioning supply",5
+2018,E07000166,Richmondshire,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2018,E07000166,Richmondshire,F,F : Construction,1250
+2018,E07000166,Richmondshire,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3000
+2018,E07000166,Richmondshire,H,H : Transportation and storage,900
+2018,E07000166,Richmondshire,I,I : Accommodation and food service activities,3500
+2018,E07000166,Richmondshire,J,J : Information and communication,350
+2018,E07000166,Richmondshire,K,K : Financial and insurance activities,100
+2018,E07000166,Richmondshire,L,L : Real estate activities,700
+2018,E07000166,Richmondshire,M,"M : Professional, scientific and technical activities",1250
+2018,E07000166,Richmondshire,N,N : Administrative and support service activities,1000
+2018,E07000166,Richmondshire,O,O : Public administration and defence; compulsory social security,1000
+2018,E07000166,Richmondshire,P,P : Education,1500
+2018,E07000166,Richmondshire,Q,Q : Human health and social work activities,1250
+2018,E07000166,Richmondshire,R,"R : Arts, entertainment and recreation",900
+2018,E07000166,Richmondshire,S,S : Other service activities,300
+2018,E07000166,Richmondshire,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E07000166,Richmondshire,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E07000167,Ryedale,A,"A : Agriculture, forestry and fishing",3500
+2018,E07000167,Ryedale,B,B : Mining and quarrying,100
+2018,E07000167,Ryedale,C,C : Manufacturing,5000
+2018,E07000167,Ryedale,D,"D : Electricity, gas, steam and air conditioning supply",10
+2018,E07000167,Ryedale,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2018,E07000167,Ryedale,F,F : Construction,1000
+2018,E07000167,Ryedale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3500
+2018,E07000167,Ryedale,H,H : Transportation and storage,800
+2018,E07000167,Ryedale,I,I : Accommodation and food service activities,3000
+2018,E07000167,Ryedale,J,J : Information and communication,225
+2018,E07000167,Ryedale,K,K : Financial and insurance activities,200
+2018,E07000167,Ryedale,L,L : Real estate activities,800
+2018,E07000167,Ryedale,M,"M : Professional, scientific and technical activities",2000
+2018,E07000167,Ryedale,N,N : Administrative and support service activities,1250
+2018,E07000167,Ryedale,O,O : Public administration and defence; compulsory social security,600
+2018,E07000167,Ryedale,P,P : Education,2250
+2018,E07000167,Ryedale,Q,Q : Human health and social work activities,1750
+2018,E07000167,Ryedale,R,"R : Arts, entertainment and recreation",2000
+2018,E07000167,Ryedale,S,S : Other service activities,250
+2018,E07000167,Ryedale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E07000167,Ryedale,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E07000168,Scarborough,A,"A : Agriculture, forestry and fishing",2000
+2018,E07000168,Scarborough,B,B : Mining and quarrying,100
+2018,E07000168,Scarborough,C,C : Manufacturing,5000
+2018,E07000168,Scarborough,D,"D : Electricity, gas, steam and air conditioning supply",50
+2018,E07000168,Scarborough,E,"E : Water supply; sewerage, waste management and remediation activities",125
+2018,E07000168,Scarborough,F,F : Construction,1500
+2018,E07000168,Scarborough,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,7000
+2018,E07000168,Scarborough,H,H : Transportation and storage,1500
+2018,E07000168,Scarborough,I,I : Accommodation and food service activities,9000
+2018,E07000168,Scarborough,J,J : Information and communication,600
+2018,E07000168,Scarborough,K,K : Financial and insurance activities,350
+2018,E07000168,Scarborough,L,L : Real estate activities,900
+2018,E07000168,Scarborough,M,"M : Professional, scientific and technical activities",1500
+2018,E07000168,Scarborough,N,N : Administrative and support service activities,2500
+2018,E07000168,Scarborough,O,O : Public administration and defence; compulsory social security,1250
+2018,E07000168,Scarborough,P,P : Education,4000
+2018,E07000168,Scarborough,Q,Q : Human health and social work activities,8000
+2018,E07000168,Scarborough,R,"R : Arts, entertainment and recreation",1500
+2018,E07000168,Scarborough,S,S : Other service activities,500
+2018,E07000168,Scarborough,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E07000168,Scarborough,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E07000169,Selby,A,"A : Agriculture, forestry and fishing",1750
+2018,E07000169,Selby,B,B : Mining and quarrying,100
+2018,E07000169,Selby,C,C : Manufacturing,7000
+2018,E07000169,Selby,D,"D : Electricity, gas, steam and air conditioning supply",1000
+2018,E07000169,Selby,E,"E : Water supply; sewerage, waste management and remediation activities",200
+2018,E07000169,Selby,F,F : Construction,2250
+2018,E07000169,Selby,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4000
+2018,E07000169,Selby,H,H : Transportation and storage,5000
+2018,E07000169,Selby,I,I : Accommodation and food service activities,2500
+2018,E07000169,Selby,J,J : Information and communication,450
+2018,E07000169,Selby,K,K : Financial and insurance activities,225
+2018,E07000169,Selby,L,L : Real estate activities,400
+2018,E07000169,Selby,M,"M : Professional, scientific and technical activities",3000
+2018,E07000169,Selby,N,N : Administrative and support service activities,4500
+2018,E07000169,Selby,O,O : Public administration and defence; compulsory social security,1000
+2018,E07000169,Selby,P,P : Education,3500
+2018,E07000169,Selby,Q,Q : Human health and social work activities,2500
+2018,E07000169,Selby,R,"R : Arts, entertainment and recreation",450
+2018,E07000169,Selby,S,S : Other service activities,450
+2018,E07000169,Selby,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E07000169,Selby,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E08000036,Wakefield,A,"A : Agriculture, forestry and fishing",600
+2018,E08000036,Wakefield,B,B : Mining and quarrying,100
+2018,E08000036,Wakefield,C,C : Manufacturing,19000
+2018,E08000036,Wakefield,D,"D : Electricity, gas, steam and air conditioning supply",1250
+2018,E08000036,Wakefield,E,"E : Water supply; sewerage, waste management and remediation activities",1500
+2018,E08000036,Wakefield,F,F : Construction,7000
+2018,E08000036,Wakefield,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,27000
+2018,E08000036,Wakefield,H,H : Transportation and storage,17000
+2018,E08000036,Wakefield,I,I : Accommodation and food service activities,9000
+2018,E08000036,Wakefield,J,J : Information and communication,2500
+2018,E08000036,Wakefield,K,K : Financial and insurance activities,1500
+2018,E08000036,Wakefield,L,L : Real estate activities,2500
+2018,E08000036,Wakefield,M,"M : Professional, scientific and technical activities",7000
+2018,E08000036,Wakefield,N,N : Administrative and support service activities,14000
+2018,E08000036,Wakefield,O,O : Public administration and defence; compulsory social security,9000
+2018,E08000036,Wakefield,P,P : Education,12000
+2018,E08000036,Wakefield,Q,Q : Human health and social work activities,22000
+2018,E08000036,Wakefield,R,"R : Arts, entertainment and recreation",3000
+2018,E08000036,Wakefield,S,S : Other service activities,2000
+2018,E08000036,Wakefield,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E08000036,Wakefield,U,U : Activities of extraterritorial organisations and bodies,0
+2018,E06000014,York,A,"A : Agriculture, forestry and fishing",700
+2018,E06000014,York,B,B : Mining and quarrying,0
+2018,E06000014,York,C,C : Manufacturing,5000
+2018,E06000014,York,D,"D : Electricity, gas, steam and air conditioning supply",100
+2018,E06000014,York,E,"E : Water supply; sewerage, waste management and remediation activities",400
+2018,E06000014,York,F,F : Construction,4000
+2018,E06000014,York,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,17000
+2018,E06000014,York,H,H : Transportation and storage,4500
+2018,E06000014,York,I,I : Accommodation and food service activities,13000
+2018,E06000014,York,J,J : Information and communication,3500
+2018,E06000014,York,K,K : Financial and insurance activities,4000
+2018,E06000014,York,L,L : Real estate activities,2500
+2018,E06000014,York,M,"M : Professional, scientific and technical activities",9000
+2018,E06000014,York,N,N : Administrative and support service activities,8000
+2018,E06000014,York,O,O : Public administration and defence; compulsory social security,6000
+2018,E06000014,York,P,P : Education,12000
+2018,E06000014,York,Q,Q : Human health and social work activities,16000
+2018,E06000014,York,R,"R : Arts, entertainment and recreation",2250
+2018,E06000014,York,S,S : Other service activities,2250
+2018,E06000014,York,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2018,E06000014,York,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E08000032,Bradford,A,"A : Agriculture, forestry and fishing",1000
+2019,E08000032,Bradford,B,B : Mining and quarrying,50
+2019,E08000032,Bradford,C,C : Manufacturing,27000
+2019,E08000032,Bradford,D,"D : Electricity, gas, steam and air conditioning supply",100
+2019,E08000032,Bradford,E,"E : Water supply; sewerage, waste management and remediation activities",3000
+2019,E08000032,Bradford,F,F : Construction,9000
+2019,E08000032,Bradford,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,35000
+2019,E08000032,Bradford,H,H : Transportation and storage,8000
+2019,E08000032,Bradford,I,I : Accommodation and food service activities,11000
+2019,E08000032,Bradford,J,J : Information and communication,4500
+2019,E08000032,Bradford,K,K : Financial and insurance activities,6000
+2019,E08000032,Bradford,L,L : Real estate activities,4000
+2019,E08000032,Bradford,M,"M : Professional, scientific and technical activities",12000
+2019,E08000032,Bradford,N,N : Administrative and support service activities,11000
+2019,E08000032,Bradford,O,O : Public administration and defence; compulsory social security,9000
+2019,E08000032,Bradford,P,P : Education,21000
+2019,E08000032,Bradford,Q,Q : Human health and social work activities,33000
+2019,E08000032,Bradford,R,"R : Arts, entertainment and recreation",3500
+2019,E08000032,Bradford,S,S : Other service activities,3500
+2019,E08000032,Bradford,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E08000032,Bradford,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E08000033,Calderdale,A,"A : Agriculture, forestry and fishing",900
+2019,E08000033,Calderdale,B,B : Mining and quarrying,100
+2019,E08000033,Calderdale,C,C : Manufacturing,13000
+2019,E08000033,Calderdale,D,"D : Electricity, gas, steam and air conditioning supply",10
+2019,E08000033,Calderdale,E,"E : Water supply; sewerage, waste management and remediation activities",350
+2019,E08000033,Calderdale,F,F : Construction,6000
+2019,E08000033,Calderdale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,14000
+2019,E08000033,Calderdale,H,H : Transportation and storage,3500
+2019,E08000033,Calderdale,I,I : Accommodation and food service activities,6000
+2019,E08000033,Calderdale,J,J : Information and communication,2000
+2019,E08000033,Calderdale,K,K : Financial and insurance activities,7000
+2019,E08000033,Calderdale,L,L : Real estate activities,1750
+2019,E08000033,Calderdale,M,"M : Professional, scientific and technical activities",5000
+2019,E08000033,Calderdale,N,N : Administrative and support service activities,9000
+2019,E08000033,Calderdale,O,O : Public administration and defence; compulsory social security,3000
+2019,E08000033,Calderdale,P,P : Education,8000
+2019,E08000033,Calderdale,Q,Q : Human health and social work activities,10000
+2019,E08000033,Calderdale,R,"R : Arts, entertainment and recreation",2000
+2019,E08000033,Calderdale,S,S : Other service activities,3000
+2019,E08000033,Calderdale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E08000033,Calderdale,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E07000163,Craven,A,"A : Agriculture, forestry and fishing",2250
+2019,E07000163,Craven,B,B : Mining and quarrying,100
+2019,E07000163,Craven,C,C : Manufacturing,3000
+2019,E07000163,Craven,D,"D : Electricity, gas, steam and air conditioning supply",0
+2019,E07000163,Craven,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2019,E07000163,Craven,F,F : Construction,2250
+2019,E07000163,Craven,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4500
+2019,E07000163,Craven,H,H : Transportation and storage,900
+2019,E07000163,Craven,I,I : Accommodation and food service activities,3000
+2019,E07000163,Craven,J,J : Information and communication,500
+2019,E07000163,Craven,K,K : Financial and insurance activities,2000
+2019,E07000163,Craven,L,L : Real estate activities,700
+2019,E07000163,Craven,M,"M : Professional, scientific and technical activities",2500
+2019,E07000163,Craven,N,N : Administrative and support service activities,4500
+2019,E07000163,Craven,O,O : Public administration and defence; compulsory social security,400
+2019,E07000163,Craven,P,P : Education,2250
+2019,E07000163,Craven,Q,Q : Human health and social work activities,2250
+2019,E07000163,Craven,R,"R : Arts, entertainment and recreation",800
+2019,E07000163,Craven,S,S : Other service activities,800
+2019,E07000163,Craven,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E07000163,Craven,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E07000164,Hambleton,A,"A : Agriculture, forestry and fishing",4000
+2019,E07000164,Hambleton,B,B : Mining and quarrying,40
+2019,E07000164,Hambleton,C,C : Manufacturing,6000
+2019,E07000164,Hambleton,D,"D : Electricity, gas, steam and air conditioning supply",150
+2019,E07000164,Hambleton,E,"E : Water supply; sewerage, waste management and remediation activities",350
+2019,E07000164,Hambleton,F,F : Construction,3000
+2019,E07000164,Hambleton,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,7000
+2019,E07000164,Hambleton,H,H : Transportation and storage,1000
+2019,E07000164,Hambleton,I,I : Accommodation and food service activities,3500
+2019,E07000164,Hambleton,J,J : Information and communication,800
+2019,E07000164,Hambleton,K,K : Financial and insurance activities,300
+2019,E07000164,Hambleton,L,L : Real estate activities,1500
+2019,E07000164,Hambleton,M,"M : Professional, scientific and technical activities",2500
+2019,E07000164,Hambleton,N,N : Administrative and support service activities,1500
+2019,E07000164,Hambleton,O,O : Public administration and defence; compulsory social security,4500
+2019,E07000164,Hambleton,P,P : Education,2500
+2019,E07000164,Hambleton,Q,Q : Human health and social work activities,4500
+2019,E07000164,Hambleton,R,"R : Arts, entertainment and recreation",800
+2019,E07000164,Hambleton,S,S : Other service activities,1250
+2019,E07000164,Hambleton,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E07000164,Hambleton,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E07000165,Harrogate,A,"A : Agriculture, forestry and fishing",3500
+2019,E07000165,Harrogate,B,B : Mining and quarrying,75
+2019,E07000165,Harrogate,C,C : Manufacturing,4500
+2019,E07000165,Harrogate,D,"D : Electricity, gas, steam and air conditioning supply",200
+2019,E07000165,Harrogate,E,"E : Water supply; sewerage, waste management and remediation activities",350
+2019,E07000165,Harrogate,F,F : Construction,4500
+2019,E07000165,Harrogate,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,14000
+2019,E07000165,Harrogate,H,H : Transportation and storage,2500
+2019,E07000165,Harrogate,I,I : Accommodation and food service activities,8000
+2019,E07000165,Harrogate,J,J : Information and communication,2250
+2019,E07000165,Harrogate,K,K : Financial and insurance activities,1750
+2019,E07000165,Harrogate,L,L : Real estate activities,3000
+2019,E07000165,Harrogate,M,"M : Professional, scientific and technical activities",8000
+2019,E07000165,Harrogate,N,N : Administrative and support service activities,5000
+2019,E07000165,Harrogate,O,O : Public administration and defence; compulsory social security,2000
+2019,E07000165,Harrogate,P,P : Education,6000
+2019,E07000165,Harrogate,Q,Q : Human health and social work activities,12000
+2019,E07000165,Harrogate,R,"R : Arts, entertainment and recreation",2250
+2019,E07000165,Harrogate,S,S : Other service activities,2500
+2019,E07000165,Harrogate,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E07000165,Harrogate,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E08000034,Kirklees,A,"A : Agriculture, forestry and fishing",1250
+2019,E08000034,Kirklees,B,B : Mining and quarrying,75
+2019,E08000034,Kirklees,C,C : Manufacturing,25000
+2019,E08000034,Kirklees,D,"D : Electricity, gas, steam and air conditioning supply",175
+2019,E08000034,Kirklees,E,"E : Water supply; sewerage, waste management and remediation activities",700
+2019,E08000034,Kirklees,F,F : Construction,10000
+2019,E08000034,Kirklees,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,32000
+2019,E08000034,Kirklees,H,H : Transportation and storage,5000
+2019,E08000034,Kirklees,I,I : Accommodation and food service activities,10000
+2019,E08000034,Kirklees,J,J : Information and communication,3000
+2019,E08000034,Kirklees,K,K : Financial and insurance activities,1750
+2019,E08000034,Kirklees,L,L : Real estate activities,4500
+2019,E08000034,Kirklees,M,"M : Professional, scientific and technical activities",9000
+2019,E08000034,Kirklees,N,N : Administrative and support service activities,9000
+2019,E08000034,Kirklees,O,O : Public administration and defence; compulsory social security,5000
+2019,E08000034,Kirklees,P,P : Education,17000
+2019,E08000034,Kirklees,Q,Q : Human health and social work activities,22000
+2019,E08000034,Kirklees,R,"R : Arts, entertainment and recreation",3500
+2019,E08000034,Kirklees,S,S : Other service activities,4000
+2019,E08000034,Kirklees,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E08000034,Kirklees,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E08000035,Leeds,A,"A : Agriculture, forestry and fishing",1250
+2019,E08000035,Leeds,B,B : Mining and quarrying,125
+2019,E08000035,Leeds,C,C : Manufacturing,28000
+2019,E08000035,Leeds,D,"D : Electricity, gas, steam and air conditioning supply",3500
+2019,E08000035,Leeds,E,"E : Water supply; sewerage, waste management and remediation activities",3500
+2019,E08000035,Leeds,F,F : Construction,23000
+2019,E08000035,Leeds,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,58000
+2019,E08000035,Leeds,H,H : Transportation and storage,21000
+2019,E08000035,Leeds,I,I : Accommodation and food service activities,26000
+2019,E08000035,Leeds,J,J : Information and communication,26000
+2019,E08000035,Leeds,K,K : Financial and insurance activities,26000
+2019,E08000035,Leeds,L,L : Real estate activities,11000
+2019,E08000035,Leeds,M,"M : Professional, scientific and technical activities",50000
+2019,E08000035,Leeds,N,N : Administrative and support service activities,56000
+2019,E08000035,Leeds,O,O : Public administration and defence; compulsory social security,17000
+2019,E08000035,Leeds,P,P : Education,43000
+2019,E08000035,Leeds,Q,Q : Human health and social work activities,59000
+2019,E08000035,Leeds,R,"R : Arts, entertainment and recreation",12000
+2019,E08000035,Leeds,S,S : Other service activities,11000
+2019,E08000035,Leeds,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E08000035,Leeds,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E07000166,Richmondshire,A,"A : Agriculture, forestry and fishing",2500
+2019,E07000166,Richmondshire,B,B : Mining and quarrying,45
+2019,E07000166,Richmondshire,C,C : Manufacturing,1250
+2019,E07000166,Richmondshire,D,"D : Electricity, gas, steam and air conditioning supply",0
+2019,E07000166,Richmondshire,E,"E : Water supply; sewerage, waste management and remediation activities",100
+2019,E07000166,Richmondshire,F,F : Construction,1500
+2019,E07000166,Richmondshire,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3000
+2019,E07000166,Richmondshire,H,H : Transportation and storage,700
+2019,E07000166,Richmondshire,I,I : Accommodation and food service activities,3000
+2019,E07000166,Richmondshire,J,J : Information and communication,250
+2019,E07000166,Richmondshire,K,K : Financial and insurance activities,75
+2019,E07000166,Richmondshire,L,L : Real estate activities,1250
+2019,E07000166,Richmondshire,M,"M : Professional, scientific and technical activities",1250
+2019,E07000166,Richmondshire,N,N : Administrative and support service activities,900
+2019,E07000166,Richmondshire,O,O : Public administration and defence; compulsory social security,1000
+2019,E07000166,Richmondshire,P,P : Education,1250
+2019,E07000166,Richmondshire,Q,Q : Human health and social work activities,1250
+2019,E07000166,Richmondshire,R,"R : Arts, entertainment and recreation",900
+2019,E07000166,Richmondshire,S,S : Other service activities,500
+2019,E07000166,Richmondshire,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E07000166,Richmondshire,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E07000167,Ryedale,A,"A : Agriculture, forestry and fishing",3500
+2019,E07000167,Ryedale,B,B : Mining and quarrying,35
+2019,E07000167,Ryedale,C,C : Manufacturing,5000
+2019,E07000167,Ryedale,D,"D : Electricity, gas, steam and air conditioning supply",30
+2019,E07000167,Ryedale,E,"E : Water supply; sewerage, waste management and remediation activities",50
+2019,E07000167,Ryedale,F,F : Construction,1750
+2019,E07000167,Ryedale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4000
+2019,E07000167,Ryedale,H,H : Transportation and storage,700
+2019,E07000167,Ryedale,I,I : Accommodation and food service activities,2250
+2019,E07000167,Ryedale,J,J : Information and communication,250
+2019,E07000167,Ryedale,K,K : Financial and insurance activities,175
+2019,E07000167,Ryedale,L,L : Real estate activities,1000
+2019,E07000167,Ryedale,M,"M : Professional, scientific and technical activities",2000
+2019,E07000167,Ryedale,N,N : Administrative and support service activities,1500
+2019,E07000167,Ryedale,O,O : Public administration and defence; compulsory social security,500
+2019,E07000167,Ryedale,P,P : Education,2000
+2019,E07000167,Ryedale,Q,Q : Human health and social work activities,1750
+2019,E07000167,Ryedale,R,"R : Arts, entertainment and recreation",2000
+2019,E07000167,Ryedale,S,S : Other service activities,400
+2019,E07000167,Ryedale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E07000167,Ryedale,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E07000168,Scarborough,A,"A : Agriculture, forestry and fishing",1750
+2019,E07000168,Scarborough,B,B : Mining and quarrying,50
+2019,E07000168,Scarborough,C,C : Manufacturing,5000
+2019,E07000168,Scarborough,D,"D : Electricity, gas, steam and air conditioning supply",40
+2019,E07000168,Scarborough,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2019,E07000168,Scarborough,F,F : Construction,2000
+2019,E07000168,Scarborough,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,7000
+2019,E07000168,Scarborough,H,H : Transportation and storage,1000
+2019,E07000168,Scarborough,I,I : Accommodation and food service activities,7000
+2019,E07000168,Scarborough,J,J : Information and communication,400
+2019,E07000168,Scarborough,K,K : Financial and insurance activities,300
+2019,E07000168,Scarborough,L,L : Real estate activities,1750
+2019,E07000168,Scarborough,M,"M : Professional, scientific and technical activities",1500
+2019,E07000168,Scarborough,N,N : Administrative and support service activities,3000
+2019,E07000168,Scarborough,O,O : Public administration and defence; compulsory social security,1500
+2019,E07000168,Scarborough,P,P : Education,3500
+2019,E07000168,Scarborough,Q,Q : Human health and social work activities,8000
+2019,E07000168,Scarborough,R,"R : Arts, entertainment and recreation",1500
+2019,E07000168,Scarborough,S,S : Other service activities,1000
+2019,E07000168,Scarborough,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E07000168,Scarborough,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E07000169,Selby,A,"A : Agriculture, forestry and fishing",1750
+2019,E07000169,Selby,B,B : Mining and quarrying,75
+2019,E07000169,Selby,C,C : Manufacturing,7000
+2019,E07000169,Selby,D,"D : Electricity, gas, steam and air conditioning supply",1000
+2019,E07000169,Selby,E,"E : Water supply; sewerage, waste management and remediation activities",250
+2019,E07000169,Selby,F,F : Construction,2500
+2019,E07000169,Selby,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4500
+2019,E07000169,Selby,H,H : Transportation and storage,4500
+2019,E07000169,Selby,I,I : Accommodation and food service activities,2000
+2019,E07000169,Selby,J,J : Information and communication,450
+2019,E07000169,Selby,K,K : Financial and insurance activities,150
+2019,E07000169,Selby,L,L : Real estate activities,600
+2019,E07000169,Selby,M,"M : Professional, scientific and technical activities",2500
+2019,E07000169,Selby,N,N : Administrative and support service activities,3500
+2019,E07000169,Selby,O,O : Public administration and defence; compulsory social security,900
+2019,E07000169,Selby,P,P : Education,2500
+2019,E07000169,Selby,Q,Q : Human health and social work activities,3000
+2019,E07000169,Selby,R,"R : Arts, entertainment and recreation",450
+2019,E07000169,Selby,S,S : Other service activities,800
+2019,E07000169,Selby,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E07000169,Selby,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E08000036,Wakefield,A,"A : Agriculture, forestry and fishing",600
+2019,E08000036,Wakefield,B,B : Mining and quarrying,100
+2019,E08000036,Wakefield,C,C : Manufacturing,19000
+2019,E08000036,Wakefield,D,"D : Electricity, gas, steam and air conditioning supply",800
+2019,E08000036,Wakefield,E,"E : Water supply; sewerage, waste management and remediation activities",1250
+2019,E08000036,Wakefield,F,F : Construction,9000
+2019,E08000036,Wakefield,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,26000
+2019,E08000036,Wakefield,H,H : Transportation and storage,17000
+2019,E08000036,Wakefield,I,I : Accommodation and food service activities,9000
+2019,E08000036,Wakefield,J,J : Information and communication,2500
+2019,E08000036,Wakefield,K,K : Financial and insurance activities,1500
+2019,E08000036,Wakefield,L,L : Real estate activities,3000
+2019,E08000036,Wakefield,M,"M : Professional, scientific and technical activities",7000
+2019,E08000036,Wakefield,N,N : Administrative and support service activities,13000
+2019,E08000036,Wakefield,O,O : Public administration and defence; compulsory social security,9000
+2019,E08000036,Wakefield,P,P : Education,11000
+2019,E08000036,Wakefield,Q,Q : Human health and social work activities,22000
+2019,E08000036,Wakefield,R,"R : Arts, entertainment and recreation",2500
+2019,E08000036,Wakefield,S,S : Other service activities,3000
+2019,E08000036,Wakefield,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E08000036,Wakefield,U,U : Activities of extraterritorial organisations and bodies,0
+2019,E06000014,York,A,"A : Agriculture, forestry and fishing",700
+2019,E06000014,York,B,B : Mining and quarrying,0
+2019,E06000014,York,C,C : Manufacturing,5000
+2019,E06000014,York,D,"D : Electricity, gas, steam and air conditioning supply",75
+2019,E06000014,York,E,"E : Water supply; sewerage, waste management and remediation activities",175
+2019,E06000014,York,F,F : Construction,4500
+2019,E06000014,York,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,18000
+2019,E06000014,York,H,H : Transportation and storage,4500
+2019,E06000014,York,I,I : Accommodation and food service activities,11000
+2019,E06000014,York,J,J : Information and communication,3500
+2019,E06000014,York,K,K : Financial and insurance activities,4000
+2019,E06000014,York,L,L : Real estate activities,3000
+2019,E06000014,York,M,"M : Professional, scientific and technical activities",9000
+2019,E06000014,York,N,N : Administrative and support service activities,9000
+2019,E06000014,York,O,O : Public administration and defence; compulsory social security,6000
+2019,E06000014,York,P,P : Education,12000
+2019,E06000014,York,Q,Q : Human health and social work activities,16000
+2019,E06000014,York,R,"R : Arts, entertainment and recreation",2500
+2019,E06000014,York,S,S : Other service activities,3000
+2019,E06000014,York,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2019,E06000014,York,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E08000032,Bradford,A,"A : Agriculture, forestry and fishing",1000
+2020,E08000032,Bradford,B,B : Mining and quarrying,100
+2020,E08000032,Bradford,C,C : Manufacturing,24000
+2020,E08000032,Bradford,D,"D : Electricity, gas, steam and air conditioning supply",150
+2020,E08000032,Bradford,E,"E : Water supply; sewerage, waste management and remediation activities",3000
+2020,E08000032,Bradford,F,F : Construction,8000
+2020,E08000032,Bradford,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,34000
+2020,E08000032,Bradford,H,H : Transportation and storage,8000
+2020,E08000032,Bradford,I,I : Accommodation and food service activities,10000
+2020,E08000032,Bradford,J,J : Information and communication,4000
+2020,E08000032,Bradford,K,K : Financial and insurance activities,7000
+2020,E08000032,Bradford,L,L : Real estate activities,8000
+2020,E08000032,Bradford,M,"M : Professional, scientific and technical activities",13000
+2020,E08000032,Bradford,N,N : Administrative and support service activities,13000
+2020,E08000032,Bradford,O,O : Public administration and defence; compulsory social security,9000
+2020,E08000032,Bradford,P,P : Education,21000
+2020,E08000032,Bradford,Q,Q : Human health and social work activities,34000
+2020,E08000032,Bradford,R,"R : Arts, entertainment and recreation",4000
+2020,E08000032,Bradford,S,S : Other service activities,3000
+2020,E08000032,Bradford,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E08000032,Bradford,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E08000033,Calderdale,A,"A : Agriculture, forestry and fishing",900
+2020,E08000033,Calderdale,B,B : Mining and quarrying,100
+2020,E08000033,Calderdale,C,C : Manufacturing,13000
+2020,E08000033,Calderdale,D,"D : Electricity, gas, steam and air conditioning supply",25
+2020,E08000033,Calderdale,E,"E : Water supply; sewerage, waste management and remediation activities",450
+2020,E08000033,Calderdale,F,F : Construction,5000
+2020,E08000033,Calderdale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,13000
+2020,E08000033,Calderdale,H,H : Transportation and storage,3000
+2020,E08000033,Calderdale,I,I : Accommodation and food service activities,6000
+2020,E08000033,Calderdale,J,J : Information and communication,1750
+2020,E08000033,Calderdale,K,K : Financial and insurance activities,7000
+2020,E08000033,Calderdale,L,L : Real estate activities,1750
+2020,E08000033,Calderdale,M,"M : Professional, scientific and technical activities",5000
+2020,E08000033,Calderdale,N,N : Administrative and support service activities,11000
+2020,E08000033,Calderdale,O,O : Public administration and defence; compulsory social security,3000
+2020,E08000033,Calderdale,P,P : Education,8000
+2020,E08000033,Calderdale,Q,Q : Human health and social work activities,9000
+2020,E08000033,Calderdale,R,"R : Arts, entertainment and recreation",1750
+2020,E08000033,Calderdale,S,S : Other service activities,2000
+2020,E08000033,Calderdale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E08000033,Calderdale,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E07000163,Craven,A,"A : Agriculture, forestry and fishing",2250
+2020,E07000163,Craven,B,B : Mining and quarrying,100
+2020,E07000163,Craven,C,C : Manufacturing,3500
+2020,E07000163,Craven,D,"D : Electricity, gas, steam and air conditioning supply",5
+2020,E07000163,Craven,E,"E : Water supply; sewerage, waste management and remediation activities",100
+2020,E07000163,Craven,F,F : Construction,2250
+2020,E07000163,Craven,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4500
+2020,E07000163,Craven,H,H : Transportation and storage,800
+2020,E07000163,Craven,I,I : Accommodation and food service activities,3000
+2020,E07000163,Craven,J,J : Information and communication,450
+2020,E07000163,Craven,K,K : Financial and insurance activities,2250
+2020,E07000163,Craven,L,L : Real estate activities,450
+2020,E07000163,Craven,M,"M : Professional, scientific and technical activities",2250
+2020,E07000163,Craven,N,N : Administrative and support service activities,5000
+2020,E07000163,Craven,O,O : Public administration and defence; compulsory social security,500
+2020,E07000163,Craven,P,P : Education,2250
+2020,E07000163,Craven,Q,Q : Human health and social work activities,1750
+2020,E07000163,Craven,R,"R : Arts, entertainment and recreation",600
+2020,E07000163,Craven,S,S : Other service activities,500
+2020,E07000163,Craven,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E07000163,Craven,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E07000164,Hambleton,A,"A : Agriculture, forestry and fishing",4500
+2020,E07000164,Hambleton,B,B : Mining and quarrying,40
+2020,E07000164,Hambleton,C,C : Manufacturing,6000
+2020,E07000164,Hambleton,D,"D : Electricity, gas, steam and air conditioning supply",225
+2020,E07000164,Hambleton,E,"E : Water supply; sewerage, waste management and remediation activities",300
+2020,E07000164,Hambleton,F,F : Construction,3000
+2020,E07000164,Hambleton,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,7000
+2020,E07000164,Hambleton,H,H : Transportation and storage,1500
+2020,E07000164,Hambleton,I,I : Accommodation and food service activities,3500
+2020,E07000164,Hambleton,J,J : Information and communication,700
+2020,E07000164,Hambleton,K,K : Financial and insurance activities,300
+2020,E07000164,Hambleton,L,L : Real estate activities,2500
+2020,E07000164,Hambleton,M,"M : Professional, scientific and technical activities",2250
+2020,E07000164,Hambleton,N,N : Administrative and support service activities,1750
+2020,E07000164,Hambleton,O,O : Public administration and defence; compulsory social security,2500
+2020,E07000164,Hambleton,P,P : Education,2250
+2020,E07000164,Hambleton,Q,Q : Human health and social work activities,4000
+2020,E07000164,Hambleton,R,"R : Arts, entertainment and recreation",900
+2020,E07000164,Hambleton,S,S : Other service activities,900
+2020,E07000164,Hambleton,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E07000164,Hambleton,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E07000165,Harrogate,A,"A : Agriculture, forestry and fishing",3500
+2020,E07000165,Harrogate,B,B : Mining and quarrying,50
+2020,E07000165,Harrogate,C,C : Manufacturing,4500
+2020,E07000165,Harrogate,D,"D : Electricity, gas, steam and air conditioning supply",250
+2020,E07000165,Harrogate,E,"E : Water supply; sewerage, waste management and remediation activities",500
+2020,E07000165,Harrogate,F,F : Construction,4000
+2020,E07000165,Harrogate,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,13000
+2020,E07000165,Harrogate,H,H : Transportation and storage,2500
+2020,E07000165,Harrogate,I,I : Accommodation and food service activities,8000
+2020,E07000165,Harrogate,J,J : Information and communication,2250
+2020,E07000165,Harrogate,K,K : Financial and insurance activities,2000
+2020,E07000165,Harrogate,L,L : Real estate activities,1750
+2020,E07000165,Harrogate,M,"M : Professional, scientific and technical activities",8000
+2020,E07000165,Harrogate,N,N : Administrative and support service activities,7000
+2020,E07000165,Harrogate,O,O : Public administration and defence; compulsory social security,1750
+2020,E07000165,Harrogate,P,P : Education,6000
+2020,E07000165,Harrogate,Q,Q : Human health and social work activities,11000
+2020,E07000165,Harrogate,R,"R : Arts, entertainment and recreation",2000
+2020,E07000165,Harrogate,S,S : Other service activities,1750
+2020,E07000165,Harrogate,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E07000165,Harrogate,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E08000034,Kirklees,A,"A : Agriculture, forestry and fishing",1250
+2020,E08000034,Kirklees,B,B : Mining and quarrying,75
+2020,E08000034,Kirklees,C,C : Manufacturing,24000
+2020,E08000034,Kirklees,D,"D : Electricity, gas, steam and air conditioning supply",175
+2020,E08000034,Kirklees,E,"E : Water supply; sewerage, waste management and remediation activities",900
+2020,E08000034,Kirklees,F,F : Construction,9000
+2020,E08000034,Kirklees,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,30000
+2020,E08000034,Kirklees,H,H : Transportation and storage,7000
+2020,E08000034,Kirklees,I,I : Accommodation and food service activities,9000
+2020,E08000034,Kirklees,J,J : Information and communication,2500
+2020,E08000034,Kirklees,K,K : Financial and insurance activities,2000
+2020,E08000034,Kirklees,L,L : Real estate activities,3500
+2020,E08000034,Kirklees,M,"M : Professional, scientific and technical activities",9000
+2020,E08000034,Kirklees,N,N : Administrative and support service activities,10000
+2020,E08000034,Kirklees,O,O : Public administration and defence; compulsory social security,5000
+2020,E08000034,Kirklees,P,P : Education,17000
+2020,E08000034,Kirklees,Q,Q : Human health and social work activities,20000
+2020,E08000034,Kirklees,R,"R : Arts, entertainment and recreation",4000
+2020,E08000034,Kirklees,S,S : Other service activities,2500
+2020,E08000034,Kirklees,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E08000034,Kirklees,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E08000035,Leeds,A,"A : Agriculture, forestry and fishing",1250
+2020,E08000035,Leeds,B,B : Mining and quarrying,125
+2020,E08000035,Leeds,C,C : Manufacturing,26000
+2020,E08000035,Leeds,D,"D : Electricity, gas, steam and air conditioning supply",3500
+2020,E08000035,Leeds,E,"E : Water supply; sewerage, waste management and remediation activities",3500
+2020,E08000035,Leeds,F,F : Construction,21000
+2020,E08000035,Leeds,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,54000
+2020,E08000035,Leeds,H,H : Transportation and storage,22000
+2020,E08000035,Leeds,I,I : Accommodation and food service activities,24000
+2020,E08000035,Leeds,J,J : Information and communication,23000
+2020,E08000035,Leeds,K,K : Financial and insurance activities,25000
+2020,E08000035,Leeds,L,L : Real estate activities,9000
+2020,E08000035,Leeds,M,"M : Professional, scientific and technical activities",50000
+2020,E08000035,Leeds,N,N : Administrative and support service activities,61000
+2020,E08000035,Leeds,O,O : Public administration and defence; compulsory social security,17000
+2020,E08000035,Leeds,P,P : Education,43000
+2020,E08000035,Leeds,Q,Q : Human health and social work activities,57000
+2020,E08000035,Leeds,R,"R : Arts, entertainment and recreation",11000
+2020,E08000035,Leeds,S,S : Other service activities,9000
+2020,E08000035,Leeds,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E08000035,Leeds,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E07000166,Richmondshire,A,"A : Agriculture, forestry and fishing",2500
+2020,E07000166,Richmondshire,B,B : Mining and quarrying,30
+2020,E07000166,Richmondshire,C,C : Manufacturing,1500
+2020,E07000166,Richmondshire,D,"D : Electricity, gas, steam and air conditioning supply",10
+2020,E07000166,Richmondshire,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2020,E07000166,Richmondshire,F,F : Construction,1500
+2020,E07000166,Richmondshire,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3000
+2020,E07000166,Richmondshire,H,H : Transportation and storage,700
+2020,E07000166,Richmondshire,I,I : Accommodation and food service activities,3000
+2020,E07000166,Richmondshire,J,J : Information and communication,250
+2020,E07000166,Richmondshire,K,K : Financial and insurance activities,100
+2020,E07000166,Richmondshire,L,L : Real estate activities,600
+2020,E07000166,Richmondshire,M,"M : Professional, scientific and technical activities",1250
+2020,E07000166,Richmondshire,N,N : Administrative and support service activities,1250
+2020,E07000166,Richmondshire,O,O : Public administration and defence; compulsory social security,1000
+2020,E07000166,Richmondshire,P,P : Education,1250
+2020,E07000166,Richmondshire,Q,Q : Human health and social work activities,800
+2020,E07000166,Richmondshire,R,"R : Arts, entertainment and recreation",1250
+2020,E07000166,Richmondshire,S,S : Other service activities,400
+2020,E07000166,Richmondshire,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E07000166,Richmondshire,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E07000167,Ryedale,A,"A : Agriculture, forestry and fishing",3500
+2020,E07000167,Ryedale,B,B : Mining and quarrying,30
+2020,E07000167,Ryedale,C,C : Manufacturing,6000
+2020,E07000167,Ryedale,D,"D : Electricity, gas, steam and air conditioning supply",40
+2020,E07000167,Ryedale,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2020,E07000167,Ryedale,F,F : Construction,1500
+2020,E07000167,Ryedale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4000
+2020,E07000167,Ryedale,H,H : Transportation and storage,700
+2020,E07000167,Ryedale,I,I : Accommodation and food service activities,2500
+2020,E07000167,Ryedale,J,J : Information and communication,200
+2020,E07000167,Ryedale,K,K : Financial and insurance activities,250
+2020,E07000167,Ryedale,L,L : Real estate activities,700
+2020,E07000167,Ryedale,M,"M : Professional, scientific and technical activities",2000
+2020,E07000167,Ryedale,N,N : Administrative and support service activities,1750
+2020,E07000167,Ryedale,O,O : Public administration and defence; compulsory social security,600
+2020,E07000167,Ryedale,P,P : Education,2000
+2020,E07000167,Ryedale,Q,Q : Human health and social work activities,1500
+2020,E07000167,Ryedale,R,"R : Arts, entertainment and recreation",1750
+2020,E07000167,Ryedale,S,S : Other service activities,300
+2020,E07000167,Ryedale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E07000167,Ryedale,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E07000168,Scarborough,A,"A : Agriculture, forestry and fishing",2000
+2020,E07000168,Scarborough,B,B : Mining and quarrying,350
+2020,E07000168,Scarborough,C,C : Manufacturing,5000
+2020,E07000168,Scarborough,D,"D : Electricity, gas, steam and air conditioning supply",75
+2020,E07000168,Scarborough,E,"E : Water supply; sewerage, waste management and remediation activities",100
+2020,E07000168,Scarborough,F,F : Construction,1750
+2020,E07000168,Scarborough,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,6000
+2020,E07000168,Scarborough,H,H : Transportation and storage,1000
+2020,E07000168,Scarborough,I,I : Accommodation and food service activities,7000
+2020,E07000168,Scarborough,J,J : Information and communication,350
+2020,E07000168,Scarborough,K,K : Financial and insurance activities,350
+2020,E07000168,Scarborough,L,L : Real estate activities,1250
+2020,E07000168,Scarborough,M,"M : Professional, scientific and technical activities",1500
+2020,E07000168,Scarborough,N,N : Administrative and support service activities,3500
+2020,E07000168,Scarborough,O,O : Public administration and defence; compulsory social security,1750
+2020,E07000168,Scarborough,P,P : Education,3000
+2020,E07000168,Scarborough,Q,Q : Human health and social work activities,7000
+2020,E07000168,Scarborough,R,"R : Arts, entertainment and recreation",1250
+2020,E07000168,Scarborough,S,S : Other service activities,700
+2020,E07000168,Scarborough,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E07000168,Scarborough,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E07000169,Selby,A,"A : Agriculture, forestry and fishing",2000
+2020,E07000169,Selby,B,B : Mining and quarrying,75
+2020,E07000169,Selby,C,C : Manufacturing,8000
+2020,E07000169,Selby,D,"D : Electricity, gas, steam and air conditioning supply",1500
+2020,E07000169,Selby,E,"E : Water supply; sewerage, waste management and remediation activities",300
+2020,E07000169,Selby,F,F : Construction,2250
+2020,E07000169,Selby,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4000
+2020,E07000169,Selby,H,H : Transportation and storage,4000
+2020,E07000169,Selby,I,I : Accommodation and food service activities,1750
+2020,E07000169,Selby,J,J : Information and communication,350
+2020,E07000169,Selby,K,K : Financial and insurance activities,150
+2020,E07000169,Selby,L,L : Real estate activities,450
+2020,E07000169,Selby,M,"M : Professional, scientific and technical activities",2500
+2020,E07000169,Selby,N,N : Administrative and support service activities,4000
+2020,E07000169,Selby,O,O : Public administration and defence; compulsory social security,900
+2020,E07000169,Selby,P,P : Education,2500
+2020,E07000169,Selby,Q,Q : Human health and social work activities,2000
+2020,E07000169,Selby,R,"R : Arts, entertainment and recreation",600
+2020,E07000169,Selby,S,S : Other service activities,500
+2020,E07000169,Selby,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E07000169,Selby,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E08000036,Wakefield,A,"A : Agriculture, forestry and fishing",600
+2020,E08000036,Wakefield,B,B : Mining and quarrying,100
+2020,E08000036,Wakefield,C,C : Manufacturing,18000
+2020,E08000036,Wakefield,D,"D : Electricity, gas, steam and air conditioning supply",800
+2020,E08000036,Wakefield,E,"E : Water supply; sewerage, waste management and remediation activities",1000
+2020,E08000036,Wakefield,F,F : Construction,9000
+2020,E08000036,Wakefield,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,26000
+2020,E08000036,Wakefield,H,H : Transportation and storage,16000
+2020,E08000036,Wakefield,I,I : Accommodation and food service activities,8000
+2020,E08000036,Wakefield,J,J : Information and communication,2000
+2020,E08000036,Wakefield,K,K : Financial and insurance activities,1500
+2020,E08000036,Wakefield,L,L : Real estate activities,3000
+2020,E08000036,Wakefield,M,"M : Professional, scientific and technical activities",7000
+2020,E08000036,Wakefield,N,N : Administrative and support service activities,15000
+2020,E08000036,Wakefield,O,O : Public administration and defence; compulsory social security,10000
+2020,E08000036,Wakefield,P,P : Education,12000
+2020,E08000036,Wakefield,Q,Q : Human health and social work activities,22000
+2020,E08000036,Wakefield,R,"R : Arts, entertainment and recreation",2500
+2020,E08000036,Wakefield,S,S : Other service activities,2000
+2020,E08000036,Wakefield,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E08000036,Wakefield,U,U : Activities of extraterritorial organisations and bodies,0
+2020,E06000014,York,A,"A : Agriculture, forestry and fishing",700
+2020,E06000014,York,B,B : Mining and quarrying,0
+2020,E06000014,York,C,C : Manufacturing,4000
+2020,E06000014,York,D,"D : Electricity, gas, steam and air conditioning supply",100
+2020,E06000014,York,E,"E : Water supply; sewerage, waste management and remediation activities",300
+2020,E06000014,York,F,F : Construction,4000
+2020,E06000014,York,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,17000
+2020,E06000014,York,H,H : Transportation and storage,5000
+2020,E06000014,York,I,I : Accommodation and food service activities,10000
+2020,E06000014,York,J,J : Information and communication,3000
+2020,E06000014,York,K,K : Financial and insurance activities,4000
+2020,E06000014,York,L,L : Real estate activities,6000
+2020,E06000014,York,M,"M : Professional, scientific and technical activities",9000
+2020,E06000014,York,N,N : Administrative and support service activities,10000
+2020,E06000014,York,O,O : Public administration and defence; compulsory social security,6000
+2020,E06000014,York,P,P : Education,12000
+2020,E06000014,York,Q,Q : Human health and social work activities,15000
+2020,E06000014,York,R,"R : Arts, entertainment and recreation",2250
+2020,E06000014,York,S,S : Other service activities,2500
+2020,E06000014,York,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2020,E06000014,York,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E08000032,Bradford,A,"A : Agriculture, forestry and fishing",1000
+2021,E08000032,Bradford,B,B : Mining and quarrying,35
+2021,E08000032,Bradford,C,C : Manufacturing,26000
+2021,E08000032,Bradford,D,"D : Electricity, gas, steam and air conditioning supply",150
+2021,E08000032,Bradford,E,"E : Water supply; sewerage, waste management and remediation activities",3000
+2021,E08000032,Bradford,F,F : Construction,8000
+2021,E08000032,Bradford,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,33000
+2021,E08000032,Bradford,H,H : Transportation and storage,9000
+2021,E08000032,Bradford,I,I : Accommodation and food service activities,14000
+2021,E08000032,Bradford,J,J : Information and communication,4000
+2021,E08000032,Bradford,K,K : Financial and insurance activities,7000
+2021,E08000032,Bradford,L,L : Real estate activities,4000
+2021,E08000032,Bradford,M,"M : Professional, scientific and technical activities",13000
+2021,E08000032,Bradford,N,N : Administrative and support service activities,13000
+2021,E08000032,Bradford,O,O : Public administration and defence; compulsory social security,9000
+2021,E08000032,Bradford,P,P : Education,23000
+2021,E08000032,Bradford,Q,Q : Human health and social work activities,38000
+2021,E08000032,Bradford,R,"R : Arts, entertainment and recreation",4000
+2021,E08000032,Bradford,S,S : Other service activities,4000
+2021,E08000032,Bradford,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E08000032,Bradford,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E08000033,Calderdale,A,"A : Agriculture, forestry and fishing",900
+2021,E08000033,Calderdale,B,B : Mining and quarrying,100
+2021,E08000033,Calderdale,C,C : Manufacturing,14000
+2021,E08000033,Calderdale,D,"D : Electricity, gas, steam and air conditioning supply",5
+2021,E08000033,Calderdale,E,"E : Water supply; sewerage, waste management and remediation activities",350
+2021,E08000033,Calderdale,F,F : Construction,4500
+2021,E08000033,Calderdale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,12000
+2021,E08000033,Calderdale,H,H : Transportation and storage,3000
+2021,E08000033,Calderdale,I,I : Accommodation and food service activities,7000
+2021,E08000033,Calderdale,J,J : Information and communication,2250
+2021,E08000033,Calderdale,K,K : Financial and insurance activities,6000
+2021,E08000033,Calderdale,L,L : Real estate activities,1500
+2021,E08000033,Calderdale,M,"M : Professional, scientific and technical activities",4500
+2021,E08000033,Calderdale,N,N : Administrative and support service activities,11000
+2021,E08000033,Calderdale,O,O : Public administration and defence; compulsory social security,3000
+2021,E08000033,Calderdale,P,P : Education,8000
+2021,E08000033,Calderdale,Q,Q : Human health and social work activities,10000
+2021,E08000033,Calderdale,R,"R : Arts, entertainment and recreation",1500
+2021,E08000033,Calderdale,S,S : Other service activities,3000
+2021,E08000033,Calderdale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E08000033,Calderdale,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E07000163,Craven,A,"A : Agriculture, forestry and fishing",2250
+2021,E07000163,Craven,B,B : Mining and quarrying,100
+2021,E07000163,Craven,C,C : Manufacturing,3000
+2021,E07000163,Craven,D,"D : Electricity, gas, steam and air conditioning supply",0
+2021,E07000163,Craven,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2021,E07000163,Craven,F,F : Construction,2000
+2021,E07000163,Craven,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,4000
+2021,E07000163,Craven,H,H : Transportation and storage,900
+2021,E07000163,Craven,I,I : Accommodation and food service activities,4000
+2021,E07000163,Craven,J,J : Information and communication,700
+2021,E07000163,Craven,K,K : Financial and insurance activities,2250
+2021,E07000163,Craven,L,L : Real estate activities,450
+2021,E07000163,Craven,M,"M : Professional, scientific and technical activities",2000
+2021,E07000163,Craven,N,N : Administrative and support service activities,6000
+2021,E07000163,Craven,O,O : Public administration and defence; compulsory social security,600
+2021,E07000163,Craven,P,P : Education,2250
+2021,E07000163,Craven,Q,Q : Human health and social work activities,2000
+2021,E07000163,Craven,R,"R : Arts, entertainment and recreation",600
+2021,E07000163,Craven,S,S : Other service activities,800
+2021,E07000163,Craven,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E07000163,Craven,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E07000164,Hambleton,A,"A : Agriculture, forestry and fishing",4000
+2021,E07000164,Hambleton,B,B : Mining and quarrying,40
+2021,E07000164,Hambleton,C,C : Manufacturing,6000
+2021,E07000164,Hambleton,D,"D : Electricity, gas, steam and air conditioning supply",150
+2021,E07000164,Hambleton,E,"E : Water supply; sewerage, waste management and remediation activities",350
+2021,E07000164,Hambleton,F,F : Construction,2500
+2021,E07000164,Hambleton,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,6000
+2021,E07000164,Hambleton,H,H : Transportation and storage,1500
+2021,E07000164,Hambleton,I,I : Accommodation and food service activities,4000
+2021,E07000164,Hambleton,J,J : Information and communication,700
+2021,E07000164,Hambleton,K,K : Financial and insurance activities,300
+2021,E07000164,Hambleton,L,L : Real estate activities,1000
+2021,E07000164,Hambleton,M,"M : Professional, scientific and technical activities",2250
+2021,E07000164,Hambleton,N,N : Administrative and support service activities,1750
+2021,E07000164,Hambleton,O,O : Public administration and defence; compulsory social security,2500
+2021,E07000164,Hambleton,P,P : Education,2500
+2021,E07000164,Hambleton,Q,Q : Human health and social work activities,4000
+2021,E07000164,Hambleton,R,"R : Arts, entertainment and recreation",800
+2021,E07000164,Hambleton,S,S : Other service activities,1250
+2021,E07000164,Hambleton,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E07000164,Hambleton,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E07000165,Harrogate,A,"A : Agriculture, forestry and fishing",4000
+2021,E07000165,Harrogate,B,B : Mining and quarrying,50
+2021,E07000165,Harrogate,C,C : Manufacturing,5000
+2021,E07000165,Harrogate,D,"D : Electricity, gas, steam and air conditioning supply",250
+2021,E07000165,Harrogate,E,"E : Water supply; sewerage, waste management and remediation activities",450
+2021,E07000165,Harrogate,F,F : Construction,3500
+2021,E07000165,Harrogate,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,12000
+2021,E07000165,Harrogate,H,H : Transportation and storage,2500
+2021,E07000165,Harrogate,I,I : Accommodation and food service activities,10000
+2021,E07000165,Harrogate,J,J : Information and communication,3000
+2021,E07000165,Harrogate,K,K : Financial and insurance activities,2250
+2021,E07000165,Harrogate,L,L : Real estate activities,1750
+2021,E07000165,Harrogate,M,"M : Professional, scientific and technical activities",8000
+2021,E07000165,Harrogate,N,N : Administrative and support service activities,7000
+2021,E07000165,Harrogate,O,O : Public administration and defence; compulsory social security,2250
+2021,E07000165,Harrogate,P,P : Education,7000
+2021,E07000165,Harrogate,Q,Q : Human health and social work activities,11000
+2021,E07000165,Harrogate,R,"R : Arts, entertainment and recreation",1750
+2021,E07000165,Harrogate,S,S : Other service activities,2000
+2021,E07000165,Harrogate,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E07000165,Harrogate,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E08000034,Kirklees,A,"A : Agriculture, forestry and fishing",1250
+2021,E08000034,Kirklees,B,B : Mining and quarrying,75
+2021,E08000034,Kirklees,C,C : Manufacturing,30000
+2021,E08000034,Kirklees,D,"D : Electricity, gas, steam and air conditioning supply",200
+2021,E08000034,Kirklees,E,"E : Water supply; sewerage, waste management and remediation activities",900
+2021,E08000034,Kirklees,F,F : Construction,8000
+2021,E08000034,Kirklees,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,27000
+2021,E08000034,Kirklees,H,H : Transportation and storage,8000
+2021,E08000034,Kirklees,I,I : Accommodation and food service activities,11000
+2021,E08000034,Kirklees,J,J : Information and communication,3500
+2021,E08000034,Kirklees,K,K : Financial and insurance activities,1750
+2021,E08000034,Kirklees,L,L : Real estate activities,3500
+2021,E08000034,Kirklees,M,"M : Professional, scientific and technical activities",8000
+2021,E08000034,Kirklees,N,N : Administrative and support service activities,10000
+2021,E08000034,Kirklees,O,O : Public administration and defence; compulsory social security,6000
+2021,E08000034,Kirklees,P,P : Education,17000
+2021,E08000034,Kirklees,Q,Q : Human health and social work activities,23000
+2021,E08000034,Kirklees,R,"R : Arts, entertainment and recreation",3000
+2021,E08000034,Kirklees,S,S : Other service activities,3500
+2021,E08000034,Kirklees,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E08000034,Kirklees,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E08000035,Leeds,A,"A : Agriculture, forestry and fishing",1000
+2021,E08000035,Leeds,B,B : Mining and quarrying,150
+2021,E08000035,Leeds,C,C : Manufacturing,30000
+2021,E08000035,Leeds,D,"D : Electricity, gas, steam and air conditioning supply",2500
+2021,E08000035,Leeds,E,"E : Water supply; sewerage, waste management and remediation activities",4000
+2021,E08000035,Leeds,F,F : Construction,19000
+2021,E08000035,Leeds,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,53000
+2021,E08000035,Leeds,H,H : Transportation and storage,23000
+2021,E08000035,Leeds,I,I : Accommodation and food service activities,27000
+2021,E08000035,Leeds,J,J : Information and communication,28000
+2021,E08000035,Leeds,K,K : Financial and insurance activities,24000
+2021,E08000035,Leeds,L,L : Real estate activities,8000
+2021,E08000035,Leeds,M,"M : Professional, scientific and technical activities",50000
+2021,E08000035,Leeds,N,N : Administrative and support service activities,57000
+2021,E08000035,Leeds,O,O : Public administration and defence; compulsory social security,19000
+2021,E08000035,Leeds,P,P : Education,45000
+2021,E08000035,Leeds,Q,Q : Human health and social work activities,66000
+2021,E08000035,Leeds,R,"R : Arts, entertainment and recreation",11000
+2021,E08000035,Leeds,S,S : Other service activities,11000
+2021,E08000035,Leeds,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E08000035,Leeds,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E07000166,Richmondshire,A,"A : Agriculture, forestry and fishing",2500
+2021,E07000166,Richmondshire,B,B : Mining and quarrying,30
+2021,E07000166,Richmondshire,C,C : Manufacturing,1000
+2021,E07000166,Richmondshire,D,"D : Electricity, gas, steam and air conditioning supply",0
+2021,E07000166,Richmondshire,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2021,E07000166,Richmondshire,F,F : Construction,1250
+2021,E07000166,Richmondshire,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3000
+2021,E07000166,Richmondshire,H,H : Transportation and storage,800
+2021,E07000166,Richmondshire,I,I : Accommodation and food service activities,3500
+2021,E07000166,Richmondshire,J,J : Information and communication,350
+2021,E07000166,Richmondshire,K,K : Financial and insurance activities,100
+2021,E07000166,Richmondshire,L,L : Real estate activities,500
+2021,E07000166,Richmondshire,M,"M : Professional, scientific and technical activities",1500
+2021,E07000166,Richmondshire,N,N : Administrative and support service activities,1250
+2021,E07000166,Richmondshire,O,O : Public administration and defence; compulsory social security,1250
+2021,E07000166,Richmondshire,P,P : Education,1500
+2021,E07000166,Richmondshire,Q,Q : Human health and social work activities,900
+2021,E07000166,Richmondshire,R,"R : Arts, entertainment and recreation",900
+2021,E07000166,Richmondshire,S,S : Other service activities,600
+2021,E07000166,Richmondshire,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E07000166,Richmondshire,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E07000167,Ryedale,A,"A : Agriculture, forestry and fishing",3500
+2021,E07000167,Ryedale,B,B : Mining and quarrying,30
+2021,E07000167,Ryedale,C,C : Manufacturing,6000
+2021,E07000167,Ryedale,D,"D : Electricity, gas, steam and air conditioning supply",15
+2021,E07000167,Ryedale,E,"E : Water supply; sewerage, waste management and remediation activities",50
+2021,E07000167,Ryedale,F,F : Construction,1500
+2021,E07000167,Ryedale,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3000
+2021,E07000167,Ryedale,H,H : Transportation and storage,800
+2021,E07000167,Ryedale,I,I : Accommodation and food service activities,3500
+2021,E07000167,Ryedale,J,J : Information and communication,300
+2021,E07000167,Ryedale,K,K : Financial and insurance activities,175
+2021,E07000167,Ryedale,L,L : Real estate activities,400
+2021,E07000167,Ryedale,M,"M : Professional, scientific and technical activities",2000
+2021,E07000167,Ryedale,N,N : Administrative and support service activities,1750
+2021,E07000167,Ryedale,O,O : Public administration and defence; compulsory social security,700
+2021,E07000167,Ryedale,P,P : Education,2000
+2021,E07000167,Ryedale,Q,Q : Human health and social work activities,1750
+2021,E07000167,Ryedale,R,"R : Arts, entertainment and recreation",1750
+2021,E07000167,Ryedale,S,S : Other service activities,450
+2021,E07000167,Ryedale,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E07000167,Ryedale,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E07000168,Scarborough,A,"A : Agriculture, forestry and fishing",1750
+2021,E07000168,Scarborough,B,B : Mining and quarrying,600
+2021,E07000168,Scarborough,C,C : Manufacturing,5000
+2021,E07000168,Scarborough,D,"D : Electricity, gas, steam and air conditioning supply",50
+2021,E07000168,Scarborough,E,"E : Water supply; sewerage, waste management and remediation activities",75
+2021,E07000168,Scarborough,F,F : Construction,1750
+2021,E07000168,Scarborough,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,6000
+2021,E07000168,Scarborough,H,H : Transportation and storage,1250
+2021,E07000168,Scarborough,I,I : Accommodation and food service activities,9000
+2021,E07000168,Scarborough,J,J : Information and communication,450
+2021,E07000168,Scarborough,K,K : Financial and insurance activities,300
+2021,E07000168,Scarborough,L,L : Real estate activities,1250
+2021,E07000168,Scarborough,M,"M : Professional, scientific and technical activities",1250
+2021,E07000168,Scarborough,N,N : Administrative and support service activities,3500
+2021,E07000168,Scarborough,O,O : Public administration and defence; compulsory social security,2250
+2021,E07000168,Scarborough,P,P : Education,3500
+2021,E07000168,Scarborough,Q,Q : Human health and social work activities,8000
+2021,E07000168,Scarborough,R,"R : Arts, entertainment and recreation",1250
+2021,E07000168,Scarborough,S,S : Other service activities,900
+2021,E07000168,Scarborough,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E07000168,Scarborough,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E07000169,Selby,A,"A : Agriculture, forestry and fishing",1750
+2021,E07000169,Selby,B,B : Mining and quarrying,50
+2021,E07000169,Selby,C,C : Manufacturing,8000
+2021,E07000169,Selby,D,"D : Electricity, gas, steam and air conditioning supply",800
+2021,E07000169,Selby,E,"E : Water supply; sewerage, waste management and remediation activities",350
+2021,E07000169,Selby,F,F : Construction,2250
+2021,E07000169,Selby,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,3500
+2021,E07000169,Selby,H,H : Transportation and storage,3500
+2021,E07000169,Selby,I,I : Accommodation and food service activities,2500
+2021,E07000169,Selby,J,J : Information and communication,600
+2021,E07000169,Selby,K,K : Financial and insurance activities,175
+2021,E07000169,Selby,L,L : Real estate activities,400
+2021,E07000169,Selby,M,"M : Professional, scientific and technical activities",2500
+2021,E07000169,Selby,N,N : Administrative and support service activities,3500
+2021,E07000169,Selby,O,O : Public administration and defence; compulsory social security,900
+2021,E07000169,Selby,P,P : Education,3000
+2021,E07000169,Selby,Q,Q : Human health and social work activities,2500
+2021,E07000169,Selby,R,"R : Arts, entertainment and recreation",450
+2021,E07000169,Selby,S,S : Other service activities,700
+2021,E07000169,Selby,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E07000169,Selby,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E08000036,Wakefield,A,"A : Agriculture, forestry and fishing",700
+2021,E08000036,Wakefield,B,B : Mining and quarrying,100
+2021,E08000036,Wakefield,C,C : Manufacturing,19000
+2021,E08000036,Wakefield,D,"D : Electricity, gas, steam and air conditioning supply",700
+2021,E08000036,Wakefield,E,"E : Water supply; sewerage, waste management and remediation activities",1250
+2021,E08000036,Wakefield,F,F : Construction,8000
+2021,E08000036,Wakefield,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,24000
+2021,E08000036,Wakefield,H,H : Transportation and storage,16000
+2021,E08000036,Wakefield,I,I : Accommodation and food service activities,9000
+2021,E08000036,Wakefield,J,J : Information and communication,3000
+2021,E08000036,Wakefield,K,K : Financial and insurance activities,1500
+2021,E08000036,Wakefield,L,L : Real estate activities,3000
+2021,E08000036,Wakefield,M,"M : Professional, scientific and technical activities",7000
+2021,E08000036,Wakefield,N,N : Administrative and support service activities,14000
+2021,E08000036,Wakefield,O,O : Public administration and defence; compulsory social security,10000
+2021,E08000036,Wakefield,P,P : Education,12000
+2021,E08000036,Wakefield,Q,Q : Human health and social work activities,24000
+2021,E08000036,Wakefield,R,"R : Arts, entertainment and recreation",2500
+2021,E08000036,Wakefield,S,S : Other service activities,3000
+2021,E08000036,Wakefield,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E08000036,Wakefield,U,U : Activities of extraterritorial organisations and bodies,0
+2021,E06000014,York,A,"A : Agriculture, forestry and fishing",700
+2021,E06000014,York,B,B : Mining and quarrying,0
+2021,E06000014,York,C,C : Manufacturing,4000
+2021,E06000014,York,D,"D : Electricity, gas, steam and air conditioning supply",125
+2021,E06000014,York,E,"E : Water supply; sewerage, waste management and remediation activities",250
+2021,E06000014,York,F,F : Construction,4000
+2021,E06000014,York,G,G : Wholesale and retail trade; repair of motor vehicles and motorcycles,15000
+2021,E06000014,York,H,H : Transportation and storage,5000
+2021,E06000014,York,I,I : Accommodation and food service activities,12000
+2021,E06000014,York,J,J : Information and communication,4000
+2021,E06000014,York,K,K : Financial and insurance activities,4000
+2021,E06000014,York,L,L : Real estate activities,2000
+2021,E06000014,York,M,"M : Professional, scientific and technical activities",9000
+2021,E06000014,York,N,N : Administrative and support service activities,9000
+2021,E06000014,York,O,O : Public administration and defence; compulsory social security,7000
+2021,E06000014,York,P,P : Education,13000
+2021,E06000014,York,Q,Q : Human health and social work activities,18000
+2021,E06000014,York,R,"R : Arts, entertainment and recreation",2500
+2021,E06000014,York,S,S : Other service activities,2500
+2021,E06000014,York,T,T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0
+2021,E06000014,York,U,U : Activities of extraterritorial organisations and bodies,0
