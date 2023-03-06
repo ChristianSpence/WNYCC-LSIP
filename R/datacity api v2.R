@@ -5,7 +5,7 @@ library(httr)
 source('R/datacityAPIkey.R')
 
 datacity <- httr::POST(
-  url = 'https://product-api.thedatacity.com/api/rtics/filteredCompanies/?insights=true',
+  url = datacityURL,
   add_headers(Authorization = paste("Bearer", datacityAPIkey)),
   body = '{
             "onlyCompaniesWithRegisteredAddressWithinFilterLocation": true,
@@ -68,7 +68,7 @@ LAs <- c("Bradford",
 
 datacity_las <- lapply(LAs, function(LA) {
   httr::POST(
-    url = 'https://product-api.thedatacity.com/api/rtics/filteredCompanies/?insights=true',
+    url = datacityURL,
     add_headers(Authorization = paste("Bearer", datacityAPIkey)),
     body = paste0(
             '{
