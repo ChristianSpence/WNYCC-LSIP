@@ -489,3 +489,13 @@ grad.table28 <- lapply(grad.table28.files, function(file) {
 
 readr::write_csv(grad.table28, "data/csv/he/Graduate activities by provider and subject area of degree.csv")
 saveRDS(grad.table28, "data/app/hesa-grad-table-28.rds")
+
+
+
+bres <- readr::read_csv("data-raw/NOMIS/bres.csv") |>
+  dplyr::select(DATE, GEOGRAPHY_CODE, GEOGRAPHY_NAME, INDUSTRY_CODE, INDUSTRY_NAME, OBS_VALUE) |>
+  readr::write_csv("data/csv/nomis/bres.csv")
+
+ukbc_lu_emp <- readr::read_csv("data-raw/NOMIS/ukbc-lu-emp.csv") |>
+  dplyr::select(DATE, GEOGRAPHY_CODE, GEOGRAPHY_NAME, INDUSTRY_CODE, INDUSTRY_NAME, EMPLOYMENT_SIZEBAND_NAME, OBS_VALUE) |>
+  readr::write_csv("data/csv/nomis/ukbc-lu-emp.csv")
