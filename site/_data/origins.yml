@@ -18,3 +18,9 @@ datacity:
 
 linkedin:
   name: LinkedIn Jobs
+
+nomis:
+  name: NOMIS
+
+lookups:
+  name: Lookups
