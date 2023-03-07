@@ -7,8 +7,8 @@ stages:
       md5: aceb942bb32b6c0ae772c86270f85acf
       size: 23820
     - path: site/_pipelines/datacity/prepare.py
-      md5: c9c335524b5a42cad6be67dd9c44e276
-      size: 1238
+      md5: 8ea73b71910e9d3491880b59310524a7
+      size: 2054
     - path: site/_pipelines/datacity/soc4.py
       md5: 16e2a559e69b69831b62137cafacd820
       size: 1956
@@ -16,6 +16,9 @@ stages:
       md5: 957ad0f8f95f3560b0df6ee2f4709154
       size: 783
     outs:
+    - path: site/wycc/demand/_data/postings_by_soc4_sub_major.csv
+      md5: 2089990ee6cf363c65d28c6dfda39dd3
+      size: 2770
     - path: site/wycc/demand/_data/postings_by_soc4_unit.csv
       md5: 8bffddfb469b47f94267c1c025209f95
       size: 10858

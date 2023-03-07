@@ -10,3 +10,5 @@ stages:
     outs:
       - site/wycc/demand/_data/postings_by_soc4_unit.csv:
           cache: false
+      - site/wycc/demand/_data/postings_by_soc4_sub_major.csv:
+          cache: false

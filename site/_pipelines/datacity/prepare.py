@@ -38,7 +38,20 @@ if __name__ == '__main__':
     postings_by_soc_code = read_data(
         POSTINGS_BY_SOC4, group=group, metric='soc4_code')
     postings_by_soc_code = postings_by_soc_code.merge(soc4.codes, left_on='soc4_code', right_on='unit_group')
-    by_geo = postings_by_soc_code.pivot_table(columns='geography_name', index='unit_title', values='count', aggfunc=sum).fillna(0)
+    def name_combiner(x, y):
+        return ' / '.join([x, y])
+    postings_by_soc_code['sub_major_full_title'] = postings_by_soc_code.major_title.combine(postings_by_soc_code.sub_major_title, func=name_combiner)
+    postings_by_soc_code['minor_full_title'] = postings_by_soc_code.sub_major_full_title.combine(postings_by_soc_code.minor_title, func=name_combiner)
+    postings_by_soc_code['unit_full_title'] = postings_by_soc_code.minor_full_title.combine(postings_by_soc_code.unit_title, func=name_combiner)
 
-    by_geo.to_csv(os.path.join(OUT_DIR, 'postings_by_soc4_unit.csv'))
-    
+    postings_by_soc_code.pivot_table(
+        columns='geography_name', index='unit_title', values='count', aggfunc=sum
+      ).fillna(0).groupby(level=0).sum().to_csv(
+        os.path.join(OUT_DIR, 'postings_by_soc4_unit.csv')
+      )
+
+    postings_by_soc_code.pivot_table(
+        columns='geography_name', index='sub_major_full_title', values='count', aggfunc=sum
+      ).fillna(0).groupby(level=0).sum().rename(index=str.title).to_csv(
+        os.path.join(OUT_DIR, 'postings_by_soc4_sub_major.csv')
+      )
