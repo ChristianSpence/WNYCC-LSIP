@@ -57,6 +57,14 @@
 'data/csv/lookups/geography.csv':
   facts:
     - geography_name
+'data/csv/lookups/soc2010.csv':
+  dimensions:
+    - Major Group
+    - Sub-Major Group
+    - Minor Group
+    - Unit   Group
+  facts:
+    - Group Title
 'data/csv/lookups/ukprn_region_lookup.csv':
   facts:
     - region
@@ -95,5 +103,3 @@
 # 'data/csv/a-level/Entries and Results - A level and AS by region and subject.csv': {}
 
 # 'data/csv/a-level/Maths and science entries - percent entered by region.csv': {}
-# 'data/csv/lookups/soc2010.csv': {}
-
