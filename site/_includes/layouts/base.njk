@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/components.css">
   <link rel="stylesheet" href="/assets/css/main.css">
+  {% if region_key %}<link rel="stylesheet" href="/assets/css/{{ region_key }}.css">{% endif %}
   <script src="/components.js"></script>
   <title>{{ title or 'UNDEFINED' }} &ndash; {{ metas.site }}</title>
 </head>

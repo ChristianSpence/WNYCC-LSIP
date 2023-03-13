@@ -4,3 +4,8 @@
 @import "css/text.css";
 @import "css/hexmap.css";
 @import "css/chart.css";
+
+:root {
+  --colour-primary: orange;
+  --colour-primary-contrast: black;
+}
