@@ -2,7 +2,7 @@ layout: layouts/default.njk
 
 metas:
   # type: The page type (by default is website).
-  site: Open Innovations LSIP sites
+  site: West & North Yorkshire Local Skills Improvement Plan Data
   title: "=title"
   lang: en
   description: "=description"

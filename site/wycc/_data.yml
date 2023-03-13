@@ -1,4 +1,6 @@
 metas:
-  site: WYCC LSIP Data
+  site: West Yorkshire Local Skills Improvement Plan Data
+
 
 hex_layout: hexjson.wy
+region_key: wycc

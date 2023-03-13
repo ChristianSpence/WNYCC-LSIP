@@ -1,4 +1,5 @@
 metas:
-  site: NYCC LSIP Data
+  site: North Yorkshire Local Skills Improvement Plan Data
 
 hex_layout: hexjson.ny
+region_key: nycc

@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="/components.css">
   <link rel="stylesheet" href="/assets/css/main.css">
   <script src="/components.js"></script>
-  <title>{{ title }}</title>
+  <title>{{ title or 'UNDEFINED' }} &ndash; {{ metas.site }}</title>
 </head>
 <body>
   {{ content | safe }}
