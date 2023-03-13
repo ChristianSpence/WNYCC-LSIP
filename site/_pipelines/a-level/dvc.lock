@@ -7,12 +7,15 @@ stages:
       md5: 45452bb633fd6c84664f07b0f12984ab
       size: 3110648
     - path: site/_pipelines/a-level/prepare.py
-      md5: 462b3f137b7b87cb58b53f151576877f
-      size: 2213
+      md5: 033a8b503de161d1d1d4aa5e26452987
+      size: 2621
     outs:
-    - path: site/wycc/supply/a-level/_data/a_level.csv
+    - path: site/wycc/supply/a-level/_data/a_level_by_subject.csv
       md5: 3d5d37cff438faa80190eca2f6c853d9
       size: 2034
+    - path: site/wycc/supply/a-level/_data/a_level_totals_by_geography.csv
+      md5: 5623317f0d81bd9b9b8579ead38ffb0e
+      size: 445
     - path: site/wycc/supply/a-level/_data/summary.json
       md5: 1225e79020485eda8fbf687f1068fcd4
       size: 226
@@ -23,12 +26,15 @@ stages:
       md5: 45452bb633fd6c84664f07b0f12984ab
       size: 3110648
     - path: site/_pipelines/a-level/prepare.py
-      md5: 462b3f137b7b87cb58b53f151576877f
-      size: 2213
+      md5: 033a8b503de161d1d1d4aa5e26452987
+      size: 2621
     outs:
-    - path: site/nycc/supply/a-level/_data/a_level.csv
+    - path: site/nycc/supply/a-level/_data/a_level_by_subject.csv
       md5: 6e88ab297aa860110cd320ff2979e8ad
       size: 1957
+    - path: site/nycc/supply/a-level/_data/a_level_totals_by_geography.csv
+      md5: 67bc10054ddca8d6df11d6ddf28a3d7a
+      size: 276
     - path: site/nycc/supply/a-level/_data/summary.json
       md5: 07a548e7fd10332b4bb948b5c935a6f1
       size: 222

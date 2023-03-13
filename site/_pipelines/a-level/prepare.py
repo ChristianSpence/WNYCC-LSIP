@@ -62,5 +62,12 @@ if __name__ == '__main__':
     stats = stats[~stats.subject_area.str.startswith('All ')]
 
     # Write to file
-    stats.sort_values(by=['total_number_of_students'], ascending=False).to_csv(os.path.join(OUTDIR, 'a_level.csv'), index=False)
+    stats.sort_values(by=['total_number_of_students'], ascending=False).to_csv(os.path.join(OUTDIR, 'a_level_by_subject.csv'), index=False)
 
+    # Get totals for All students
+    all_students = data[data.subject_area == 'All subjects'].drop(columns=['subject_area', 'geography_name']).set_index('geography_code')
+    
+    # Create totals by geography
+    totals_by_geography = all_students.transpose()
+    totals_by_geography.index.names=['measure']
+    totals_by_geography.to_csv(os.path.join(OUTDIR, 'a_level_totals_by_geography.csv'))
