@@ -1,0 +1,34 @@
+schema: '2.0'
+stages:
+  prep-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/a-level/prepare.py wycc
+    deps:
+    - path: data/csv/a-level/Entries and Results - A level and AS by region and subject.csv
+      md5: 45452bb633fd6c84664f07b0f12984ab
+      size: 3110648
+    - path: site/_pipelines/a-level/prepare.py
+      md5: 462b3f137b7b87cb58b53f151576877f
+      size: 2213
+    outs:
+    - path: site/wycc/supply/a-level/_data/a_level.csv
+      md5: 3d5d37cff438faa80190eca2f6c853d9
+      size: 2034
+    - path: site/wycc/supply/a-level/_data/summary.json
+      md5: 1225e79020485eda8fbf687f1068fcd4
+      size: 226
+  prep-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/a-level/prepare.py nycc
+    deps:
+    - path: data/csv/a-level/Entries and Results - A level and AS by region and subject.csv
+      md5: 45452bb633fd6c84664f07b0f12984ab
+      size: 3110648
+    - path: site/_pipelines/a-level/prepare.py
+      md5: 462b3f137b7b87cb58b53f151576877f
+      size: 2213
+    outs:
+    - path: site/nycc/supply/a-level/_data/a_level.csv
+      md5: 6e88ab297aa860110cd320ff2979e8ad
+      size: 1957
+    - path: site/nycc/supply/a-level/_data/summary.json
+      md5: 07a548e7fd10332b4bb948b5c935a6f1
+      size: 222

@@ -1,0 +1,34 @@
+stages:
+  prep-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/a-level/prepare.py wycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/a-level/prepare.py
+      - data/csv/a-level/Entries and Results - A level and AS by region and subject.csv
+      # - data/csv/a-level/Student counts and Results - A level by region and subject (end of 16-18 study).csv
+    outs:
+      - site/wycc/supply/a-level/_data/a_level.csv:
+          cache: false
+      - site/wycc/supply/a-level/_data/summary.json:
+          cache: false
+    #   - site/wycc/supply/a-level/_data/totals_by_geography.csv:
+    #       cache: false
+    #   - site/wycc/supply/a-level/_data/percentage_by_geography.csv:
+    #       cache: false
+
+
+  prep-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/a-level/prepare.py nycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/a-level/prepare.py
+      - data/csv/a-level/Entries and Results - A level and AS by region and subject.csv
+    outs:
+      - site/nycc/supply/a-level/_data/a_level.csv:
+          cache: false
+      - site/nycc/supply/a-level/_data/summary.json:
+          cache: false
+    #   - site/nycc/supply/a-level/_data/totals_by_geography.csv:
+    #       cache: false
+    #   - site/nycc/supply/a-level/_data/percentage_by_geography.csv:
+    #       cache: false
