@@ -61,9 +61,6 @@ if __name__ == '__main__':
     # Remove aggregated lines
     stats = stats[~stats.subject_area.str.startswith('All ')]
 
-    # Write to file
-    stats.sort_values(by=['total_number_of_students'], ascending=False).to_csv(os.path.join(OUTDIR, 'a_level_by_subject.csv'), index=False)
-
     # Get totals for All students
     all_students = data[data.subject_area == 'All subjects'].drop(columns=['subject_area', 'geography_name']).set_index('geography_code')
     
@@ -71,3 +68,16 @@ if __name__ == '__main__':
     totals_by_geography = all_students.transpose()
     totals_by_geography.index.names=['measure']
     totals_by_geography.to_csv(os.path.join(OUTDIR, 'a_level_totals_by_geography.csv'))
+
+    stats['pct_at_grade_a_star'] = 100 * stats.number_at_grade_a_star / stats.total_number_of_students
+    stats['pct_at_grade_a'] = 100 * stats.number_at_grade_a / stats.total_number_of_students
+    stats['pct_at_grade_b'] = 100 * stats.number_at_grade_b / stats.total_number_of_students
+    stats['pct_at_grade_c'] = 100 * stats.number_at_grade_c / stats.total_number_of_students
+    stats['pct_at_grade_d'] = 100 * stats.number_at_grade_d / stats.total_number_of_students
+    stats['pct_at_grade_e'] = 100 * stats.number_at_grade_e / stats.total_number_of_students
+    stats['pct_at_grade_u'] = 100 * stats.number_at_grade_u / stats.total_number_of_students
+
+    stats = stats.round(1)
+
+    # Write to file
+    stats.sort_values(by=['total_number_of_students'], ascending=False).to_csv(os.path.join(OUTDIR, 'a_level_by_subject.csv'), index=False)
