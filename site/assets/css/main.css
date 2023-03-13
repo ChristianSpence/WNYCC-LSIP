@@ -1,11 +1,12 @@
 /* This is remotely resolved from "https://unpkg.com/modern-css-reset/dist/reset.css" */
 @import "css/reset.css";
 @import "css/axioms.css";
+@import "css/header.css";
 @import "css/text.css";
 @import "css/hexmap.css";
 @import "css/chart.css";
 
 :root {
-  --colour-primary: orange;
-  --colour-primary-contrast: black;
+  --colour-primary: grey;
+  --colour-primary-contrast: pink;
 }

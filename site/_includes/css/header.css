@@ -1,0 +1,16 @@
+header {
+  color: var(--colour-primary-contrast);
+  background-color: var(--colour-primary);
+  padding: 1rem;
+  & .row {
+    display: flex;
+    align-items: center;
+  }
+  & :is(img,svg) {
+    height: 5rem;
+  }
+  /* Override svg fill */
+  & .cls-1 {
+    fill: var(--colour-primary-contrast);
+  }
+}

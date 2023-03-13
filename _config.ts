@@ -44,4 +44,7 @@ site.filter('value_mapper', (data, config) => {
   return data.map(v => ({ ...v, [key]: mapper[v[key]] || v[key] }));
 })
 
+site.remoteFile('assets/images/logo-white.svg', 'https://www.wnychamber.co.uk/app/themes/wnychamber/dist/img/logo-white.svg');
+site.remoteFile('assets/images/lsip-web-logo.png', 'https://www.wnychamber.co.uk/app/uploads/2023/01/LSIP-Web-Logo.png');
+
 export default site;

@@ -2,6 +2,9 @@ body {
   font-size: 100%;
   font-family: sans-serif;
   padding: 0;
+}
+
+main {
   & * + * {
     margin-top: 1.25rem;
   }
@@ -44,9 +47,4 @@ nav {
       color: inherit;
     }
   }
-}
-
-header {
-  color: var(--colour-primary-contrast);
-  background-color: var(--colour-primary);
 }
