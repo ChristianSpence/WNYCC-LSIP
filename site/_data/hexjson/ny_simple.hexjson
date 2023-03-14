@@ -1,0 +1,7 @@
+{
+	"layout":"odd-r",
+	"hexes": {
+		"E06000014":{"n":"York","q":3,"r":2,"region":"E12000003","colour":"#F9BC26"},
+		"E10000023":{"n":"North Yorkhire","q":2,"r":2,"region":"E12000003","colour":"#F9BC26"}
+	}
+}
