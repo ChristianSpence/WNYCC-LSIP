@@ -65,8 +65,7 @@ if __name__ == '__main__':
     all_students = data[data.subject_area == 'All subjects'].drop(columns=['subject_area', 'geography_name']).set_index('geography_code')
     
     # Create totals by geography
-    totals_by_geography = all_students.transpose()
-    totals_by_geography.index.names=['measure']
+    totals_by_geography = all_students
     totals_by_geography.to_csv(os.path.join(OUTDIR, 'a_level_totals_by_geography.csv'))
 
     stats['pct_at_grade_a_star'] = 100 * stats.number_at_grade_a_star / stats.total_number_of_students

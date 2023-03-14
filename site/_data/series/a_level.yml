@@ -1,0 +1,21 @@
+- value: number_at_grade_a_star
+  title: Number at Grade A*
+  colour: red
+- value: number_at_grade_a
+  title: Number at Grade A
+  colour: yellow
+- value: number_at_grade_b
+  title: Number at Grade B
+  colour: red
+- value: number_at_grade_c
+  title: Number at Grade C
+  colour: yellow
+- value: number_at_grade_d
+  title: Number at Grade D
+  colour: red
+- value: number_at_grade_e
+  title: Number at Grade E
+  colour: yellow
+- value: number_at_grade_u
+  title: Number at Grade U
+  colour: red

@@ -13,3 +13,6 @@ metas:
   # color: The color theme of the website.
   # robots: Configuration for search engines (a boolean to enable/disable or a string with a custom value).
   generator: true
+
+mergedKeys:
+  series: object

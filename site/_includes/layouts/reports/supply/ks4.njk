@@ -82,7 +82,7 @@ layout: layouts/default.njk
         }),
         stacked: true,
         category: "measure",
-        series: series,
+        series: series.geo,
         legend: { show: true },
         axis: {
           x: { tickSize: 5000 }
@@ -99,7 +99,7 @@ layout: layouts/default.njk
           key: "measure",
           mapper: mapper.supply.ks4
         }),
-        series: series,
+        series: series.geo,
         legend: { show: true },
         axis: {
           x: { tickSize: 10 }

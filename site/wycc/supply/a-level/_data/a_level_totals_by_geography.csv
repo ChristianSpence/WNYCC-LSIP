@@ -1,9 +1,6 @@
-measure,E08000032,E08000033,E08000034,E08000035,E08000036
-number_at_grade_a_star,291.0,127.0,493.0,507.0,260.0
-number_at_grade_a,384.0,183.0,687.0,783.0,373.0
-number_at_grade_b,562.0,210.0,746.0,960.0,436.0
-number_at_grade_c,395.0,166.0,420.0,708.0,251.0
-number_at_grade_d,190.0,83.0,198.0,367.0,87.0
-number_at_grade_e,71.0,37.0,63.0,142.0,26.0
-number_at_grade_u,36.0,6.0,12.0,34.0,6.0
-total_number_of_students,1929.0,812.0,2619.0,3501.0,1439.0
+geography_code,number_at_grade_a_star,number_at_grade_a,number_at_grade_b,number_at_grade_c,number_at_grade_d,number_at_grade_e,number_at_grade_u,total_number_of_students
+E08000032,291.0,384.0,562.0,395.0,190.0,71.0,36.0,1929.0
+E08000033,127.0,183.0,210.0,166.0,83.0,37.0,6.0,812.0
+E08000034,493.0,687.0,746.0,420.0,198.0,63.0,12.0,2619.0
+E08000035,507.0,783.0,960.0,708.0,367.0,142.0,34.0,3501.0
+E08000036,260.0,373.0,436.0,251.0,87.0,26.0,6.0,1439.0

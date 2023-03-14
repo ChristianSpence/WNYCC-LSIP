@@ -1,0 +1,84 @@
+---
+layout: layouts/default.njk
+---
+
+{# Summary headlines #}
+{% comp 'dashboard.grid', {max_width: '10rem'} %}
+{{ comp.dashboard.headline({
+      title: 'Number students in A-levels',
+      headline: summary.total_number_of_students
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Number of students achieving A* grade',
+      headline: summary.number_at_grade_a_star 
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Number of students achieving U grade',
+      headline: summary.number_at_grade_u
+    }) | safe }}
+{% endcomp %}
+
+{% comp 'dashboard.flex' %}
+  {% comp 'dashboard.pane', {classes: 'centred'} %}
+  <p>Total number of students</p>
+  {{ comp.oi.map.hex_cartogram(
+        {
+          config: {
+            hexjson: hex_layout,
+            hexScale: 0.8,
+            data: a_level_totals_by_geography.rows,
+            matchKey: 'geography_code',
+            titleProp: 'n',
+            valueProp: 'total_number_of_students',
+            scale: colour_scale.sample
+          }
+        }
+      ) | safe }}
+  {% endcomp %}
+
+{% comp 'dashboard.pane' %}
+<table class="centred-block">
+  <thead>
+    <tr>
+      <th>Subject Area</th>
+      <th>Total Students</th>
+      <th>Grade A*</th>
+    </tr>
+  </thead>
+{% for row in a_level_by_subject.rows %}
+  <tr>
+    <td>{{ row.subject_area }}</td>
+    <td class="centred">{{ row.total_number_of_students }}</td>
+    <td class="centred">
+      {% if not row.pct_at_grade_a_star %}
+        &mdash;
+      {% else %}
+        {{ row.pct_at_grade_a_star }}%
+      {% endif %}
+    </td>
+  </tr>
+{% endfor %}
+</table>
+{% endcomp %}
+
+{% endcomp %}
+
+
+{% comp 'dashboard.pane' %}
+<p class="centred">Counts of pupils at different grades</p>
+{{ comp.oi.chart.bar({
+      config: {
+        data: a_level_totals_by_geography.rows | value_mapper({
+          key: "geography_code",
+          mapper: mapper.geo_code_to_name
+        }),
+        stacked: true,
+        category: "geography_code",
+        series: series.a_level,
+        legend: { show: true },
+        axis: {
+          x: { tickSize: 5000 }
+        }
+      }
+    }) | safe }}
+{% endcomp %}
