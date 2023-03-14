@@ -1,0 +1,392 @@
+Further education and skills
+2021/22 Academic Year
+
+Description
+
+This document describes the  contents of the underlying data files accompanying the ‘Further education and skills’ statistics publication. There is a Methodology document that is linked under ‘Useful information’ at the top of the release, that contains further information on the statistics published here.
+
+Coverage
+
+England
+
+Data files
+
+Basic skills - regional breakdown
+
+Filename: basic-skills-regional-2122-q4.csv
+Geographic levels: Parliamentary Constituency; National; Local Authority District; Regional
+Time period: 2021/22
+Content summary: Basic skills total participation and total achievements geographical breakdowns.
+
+Academic year: 2021/22 (Aug-Jul) full academic year
+
+Indicators:  Participation, Achievements
+
+Filters: Subject and level, Age (under 19/19+)
+
+Variable names and descriptions for this file are provided below:
+
+Variable name    |  Variable description
+---------------  |  ------------------
+achievements     |  Achievements
+age_youth_adult  |  Age (under 19/19+)
+participation    |  Participation
+subject_level    |  Subject and level
+
+Footnotes:
+
+1. Total participation is the count of learners that participated at any point during the stated academic period.  Learners undertaking more than one course will appear only once in the grand total.
+2. Basic skills total excludes Essential Digital Skills qualifications, unless otherwise specified.
+3.  Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+4. Geographies are taken from the National Statistics Postcode Lookup based on boundaries as of May 2022.
+5. Age is based on age as at 31 August of the academic year.
+6. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+7. Total achievements are the count of learners that achieved at any point during the stated academic period.  Learners achieving more than one course will appear only once in the grand total.
+
+
+Community learning geography - local authority district
+
+Filename: cl-geography-detailed-202122-q4.csv
+Geographic levels: National; Local Authority District; Regional
+Time period: 2021/22
+Content summary: Community learning geographical breakdowns
+
+Academic year: 2021/22 (Aug-Jul) full academic year
+
+Indicators: Participation and Achievement totals, also breakdowns by community learning type
+
+Filters: Age group (with unknowns), Sex and Ethnicity group
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                       |  Variable description
+--------------------------------------------------  |  ------------------------------------------------------------
+ach_family_english_maths_and_language               |  Achievements Family english maths and language
+ach_neighbourhood_learning_in_deprived_communities  |  Achievements Neighbourhood learning in deprived communities
+ach_personal_and_community_development_learning     |  Achievements Personal and community development learning
+ach_total                                           |  Total Achievements
+ach_wider_family_learning                           |  Achievements Wider family learning
+age_detailed                                        |  Age group (with unknowns)
+ethnicity_group                                     |  Ethnicity group
+family_english_maths_and_language                   |  Participation Family english maths and language
+neighbourhood_learning_in_deprived_communities      |  Participation Neighbourhood learning in deprived communities
+personal_and_community_development_learning         |  Participation Personal and community development learning
+sex                                                 |  Sex
+total                                               |  Total Participation
+wider_family_learning                               |  Participation Wider family learning
+
+Footnotes:
+
+1. Learner characteristics (such as age, sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+2. Total participation is the count of learners that participated at any point during the stated academic period.  Learners undertaking more than one course will appear only once in the grand total.
+3. Geographies are taken from the National Statistics Postcode Lookup based on boundaries as of May 2022.
+4. Age is based on age as at 31 August of the academic year.
+5. Volumes are rounded to the nearest 100 and 'low' indicates a base value of fewer than 50. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+6. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+7. Total achievements are the count of learners that achieved at any point during the stated academic period.  Learners achieving more than one course will appear only once in the grand total.
+8. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+
+
+Community learning providers - detailed series
+
+Filename: fes-cl-provider-part-ach-202122-q4.csv
+Geographic levels: Provider
+Time period: 2016/17 to 2021/22
+Content summary: Community learning detailed provider breakdowns
+
+Academic years: 2016/17 to 2021/22 full academic years
+
+Indicators: Participation, Achievement, also breakdowns by community learning type
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+---------  |  --------------------------------------------------------------
+ach_feml   |  Achievement - Family english, maths and language
+ach_nldc   |  Achievement - Neighbourhood learning in deprived communities
+ach_pcdl   |  Achievement - Personal and community development learning
+ach_total  |  Achievement - All community learning
+ach_wfl    |  Achievement - Wider family learning
+p_feml     |  Participation - Family english, maths and language
+p_nldc     |  Participation - Neighbourhood learning in deprived communities
+p_pcdl     |  Participation - Personal and community development learning
+p_total    |  Participation - All community learning
+p_wfl      |  Participation - Wider family learning
+
+Footnotes:
+
+1. Total participation is the count of learners that participated at any point during the stated academic period.  Learners undertaking more than one course will appear only once in the grand total.
+2. Provider UKPRN is shown after the provider name.
+3. Total achievements are the count of learners that achieved at any point during the stated academic period.  Learners achieving more than one course will appear only once in the grand total.
+4.  Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+
+
+Education and training geography - English devolved areas
+
+Filename: e-and-t-eng-dev-areas-detailed-202122-q4.csv
+Geographic levels: English Devolved Area; National; Local Authority District; Regional
+Time period: 2021/22
+Content summary: Adult (19+) Education and training learner participation and achievements detailed provider file
+
+Academic year: 2021/22 (Aug-Jul) full academic year
+
+Indicators:  Total Participation, Participation Below Level 2 (excluding Basic skills), Participation Basic skills, Participation Full Level 2, Participation Full Level 3, Participation Level 2, Participation Level 3, Participation Level 4+,  Participation No Level Assigned, Total Achievement, Achievement Below Level 2 (excluding Basic skills ), Achievement Basic skills, Achievement Full Level 2, Achievement Full Level 3, Achievement Level 2, Achievement Level 3, Achievement Level 4+, Achievement No Level Assigned
+
+Filters: Sex, Age group (with unknowns), Region, Ethnicity group, Local Authority District, English Devolved Area
+
+Variable names and descriptions for this file are provided below:
+
+Variable name              |  Variable description
+-------------------------  |  -----------------------------------------------------------------
+ach_basic_skills           |  Achievements Basic skills (Aug to Jul)
+ach_bl2_ex_basic_skills    |  Achievements Below level 2 (excluding basic skills) (Aug to Jul)
+ach_full_l2                |  Achievements Full level 2 (Aug to Jul)
+ach_full_l3                |  Achievements Full level 3 (Aug to Jul)
+ach_l2                     |  Achievements Level 2 (Aug to Jul)
+ach_l3                     |  Achievements Level 3 (Aug to Jul)
+ach_l4plus                 |  Achievements Level 4+ (Aug to Jul)
+ach_no_lx                  |  Achievements No level assigned (Aug to Jul)
+ach_total                  |  Total Achievements (Aug to Jul)
+age_summary_with_unknowns  |  Age group (with unknowns)
+ethnicity_group            |  Ethnicity group
+p_basic_skills             |  Participation Basic skills (Aug to Jul)
+p_bl2_ex_basic_skills      |  Participation Below level 2 (excluding basic skills) (Aug to Jul)
+p_full_l2                  |  Participation Full level 2 (Aug to Jul)
+p_full_l3                  |  Participation Full level 3 (Aug to Jul)
+p_l2                       |  Participation Level 2 (Aug to Jul)
+p_l3                       |  Participation Level 3 (Aug to Jul)
+p_l4plus                   |  Participation Level 4+ (Aug to Jul)
+p_no_lx                    |  Participation No level assigned (Aug to Jul)
+p_total                    |  Total Participation (Aug to Jul)
+sex                        |  Sex
+
+Footnotes:
+
+1. Total participation is the count of learners that participated at any point during the stated academic period.  Learners undertaking more than one course will appear only once in the grand total.
+2. Basic skills total excludes Essential Digital Skills qualifications, unless otherwise specified.
+3. Geographies are taken from the National Statistics Postcode Lookup based on boundaries as of May 2022.
+4. Age is based on age as at 31 August of the academic year.
+5. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+6. Total achievements are the count of learners that achieved at any point during the stated academic period.  Learners achieving more than one course will appear only once in the grand total.
+7. Education and Training includes Traineeships.
+8.  Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+9. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+
+
+Education and training geography - local authority district
+
+Filename: e-and-t-geography-detailed-202122-q4.csv
+Geographic levels: English Devolved Area; National; Local Authority District; Regional
+Time period: 2021/22
+Content summary: Adult (19+) Education and Training aim enrolments and and achievements English devolved area breakdowns
+
+Academic year: 2021/22 (Aug-Jul) full academic year
+
+Indicators:  Aim Enrolments, Aim Achievements
+
+Filter: Sex, Detailed level, Sector subject area (tier 1), Ethnicity group, Region, Local Authority District, English Devolved Area
+
+Variable names and descriptions for this file are provided below:
+
+Variable name            |  Variable description
+-----------------------  |  -----------------------------
+e_and_t_aims_ach         |  Aim Achievements (Aug to Jul)
+e_and_t_aims_enrolments  |  Aim Enrolments (Aug to Jul)
+ethnicity_group          |  Ethnicity group
+notional_nvq_level       |  Detailed level
+sex                      |  Sex
+ssa_t1_desc              |  Sector subject area (tier 1)
+
+Footnotes:
+
+1. Aim achievements are a count of aims achieved (including component aims) for each stated academic period. Learners will be counted for each aim they achieve and so can be counted more than once.
+2. Geographies are taken from the National Statistics Postcode Lookup based on boundaries as of May 2022.
+3. Aim enrolments are a count of enrolments at aim level (including component aims) for each stated academic period. Learners will be counted for each aim they are studying and so can be counted more than once.
+4. Age is based on age as at 31 August of the academic year.
+5. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+6. Not Applicable/Not Known' levels includes aims where a qualification either has no level or may be taken at several levels.
+7. Education and Training includes Traineeships.
+8. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+
+
+Education and training providers - detailed enrolments
+
+Filename: fes-et-provider-enrolments-202122-q4.csv
+Geographic levels: Provider
+Time period: 2016/17 to 2021/22
+Content summary: Adult (19+) Education and Training aim enrolments detailed provider breakdowns
+
+Academic years: 2017/18 to 2021/22 full academic years
+
+Indicators:  Aim Enrolments
+
+Filter: Level, Sector subject area (tier 1)
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+-----------  |  ----------------------------
+enrols       |  Enrolments
+level        |  Level
+ssa_t1_desc  |  Sector subject area (tier 1)
+
+Footnotes:
+
+1.  Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Aim enrolments are a count of enrolments at aim level (including component aims) for each stated academic period. Learners will be counted for each aim they are studying and so can be counted more than once.
+3. Provider UKPRN is shown after the provider name.
+4. Education and Training aims include component aims for Traineeships.
+
+
+Further education and skills geography - detailed summary
+
+Filename: fes-geography-detailed-summary-2122-q4.csv
+Geographic levels: Parliamentary Constituency; National; Local Authority; Local Authority District; Regional
+Time period: 2016/17 to 2021/22
+Content summary: Further education and skills detailed geography summary. The file figures for adult (19+) Further education and skills, 19+ Education and training, Community Learning, and all age apprenticeships.
+
+Academic years: 2016/17 to 2021/22 full academic years
+
+Indicators:  Participation, Achievements, Starts (Starts for apprenticeships only), Indicative rate per 100,000 population (Participation, Starts, Achievements)
+
+Filters: Age group, Level or type (this shows apprenticeship level, Education and training level, and community learning type), Local Authority, Local Authority District, Parliamentary Constituency, Regional
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                             |  Variable description
+----------------------------------------  |  ----------------------------------------------------
+achievements                              |  Achievements
+achievements_rate_per_100000_population   |  Indicative achievements rate per 100,000 population
+age_group                                 |  Age group
+apprenticeships_or_further_education      |  Apprenticeships or further education
+level_or_type                             |  Level or type
+participation                             |  Participation
+participation_rate_per_100000_population  |  Indicative participation rate per 100,000 population
+starts                                    |  Starts
+starts_rate_per_100000_population         |  Indicative starts rate per 100,000 population
+
+Footnotes:
+
+1. Rates per 100,000 population have been calculated using the data population estimates - small area based by single year of age - England and Wales produced by the Office of National Statistics.
+2. Total participation is the count of learners that participated at any point during the stated academic period.  Learners undertaking more than one course will appear only once in the grand total.
+3. Basic skills total excludes Essential Digital Skills qualifications, unless otherwise specified.
+4. Geographies are taken from the National Statistics Postcode Lookup based on boundaries as of May 2022.
+5. Age is based on age as at 31 August of the academic year.
+6. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+7. Total achievements are the count of learners that achieved at any point during the stated academic period.  Learners achieving more than one course will appear only once in the grand total.
+8.  Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+
+
+Further education and skills geography - latest region summary
+
+Filename: fes-geography-summary-202122-q4.csv
+Geographic levels: Regional
+Time period: 2018/19 to 2021/22
+Content summary: Adult (19+) Further education and skills learner participation by region summary.
+
+Academic years: 2018/19 to 2021/22 full academic years
+
+Indicators:  Total Participation, Participation Below Level 2 (excluding Basic skills), Participation Basic skills, Participation Full Level 2, Participation Full Level 3, Participation Level 2, Participation Level 3, Participation Level 4+, Participation No Level Assigned
+
+Filters: Region
+
+Variable names and descriptions for this file are provided below:
+
+Variable name          |  Variable description
+---------------------  |  -----------------------------------------------------------------
+p_basic_skills         |  Participation Basic skills (Aug to Jul)
+p_bl2_ex_basic_skills  |  Participation Below level 2 (excluding basic skills) (Aug to Jul)
+p_full_l2              |  Participation Full level 2 (Aug to Jul)
+p_full_l3              |  Participation Full level 3 (Aug to Jul)
+p_l2                   |  Participation Level 2 (Aug to Jul)
+p_l3                   |  Participation Level 3 (Aug to Jul)
+p_l4plus               |  Participation Level 4+ (Aug to Jul)
+p_no_lx                |  Participation No level assigned (Aug to Jul)
+p_total                |  Total Participation (Aug to Jul)
+
+Footnotes:
+
+1. Total participation is the count of learners that participated at any point during the stated academic period.  Learners undertaking more than one course will appear only once in the grand total.
+2. Basic skills total excludes Essential Digital Skills qualifications, unless otherwise specified.
+3. Geographies are taken from the National Statistics Postcode Lookup based on boundaries as of May 2022.
+4. Age is based on age as at 31 August of the academic year.
+5. Volumes are rounded to the nearest 100 and 'low' indicates a base value of fewer than 50. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+6. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+
+
+Further education and skills subject - free courses for jobs detailed
+
+Filename: fes-subject-courses-for-jobs-detailed-2122-q4.csv
+Geographic levels: Parliamentary Constituency; National; Local Authority District; Regional
+Time period: 2021/22
+Content summary: Free courses for jobs detailed
+
+Academic years: 2020/21 to 2021/22 full academic years
+
+Indicators:  Free courses for jobs total starts under original offer,  Free courses for jobs total starts including extended offer
+
+Filter: Sector subject area (tier 1), Sector subject area (tier 2), Start age, Sex, LLDD, Ethnicity, Prior attainment group, Employment status
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                      |  Variable description
+---------------------------------  |  ---------------------------------------------------------------------------------
+employment_status                  |  Employment status
+ethnicity                          |  Ethnicity
+lldd                               |  LLDD
+prior_attainment_group             |  Prior attainment group
+sex                                |  Sex
+ssa_t1                             |  Sector subject area (tier 1)
+ssa_t2                             |  Sector subject area (tier 2)
+start_age                          |  Start age
+total_takeup_extended_adult_offer  |  Free courses for jobs total starts including extended offer (April 21 to July 22)
+total_takeup_original_adult_offer  |  Free courses for jobs total starts under original offer (April 21 to July 22)
+
+Footnotes:
+
+1. The list of courses approved for funding as part of the offer included 447 qualifications on 1 July 2022 (up from 387 on 1 April 2021). The number of qualifications has changed slightly from month-to-month, as some were removed, and others added.  The latest reported figures for 2021/22 are based on the eligible courses that were valid for the offer in each month of the academic year (comparisons with months in previous years are based on the same qualifications).  Figures up to 2020/21 are also presented based on the original 387 qualifications that were valid at the introduction of the offer.
+2.  Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3.  Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+
+
+Education and training providers - detailed participation and achievements
+
+Filename: fes-et-provider-part-ach-202122-q4.csv
+Geographic levels: Provider
+Time period: 2016/17 to 2021/22
+Content summary: Adult (19+) Education and training learner participation and achievements detailed provider file
+
+Academic years: 2016/17 to 2021/22 full academic years
+
+Indicators:  Total Participation, Participation Below Level 2 (excluding Basic skills), Participation Basic skills, Participation Full Level 2, Participation Full Level 3, Participation Level 2, Participation Level 3, Participation Level 4+,  Participation No Level Assigned, Total Achievement, Achievement Below Level 2 (excluding Basic skills ), Achievement Basic skills, Achievement Full Level 2, Achievement Full Level 3, Achievement Level 2, Achievement Level 3, Achievement Level 4+, Achievement No Level Assigned
+
+Filters: Provider
+
+Variable names and descriptions for this file are provided below:
+
+Variable name            |  Variable description
+-----------------------  |  ----------------------------------------------------
+ach_basic_skills         |  Achievements Basic skills
+ach_bl2_ex_basic_skills  |  Achievements Below level 2 (excluding basic skills)
+ach_full_l2              |  Achievements Full level 2
+ach_full_l3              |  Achievements Full level 3
+ach_l2                   |  Achievements Level 2
+ach_l3                   |  Achievements Level 3
+ach_l4plus               |  Achievements Level 4+
+ach_no_lx                |  Achievements No level assigned
+ach_total                |  Total Achievements
+p_basic_skills           |  Participation Basic skills
+p_bl2_ex_basic_skills    |  Participation Below level 2 (excluding basic skills)
+p_full_l2                |  Participation Full level 2
+p_full_l3                |  Participation Full level 3
+p_l2                     |  Participation Level 2
+p_l3                     |  Participation Level 3
+p_l4plus                 |  Participation Level 4+
+p_no_lx                  |  Participation No level assigned
+p_total                  |  Total Participation
+
+Footnotes:
+
+1.  Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Provider UKPRN is shown after the provider name.
+3. Total achievements are the count of learners that achieved at any point during the stated academic period.  Learners achieving more than one course will appear only once in the grand total.

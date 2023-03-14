@@ -1,0 +1,84 @@
+16-18 destination measures
+2020/21 Academic Year
+
+Description
+
+This document describes the data included in the ‘16-18 destination measures: 2020/21’ National Statistics release’s underlying data files. This data is released under the terms of the Open Government License and is intended to meet at least 3 stars for Open Data.
+
+The publication methodology, available on the publication report, should be referenced alongside this data. It provides information on the data sources, their coverage and quality as well as explaining methodology used in producing the data.
+
+Coverage
+
+This release provides information on destinations from:
+
+- state-funded mainstream schools and colleges
+- state-funded special schools (including non-maintained special schools)
+- independent schools
+
+This information is based on data from the National Pupil Database and the Longitudinal Education Outcomes dataset.
+
+File formats and conventions
+
+The Code of Practice for Statistics requires us to take reasonable steps to ensure that our published or disseminated statistics protect confidentiality. Where appropriate we apply disclosure control to protect confidentiality.
+
+The following symbols have been used in this publication:
+
+( 0 ) zero
+
+( c ) small number suppressed to preserve confidentiality or for accountability reasons
+
+( z ) not applicable
+
+(x) not available
+
+( low ) positive % less than 0.5
+
+Small cohorts
+
+At institutional level, where cohorts are less than 6, all data are suppressed. This is to ensure that schools are not held to account for small cohorts of pupils rather than for confidentiality reasons.
+
+This does not apply to levels of data other than institutional level.
+
+Data files
+
+16-18 local authority level destinations
+
+Filename: 1618_dm_ud_202021_la_prov.csv
+Geographic levels: Parliamentary Constituency; Opportunity Area; Local Authority; Local Authority District; Regional
+Time period: 2010/11 to 2020/21
+Content summary: Local authority level destinations data for students leaving 16 to 18 study for different characteristic groups, provider types, and qualification levels.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name       |  Variable description
+------------------  |  -----------------------------------------------------
+all_notsust         |  Not recorded as a sustained destination
+all_unknown         |  Activity not captured
+all_work            |  Sustained employment destination
+appl2               |  Intermediate apprenticeships (level 2)
+appl3               |  Advanced apprenticeships (level 3)
+appl4               |  Higher and degree apprenticeships (level 4 and above)
+appren              |  Sustained apprenticeships
+characteristic      |  Student characteristic
+cohort              |  Number of pupils completing 16-18 study
+cohort_level_group  |  Qualification level
+data_type           |  Data type
+education           |  Sustained education destination
+fe                  |  Further education
+fel1                |  FE entry level and no identified level
+fel2                |  FE Level 2
+fel3                |  FE Level 3
+he                  |  UK higher education institution
+institution_group   |  Institution group
+level_methodology   |  Level based on LEA area or provider location
+other_edu           |  Other education destinations
+overall             |  Sustained education, apprenticeship or employment
+
+Footnotes:
+
+1. The student was not found to have any participation in education, apprenticeship or employment nor recorded as receiving out-of-work benefits at any point in the year. Possible reasons for this could be that the pupil was living, working or studying abroad or was attending a Scottish or Welsh college or school. 
+2. Total state-funded mainstream schools and colleges covers all state-funded mainstream schools, academies, free schools, city technology colleges (CTCs), sixth-forms and other and FE sector colleges. Excludes alternative provision, special schools, other government department funded colleges and independent schools.
+3. All other education destinations include school sixth forms, sixth-form colleges, independent schools, specialist post-16 institutions, special schools and education combination destinations.
+4. State-funded mainstream schools also includes city technology colleges (CTCs). Figures for this institution type are not shown separately in the table. Excludes pupil referral units (PRUs), alternative provision (AP), hospital schools, maintained and non-maintained special schools, independent schools, independent special schools and independent schools approved to take pupils with special educational needs (SEN).
+5. State-funded mainstream colleges excludes other government department funded colleges.
+6. This includes pupils who were captured in the source data and had some participation in the academic year but did not complete the required six months sustained participation.
