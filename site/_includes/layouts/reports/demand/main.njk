@@ -1,0 +1,37 @@
+---
+layout: layouts/default.njk
+---
+
+{%- set count = 10 -%}
+{% for area in ['Total', 'Bradford', 'Calderdale', 'Kirklees', 'Leeds', 'Wakefield'] -%}
+{% set jobs = postings_by_soc4_sub_major.rows | row_sort(area) | head(count) -%}
+<h2>Top {{ count }} job postings by SOC4 sub-major code
+    {% if area == 'Total' -%}
+      (all Local Authorities)
+    {%- else -%}
+    in {{ area }}
+    {% endif -%}
+</h2>
+  <table class="centred">
+    <thead>
+      <tr>
+        <th>SOC4 name</th>
+        <th colspan=2>Job postings</th>
+      </tf>
+      <tr>
+        <th>(sub-major level)</th>
+        <th>count</th>
+        <th>% of total</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for job in jobs %}
+      <tr>
+        <td>{{ job.sub_major_full_title }}</td>
+        <td>{{ job[area] }}</td>
+        <td>{{ job[area] | percentagize(postings_summary[area]) }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+{% endfor %}
