@@ -32,7 +32,7 @@ table {
 }
 
 nav {
-  & ul {
+  & > ul {
     display: flex;
     gap: 1rem;
     padding: 0;
@@ -43,8 +43,22 @@ nav {
       background: #333;
       color: #ffd;
     }
-    & a {
+    & :is(a,button) {
       color: inherit;
+      background: inherit;
+      border: none;
+      text-decoration: none;
+      padding: 0;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+    & [aria-expanded]:after {
+      content: '+';
+      padding-left: 0.5rem;
+    }
+    & [aria-expanded=true]:after {
+      content: '-';
     }
   }
 }

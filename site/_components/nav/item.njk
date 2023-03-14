@@ -1,0 +1,28 @@
+---
+css: |
+  .nav-item {
+  }
+js: |
+  addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.nav-item button').forEach((button) => {
+      button.addEventListener('click', function () {
+        let expanded = this.getAttribute('aria-expanded') === 'true' || false;
+        this.setAttribute('aria-expanded', !expanded);
+        let menu = this.nextElementSibling;
+        menu.hidden = !menu.hidden;
+      })
+    })
+  });
+---
+<li class="nav-item">
+{% if item.children %}
+  <button aria-expanded="false">{{ item.name }}</button>
+  <ul hidden>
+    {% for child in item.children %}
+      {{ comp.nav.item({ item: child, prefix: prefix }) | safe }}
+    {% endfor %}
+  </ul>
+{% else %}
+  <a href="/{{ prefix }}{{ item.link }}">{{ item.name }}</a>
+{% endif %}
+</li>

@@ -4,19 +4,29 @@
       <img src="/assets/images/logo-white.svg" inline/>
       <img src="/assets/images/lsip-web-logo.png" inline/>
     </div>
-    <div>
-      {{ metas.site }}
-    </div>
-    <div>
-      {{ title }}
+    <div class="row">
+      <div>
+        {{ metas.site }}
+      </div>
+      <div>
+        {{ title }}
+      </div>
+      <nav>
+        <ul>
+          <li><a href="/metadata/">Metadata Catalogue</a></li>
+          <li><a href="/wycc/">West Yorkshire Data</a></li>
+          <li><a href="/nycc/">North Yorkshire Data</a></li>
+        </ul>
+      </nav>
     </div>
     <nav>
-      <p>This is temporary navigation until full site structure in place<p>
-      <ul>
-        <li><a href="/metadata/">Metadata Catalogue</a></li>
-        <li><a href="/wycc/supply/ks4/">WYCC Supply KS4</a></li>
-        <li><a href="/nycc/supply/ks4/">NYCC Supply KS4</a></li>
-      </ul>
+      {% if region_key %}
+        <ul>
+        {% for item in nav_menu %}
+          {{ comp.nav.item({ item: item, prefix: region_key }) | safe }}
+        {% endfor %}
+        </ul>
+      {% endif %}
     </nav>
   </div>
 </header>

@@ -5,6 +5,7 @@ header {
   & .row {
     display: flex;
     align-items: center;
+    gap: 1rem;
   }
   & :is(img,svg) {
     height: 5rem;
