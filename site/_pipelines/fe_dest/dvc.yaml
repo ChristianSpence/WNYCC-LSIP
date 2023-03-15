@@ -8,8 +8,8 @@ stages:
     outs:
       - site/wycc/supply/fe_dest/_data/fe_dest_totals_by_geography.csv:
           cache: false
-      # - site/wycc/supply/fe_dest/_data/summary.json:
-      #    cache: false
+      - site/wycc/supply/fe_dest/_data/summary.json:
+          cache: false
       # - site/wycc/supply/a-level/_data/a_level_totals_by_geography.csv:
       #   cache: false
     #   - site/wycc/supply/a-level/_data/percentage_by_geography.csv:
@@ -23,8 +23,8 @@ stages:
     outs:
       - site/nycc/supply/fe_dest/_data/fe_dest_totals_by_geography.csv:
           cache: false
-      # - site/wycc/supply/fe_dest/_data/summary.json:
-      #    cache: false
+      - site/nycc/supply/fe_dest/_data/summary.json:
+          cache: false
       # - site/wycc/supply/a-level/_data/a_level_totals_by_geography.csv:
       #   cache: false
     #   - site/wycc/supply/a-level/_data/percentage_by_geography.csv:
