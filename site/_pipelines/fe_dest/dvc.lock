@@ -1,19 +1,5 @@
 schema: '2.0'
 stages:
-  prep-wy:
-    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare.py wycc
-    deps:
-    - path: data/csv/fe_dest/16-18 local authority level destinations.csv
-      md5: 7fbccd8fc8d1f221f201c7839ff8a6cc
-      size: 1259902
-    - path: site/_pipelines/fe_dest/prepare.py
-      md5: ad561569ecef4e505470ed04ce2279aa
-      size: 3637
-    outs:
-    - path: site/wycc/supply/fe_dest/_data/fe_dest_totals_by_geography.csv
-      md5: 3a48497ef71569da8d8d4772605ea5c8
-      size: 524
-      isexec: true
   prep-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare.py nycc
     deps:
@@ -21,10 +7,14 @@ stages:
       md5: 7fbccd8fc8d1f221f201c7839ff8a6cc
       size: 1259902
     - path: site/_pipelines/fe_dest/prepare.py
-      md5: ad561569ecef4e505470ed04ce2279aa
-      size: 3637
+      md5: 41f5accffcf23e09d83a7a72888983e8
+      size: 3990
     outs:
     - path: site/nycc/supply/fe_dest/_data/fe_dest_totals_by_geography.csv
       md5: 2dfecf29efa3024c3244a0376f428ec8
       size: 325
+      isexec: true
+    - path: site/nycc/supply/fe_dest/_data/summary.json
+      md5: c787dac270f22628c4cafedd7ff1b384
+      size: 117
       isexec: true

@@ -66,6 +66,14 @@ if __name__ == '__main__':
     #round the figures
     qual_level_by_geography=qual_level_by_geography.round(1)
 
+    #summary
+    summary = qual_level_by_geography[['all_other_qualifications',
+                                       'level_2',
+                                       'level_3',
+                                       'number_of_pupils_completing_16_18_study']].sum()
+
+
     #write to file
     qual_level_by_geography.to_csv(os.path.join(OUTDIR, 'fe_dest_totals_by_geography.csv'))
+    summary.to_json(os.path.join(OUTDIR, 'summary.json'), orient='index')
 
