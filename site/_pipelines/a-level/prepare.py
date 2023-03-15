@@ -66,6 +66,14 @@ if __name__ == '__main__':
     
     # Create totals by geography
     totals_by_geography = all_students
+    totals_by_geography['pct_at_grade_a_star'] = 100 * totals_by_geography.number_at_grade_a_star / totals_by_geography.total_number_of_students
+    totals_by_geography['pct_at_grade_a'] = 100 * totals_by_geography.number_at_grade_a / totals_by_geography.total_number_of_students
+    totals_by_geography['pct_at_grade_b'] = 100 * totals_by_geography.number_at_grade_b / totals_by_geography.total_number_of_students
+    totals_by_geography['pct_at_grade_c'] = 100 * totals_by_geography.number_at_grade_c / totals_by_geography.total_number_of_students
+    totals_by_geography['pct_at_grade_d'] = 100 * totals_by_geography.number_at_grade_d / totals_by_geography.total_number_of_students
+    totals_by_geography['pct_at_grade_e'] = 100 * totals_by_geography.number_at_grade_e / totals_by_geography.total_number_of_students
+    totals_by_geography['pct_at_grade_u'] = 100 * totals_by_geography.number_at_grade_u / totals_by_geography.total_number_of_students
+    totals_by_geography = totals_by_geography.round(1)
     totals_by_geography.to_csv(os.path.join(OUTDIR, 'a_level_totals_by_geography.csv'))
 
     stats['pct_at_grade_a_star'] = 100 * stats.number_at_grade_a_star / stats.total_number_of_students
