@@ -1,0 +1,31 @@
+stages:
+  prep-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare.py wycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/fe_dest/prepare.py
+      - data/csv/fe_dest/16-18 local authority level destinations.csv
+    outs:
+      - site/wycc/supply/fe_dest/_data/fe_dest_totals_by_geography.csv:
+          cache: false
+      # - site/wycc/supply/fe_dest/_data/summary.json:
+      #    cache: false
+      # - site/wycc/supply/a-level/_data/a_level_totals_by_geography.csv:
+      #   cache: false
+    #   - site/wycc/supply/a-level/_data/percentage_by_geography.csv:
+    #       cache: false
+  prep-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare.py nycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/fe_dest/prepare.py
+      - data/csv/fe_dest/16-18 local authority level destinations.csv
+    outs:
+      - site/nycc/supply/fe_dest/_data/fe_dest_totals_by_geography.csv:
+          cache: false
+      # - site/wycc/supply/fe_dest/_data/summary.json:
+      #    cache: false
+      # - site/wycc/supply/a-level/_data/a_level_totals_by_geography.csv:
+      #   cache: false
+    #   - site/wycc/supply/a-level/_data/percentage_by_geography.csv:
+    #       cache: false
