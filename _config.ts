@@ -47,4 +47,7 @@ site.filter('value_mapper', (data, config) => {
 site.remoteFile('assets/images/logo-white.svg', 'https://www.wnychamber.co.uk/app/themes/wnychamber/dist/img/logo-white.svg');
 site.remoteFile('assets/images/lsip-web-logo.png', 'https://www.wnychamber.co.uk/app/uploads/2023/01/LSIP-Web-Logo.png');
 
+site.filter('localise', (num: number)=>num.toLocaleString())
+site.filter('percentagize', (num:number, ref, points=1)=>(num*100/ref).toFixed(points)+"%")
+
 export default site;
