@@ -1,0 +1,23 @@
+---
+layout: layouts/default.njk
+---
+{# Summary headlines #}
+{% comp 'dashboard.grid', {max_width: '10rem'} %}
+{{ comp.dashboard.headline({
+      title: 'Total completing 16-18 studies',
+      headline: summary.number_of_pupils_completing_16_18_study | localise
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Total at Level 3',
+      headline: summary.level_3 | localise
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Total at Level 2',
+      headline: summary.level_2 | localise
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Total other qualification',
+      headline: summary.all_other_qualifications | localise
+    }) | safe }}
+{% endcomp %}
+
