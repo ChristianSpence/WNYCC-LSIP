@@ -5,22 +5,10 @@ body {
 }
 
 main {
+  margin-top: 1.25rem;
   & * + * {
     margin-top: 1.25rem;
   }
-}
-
-.smaller {
-  font-size: 0.8em;
-}
-
-.wrapper {
-  max-width: 80rem;
-  margin: auto;
-}
-
-.greedy {
-  flex-grow: 5;
 }
 
 table {
@@ -31,52 +19,18 @@ table {
   } 
 }
 
-nav {
-  & > ul {
-    display: flex;
-    gap: 1rem;
-    padding: 0;
-    list-style: none;
-    & > * { margin-top: 0; }
-  }
-  & ul {
-    background: #333;
-    color: #ffd;
-    padding: 0;
-    & li {
-      padding: 0.5rem 1rem;
-      &:hover {
-        color: #333;
-        background: #ffd;
-      }
-    }
-    & :is(a,button) {
-      color: inherit;
-      background: inherit;
-      border: none;
-      text-decoration: none;
-      padding: 0;
-      display: flex;
-      gap: 1rem;
-    }
-    & [aria-expanded]:after {
-      content: '+';
-      display: block;
-      width: 1rem;
-    }
-    & [aria-expanded=true]:after {
-      content: '-';
-    }
-  }
-  & .nav-item {
-    position: relative;
-    & ul {
-      list-style: none;
-      position: absolute;
-      padding: 0;
-      top: 100%;
-      left: 0;
-    }
-  }
-
+.smaller {
+  font-size: 0.8em;
 }
+
+.wrapper {
+  max-width: 80rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.greedy {
+  flex-grow: 5;
+}
+
+

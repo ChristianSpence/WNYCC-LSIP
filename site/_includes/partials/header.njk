@@ -2,14 +2,9 @@
   <div class="wrapper">
     <div class="row">
       <img src="/assets/images/logo-white.svg" inline/>
-      <img src="/assets/images/lsip-web-logo.png" inline/>
-    </div>
-    <div class="row">
-      <div>
-        {{ metas.site }}
-      </div>
-      <div>
-        {{ title }}
+      <div class="greedy">
+        <p>{{ metas.site }}</p>
+        <p>{{ title }}</p>
       </div>
       <nav>
         <ul>
@@ -19,14 +14,14 @@
         </ul>
       </nav>
     </div>
-    <nav>
-      {% if region_key %}
-        <ul>
-        {% for item in nav_menu %}
-          {{ comp.nav.item({ item: item, prefix: region_key }) | safe }}
-        {% endfor %}
-        </ul>
-      {% endif %}
-    </nav>
   </div>
+  {% if region_key %}
+  <nav>
+    <ul class="wrapper">
+      {% for item in nav_menu %}
+        {{ comp.nav.item({ item: item, prefix: region_key }) | safe }}
+      {% endfor %}
+      </ul>
+  </nav>
+  {% endif %}
 </header>
