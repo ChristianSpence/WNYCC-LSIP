@@ -49,5 +49,6 @@ site.remoteFile('assets/images/lsip-web-logo.png', 'https://www.wnychamber.co.uk
 
 site.filter('localise', (num: number)=>num.toLocaleString())
 site.filter('percentagize', (num:number, ref, points=1)=>(num*100/ref).toFixed(points)+"%")
-
+site.filter('max', (arr:number[])=>(Math.max(...arr)))
+site.filter('min', (arr:number[])=>(Math.min(...arr)))
 export default site;
