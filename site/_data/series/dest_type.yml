@@ -1,0 +1,9 @@
+- value: pct_employment
+  title: Work
+  colour: red
+- value: pct_apprenticeship
+  title: Apprenticeship
+  colour: skyblue
+- value: pct_education
+  title: Education
+  colour: green

@@ -21,3 +21,83 @@ layout: layouts/default.njk
     }) | safe }}
 {% endcomp %}
 
+
+{% comp 'dashboard.pane', {classes: 'centred'} %}
+  <p>Total number of students completing 16-18 studies</p>
+  {{ comp.oi.map.hex_cartogram(
+        {
+          config: {
+            hexjson: hex_layout,
+            hexScale: 0.8,
+            data: fe_dest_totals_by_geography.rows,
+            matchKey: 'geography_code',
+            titleProp: 'n',
+            valueProp: 'number_of_pupils_completing_16_18_study',
+            scale: colour_scale.sample,
+            min: fe_dest_totals_by_geography.columns.number_of_pupils_completing_16_18_study | min
+          }
+        }
+      ) | safe }}
+{% endcomp %}
+
+{% comp 'dashboard.flex' %}
+  {% comp 'dashboard.pane' %}
+  <p class="centred">Percentage of pupils by qualification type</p>
+  {{ comp.oi.chart.bar({
+        config: {
+          data: fe_dest_totals_by_geography.rows | value_mapper({
+            key: "geography_code",
+            mapper: mapper.geo_code_to_name
+          }),
+          stacked: true,
+          category: "geography_code",
+          series: series.qual_type_pct,
+          legend: { show: true },
+          axis: {
+            x: { tickSize: 50 }
+          }
+        }
+      }) | safe }}
+  {% endcomp %}
+
+  {% comp 'dashboard.pane' %}
+  <p class="centred">Number of pupils by qualifcation type</p>
+  {{ comp.oi.chart.bar({
+        config: {
+          data: fe_dest_totals_by_geography.rows | value_mapper({
+            key: "geography_code",
+            mapper: mapper.geo_code_to_name
+          }),
+          stacked: true,
+          category: "geography_code",
+          series: series.qual_type,
+          legend: { show: true },
+          axis: {
+            x: { tickSize: 5000}
+          }
+        }
+      }) | safe }}
+  {% endcomp %}
+{% endcomp %}
+{% comp 'dashboard.pane' %}
+  <p class="centred">Percentage in each destination type</p>
+  {{ comp.oi.chart.bar({
+        config: {
+          data: fe_dest_totals_by_geography.rows | value_mapper({
+            key: "geography_code",
+            mapper: mapper.geo_code_to_name
+          }),
+          stacked: true,
+          category: "geography_code",
+          series: series.dest_type,
+          legend: { show: true },
+          axis: {
+            x: { tickSize: 50}
+          }
+        }
+      }) | safe }}
+  {% endcomp %}
+
+
+
+
