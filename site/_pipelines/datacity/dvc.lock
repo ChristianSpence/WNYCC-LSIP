@@ -10,11 +10,11 @@ stages:
       md5: 8ea73b71910e9d3491880b59310524a7
       size: 2054
     - path: site/_pipelines/datacity/soc4.py
-      md5: 16e2a559e69b69831b62137cafacd820
-      size: 1956
+      md5: 3a9751e87e00614c73ea1250c6dfe57f
+      size: 1954
     - path: site/_pipelines/lookups.py
-      md5: 957ad0f8f95f3560b0df6ee2f4709154
-      size: 783
+      md5: 414041da95ff3817e3db4a83d431fcf9
+      size: 809
     outs:
     - path: site/wycc/demand/_data/postings_by_soc4_sub_major.csv
       md5: 2089990ee6cf363c65d28c6dfda39dd3

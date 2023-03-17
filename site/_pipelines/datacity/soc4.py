@@ -9,9 +9,9 @@ SOC4_CSV = os.path.join(os.path.dirname(__file__),
 
 def read_codes():
     codes = pd.read_csv(SOC4_CSV, dtype={
-        'Sub-Major Group': 'Int64',
-        'Minor Group': 'Int64',
-        'Unit   Group': 'Int64',
+        'sub_major_group': 'Int64',
+        'minor_group': 'Int64',
+        'unit_group': 'Int64',
     }).rename(columns=lambda c: re.sub(r'[-\s]+', '_', c.lower()))
 
     # If first digit of sub_major code doesn't match major code, set to na
