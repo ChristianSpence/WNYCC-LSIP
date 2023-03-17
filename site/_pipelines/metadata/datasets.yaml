@@ -59,12 +59,12 @@
     - geography_name
 'data/csv/lookups/soc2010.csv':
   dimensions:
-    - Major Group
-    - Sub-Major Group
-    - Minor Group
-    - Unit   Group
+    - major_group
+    - sub_major_group
+    - minor_group
+    - unit_group
   facts:
-    - Group Title
+    - group_title
 'data/csv/lookups/ukprn_region_lookup.csv':
   facts:
     - region

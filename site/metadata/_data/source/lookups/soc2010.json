@@ -2,7 +2,7 @@
   "path": "data/csv/lookups/soc2010.csv",
   "dimensions": [
     {
-      "name": "Major Group",
+      "name": "major_group",
       "categories": [
         1,
         2,
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Sub-Major Group",
+      "name": "sub_major_group",
       "categories": [
         11.0,
         12.0,
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "Minor Group",
+      "name": "minor_group",
       "categories": [
         111.0,
         112.0,
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "Unit   Group",
+      "name": "unit_group",
       "categories": [
         1115.0,
         1116.0,
@@ -517,7 +517,7 @@
   ],
   "facts": [
     {
-      "name": "Group Title",
+      "name": "group_title",
       "data_type": "string",
       "value_distribution": [
         {
