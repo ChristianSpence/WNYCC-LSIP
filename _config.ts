@@ -60,5 +60,16 @@ site.filter(
 );
 site.filter("max", (arr: number[]) => (Math.max(...arr)));
 site.filter("min", (arr: number[]) => (Math.min(...arr)));
+site.filter(
+  "row_sort",
+  (data: Record<string, unknown>[], sortColumn: string, ascending = false) => {
+    return data.sort((a, b) => {
+      if (a[sortColumn] < b[sortColumn]) return ascending ? -1 : 1;
+      if (a[sortColumn] > b[sortColumn]) return ascending ? 1 : -1;
+      return 0;
+    });
+  },
+);
+site.filter("head", (arr: unknown[], count = 10) => arr.slice(0, count));
 
 export default site;
