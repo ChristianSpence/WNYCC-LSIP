@@ -59,3 +59,5 @@ if __name__ == '__main__':
     by_sub_major.sort_values('Total', ascending=False).to_csv(
         os.path.join(OUT_DIR, 'postings_by_soc4_sub_major.csv')
       )
+
+    by_sub_major.sum().to_json(os.path.join(OUT_DIR, 'postings_summary.json'), indent=2)
