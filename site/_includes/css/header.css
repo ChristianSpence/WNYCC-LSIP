@@ -1,17 +1,69 @@
 header {
   color: var(--colour-primary-contrast);
   background-color: var(--colour-primary);
-  padding: 1rem;
   & .row {
+    padding: 1rem;
     display: flex;
     align-items: center;
     gap: 1rem;
   }
-  & :is(img,svg) {
+  & :is(img, svg) {
     height: 5rem;
   }
   /* Override svg fill */
   & .cls-1 {
     fill: var(--colour-primary-contrast);
+  }
+  & > nav {
+    color: #ffd;
+    background: #333;
+    /* TODO Fix this */
+    & * {
+      color: #ffd;
+      background: #333;
+    }
+    & > ul {
+      display: flex;
+    }
+  }
+  & nav {
+    & ul {
+      padding: 0;
+      margin: 0;
+      list-style: none;
+      & [aria-expanded]:after {
+        content: '+';
+        display: block;
+        width: 1rem;
+      }
+      & [aria-expanded='true']:after {
+        content: '-';
+      }
+    }
+    & li {
+      position: relative;
+      padding: 0.5rem 1rem;
+      &:hover {
+        color: #333;
+        background: #ffd;
+      }
+      & ul {
+        list-style: none;
+        position: absolute;
+        padding: 0;
+        width: max-content;
+        top: 100%;
+        left: 0;
+      }
+    }
+    & :is(a, button) {
+      color: inherit;
+      background: inherit;
+      border: none;
+      text-decoration: none;
+      padding: 0;
+      display: flex;
+      gap: 1rem;
+    }
   }
 }

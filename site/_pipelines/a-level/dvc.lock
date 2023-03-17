@@ -5,23 +5,20 @@ stages:
     deps:
     - path: data/csv/a-level/Entries and Results - A level and AS by region and subject.csv
       md5: 45452bb633fd6c84664f07b0f12984ab
-      size: 3125909
+      size: 3110648
     - path: site/_pipelines/a-level/prepare.py
-      md5: 90ab265797a8b76c4c0c3ff956226225
-      size: 4295
+      md5: 40799b850b3817f716e068079117e3ae
+      size: 4261
     outs:
     - path: site/wycc/supply/a-level/_data/a_level_by_subject.csv
       md5: e105bcae83c796962c02ac4c027145bc
       size: 3062
-      isexec: true
     - path: site/wycc/supply/a-level/_data/a_level_totals_by_geography.csv
-      md5: 36a8d8083914757b854b4272c9e1d570
-      size: 1212
-      isexec: true
+      md5: 3f6d64ba0ef1f3c3f54e094f56471091
+      size: 724
     - path: site/wycc/supply/a-level/_data/summary.json
       md5: 1225e79020485eda8fbf687f1068fcd4
       size: 226
-      isexec: true
   prep-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/a-level/prepare.py nycc
     deps:

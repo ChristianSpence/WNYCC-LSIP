@@ -1,0 +1,40 @@
+---
+layout: layouts/default.njk
+---
+{% macro jobs_table(jobs, area, title, total) %}
+<h2>
+</h2>
+  <table class="centred">
+    <thead>
+      <tr>
+        <th>SOC4 name</th>
+        <th colspan=2>Job postings</th>
+      </tf>
+      <tr>
+        <th>(sub-major level)</th>
+        <th>count</th>
+        <th>% of total</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for job in jobs %}
+      <tr>
+        <td>{{ job.sub_major_full_title }}</td>
+        <td>{{ job[area] }}</td>
+        <td>{{ job[area] | percentagize(total) }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+{% endmacro %}
+
+
+{%- set count = 15 -%}
+{%- set jobs = postings_by_soc4_sub_major.rows | row_sort('Total') | head(count) -%}
+{{ jobs_table(jobs, "Total", "Top {{ jobs | length }} job postings by SOC4 sub-major code (all Local Authorities)", postings_summary['Total']) }}
+  
+{%- for area in areas -%}
+  {%- set count = 5 -%}
+  {%- set jobs = postings_by_soc4_sub_major.rows | row_sort(area) | head(count) -%}
+  {{ jobs_table(jobs, area, "Top {{ jobs | length }} job postings by SOC4 sub-major code in {{ area }}", postings_summary[area]) }}
+{%- endfor -%}

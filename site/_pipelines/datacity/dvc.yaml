@@ -1,5 +1,5 @@
 stages:
-  metadata:
+  prepare-wy:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/datacity/prepare.py wycc
     wdir: ../../..
     deps:
@@ -11,4 +11,22 @@ stages:
       - site/wycc/demand/_data/postings_by_soc4_unit.csv:
           cache: false
       - site/wycc/demand/_data/postings_by_soc4_sub_major.csv:
+          cache: false
+      - site/wycc/demand/_data/postings_summary.json:
+          cache: false
+
+  prepare-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/datacity/prepare.py nycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/datacity/prepare.py
+      - site/_pipelines/datacity/soc4.py
+      - site/_pipelines/lookups.py
+      - data/csv/datacity/JobPostingsBySOC4Code.csv
+    outs:
+      - site/nycc/demand/_data/postings_by_soc4_unit.csv:
+          cache: false
+      - site/nycc/demand/_data/postings_by_soc4_sub_major.csv:
+          cache: false
+      - site/nycc/demand/_data/postings_summary.json:
           cache: false

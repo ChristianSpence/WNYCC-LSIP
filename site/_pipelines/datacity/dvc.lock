@@ -1,24 +1,52 @@
 schema: '2.0'
 stages:
-  metadata:
+  prepare-wy:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/datacity/prepare.py wycc
     deps:
     - path: data/csv/datacity/JobPostingsBySOC4Code.csv
       md5: aceb942bb32b6c0ae772c86270f85acf
       size: 23820
     - path: site/_pipelines/datacity/prepare.py
-      md5: 8ea73b71910e9d3491880b59310524a7
-      size: 2054
+      md5: 690dc81c77b2c230e521ae97c0d76ada
+      size: 2370
     - path: site/_pipelines/datacity/soc4.py
-      md5: 16e2a559e69b69831b62137cafacd820
-      size: 1956
+      md5: 3a9751e87e00614c73ea1250c6dfe57f
+      size: 1954
     - path: site/_pipelines/lookups.py
-      md5: 957ad0f8f95f3560b0df6ee2f4709154
-      size: 783
+      md5: 414041da95ff3817e3db4a83d431fcf9
+      size: 809
     outs:
     - path: site/wycc/demand/_data/postings_by_soc4_sub_major.csv
-      md5: 2089990ee6cf363c65d28c6dfda39dd3
-      size: 2770
+      md5: 79948cba28c7a408231e755808774bee
+      size: 2960
     - path: site/wycc/demand/_data/postings_by_soc4_unit.csv
-      md5: 8bffddfb469b47f94267c1c025209f95
-      size: 10858
+      md5: 9f400e619fac2ce17d984bc527db4bf6
+      size: 12040
+    - path: site/wycc/demand/_data/postings_summary.json
+      md5: b043927495f251cb4db827d12507a1a2
+      size: 134
+  prepare-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/datacity/prepare.py nycc
+    deps:
+    - path: data/csv/datacity/JobPostingsBySOC4Code.csv
+      md5: aceb942bb32b6c0ae772c86270f85acf
+      size: 23820
+    - path: site/_pipelines/datacity/prepare.py
+      md5: 690dc81c77b2c230e521ae97c0d76ada
+      size: 2370
+    - path: site/_pipelines/datacity/soc4.py
+      md5: 3a9751e87e00614c73ea1250c6dfe57f
+      size: 1954
+    - path: site/_pipelines/lookups.py
+      md5: 414041da95ff3817e3db4a83d431fcf9
+      size: 809
+    outs:
+    - path: site/nycc/demand/_data/postings_by_soc4_sub_major.csv
+      md5: 3d1a05d02eee211c4f0f1b93b26ea112
+      size: 3378
+    - path: site/nycc/demand/_data/postings_by_soc4_unit.csv
+      md5: 4a6c4670544792a524be7e8eee78c630
+      size: 17371
+    - path: site/nycc/demand/_data/postings_summary.json
+      md5: e913a7b207853e507d80127d436d7709
+      size: 193
