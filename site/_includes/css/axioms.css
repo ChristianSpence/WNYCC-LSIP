@@ -4,6 +4,9 @@ body {
   padding: 0;
   padding-bottom: 10rem;
   position: relative;
+  & > .wrapper {
+    padding: 1rem;
+  }
 }
 
 main {
