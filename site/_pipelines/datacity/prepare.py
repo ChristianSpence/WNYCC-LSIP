@@ -44,14 +44,18 @@ if __name__ == '__main__':
     postings_by_soc_code['minor_full_title'] = postings_by_soc_code.sub_major_full_title.combine(postings_by_soc_code.minor_title, func=name_combiner)
     postings_by_soc_code['unit_full_title'] = postings_by_soc_code.minor_full_title.combine(postings_by_soc_code.unit_title, func=name_combiner)
 
-    postings_by_soc_code.pivot_table(
+    by_unit = postings_by_soc_code.pivot_table(
         columns='geography_name', index='unit_title', values='count', aggfunc=sum
-      ).fillna(0).groupby(level=0).sum().to_csv(
+      ).fillna(0).groupby(level=0).sum()
+    by_unit['Total'] = by_unit.sum(axis=1)
+    by_unit.to_csv(
         os.path.join(OUT_DIR, 'postings_by_soc4_unit.csv')
       )
 
-    postings_by_soc_code.pivot_table(
+    by_sub_major = postings_by_soc_code.pivot_table(
         columns='geography_name', index='sub_major_full_title', values='count', aggfunc=sum
-      ).fillna(0).groupby(level=0).sum().rename(index=str.title).to_csv(
+      ).fillna(0).groupby(level=0).sum().rename(index=str.title)
+    by_sub_major['Total'] = by_sub_major.sum(axis=1)
+    by_sub_major.to_csv(
         os.path.join(OUT_DIR, 'postings_by_soc4_sub_major.csv')
       )
