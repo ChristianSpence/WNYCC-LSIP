@@ -13,7 +13,7 @@ import autoDependency from "oi-lume-utils/processors/auto-dependency.ts";
 const search = { returnPageData: true };
 const site = lume({
   src: "site",
-  location: new URL('https://open-innovations.github.io/WNYCC-LSIP'),
+  location: new URL("https://open-innovations.github.io/WNYCC-LSIP"),
 }, { search });
 
 site.use(date());
@@ -25,7 +25,7 @@ site.use(oiCharts({
   componentNamespace: "oi",
 }));
 
-site.process(['.html'], autoDependency);
+site.process([".html"], autoDependency);
 site.use(base_path());
 site.use(minify_html());
 
@@ -39,16 +39,26 @@ site.remoteFile(
 
 site.remoteFile("assets/oi/js/chart.js", "patch/chart.js");
 
-site.filter('value_mapper', (data, config) => {
+site.filter("value_mapper", (data, config) => {
   const { key, mapper } = config;
-  return data.map(v => ({ ...v, [key]: mapper[v[key]] || v[key] }));
-})
+  return data.map((v) => ({ ...v, [key]: mapper[v[key]] || v[key] }));
+});
 
-site.remoteFile('assets/images/logo-white.svg', 'https://www.wnychamber.co.uk/app/themes/wnychamber/dist/img/logo-white.svg');
-site.remoteFile('assets/images/lsip-web-logo.png', 'https://www.wnychamber.co.uk/app/uploads/2023/01/LSIP-Web-Logo.png');
+site.remoteFile(
+  "assets/images/logo-white.svg",
+  "https://www.wnychamber.co.uk/app/themes/wnychamber/dist/img/logo-white.svg",
+);
+site.remoteFile(
+  "assets/images/lsip-web-logo.png",
+  "https://www.wnychamber.co.uk/app/uploads/2023/01/LSIP-Web-Logo.png",
+);
 
-site.filter('localise', (num: number)=>num.toLocaleString())
-site.filter('percentagize', (num:number, ref, points=1)=>(num*100/ref).toFixed(points)+"%")
-site.filter('max', (arr:number[])=>(Math.max(...arr)))
-site.filter('min', (arr:number[])=>(Math.min(...arr)))
+site.filter("localise", (num: number) => num.toLocaleString());
+site.filter(
+  "percentagize",
+  (num: number, ref, points = 1) => (num * 100 / ref).toFixed(points) + "%",
+);
+site.filter("max", (arr: number[]) => (Math.max(...arr)));
+site.filter("min", (arr: number[]) => (Math.min(...arr)));
+
 export default site;
