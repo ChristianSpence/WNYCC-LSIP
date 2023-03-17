@@ -1,0 +1,38 @@
+schema: '2.0'
+stages:
+  prep-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe/prepare.py wycc
+    deps:
+    - path: data/csv/fe/Basic skills - regional breakdown.csv
+      md5: a30bc6601c0bc9961cf0e5eef8d4d4ce
+      size: 42943
+    - path: site/_pipelines/fe/prepare.py
+      md5: 05e05a42ff25e48abfe2764bd8964967
+      size: 2818
+    outs:
+    - path: site/wycc/supply/fe/_data/basic_skills.csv
+      md5: 1063298faa33b4c4a24b40eaad5defbf
+      size: 1248
+      isexec: true
+    - path: site/wycc/supply/fe/_data/stats.csv
+      md5: 48fd1a22ecedbd932789533558d33b57
+      size: 500
+      isexec: true
+  prep-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe/prepare.py nycc
+    deps:
+    - path: data/csv/fe/Basic skills - regional breakdown.csv
+      md5: a30bc6601c0bc9961cf0e5eef8d4d4ce
+      size: 42943
+    - path: site/_pipelines/fe/prepare.py
+      md5: 05e05a42ff25e48abfe2764bd8964967
+      size: 2818
+    outs:
+    - path: site/nycc/supply/fe/_data/basic_skills.csv
+      md5: 2048e929e9569329fb905274ac57906f
+      size: 1869
+      isexec: true
+    - path: site/nycc/supply/fe/_data/stats.csv
+      md5: 77dc14658e11313a45eff37d26ab88bb
+      size: 599
+      isexec: true

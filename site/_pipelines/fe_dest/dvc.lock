@@ -23,14 +23,16 @@ stages:
     deps:
     - path: data/csv/fe_dest/16-18 local authority level destinations.csv
       md5: 7fbccd8fc8d1f221f201c7839ff8a6cc
-      size: 1253041
+      size: 1259902
     - path: site/_pipelines/fe_dest/prepare.py
-      md5: 41f5accffcf23e09d83a7a72888983e8
-      size: 3911
+      md5: 14d639e6f4ae3d982618dbffbe11b7d7
+      size: 4052
     outs:
     - path: site/wycc/supply/fe_dest/_data/fe_dest_totals_by_geography.csv
       md5: 3a48497ef71569da8d8d4772605ea5c8
       size: 524
+      isexec: true
     - path: site/wycc/supply/fe_dest/_data/summary.json
       md5: 98581c9eeb2b6cae1a8e9c1ef31b5dfb
       size: 120
+      isexec: true

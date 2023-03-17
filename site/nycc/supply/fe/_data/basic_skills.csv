@@ -1,0 +1,49 @@
+geography_code,subject_level,achievements,participation
+E07000163,Basic Skills (Excluding digital skills),130,290
+E07000164,Basic Skills (Excluding digital skills),170,450
+E07000165,Basic Skills (Excluding digital skills),250,720
+E07000166,Basic Skills (Excluding digital skills),1550,2510
+E07000167,Basic Skills (Excluding digital skills),90,210
+E07000168,Basic Skills (Excluding digital skills),240,700
+E07000169,Basic Skills (Excluding digital skills),170,470
+E06000014,Basic Skills (Excluding digital skills),370,890
+E07000163,Basic Skills (Including digital skills),140,300
+E07000164,Basic Skills (Including digital skills),170,460
+E07000165,Basic Skills (Including digital skills),260,720
+E07000166,Basic Skills (Including digital skills),1550,2510
+E07000167,Basic Skills (Including digital skills),90,210
+E07000168,Basic Skills (Including digital skills),240,700
+E07000169,Basic Skills (Including digital skills),180,470
+E06000014,Basic Skills (Including digital skills),370,890
+E07000163,ESOL,20,20
+E07000164,ESOL,20,20
+E07000165,ESOL,70,90
+E07000166,ESOL,10,10
+E07000167,ESOL,10,10
+E07000168,ESOL,30,30
+E07000169,ESOL,30,40
+E06000014,ESOL,60,80
+E07000163,Maths,70,220
+E07000164,Maths,90,350
+E07000165,Maths,110,510
+E07000166,Maths,860,1740
+E07000167,Maths,50,160
+E07000168,Maths,120,550
+E07000169,Maths,100,350
+E06000014,Maths,210,650
+E07000163,English,70,160
+E07000164,English,110,320
+E07000165,English,130,460
+E07000166,English,1180,2020
+E07000167,English,50,130
+E07000168,English,150,470
+E07000169,English,80,290
+E06000014,English,190,540
+E07000163,Essential Digital Skills,10,10
+E07000164,Essential Digital Skills,0,0
+E07000165,Essential Digital Skills,0,10
+E07000166,Essential Digital Skills,0,0
+E07000167,Essential Digital Skills,0,0
+E07000168,Essential Digital Skills,0,0
+E07000169,Essential Digital Skills,0,10
+E06000014,Essential Digital Skills,10,10
