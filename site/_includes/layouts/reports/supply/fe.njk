@@ -76,7 +76,7 @@ layout: layouts/default.njk
 {% endcomp %}
 
 {% comp 'dashboard.pane' %}
-    <p class="centred">Students Entering FE by subject area</p>
+    <p class="centred">Students Entering/Completing FE by subject area</p>
     {{ comp.oi.chart.bar({
         config: {
             data: e_and_t_by_ssa_t1_desc.rows,
