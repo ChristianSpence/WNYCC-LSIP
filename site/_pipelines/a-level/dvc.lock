@@ -1,43 +1,43 @@
-schema: '2.0'
+schema: "2.0"
 stages:
   prep-wy:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/a-level/prepare.py wycc
     deps:
-    - path: data/csv/a-level/Entries and Results - A level and AS by region and subject.csv
-      md5: 45452bb633fd6c84664f07b0f12984ab
-      size: 3110648
-    - path: site/_pipelines/a-level/prepare.py
-      md5: 40799b850b3817f716e068079117e3ae
-      size: 4261
+      - path: data/csv/a-level/Entries and Results - A level and AS by region and subject.csv
+        md5: 45452bb633fd6c84664f07b0f12984ab
+        size: 3110648
+      - path: site/_pipelines/a-level/prepare.py
+        md5: 40799b850b3817f716e068079117e3ae
+        size: 4261
     outs:
-    - path: site/wycc/supply/a-level/_data/a_level_by_subject.csv
-      md5: e105bcae83c796962c02ac4c027145bc
-      size: 3062
-    - path: site/wycc/supply/a-level/_data/a_level_totals_by_geography.csv
-      md5: 3f6d64ba0ef1f3c3f54e094f56471091
-      size: 724
-    - path: site/wycc/supply/a-level/_data/summary.json
-      md5: 1225e79020485eda8fbf687f1068fcd4
-      size: 226
+      - path: site/wycc/supply/a-level/_data/a_level_by_subject.csv
+        md5: e105bcae83c796962c02ac4c027145bc
+        size: 3062
+      - path: site/wycc/supply/a-level/_data/a_level_totals_by_geography.csv
+        md5: 3f6d64ba0ef1f3c3f54e094f56471091
+        size: 724
+      - path: site/wycc/supply/a-level/_data/summary.json
+        md5: 1225e79020485eda8fbf687f1068fcd4
+        size: 226
   prep-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/a-level/prepare.py nycc
     deps:
-    - path: data/csv/a-level/Entries and Results - A level and AS by region and subject.csv
-      md5: 45452bb633fd6c84664f07b0f12984ab
-      size: 3125909
-    - path: site/_pipelines/a-level/prepare.py
-      md5: 40799b850b3817f716e068079117e3ae
-      size: 4351
+      - path: data/csv/a-level/Entries and Results - A level and AS by region and subject.csv
+        md5: 45452bb633fd6c84664f07b0f12984ab
+        size: 3125909
+      - path: site/_pipelines/a-level/prepare.py
+        md5: 40799b850b3817f716e068079117e3ae
+        size: 4351
     outs:
-    - path: site/nycc/supply/a-level/_data/a_level_by_subject.csv
-      md5: d1d7d47d4608f5124f9e5beeb77cfda9
-      size: 2968
-      isexec: true
-    - path: site/nycc/supply/a-level/_data/a_level_totals_by_geography.csv
-      md5: f9dd41deed5395c93d6b35883ce86b06
-      size: 457
-      isexec: true
-    - path: site/nycc/supply/a-level/_data/summary.json
-      md5: 07a548e7fd10332b4bb948b5c935a6f1
-      size: 222
-      isexec: true
+      - path: site/nycc/supply/a-level/_data/a_level_by_subject.csv
+        md5: d1d7d47d4608f5124f9e5beeb77cfda9
+        size: 2968
+        isexec: true
+      - path: site/nycc/supply/a-level/_data/a_level_totals_by_geography.csv
+        md5: f9dd41deed5395c93d6b35883ce86b06
+        size: 457
+        isexec: true
+      - path: site/nycc/supply/a-level/_data/summary.json
+        md5: 07a548e7fd10332b4bb948b5c935a6f1
+        size: 222
+        isexec: true

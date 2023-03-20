@@ -1,0 +1,91 @@
+---
+layout: layouts/default.njk
+---
+{# Summary headlines #}
+{% comp 'dashboard.grid', {max_width: '10rem'} %}
+{{ comp.dashboard.headline({
+      title: 'Total Achievements in FE',
+      headline: summary.achievements | localise
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Total Participation in FE',
+      headline: summary.participation | localise
+    }) | safe }}
+{% endcomp %}
+
+
+{% comp 'dashboard.pane' %}
+<table class="centred-block">
+<thead>
+    <tr>
+    <th>Local Authority</th>
+    <th>Basic Skills Achievement to Participation Ratio</th>
+    </tr>
+</thead>
+<tbody>
+    {%- for row in stats.rows | value_mapper({
+            key: 'geography_code',
+            mapper: mapper.geo_code_to_name
+        }) %}
+        <tr>
+            <td>{{ row.geography_code }}</td>
+            <td class="centred">{{ row.ap_ratio }}</td>
+        </tr>
+    {% endfor %}
+</tbody>
+</table>
+{% endcomp %}
+
+
+{% comp 'dashboard.grid' %}
+    {% comp 'dashboard.pane' %}
+    <p class="centred">Basic Skills Participation by Subject Area</p>
+    {{ comp.oi.chart.bar({
+        config: {
+            data: stats.rows | value_mapper({
+            key: "geography_code",
+            mapper: mapper.geo_code_to_name
+            }),
+            category: "geography_code",
+            series: series.fe_subject_area_participation,
+            legend: { show: true },
+            axis: {
+            x: { tickSize: 1000 }
+            }
+        }
+        }) | safe }}
+    {% endcomp %}
+
+    {% comp 'dashboard.pane' %}
+        <p class="centred">Basic Skills Achievement by Subject Area</p>
+        {{ comp.oi.chart.bar({
+            config: {
+                data: stats.rows | value_mapper({
+                key: "geography_code",
+                mapper: mapper.geo_code_to_name
+                }),
+                category: "geography_code",
+                series: series.fe_subject_area_achievements,
+                legend: { show: true },
+                axis: {
+                x: { tickSize: 1000 }
+                }
+            }
+            }) | safe }}
+        {% endcomp %}
+{% endcomp %}
+
+{% comp 'dashboard.pane' %}
+    <p class="centred">Students Entering FE by subject area</p>
+    {{ comp.oi.chart.bar({
+        config: {
+            data: e_and_t_by_ssa_t1_desc.rows,
+            category: "ssa_t1_desc",
+            series: series.fe_training_subject_area,
+            legend: { show: true },
+            axis: {
+            x: { tickSize: e_and_t_by_ssa_t1_desc.columns.e_and_t_aims_enrolments | max }
+            }
+        }
+        }) | safe }}
+    {% endcomp %}

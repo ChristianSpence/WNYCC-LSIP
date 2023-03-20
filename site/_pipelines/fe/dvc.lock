@@ -6,17 +6,28 @@ stages:
     - path: data/csv/fe/Basic skills - regional breakdown.csv
       md5: a30bc6601c0bc9961cf0e5eef8d4d4ce
       size: 42943
+    - path: data/csv/fe/Further education and skills geography - detailed summary.csv
+      md5: 0b238a931a20d49767300b51e9081593
+      size: 793477
     - path: site/_pipelines/fe/prepare.py
-      md5: 05e05a42ff25e48abfe2764bd8964967
-      size: 2818
+      md5: 78f52f0022a3b373f2b080e019f46c8b
+      size: 4088
     outs:
     - path: site/wycc/supply/fe/_data/basic_skills.csv
       md5: 1063298faa33b4c4a24b40eaad5defbf
       size: 1248
       isexec: true
+    - path: site/wycc/supply/fe/_data/fe_type.csv
+      md5: 79f48e8dcbfd36647558d1eb305a5af0
+      size: 1311
+      isexec: true
     - path: site/wycc/supply/fe/_data/stats.csv
       md5: 48fd1a22ecedbd932789533558d33b57
       size: 500
+      isexec: true
+    - path: site/wycc/supply/fe/_data/summary.json
+      md5: 1515b00573df6ad16e4f5652b9ee197a
+      size: 246
       isexec: true
   prep-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe/prepare.py nycc
@@ -24,15 +35,33 @@ stages:
     - path: data/csv/fe/Basic skills - regional breakdown.csv
       md5: a30bc6601c0bc9961cf0e5eef8d4d4ce
       size: 42943
+    - path: data/csv/fe/Education and training geography - local authority district.csv
+      md5: 96e9516fdb6b70434616cf8e06ac44d2
+      size: 3132820
+    - path: data/csv/fe/Further education and skills geography - detailed summary.csv
+      md5: 0b238a931a20d49767300b51e9081593
+      size: 793477
     - path: site/_pipelines/fe/prepare.py
-      md5: 05e05a42ff25e48abfe2764bd8964967
-      size: 2818
+      md5: dbfd81e0ba857f853c25a6f1d020d5fc
+      size: 4319
     outs:
     - path: site/nycc/supply/fe/_data/basic_skills.csv
       md5: 2048e929e9569329fb905274ac57906f
       size: 1869
       isexec: true
+    - path: site/nycc/supply/fe/_data/e_and_t_by_ssa_t1_desc.csv
+      md5: 41ee215307f68f9aaaf34c1821a610d6
+      size: 722
+      isexec: true
+    - path: site/nycc/supply/fe/_data/fe_type.csv
+      md5: 9811626f6b8f3c87a9cc4444e31992d0
+      size: 1923
+      isexec: true
     - path: site/nycc/supply/fe/_data/stats.csv
       md5: 77dc14658e11313a45eff37d26ab88bb
       size: 599
+      isexec: true
+    - path: site/nycc/supply/fe/_data/summary.json
+      md5: 3a81b4e0a32dbf15b529174176dd28fb
+      size: 239
       isexec: true

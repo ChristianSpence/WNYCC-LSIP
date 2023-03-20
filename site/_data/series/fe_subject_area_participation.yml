@@ -1,0 +1,12 @@
+- value: eng_participation
+  title: English
+  colour: red
+- value: maths_participation
+  title: Maths
+  colour: skyblue
+- value: esol_participation
+  title: English as a second or other language
+  colour: green
+- value: eds_participation
+  title: Essential Digital Skills
+  colour: orange

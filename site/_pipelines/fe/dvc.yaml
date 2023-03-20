@@ -5,25 +5,35 @@ stages:
     deps:
       - site/_pipelines/fe/prepare.py
       - data/csv/fe/Basic skills - regional breakdown.csv
-      # - data/csv/fe/.csv
+      - data/csv/fe/Further education and skills geography - detailed summary.csv
+      - data/csv/fe/Education and training geography - local authority district.csv
     outs:
       - site/wycc/supply/fe/_data/stats.csv:
           cache: false
       - site/wycc/supply/fe/_data/basic_skills.csv:
           cache: false
-      # - site/wycc/supply/fe/_data/summary.json:
-      #     cache: false
+      - site/wycc/supply/fe/_data/fe_type.csv:
+          cache: false
+      - site/wycc/supply/fe/_data/summary.json:
+          cache: false
+      - site/wycc/supply/fe/_data/e_and_t_by_ssa_t1_desc.csv:
+          cache: false
   prep-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe/prepare.py nycc
     wdir: ../../..
     deps:
       - site/_pipelines/fe/prepare.py
       - data/csv/fe/Basic skills - regional breakdown.csv
-      # - data/csv/fe/.csv
+      - data/csv/fe/Further education and skills geography - detailed summary.csv
+      - data/csv/fe/Education and training geography - local authority district.csv
     outs:
       - site/nycc/supply/fe/_data/stats.csv:
           cache: false
       - site/nycc/supply/fe/_data/basic_skills.csv:
           cache: false
-      # - site/nycc/supply/fe/_data/summary.json:
-      #     cache: false
+      - site/nycc/supply/fe/_data/fe_type.csv:
+          cache: false
+      - site/nycc/supply/fe/_data/summary.json:
+          cache: false
+      - site/nycc/supply/fe/_data/e_and_t_by_ssa_t1_desc.csv:
+          cache: false

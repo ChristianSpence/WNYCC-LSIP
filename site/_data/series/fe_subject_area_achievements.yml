@@ -1,0 +1,12 @@
+- value: eng_achievements
+  title: English
+  colour: red
+- value: maths_achievements
+  title: Maths
+  colour: skyblue
+- value: esol_achievements
+  title: English as a second or other language
+  colour: green
+- value: eds_achievements
+  title: Essential Digital Skills
+  colour: orange

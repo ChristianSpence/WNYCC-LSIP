@@ -1,0 +1,6 @@
+- value: e_and_t_aims_enrolments
+  title: Enrolments
+  colour: red
+- value: e_and_t_aims_ach
+  title: Achievements
+  colour: skyblue
