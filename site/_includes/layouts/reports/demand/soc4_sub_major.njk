@@ -2,8 +2,7 @@
 layout: layouts/default.njk
 ---
 {% macro jobs_table(jobs, area, title, total) %}
-<h2>
-</h2>
+  <h2>{{ title }}</h2>
   <table class="centred">
     <thead>
       <tr>
@@ -31,10 +30,10 @@ layout: layouts/default.njk
 
 {%- set count = 15 -%}
 {%- set jobs = postings_by_soc4_sub_major.rows | row_sort('Total') | head(count) -%}
-{{ jobs_table(jobs, "Total", "Top {{ jobs | length }} job postings by SOC4 sub-major code (all Local Authorities)", postings_summary['Total']) }}
+{{ jobs_table(jobs, "Total", "Top " + (jobs | length) + " job postings by SOC4 sub-major code (all Local Authorities)", postings_summary['Total']) }}
   
 {%- for area in areas -%}
   {%- set count = 5 -%}
   {%- set jobs = postings_by_soc4_sub_major.rows | row_sort(area) | head(count) -%}
-  {{ jobs_table(jobs, area, "Top {{ jobs | length }} job postings by SOC4 sub-major code in {{ area }}", postings_summary[area]) }}
+  {{ jobs_table(jobs, area, "Top " + (jobs | length) + " job postings by SOC4 sub-major code in " + area, postings_summary[area]) }}
 {%- endfor -%}
