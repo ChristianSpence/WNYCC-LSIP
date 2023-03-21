@@ -9,6 +9,7 @@ import postcss from "lume/plugins/postcss.ts";
 import oiCharts from "oi-lume-charts/mod.ts";
 import csvLoader from "oi-lume-utils/loaders/csv-loader.ts";
 import autoDependency from "oi-lume-utils/processors/auto-dependency.ts";
+import { walkSync } from 'std/fs/mod.ts';
 
 const search = { returnPageData: true };
 const site = lume({
@@ -71,5 +72,18 @@ site.filter(
   },
 );
 site.filter("head", (arr: unknown[], count = 10) => arr.slice(0, count));
+
+
+const dataDir = 'data/csv';
+const dataPath = '/data/csv';
+const dataFiles = Array.from(walkSync(dataDir, {
+  includeDirs: false,
+  exts: ["csv"],
+})).map(({ path }) => path);
+dataFiles.forEach(remote => {
+  const local = remote.replace(dataDir, dataPath);
+  site.remoteFile(local, './' + remote);
+});
+site.copy('/data');
 
 export default site;
