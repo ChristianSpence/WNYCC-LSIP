@@ -89,3 +89,160 @@ layout: layouts/default.njk
         }
         }) | safe }}
     {% endcomp %}
+
+{# {{comp.DEBUG({metric:2021_22.e_and_t_aims_enrolments_sex_notional_nvq_level.rows}) | safe}} #}
+
+{%comp 'dashboard.grid' %}
+    {% comp 'dashboard.pane' %}
+        <p class="centred">NVQ Enrolments: Level and Gender Split</p>
+        {{ comp.oi.chart.bar({
+            config: {
+                data: 2021_22.e_and_t_aims_enrolments_sex_notional_nvq_level.rows,
+                category: "sex",
+                stacked: true,
+                series: series.fe.nvq_level,
+                legend: { show: true },
+                axis: {
+                x: { tickSize: 10000}
+                }
+            }
+            }) | safe }}
+        {% endcomp %}
+
+    {% comp 'dashboard.pane' %}
+        <p class="centred">NVQ Achievements: Level and Gender Split</p>
+        {{ comp.oi.chart.bar({
+            config: {
+                data: 2021_22.e_and_t_aims_ach_sex_notional_nvq_level.rows,
+                category: "sex",
+                stacked: true,
+                series: series.fe.nvq_level,
+                legend: { show: true },
+                axis: {
+                x: { tickSize: 10000}
+                }
+            }
+            }) | safe }}
+        {% endcomp %}
+{% endcomp %}
+
+ 
+{% comp 'dashboard.grid' %}
+{% comp 'dashboard.pane' %}
+        <p class="centred">NVQ Enrolments: Level and Ethnicity Split</p>
+        {{ comp.oi.chart.bar({
+            config: {
+                data: 2021_22.e_and_t_aims_enrolments_ethnicity_group_notional_nvq_level.rows,
+                category: "ethnicity_group",
+                stacked: true,
+                series: series.fe.nvq_level,
+                legend: { show: true },
+                axis: {
+                x: { tickSize: 10000}
+                }
+            }
+            }) | safe }}
+        {% endcomp %}
+
+{% comp 'dashboard.pane' %}
+        <p class="centred">NVQ Achievements: Level and Ethnicity Split</p>
+        {{ comp.oi.chart.bar({
+            config: {
+                data: 2021_22.e_and_t_aims_ach_ethnicity_group_notional_nvq_level.rows,
+                category: "ethnicity_group",
+                stacked: true,
+                series: series.fe.nvq_level,
+                legend: { show: true },
+                axis: {
+                x: { tickSize: 10000}
+                }
+            }
+            }) | safe }}
+        {% endcomp %}
+{% endcomp %}
+
+{# {{comp.DEBUG({metric:2021_22.e_and_t_aims_enrolments_ssa_t1_desc_ethnicity_group.rows}) | safe}} #}
+{% comp 'dashboard.grid' %}
+{% comp 'dashboard.pane' %}
+        <p class="centred">NVQ Enrolments: Subject and Ethnicity Split</p>
+        {{ comp.oi.chart.bar({
+            config: {
+                data: 2021_22.e_and_t_aims_enrolments_ssa_t1_desc_ethnicity_group.rows,
+                category: "ssa_t1_desc",
+                stacked: true,
+                series: series.fe.ethnicity_group,
+                legend: { show: true },
+                axis: {
+                x: { tickSize: 10000}
+                }
+            }
+            }) | safe }}
+        {% endcomp %}
+
+{% comp 'dashboard.pane' %}
+        <p class="centred">NVQ Achievements: Subject and Ethnicity Split</p>
+        {{ comp.oi.chart.bar({
+            config: {
+                data: 2021_22.e_and_t_aims_ach_ssa_t1_desc_ethnicity_group.rows,
+                category: "ssa_t1_desc",
+                stacked: true,
+                series: series.fe.ethnicity_group,
+                legend: { show: true },
+                axis: {
+                x: { tickSize: 10000}
+                }
+            }
+            }) | safe }}
+        {% endcomp %}
+{% endcomp %}
+
+{% comp 'dashboard.grid' %}
+{% comp 'dashboard.pane' %}
+        <p class="centred">Apprenticeship Participations: Level and Age Split</p>
+        {{ comp.oi.chart.bar({
+            config: {
+                data: 2021_22.participation_level_or_type_age_group.rows,
+                category: "level_or_type",
+                stacked: true,
+                series: series.fe.age_group,
+                legend: { show: true },
+                axis: {
+                x: { tickSize: 5000}
+                }
+            }
+            }) | safe }}
+        {% endcomp %}
+
+{% comp 'dashboard.pane' %}
+        <p class="centred">Apprenticeship Achievements: Level and Age Split</p>
+        {{ comp.oi.chart.bar({
+            config: {
+                data: 2021_22.achievements_level_or_type_age_group.rows,
+                category: "level_or_type",
+                stacked: true,
+                series: series.fe.age_group,
+                legend: { show: true },
+                axis: {
+                x: { tickSize: 1000}
+                }
+            }
+            }) | safe }}
+        {% endcomp %}
+{% endcomp %}
+{# {% for key, s in series.fe %}
+{% comp 'dashboard.pane' %}
+    <p class="centred">NVQ Level Gender Split</p>
+    {{ comp.oi.chart.bar({
+        config: {
+            data: 2021_22[key].rows,
+            category: "sex",
+            stacked: true,
+            series: s,
+            legend: { show: true },
+            axis: {
+            x: { tickSize: 10000}
+            }
+        }
+        }) | safe }}
+    {% endcomp %}
+{% endfor %} #}
