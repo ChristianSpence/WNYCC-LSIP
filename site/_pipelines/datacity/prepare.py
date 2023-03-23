@@ -86,3 +86,15 @@ if __name__ == '__main__':
 
     skill_postings.set_index(['geography_code', 'geography_code', 'skill']).drop(
         columns=['group']).to_csv(os.path.join(OUT_DIR, 'skills_demand_duration.csv'))
+
+    # Calcualte the postings hierarchy
+    postings_hierarchy = postings_by_soc_code
+
+    # Clip the smaller postings (less than 0.5%)
+    clip = postings_by_soc_code['count'].sum() * 0.005
+    postings_hierarchy.loc[postings_hierarchy['count']
+                           < clip, ['major_title', 'sub_major_title', 'minor_title', 'unit_title']] = 'All other postings'
+
+    postings_hierarchy.groupby([
+        'major_title', 'sub_major_title', 'minor_title', 'unit_title'
+    ])['count'].sum().to_csv(os.path.join(OUT_DIR, 'postings.csv'))

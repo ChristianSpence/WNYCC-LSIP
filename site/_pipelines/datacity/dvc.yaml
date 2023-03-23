@@ -8,6 +8,8 @@ stages:
       - site/_pipelines/lookups.py
       - data/csv/datacity/JobPostingsBySOC4Code.csv
     outs:
+      - site/wycc/demand/_data/postings.csv:
+          cache: false
       - site/wycc/demand/_data/postings_by_soc4_unit.csv:
           cache: false
       - site/wycc/demand/_data/postings_by_soc4_sub_major.csv:
@@ -26,6 +28,8 @@ stages:
       - site/_pipelines/lookups.py
       - data/csv/datacity/JobPostingsBySOC4Code.csv
     outs:
+      - site/nycc/demand/_data/postings.csv:
+          cache: false
       - site/nycc/demand/_data/postings_by_soc4_unit.csv:
           cache: false
       - site/nycc/demand/_data/postings_by_soc4_sub_major.csv:

@@ -4,8 +4,7 @@ datasets:
   - datacity/JobPostingsBySpecializedSkill
   - datacity/AveragePostingDurationBySpecializedSkill
 ---
-{% macro jobs_table(jobs, area, title, total) %}
-  <h2>{{ title }}</h2>
+{% macro jobs_table(jobs, area, total) %}
   <table class="centred">
     <thead>
       <tr>
@@ -78,12 +77,32 @@ datasets:
 }) | safe }}
 </div>
 
+<h2>Postings (all Local Authorities)</h2>
+<div class="chart" data-dependencies="/assets/oi/js/chart.js">
+{{ comp.oi.viz.beta.tree_map({
+  config: {
+    table: postings.rows,
+    grouping: mapper.treemap.soc4Demand.grouper,
+    reduce: mapper.treemap.soc4Demand.reducer,
+    width: 1200,
+    height: 800,
+    padding: 0,
+    ratio: 2.5,
+    dataMapper: mapper.treemap.soc4Demand.data,
+    nameMapper: mapper.treemap.soc4Demand.name,
+    valueKey: 'count'
+  }
+}) | safe }}
+</div>
+
 {%- set count = 15 -%}
 {%- set jobs = postings_by_soc4_sub_major.rows | row_sort('Total') | head(count) -%}
-{{ jobs_table(jobs, "Total", "Top " + (jobs | length) + " job postings by SOC4 sub-major code (all Local Authorities)", postings_summary['Total']) }}
+<h3>Top {{ jobs | length }} job postings by SOC4 sub-major code (all Local Authorities)</h3>
+{{ jobs_table(jobs, "Total", postings_summary['Total']) }}
   
 {%- for area in areas -%}
   {%- set count = 5 -%}
   {%- set jobs = postings_by_soc4_sub_major.rows | row_sort(area) | head(count) -%}
-  {{ jobs_table(jobs, area, "Top " + (jobs | length) + " job postings by SOC4 sub-major code in " + area, postings_summary[area]) }}
+  <h2>Top {{ jobs | length }} job postings by SOC4 sub-major code in {{ area }}</h2>
+  {{ jobs_table(jobs, area, postings_summary[area]) }}
 {%- endfor -%}
