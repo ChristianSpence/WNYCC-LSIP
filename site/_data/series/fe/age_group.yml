@@ -1,0 +1,9 @@
+- value: "19-24"
+  title: "19-24"
+  colour: blue
+- value: "25+"
+  title: 25+
+  colour: red
+- value: "Under 19"
+  title: Under 19
+  colour: purple

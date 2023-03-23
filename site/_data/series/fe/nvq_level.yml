@@ -1,0 +1,18 @@
+- value: E
+  title: Entry
+  colour: purple
+- value: "1"
+  title: "1"
+  colour: red
+- value: "2"
+  title: "2"
+  colour: skyblue
+- value: "3"
+  title: "3"
+  colour: orange
+- value: "4+"
+  title: "4+"
+  colour: green
+- value: Not Assigned
+  title: Not Assigned
+  colour: navy

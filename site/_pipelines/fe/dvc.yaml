@@ -37,3 +37,38 @@ stages:
           cache: false
       - site/nycc/supply/fe/_data/e_and_t_by_ssa_t1_desc.csv:
           cache: false
+
+  prep-detail-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe/prepare_detail.py wycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/fe/prepare_detail.py
+      # - data/csv/fe/Basic skills - regional breakdown.csv
+      # - data/csv/fe/Further education and skills geography - detailed summary.csv
+      - data/csv/fe/Education and training geography - local authority district.csv
+    outs:
+      - ? site/wycc/supply/fe/_data/2021_22/e_and_t_aims_enrolments_sex_notional_nvq_level.csv
+        : cache: false
+      - ? site/wycc/supply/fe/_data/2021_22/e_and_t_aims_ach_sex_notional_nvq_level.csv
+        : cache: false
+      - ? site/wycc/supply/fe/_data/2021_22/e_and_t_aims_enrolments_ethnicity_group_notional_nvq_level.csv
+        : cache: false
+      - ? site/wycc/supply/fe/_data/2021_22/e_and_t_aims_ach_ethnicity_group_notional_nvq_level.csv
+        : cache: false
+  prep-detail-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe/prepare_detail.py nycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/fe/prepare_detail.py
+      # - data/csv/fe/Basic skills - regional breakdown.csv
+      # - data/csv/fe/Further education and skills geography - detailed summary.csv
+      - data/csv/fe/Education and training geography - local authority district.csv
+    outs:
+      - ? site/nycc/supply/fe/_data/2021_22/e_and_t_aims_enrolments_sex_notional_nvq_level.csv
+        : cache: false
+      - ? site/nycc/supply/fe/_data/2021_22/e_and_t_aims_ach_sex_notional_nvq_level.csv
+        : cache: false
+      - ? site/nycc/supply/fe/_data/2021_22/e_and_t_aims_enrolments_ethnicity_group_notional_nvq_level.csv
+        : cache: false
+      - ? site/nycc/supply/fe/_data/2021_22/e_and_t_aims_ach_ethnicity_group_notional_nvq_level.csv
+        : cache: false

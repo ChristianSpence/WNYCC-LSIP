@@ -1,0 +1,18 @@
+- value: Asian/ Asian British
+  title: "Asian/Asian British"
+  colour: purple
+- value: Black/African/Caribbean/Black British
+  title: "Black/African/Caribbean/Black British"
+  colour: red
+- value: Mixed/ Multiple Ethnic Group
+  title: "Mixed/Multiple Ethnic Group"
+  colour: skyblue
+- value: Not Provided
+  title: "Not Provided"
+  colour: orange
+- value: Other Ethnic Group
+  title: "Other Ethnic Group"
+  colour: green
+- value: White
+  title: "White"
+  colour: navy

@@ -92,5 +92,3 @@ if __name__ == '__main__':
     e_and_t.sort_values(by=['e_and_t_aims_enrolments'], ascending=False).to_csv(os.path.join(OUTDIR, 'e_and_t_by_ssa_t1_desc.csv'))
     stats.to_csv(os.path.join(OUTDIR, 'stats.csv'))
     summary.to_json(os.path.join(OUTDIR, 'summary.json'))
-
-      
