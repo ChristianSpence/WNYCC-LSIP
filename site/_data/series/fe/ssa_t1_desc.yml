@@ -1,0 +1,48 @@
+- value: "Agriculture, Horticulture and Animal Care"
+  title: "Agriculture, Horticulture and Animal Care"
+  colour:
+- value: "Arts, Media and Publishing"
+  title: "Arts, Media and Publishing"
+  colour:
+- value: "Construction, Planning and the Built Environment"
+  title: "Construction, Planning and the Built Environment"
+  colour:
+- value: "Business, Administration and Law"
+  title: "Business, Administration and Law"
+  colour:
+- value: Education and Training
+  title: Education and Training
+  colour: blue
+- value: Engineering and Manufacturing Technologies
+  title: Engineering and Manufacturing Technologies
+  colour: blue
+- value: "Health, Public Services and Care"
+  title: "Health, Public Services and Care"
+  colour: blue
+- value: "History, Philosophy and Theology"
+  title: "History, Philosophy and Theology"
+  colour: blue
+- value: Information and Communication Technology
+  title: Information and Communication Technology
+  colour: blue
+- value: "Languages, Literature and Culture"
+  title: "Languages, Literature and Culture"
+  colour: blue
+- value: "Leisure, Travel and Tourism"
+  title: "Leisure, Travel and Tourism"
+  colour: blue
+- value: Not Applicable/ Not Known
+  title: Not Applicable/ Not Known
+  colour: blue
+- value: Preparation for Life and Work
+  title: Preparation for Life and Work
+  colour: blue
+- value: Retail and Commercial Enterprise
+  title: Retail and Commercial Enterprise
+  colour: blue
+- value: Science and Mathematics
+  title: Science and Mathematics
+  colour: blue
+- value: Social Sciences
+  title: Social Sciences
+  colour: blue
