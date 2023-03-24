@@ -1,6 +1,6 @@
-import d3 from "oi-lume-viz-beta/lib/external/d3.ts";
-import { Colour } from "oi-lume-viz-beta/lib/colour/colour.ts";
-import { Colour as ColourType } from "oi-lume-viz-beta/lib/colour/types.ts";
+import d3 from "oi-lume-charts/lib/external/d3.ts";
+import { Colour } from "oi-lume-charts/lib/colour/colour.ts";
+import { Colour as ColourType } from "oi-lume-charts/lib/colour/types.ts";
 
 type Margin = {
   top: number;

@@ -12,7 +12,7 @@ import csvLoader from "oi-lume-utils/loaders/csv-loader.ts";
 import autoDependency from "oi-lume-utils/processors/auto-dependency.ts";
 import { walkSync } from 'std/fs/mod.ts';
 
-import * as treemap from "oi-lume-viz-beta/components/hierarchy/tree_map.ts";
+import * as treemap from "oi-lume-charts/components/hierarchy/tree_map.ts";
 
 const search = { returnPageData: true };
 const site = lume({
