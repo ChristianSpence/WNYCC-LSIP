@@ -1,0 +1,53 @@
+addEventListener("DOMContentLoaded", () => {
+  const plotSelector = "svg.treemap";
+  const width = 300;
+  const targetSelector = ".series";
+  const titleSelector = "rect title";
+
+  const plots = document.querySelectorAll<SVGElement>(plotSelector);
+
+  plots.forEach((plot) => {
+    // Create the popup
+    const popup: HTMLElement = document.createElement("aside");
+    popup.classList.add("popup");
+    popup.style.position = "fixed";
+    popup.hidden = true;
+    popup.style.opacity = "0";
+    popup.style.width = width + "px";
+    popup.style.pointerEvents = "none";
+
+    // Add just after the SVG
+    plot.after(popup);
+
+    let fader: number | undefined = undefined;
+    plot.addEventListener("mouseleave", function () {
+      fader = setTimeout(
+        () => {
+          popup.style.opacity = "0";
+          fader = setTimeout(() => {
+            popup.hidden = true;
+          }, 1000);
+        },
+        1000,
+      );
+    });
+
+    plot.querySelectorAll<SVGElement>(targetSelector).forEach(
+      (target) => {
+        target.addEventListener("mouseover", function () {
+          clearTimeout(fader);
+          popup.innerHTML = this.querySelector(titleSelector)?.innerHTML || "";
+          popup.hidden = false;
+          setTimeout(() => {
+            popup.style.opacity = "1";
+          }, 0);
+        });
+        target.addEventListener("mousemove", function (event) {
+          clearTimeout(fader);
+          popup.style.left = event.clientX - width / 2 + "px";
+          popup.style.top = event.clientY + "px";
+        });
+      },
+    );
+  });
+});

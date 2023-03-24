@@ -1,8 +1,14 @@
 {
+  "compilerOptions": {
+    "lib": [
+      "dom"
+    ]
+  },
   "importMap": "./import_map.json",
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run --unstable -A -",
     "build": "deno task lume",
-    "serve": "deno task lume -s"
+    "serve": "deno task lume -s",
+    "refresh": "deno cache --reload=https://raw.githubusercontent.com  _config.ts"
   }
 }

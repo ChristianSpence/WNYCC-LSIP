@@ -6,6 +6,7 @@
 @import "css/text.css";
 @import "css/hexmap.css";
 @import "css/chart.css";
+@import "css/oi-viz.css";
 
 :root {
   --colour-primary: grey;
