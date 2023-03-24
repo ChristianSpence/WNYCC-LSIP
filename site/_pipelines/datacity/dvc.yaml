@@ -14,6 +14,8 @@ stages:
           cache: false
       - site/wycc/demand/_data/postings_summary.json:
           cache: false
+      - site/wycc/demand/_data/skills_demand_duration.csv:
+          cache: false
 
   prepare-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/datacity/prepare.py nycc
@@ -29,4 +31,6 @@ stages:
       - site/nycc/demand/_data/postings_by_soc4_sub_major.csv:
           cache: false
       - site/nycc/demand/_data/postings_summary.json:
+          cache: false
+      - site/nycc/demand/_data/skills_demand_duration.csv:
           cache: false

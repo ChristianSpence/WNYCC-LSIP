@@ -7,8 +7,8 @@ stages:
       md5: aceb942bb32b6c0ae772c86270f85acf
       size: 23820
     - path: site/_pipelines/datacity/prepare.py
-      md5: 690dc81c77b2c230e521ae97c0d76ada
-      size: 2370
+      md5: 84f8132459ea925f6ad4e931ccddaba3
+      size: 2977
     - path: site/_pipelines/datacity/soc4.py
       md5: 3a9751e87e00614c73ea1250c6dfe57f
       size: 1954
@@ -25,6 +25,9 @@ stages:
     - path: site/wycc/demand/_data/postings_summary.json
       md5: b043927495f251cb4db827d12507a1a2
       size: 134
+    - path: site/wycc/demand/_data/skills_demand_duration.csv
+      md5: 25e69c2c548da63b042b049de62cea92
+      size: 4771
   prepare-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/datacity/prepare.py nycc
     deps:
@@ -32,8 +35,8 @@ stages:
       md5: aceb942bb32b6c0ae772c86270f85acf
       size: 23820
     - path: site/_pipelines/datacity/prepare.py
-      md5: 690dc81c77b2c230e521ae97c0d76ada
-      size: 2370
+      md5: 84f8132459ea925f6ad4e931ccddaba3
+      size: 2977
     - path: site/_pipelines/datacity/soc4.py
       md5: 3a9751e87e00614c73ea1250c6dfe57f
       size: 1954
@@ -50,3 +53,6 @@ stages:
     - path: site/nycc/demand/_data/postings_summary.json
       md5: e913a7b207853e507d80127d436d7709
       size: 193
+    - path: site/nycc/demand/_data/skills_demand_duration.csv
+      md5: 498ff4b6f08c1c6f99de3c9b8afdd48c
+      size: 10383

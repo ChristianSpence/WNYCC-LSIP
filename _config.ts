@@ -2,6 +2,7 @@ import lume from "lume/mod.ts";
 import jsonLoader from "lume/core/loaders/json.ts";
 import base_path from "lume/plugins/base_path.ts";
 import date from "lume/plugins/date.ts";
+import esbuild from "lume/plugins/esbuild.ts";
 import inline from "lume/plugins/inline.ts";
 import metas from "lume/plugins/metas.ts";
 import minify_html from "lume/plugins/minify_html.ts";
@@ -11,11 +12,19 @@ import csvLoader from "oi-lume-utils/loaders/csv-loader.ts";
 import autoDependency from "oi-lume-utils/processors/auto-dependency.ts";
 import { walkSync } from 'std/fs/mod.ts';
 
+import * as treemap from "oi-lume-viz-beta/components/hierarchy/tree_map.ts";
+
 const search = { returnPageData: true };
 const site = lume({
   src: "site",
   location: new URL("https://open-innovations.github.io/WNYCC-LSIP"),
 }, { search });
+
+// Load TreeMap component
+site.component("oi.viz.beta", {
+  name: "tree_map",
+  render: treemap.default,
+});
 
 site.use(date());
 site.use(inline());
@@ -24,6 +33,12 @@ site.use(postcss());
 site.use(oiCharts({
   assetPath: "/assets/oi",
   componentNamespace: "oi",
+}));
+
+site.use(esbuild({
+  options: {
+    format: "iife",
+  }
 }));
 
 site.process([".html"], autoDependency);

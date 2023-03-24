@@ -1,0 +1,10 @@
+svg.oi-viz {
+  width: 100%;
+}
+
+.popup {
+  color: white;
+  background: black;
+  padding: 1rem;
+  transition: opacity 0.5s, left 0.1s, top 0.1s;
+}

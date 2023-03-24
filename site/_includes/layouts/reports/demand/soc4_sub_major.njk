@@ -1,5 +1,8 @@
 ---
 layout: layouts/default.njk
+datasets:
+  - datacity/JobPostingsBySpecializedSkill
+  - datacity/AveragePostingDurationBySpecializedSkill
 ---
 {% macro jobs_table(jobs, area, title, total) %}
   <h2>{{ title }}</h2>
@@ -27,6 +30,53 @@ layout: layouts/default.njk
   </table>
 {% endmacro %}
 
+<h1>Skills demand based on job postings</h1>
+
+<p>Datasets used:</p>
+
+<ul>
+  {% for dataset in datasets %}
+    {% set page = search.page("url=/metadata/" + dataset + "/" ) %}
+    <li>
+      <a href="{{ page.url}}">
+        {{ page.title }} from {{ page.origin }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>In-demand skills</h2>
+
+<p>
+  This chart shows the count of postings compared with the average duration of those postings.
+  This is a proxy for difficult to fill jobs, either as demand is high, or the skill is niche.
+</p>
+
+<p>
+  Hover over the points to show the geography of the point and the actual numbers.
+</p>
+
+<div data-dependencies="/assets/js/scatter-popup.js">
+{{ comp.plot.scatter({
+  config: {
+    data: skills_demand_duration.rows,
+    x: 'duration',
+    y: 'count',
+    margin: { left: 70 },
+    radius: 4,
+    nameMapper: mapper.demand.name.postingsDemandDuration,
+    axis: {
+      x: {
+        title: 'Average duration of job posting'
+      },
+      y: {
+        title: 'Count of job posting',
+        padding: 50
+      }
+    }
+  }
+}) | safe }}
+</div>
 
 {%- set count = 15 -%}
 {%- set jobs = postings_by_soc4_sub_major.rows | row_sort('Total') | head(count) -%}
