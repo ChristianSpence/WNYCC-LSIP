@@ -742,7 +742,7 @@
     "https://esm.sh/v112/robust-predicates@3.0.1/deno/robust-predicates.mjs": "2cb4b7d89ec1d2c5392e8b262fe031199f0988be55388447a7c31c680a6178a0",
     "https://esm.sh/v112/uhyphen@0.2.0/deno/uhyphen.mjs": "a19a71e58ec74618417d1931b4eca2fea42c755fbae193a920e973e3b970ff0a",
     "https://raw.githubusercontent.com/open-innovations/oi-lume-charts/hierarchy/components/hierarchy/lib/hierarchy-visualisation.ts": "ae1b9937ebc9c3634f6b2d6232aa4c3354d188e93bfb549c0a792c84014b1f44",
-    "https://raw.githubusercontent.com/open-innovations/oi-lume-charts/hierarchy/components/hierarchy/lib/tree-map.ts": "190c74b49dace2af3f44b58a08e952756ab6d566c4f2d159771fa51c24c7b1ff",
+    "https://raw.githubusercontent.com/open-innovations/oi-lume-charts/hierarchy/components/hierarchy/lib/tree-map.ts": "446af8b2aaa6691b057d5b3253aaf4284e90aa43bc87c835f60b8d5b2cd3eb8f",
     "https://raw.githubusercontent.com/open-innovations/oi-lume-charts/hierarchy/components/hierarchy/tree_map.ts": "4af589f97d9b7d06ad052d53dc8900120caaecaec60e0b16f4947ca78eb10d4f",
     "https://raw.githubusercontent.com/open-innovations/oi-lume-charts/hierarchy/lib/colour/colour.ts": "3c11f36d9e5313deddcca855a71f55a4c42bbc01a20de28531aded659cc8796f",
     "https://raw.githubusercontent.com/open-innovations/oi-lume-charts/hierarchy/lib/colour/contrast.ts": "5dbd23194b23a1a23bfaa47740c2ea847c19b4d13d1d6b9b316bc119596cf522",

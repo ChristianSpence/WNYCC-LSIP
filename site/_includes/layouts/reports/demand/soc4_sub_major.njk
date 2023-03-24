@@ -78,18 +78,20 @@ datasets:
 </div>
 
 <h2>Postings (all Local Authorities)</h2>
+
 <div class="chart" data-dependencies="/assets/js/treemap-popup.js">
 {{ comp.oi.viz.beta.tree_map({
   config: {
     table: postings.rows,
     grouping: mapper.treemap.soc4Demand.grouper,
     reduce: mapper.treemap.soc4Demand.reducer,
-    width: 1200,
-    height: 800,
+    width: 800,
+    height: 600,
     padding: 0,
     ratio: 3.5,
     dataMapper: mapper.treemap.soc4Demand.data,
     nameMapper: mapper.treemap.soc4Demand.name,
+    colourMapper: mapper.treemap.soc4Demand.colour,
     valueKey: 'count'
   }
 }) | safe }}
