@@ -4,8 +4,8 @@ stages:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare.py nycc
     deps:
     - path: data/csv/fe_dest/16-18 local authority level destinations.csv
-      md5: 7fbccd8fc8d1f221f201c7839ff8a6cc
-      size: 1259902
+      md5: 60d037e5e0f64f2a5747d6d0303213e4
+      size: 1259870
     - path: site/_pipelines/fe_dest/prepare.py
       md5: 41f5accffcf23e09d83a7a72888983e8
       size: 3990
@@ -22,11 +22,11 @@ stages:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare.py wycc
     deps:
     - path: data/csv/fe_dest/16-18 local authority level destinations.csv
-      md5: 7fbccd8fc8d1f221f201c7839ff8a6cc
-      size: 1259902
+      md5: 60d037e5e0f64f2a5747d6d0303213e4
+      size: 1259870
     - path: site/_pipelines/fe_dest/prepare.py
-      md5: 14d639e6f4ae3d982618dbffbe11b7d7
-      size: 4052
+      md5: 41f5accffcf23e09d83a7a72888983e8
+      size: 3990
     outs:
     - path: site/wycc/supply/fe_dest/_data/fe_dest_totals_by_geography.csv
       md5: 3a48497ef71569da8d8d4772605ea5c8
@@ -35,4 +35,58 @@ stages:
     - path: site/wycc/supply/fe_dest/_data/summary.json
       md5: 98581c9eeb2b6cae1a8e9c1ef31b5dfb
       size: 120
+      isexec: true
+  prep-detail-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare_detail.py
+      wycc
+    deps:
+    - path: data/csv/fe_dest/16-18 local authority level destinations.csv
+      md5: 60d037e5e0f64f2a5747d6d0303213e4
+      size: 1259870
+    - path: site/_pipelines/fe_dest/prepare_detail.py
+      md5: 06b1d654930009aff659e25709e3b9e3
+      size: 1300
+    outs:
+    - path: site/wycc/supply/fe_dest/_data/2020_21/fe_entry_level_and_no_identified_level_characteristic_group_student_characteristic.csv
+      md5: 7219706d8332d750a7ad02ec6114c9a0
+      size: 123
+      isexec: true
+    - path: site/wycc/supply/fe_dest/_data/2020_21/fe_level_2_characteristic_group_student_characteristic.csv
+      md5: b3bd22f68eae8223bb23f1a246a22713
+      size: 124
+      isexec: true
+    - path: site/wycc/supply/fe_dest/_data/2020_21/fe_level_3_characteristic_group_student_characteristic.csv
+      md5: 8b09199516d8acf3bbc9471e3146049c
+      size: 125
+      isexec: true
+    - path: site/wycc/supply/fe_dest/_data/2020_21/other_education_destinations_characteristic_group_student_characteristic.csv
+      md5: d9ef3b1d5f13958989bbb28af5098f28
+      size: 124
+      isexec: true
+  prep-detail-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare_detail.py
+      nycc
+    deps:
+    - path: data/csv/fe_dest/16-18 local authority level destinations.csv
+      md5: 60d037e5e0f64f2a5747d6d0303213e4
+      size: 1259870
+    - path: site/_pipelines/fe_dest/prepare_detail.py
+      md5: 06b1d654930009aff659e25709e3b9e3
+      size: 1300
+    outs:
+    - path: site/nycc/supply/fe_dest/_data/2020_21/fe_entry_level_and_no_identified_level_characteristic_group_student_characteristic.csv
+      md5: 2601c0b303f2f9fba63bfefc135e2e83
+      size: 119
+      isexec: true
+    - path: site/nycc/supply/fe_dest/_data/2020_21/fe_level_2_characteristic_group_student_characteristic.csv
+      md5: 62621d09e4033e03b2003dfaf279dbc4
+      size: 121
+      isexec: true
+    - path: site/nycc/supply/fe_dest/_data/2020_21/fe_level_3_characteristic_group_student_characteristic.csv
+      md5: 39c6ba67b48e3a9bff7e9d41c617956f
+      size: 124
+      isexec: true
+    - path: site/nycc/supply/fe_dest/_data/2020_21/other_education_destinations_characteristic_group_student_characteristic.csv
+      md5: 66b451ebb975ef51f4bfe4fa7f4ddb1a
+      size: 122
       isexec: true

@@ -1,0 +1,12 @@
+- value: Disadvantaged
+  title: Disadvantaged
+  colour: blue
+- value: Female
+  title: Female
+  colour: red
+- value: Male
+  title: Male
+  colour: green
+- value: Not Disadvantaged
+  title: Not Disadvantaged
+  colour: yellow

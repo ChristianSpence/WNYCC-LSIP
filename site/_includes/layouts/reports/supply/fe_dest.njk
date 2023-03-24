@@ -98,6 +98,68 @@ layout: layouts/default.njk
       }) | safe }}
   {% endcomp %}
 
+{% comp 'dashboard.grid' %}
+  {% comp 'dashboard.pane' %}
+  <p class="centred">FE Level 3 Student Characteristics</p>
+  {{ comp.oi.chart.bar({
+        config: {
+          data: 2020_21.fe_level_3_characteristic_group_student_characteristic.rows,
+          stacked: true,
+          category: "characteristic_group",
+          series: series.fe_dest.student_characteristic,
+          legend: { show: true },
+          axis: {
+            x: { tickSize: 500}
+          }
+        }
+      }) | safe }}
+  {% endcomp %}
+  {% comp 'dashboard.pane' %}
+    <p class="centred">FE Level 2 Student Characteristics</p>
+    {{ comp.oi.chart.bar({
+          config: {
+            data: 2020_21.fe_level_2_characteristic_group_student_characteristic.rows,
+            stacked: true,
+            category: "characteristic_group",
+            series: series.fe_dest.student_characteristic,
+            legend: { show: true },
+            axis: {
+              x: { tickSize: 500}
+            }
+          }
+        }) | safe }}
+    {% endcomp %}
+{% endcomp %}
 
-
-
+{% comp 'dashboard.grid' %}
+  {% comp 'dashboard.pane' %}
+  <p class="centred">FE Entry Level / Unidentified</p>
+  {{ comp.oi.chart.bar({
+        config: {
+          data: 2020_21.fe_entry_level_and_no_identified_level_characteristic_group_student_characteristic.rows,
+          stacked: true,
+          category: "characteristic_group",
+          series: series.fe_dest.student_characteristic,
+          legend: { show: true },
+          axis: {
+            x: { tickSize: 500}
+          }
+        }
+      }) | safe }}
+  {% endcomp %}
+  {% comp 'dashboard.pane' %}
+    <p class="centred">Other Destinations</p>
+    {{ comp.oi.chart.bar({
+          config: {
+            data: 2020_21.other_education_destinations_characteristic_group_student_characteristic.rows,
+            stacked: true,
+            category: "characteristic_group",
+            series: series.fe_dest.student_characteristic,
+            legend: { show: true },
+            axis: {
+              x: { tickSize: 500}
+            }
+          }
+        }) | safe }}
+    {% endcomp %}
+{% endcomp %}

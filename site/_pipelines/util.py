@@ -8,7 +8,7 @@ def slugify(s):
     #TODO try replace '\W+'
     return re.sub(r'[\*\-\(\)\s\,\"\(/)]+', '_', s.lower())
 
-def load_data(filepath, group=None, fill_na=True, value=2):
+def load_data(filepath, group=None, fill_na=True, na_values=None, value=2):
     '''
     Read the data in filepath. 
     If fill_na=True, replace NaN values with value.
@@ -27,8 +27,9 @@ def load_data(filepath, group=None, fill_na=True, value=2):
 
     #read csv
     if fill_na == True:
-        data = pd.read_csv(filepath, na_values=['low'])
+        data = pd.read_csv(filepath, na_values=na_values) ###here is the problem
         data.update(data.iloc[:, list(data.dtypes == 'float64')].fillna(value))
+        #data.fillna(0)
         
     else:
         data = pd.read_csv(filepath)
