@@ -1,46 +1,53 @@
 addEventListener("DOMContentLoaded", () => {
-  const treemaps = document.querySelectorAll("svg.treemap");
+  const plotSelector = "svg.treemap";
   const width = 300;
+  const targetSelector = ".series";
+  const titleSelector = "rect title";
 
-  treemaps.forEach((treemap) => {
+  const plots = document.querySelectorAll<SVGElement>(plotSelector);
+
+  plots.forEach((plot) => {
     // Create the popup
     const popup: HTMLElement = document.createElement("aside");
-    popup.classList.add("popup", "treemap");
+    popup.classList.add("popup");
     popup.style.position = "fixed";
-    popup.style.opacity = '0';
-    popup.style.width = width + 'px';
-    popup.style.pointerEvents = 'none'
     popup.hidden = true;
+    popup.style.opacity = "0";
+    popup.style.width = width + "px";
+    popup.style.pointerEvents = "none";
 
     // Add just after the SVG
-    treemap.after(popup);
-
+    plot.after(popup);
 
     let fader: number | undefined = undefined;
-    treemap.addEventListener("mouseleave", function () {
-      //   popup.hidden = true;
+    plot.addEventListener("mouseleave", function () {
       fader = setTimeout(
         () => {
-          popup.style.opacity = '0';
+          popup.style.opacity = "0";
           fader = setTimeout(() => {
             popup.hidden = true;
-          }, 1000)
-        }, 1000);
+          }, 1000);
+        },
+        1000,
+      );
     });
 
-    const nodes = treemap.querySelectorAll<SVGElement>(".series");
-    nodes.forEach((node) => {
-      node.addEventListener("mouseover", function () {
-        popup.innerHTML = this.querySelector("rect title")?.innerHTML || '';
-        popup.hidden = false;
-        popup.style.opacity = '1';
-        clearTimeout(fader);
-      });
-      node.addEventListener("mousemove", function (event) {
-        clearTimeout(fader);
-        popup.style.left = event.clientX - width / 2 + "px";
-        popup.style.top = event.clientY + "px";
-      });
-    });
+    plot.querySelectorAll<SVGElement>(targetSelector).forEach(
+      (target) => {
+        target.addEventListener("mouseover", function () {
+          clearTimeout(fader);
+          popup.innerHTML = this.querySelector(titleSelector)?.innerHTML || "";
+          popup.hidden = false;
+          setTimeout(() => {
+            popup.style.opacity = "1";
+          }, 0);
+        });
+        target.addEventListener("mousemove", function (event) {
+          clearTimeout(fader);
+          popup.style.left = event.clientX - width / 2 + "px";
+          popup.style.top = event.clientY + "px";
+        });
+      },
+    );
   });
 });
