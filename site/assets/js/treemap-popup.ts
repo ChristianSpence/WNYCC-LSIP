@@ -1,15 +1,21 @@
 addEventListener("DOMContentLoaded", () => {
   const treemaps = document.querySelectorAll("svg.treemap");
-  const width = 200;
+  const width = 300;
+
   treemaps.forEach((treemap) => {
+    // Create the popup
     const popup: HTMLElement = document.createElement("aside");
     popup.classList.add("popup", "treemap");
     popup.style.position = "fixed";
     popup.style.opacity = '0';
     popup.style.width = width + 'px';
     popup.style.pointerEvents = 'none'
-    // popup.hidden = true;
+    popup.hidden = true;
+
+    // Add just after the SVG
     treemap.after(popup);
+
+
     let fader: number | undefined = undefined;
     treemap.addEventListener("mouseleave", function () {
       //   popup.hidden = true;

@@ -12,6 +12,11 @@ export const soc4Demand = {
   },
   name: (d) => {
     if (!d.data.unit_title) return 'UNKNOWN';
-    return d.data.unit_title;
+
+    const { unit_title, minor_title, sub_major_title, major_title, count } = d.data;
+
+    return `${
+      [ major_title, sub_major_title, minor_title, unit_title ].join(' / ')
+    }: ${ count.toLocaleString() } postings`;
   },
 }
