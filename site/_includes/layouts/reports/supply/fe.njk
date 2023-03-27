@@ -269,3 +269,27 @@ layout: layouts/default.njk
         }) | safe }}
     {% endcomp %}
 {% endfor %} #}
+
+
+
+<h2>Treemap</h2>
+
+<div data-dependencies="/assets/js/treemap-popup.js">
+{{
+  comp.oi.viz.beta.tree_map({
+    config: {
+      table: 2021_22.e_and_t_aims_enrolments_ssa_t1_desc_ethnicity_group.rows,
+      grouping: mapper.treemap.supply_fe.grouping,
+      reduce: mapper.treemap.supply_fe.reduce,
+      width: 800,
+      height: 600,
+      padding: 0,
+      dataMapper: mapper.treemap.supply_fe.data,
+      nameMapper: mapper.treemap.supply_fe.name,
+      valueKey: 'Asian/ Asian British',
+      ratio: 3.5,
+      colourMapper: mapper.treemap.supply_fe.colour
+    }
+  }) | safe 
+}}
+</div>
