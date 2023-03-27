@@ -38,15 +38,20 @@ addEventListener("DOMContentLoaded", () => {
           clearTimeout(fader);
           popup.innerHTML = this.querySelector(titleSelector)?.innerHTML || "";
           popup.hidden = false;
+          const { left: minX, right: maxX } = plot.getBoundingClientRect();
+          const { x, y, width: boxWidth } = this.querySelector('rect').getBoundingClientRect();
+          const xPos = Math.min(maxX - width, Math.max(minX, x + boxWidth / 2 - width / 2));
+          popup.style.left = xPos + "px";
+          popup.style.top = y + 10 + "px";
           setTimeout(() => {
             popup.style.opacity = "1";
           }, 0);
         });
-        target.addEventListener("mousemove", function (event) {
-          clearTimeout(fader);
-          popup.style.left = event.clientX - width / 2 + "px";
-          popup.style.top = event.clientY + "px";
-        });
+        // target.addEventListener("mousemove", function (event) {
+        //   clearTimeout(fader);
+        //   popup.style.left = event.clientX - width / 2 + "px";
+        //   popup.style.top = event.clientY + "px";
+        // });
       },
     );
   });

@@ -1,6 +1,6 @@
 addEventListener("DOMContentLoaded", () => {
   const plotSelector = "svg.oi-viz.scatter-plot";
-  const width = 200;
+  const width = 300;
   const targetSelector = ".series .point";
   const titleSelector = "title";
 
@@ -37,8 +37,8 @@ addEventListener("DOMContentLoaded", () => {
         target.addEventListener("mouseover", function () {
           clearTimeout(fader);
           popup.innerHTML = this.querySelector(titleSelector)?.innerHTML || "";
-          const { x, y } = this.getBoundingClientRect();
-          popup.style.left = x - width / 2 + "px";
+          const { x, y, width: pointWidth } = this.getBoundingClientRect();
+          popup.style.left = x + (pointWidth - width) / 2 + "px";
           popup.style.top = y + "px";
           popup.hidden = false;
           setTimeout(() => {

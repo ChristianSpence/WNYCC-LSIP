@@ -3,9 +3,22 @@ svg.oi-viz {
 }
 
 .popup {
+  --bg-colour: black;
   color: white;
-  background: black;
+  background: var(--bg-colour);
   padding: 1rem;
   transition: opacity 0.5s, left 0.1s, top 0.1s;
-  margin-top: 0;
+  margin-top: 1.8rem;
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: auto;
+    width: 0;
+    height: 0;
+    left: 50%;
+    top: 0;
+    transform: translate3d(-50%, -100%, 0);
+    border: 0.5rem solid #ffffff00;
+    border-bottom-color: var(--bg-colour);
+  }
 }
