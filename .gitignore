@@ -8,3 +8,6 @@ R/datacityAPIkey.R
 
 # Lume built artefacts
 _site/
+data/csv/fe_dest/.ipynb_checkpoints/Dev-checkpoint.ipynb
+data/csv/fe_dest/Dev.ipynb
+data/csv/fe_dest/Dev.ipynb
