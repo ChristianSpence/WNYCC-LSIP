@@ -1,17 +1,17 @@
-ssa_t1_desc,Asian/ Asian British,Black/African/Caribbean/Black British,Mixed/ Multiple Ethnic Group,Not Provided,Other Ethnic Group,White
-"Agriculture, Horticulture and Animal Care",192.0,192.0,192.0,192.0,200.0,460.0
-"Arts, Media and Publishing",192.0,192.0,192.0,192.0,200.0,544.0
-"Business, Administration and Law",192.0,192.0,192.0,192.0,192.0,1116.0
-"Construction, Planning and the Built Environment",192.0,192.0,192.0,200.0,200.0,516.0
-Education and Training,192.0,192.0,192.0,192.0,192.0,458.0
-Engineering and Manufacturing Technologies,192.0,192.0,192.0,192.0,200.0,460.0
-"Health, Public Services and Care",216.0,192.0,216.0,208.0,226.0,3760.0
-"History, Philosophy and Theology",192.0,192.0,192.0,192.0,192.0,208.0
-Information and Communication Technology,798.0,192.0,192.0,192.0,200.0,744.0
-"Languages, Literature and Culture",806.0,192.0,192.0,192.0,200.0,426.0
-"Leisure, Travel and Tourism",192.0,192.0,192.0,200.0,200.0,742.0
-Not Applicable/ Not Known,192.0,192.0,192.0,192.0,192.0,216.0
-Preparation for Life and Work,1258.0,240.0,258.0,200.0,558.0,3420.0
-Retail and Commercial Enterprise,192.0,192.0,192.0,192.0,200.0,704.0
-Science and Mathematics,200.0,192.0,192.0,192.0,200.0,502.0
-Social Sciences,192.0,192.0,192.0,192.0,192.0,242.0
+ssa_t1_desc,Asian/ Asian British,Black/African/Caribbean/Black British,Mixed/ Multiple Ethnic Group,Not Provided,Other Ethnic Group,White,total
+"Agriculture, Horticulture and Animal Care",192.0,192.0,192.0,192.0,200.0,460.0,1428.0
+"Arts, Media and Publishing",192.0,192.0,192.0,192.0,200.0,544.0,1512.0
+"Business, Administration and Law",192.0,192.0,192.0,192.0,192.0,1116.0,2076.0
+"Construction, Planning and the Built Environment",192.0,192.0,192.0,200.0,200.0,516.0,1492.0
+Education and Training,192.0,192.0,192.0,192.0,192.0,458.0,1418.0
+Engineering and Manufacturing Technologies,192.0,192.0,192.0,192.0,200.0,460.0,1428.0
+"Health, Public Services and Care",216.0,192.0,216.0,208.0,226.0,3760.0,4818.0
+"History, Philosophy and Theology",192.0,192.0,192.0,192.0,192.0,208.0,1168.0
+Information and Communication Technology,798.0,192.0,192.0,192.0,200.0,744.0,2318.0
+"Languages, Literature and Culture",806.0,192.0,192.0,192.0,200.0,426.0,2008.0
+"Leisure, Travel and Tourism",192.0,192.0,192.0,200.0,200.0,742.0,1718.0
+Not Applicable/ Not Known,192.0,192.0,192.0,192.0,192.0,216.0,1176.0
+Preparation for Life and Work,1258.0,240.0,258.0,200.0,558.0,3420.0,5934.0
+Retail and Commercial Enterprise,192.0,192.0,192.0,192.0,200.0,704.0,1672.0
+Science and Mathematics,200.0,192.0,192.0,192.0,200.0,502.0,1478.0
+Social Sciences,192.0,192.0,192.0,192.0,192.0,242.0,1202.0
