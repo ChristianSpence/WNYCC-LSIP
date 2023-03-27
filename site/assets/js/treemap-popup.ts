@@ -20,17 +20,23 @@ addEventListener("DOMContentLoaded", () => {
     plot.after(popup);
 
     let fader: number | undefined = undefined;
-    plot.addEventListener("mouseleave", function () {
-      fader = setTimeout(
-        () => {
-          popup.style.opacity = "0";
-          fader = setTimeout(() => {
-            popup.hidden = true;
-          }, 1000);
-        },
-        1000,
-      );
-    });
+    function hidePopup(fadeTimeout = 0) {
+      return () => {
+        clearTimeout(fader);
+        fader = setTimeout(
+          () => {
+            popup.style.opacity = "0";
+            fader = setTimeout(() => {
+              popup.hidden = true;
+            }, 1000);
+          },
+          fadeTimeout,
+        );
+      };
+    }
+
+    addEventListener("scroll", hidePopup());
+    plot.addEventListener("mouseleave", hidePopup(1000));
 
     plot.querySelectorAll<SVGElement>(targetSelector).forEach(
       (target) => {
@@ -39,8 +45,12 @@ addEventListener("DOMContentLoaded", () => {
           popup.innerHTML = this.querySelector(titleSelector)?.innerHTML || "";
           popup.hidden = false;
           const { left: minX, right: maxX } = plot.getBoundingClientRect();
-          const { x, y, width: boxWidth } = this.querySelector('rect').getBoundingClientRect();
-          const xPos = Math.min(maxX - width, Math.max(minX, x + boxWidth / 2 - width / 2));
+          const { x, y, width: boxWidth } = this.querySelector("rect")
+            .getBoundingClientRect();
+          const xPos = Math.min(
+            maxX - width,
+            Math.max(minX, x + boxWidth / 2 - width / 2),
+          );
           popup.style.left = xPos + "px";
           popup.style.top = y + 10 + "px";
           setTimeout(() => {
