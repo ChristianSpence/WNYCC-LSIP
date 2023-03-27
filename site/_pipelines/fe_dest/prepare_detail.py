@@ -8,7 +8,7 @@ from util import slugify, load_data, filtering, path_name, drop_totals
 if __name__ == '__main__':
 
     # specify filepath
-    filepath = 'data/csv/fe_dest/16-18 local authority level destinations.csv'
+    filepath = 'data/csv/fe_dest/16-18LocalAuthorityLevelDestinations.csv'
     group = sys.argv[1]
 
     data = load_data(filepath, group=group, fill_na=True, na_values=['NA'], value=0)
@@ -24,6 +24,16 @@ if __name__ == '__main__':
 
         path = path_name(facts=i, subfilts=['characteristic_group', 'student_characteristic'],
                          dat='2020/21', group=group, stage='fe_dest')
-        #filtered_data.fillna(0)
+        
         # write to file
         filtered_data.to_csv(path)
+    #@TODO add code below to get visualisations for people going on to apprenticeships at levels 2, 3, 4. 
+    # for i in ['higher_and_degree_apprenticeships_level_4_and_above', 'advanced_apprenticeships_level_3', 'intermediate_apprenticeships_level_2']:
+    #     filtered_data = filtering(
+    #         data, facts=i, dat='2020/21', subfilts=['characteristic_group', 'student_characteristic'])
+
+    #     path = path_name(facts=i, subfilts=['characteristic_group', 'student_characteristic'],
+    #                      dat='2020/21', group=group, stage='fe_dest')
+        
+    #     # write to file
+    #     filtered_data.to_csv(path)

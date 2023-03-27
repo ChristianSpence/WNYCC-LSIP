@@ -41,12 +41,13 @@ if __name__ == '__main__':
         path = path_name(facts=i, subfilts=['ssa_t1_desc', 'ethnicity_group'],
                          dat='2021/22', group=group, stage='fe')
         # filtered_data.rename(index=slugify,inplace=True)
+        filtered_data['total'] = filtered_data.sum(axis=1)
         # write to file
         filtered_data.to_csv(path)
 
     # apprenticeships
     filepath2 = 'data/csv/fe/Further education and skills geography - detailed summary.csv'
-    data2 = load_data(filepath2, group=group, fill_na=True, value=0)
+    data2 = load_data(filepath2, group=group, fill_na=True, na_values=['low'], value=2)
     for i in ['participation', 'achievements']:
         apprenticeships = data2[data2.apprenticeships_or_further_education ==
                                 'Apprenticeships']
@@ -58,3 +59,4 @@ if __name__ == '__main__':
         # apprenticeships.rename(index=slugify,inplace=True)
         # write to file
         apprenticeships.to_csv(path)
+        
