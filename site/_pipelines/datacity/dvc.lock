@@ -7,8 +7,8 @@ stages:
       md5: aceb942bb32b6c0ae772c86270f85acf
       size: 23820
     - path: site/_pipelines/datacity/prepare.py
-      md5: 1fa3db864d3bb8ecf80c2a3ab9d9a76c
-      size: 3518
+      md5: 5cc1e2adacc8b457a5a5501c80fa26cd
+      size: 3503
     - path: site/_pipelines/datacity/soc4.py
       md5: 3a9751e87e00614c73ea1250c6dfe57f
       size: 1954
@@ -17,8 +17,8 @@ stages:
       size: 809
     outs:
     - path: site/wycc/demand/_data/postings.csv
-      md5: a733e2e47784a0f2c193f8ed10a4c39a
-      size: 4093
+      md5: e0c17624efb5c9a7b37d6799f0af4f0b
+      size: 14108
     - path: site/wycc/demand/_data/postings_by_soc4_sub_major.csv
       md5: 79948cba28c7a408231e755808774bee
       size: 2960
@@ -38,8 +38,8 @@ stages:
       md5: aceb942bb32b6c0ae772c86270f85acf
       size: 23820
     - path: site/_pipelines/datacity/prepare.py
-      md5: 1fa3db864d3bb8ecf80c2a3ab9d9a76c
-      size: 3518
+      md5: 5cc1e2adacc8b457a5a5501c80fa26cd
+      size: 3503
     - path: site/_pipelines/datacity/soc4.py
       md5: 3a9751e87e00614c73ea1250c6dfe57f
       size: 1954
@@ -48,8 +48,8 @@ stages:
       size: 809
     outs:
     - path: site/nycc/demand/_data/postings.csv
-      md5: 4d59bf85c58631932d7ccb94108dc2be
-      size: 2143
+      md5: c40949b4863dc8b8a4ebad8fa18ec126
+      size: 12343
     - path: site/nycc/demand/_data/postings_by_soc4_sub_major.csv
       md5: 3d1a05d02eee211c4f0f1b93b26ea112
       size: 3378

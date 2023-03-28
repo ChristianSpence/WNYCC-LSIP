@@ -17,9 +17,9 @@ export const soc4Demand = {
 
     const { unit_title, minor_title, sub_major_title, major_title, count } = d.data;
 
-    return `${
-      [ major_title, sub_major_title, minor_title, unit_title ].join(' / ')
-    }: ${ count.toLocaleString() } postings`;
+    let title = [ major_title, sub_major_title, minor_title, unit_title ].join(' / ');
+    if ( unit_title === 'All other postings' ) title = [ major_title, unit_title ].join(' / ');
+    return `${ title }: ${ count.toLocaleString() } postings`;
   },
   colour: (d) => {
     const { major_title } = d.data;

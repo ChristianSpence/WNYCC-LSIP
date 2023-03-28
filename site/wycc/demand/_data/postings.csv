@@ -1,28 +1,91 @@
 major_title,sub_major_title,minor_title,unit_title,count
-ADMINISTRATIVE AND SECRETARIAL OCCUPATIONS,ADMINISTRATIVE OCCUPATIONS,Other Administrative Occupations,Other administrative occupations n.e.c.,14443
+ADMINISTRATIVE AND SECRETARIAL OCCUPATIONS,ADMINISTRATIVE OCCUPATIONS,Administrative Occupations: Finance,Bank and post office clerks,1365
+ADMINISTRATIVE AND SECRETARIAL OCCUPATIONS,ADMINISTRATIVE OCCUPATIONS,Administrative Occupations: Finance,"Book-keepers, payroll managers and wages clerks",2018
+ADMINISTRATIVE AND SECRETARIAL OCCUPATIONS,ADMINISTRATIVE OCCUPATIONS,Other Administrative Occupations,Other administrative occupations n.e.c.,16588
+ADMINISTRATIVE AND SECRETARIAL OCCUPATIONS,All other postings,All other postings,All other postings,11057
 ADMINISTRATIVE AND SECRETARIAL OCCUPATIONS,SECRETARIAL AND RELATED OCCUPATIONS,Secretarial and Related Occupations,Receptionists,8927
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,All other postings,All other postings,All other postings,32023
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS,"Business, Finance and Related Associate Professionals",Finance and investment analysts and advisers,1547
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS,Public Services and Other Associate Professionals,Human resources and industrial relations officers,4483
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS,Public Services and Other Associate Professionals,Vocational and industrial trainers and instructors,1194
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS,"Sales, Marketing and Related Associate Professionals",Business sales executives,1414
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS,"Sales, Marketing and Related Associate Professionals",Buyers and procurement officers,1301
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS,"Sales, Marketing and Related Associate Professionals",Marketing associate professionals,4234
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS,"Sales, Marketing and Related Associate Professionals",Sales accounts and business development managers,2357
 ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,"CULTURE, MEDIA AND SPORTS OCCUPATIONS",Sports and Fitness Occupations,Fitness instructors,6580
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,"SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS",Draughtspersons and Related Architectural Technicians,Draughtspersons,1309
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,"SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS",Information Technology Technicians,IT operations technicians,1913
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,"SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS",Information Technology Technicians,IT user support technicians,2608
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,"SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS","Science, Engineering and Production Technicians",Building and civil engineering technicians,1323
 ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,"SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS","Science, Engineering and Production Technicians",Engineering technicians,14998
-All other postings,All other postings,All other postings,All other postings,300295
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,"SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS","Science, Engineering and Production Technicians","Planning, process and production technicians",1403
+ASSOCIATE PROFESSIONAL AND TECHNICAL OCCUPATIONS,"SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS","Science, Engineering and Production Technicians","Science, engineering and production technicians n.e.c.",2447
+"CARING, LEISURE AND OTHER SERVICE OCCUPATIONS",All other postings,All other postings,All other postings,3855
 "CARING, LEISURE AND OTHER SERVICE OCCUPATIONS",CARING PERSONAL SERVICE OCCUPATIONS,Caring Personal Services,Care workers and home carers,354333
 "CARING, LEISURE AND OTHER SERVICE OCCUPATIONS",CARING PERSONAL SERVICE OCCUPATIONS,Caring Personal Services,Nursing auxiliaries and assistants,40807
+"CARING, LEISURE AND OTHER SERVICE OCCUPATIONS",CARING PERSONAL SERVICE OCCUPATIONS,Caring Personal Services,Senior care workers,3198
+"CARING, LEISURE AND OTHER SERVICE OCCUPATIONS",CARING PERSONAL SERVICE OCCUPATIONS,Childcare and Related Personal Services,Childminders and related occupations,1559
+"CARING, LEISURE AND OTHER SERVICE OCCUPATIONS",CARING PERSONAL SERVICE OCCUPATIONS,Childcare and Related Personal Services,Nursery nurses and assistants,1394
+"CARING, LEISURE AND OTHER SERVICE OCCUPATIONS","LEISURE, TRAVEL AND RELATED PERSONAL SERVICE OCCUPATIONS",Cleaning and Housekeeping Managers and Supervisors,Cleaning and housekeeping managers and supervisors,3742
+"CARING, LEISURE AND OTHER SERVICE OCCUPATIONS","LEISURE, TRAVEL AND RELATED PERSONAL SERVICE OCCUPATIONS",Housekeeping and Related Services,Caretakers,3128
 "CARING, LEISURE AND OTHER SERVICE OCCUPATIONS","LEISURE, TRAVEL AND RELATED PERSONAL SERVICE OCCUPATIONS",Housekeeping and Related Services,Housekeepers and related occupations,7953
 "CARING, LEISURE AND OTHER SERVICE OCCUPATIONS","LEISURE, TRAVEL AND RELATED PERSONAL SERVICE OCCUPATIONS",Leisure and Travel Services,Sports and leisure assistants,16482
+ELEMENTARY OCCUPATIONS,All other postings,All other postings,All other postings,6322
 ELEMENTARY OCCUPATIONS,ELEMENTARY ADMINISTRATION AND SERVICE OCCUPATIONS,Elementary Cleaning Occupations,Cleaners and domestics,27973
-ELEMENTARY OCCUPATIONS,ELEMENTARY ADMINISTRATION AND SERVICE OCCUPATIONS,Elementary Storage Occupations,Elementary storage occupations,27237
+ELEMENTARY OCCUPATIONS,ELEMENTARY ADMINISTRATION AND SERVICE OCCUPATIONS,Elementary Cleaning Occupations,"Launderers, dry cleaners and pressers",4020
+ELEMENTARY OCCUPATIONS,ELEMENTARY ADMINISTRATION AND SERVICE OCCUPATIONS,Elementary Storage Occupations,Elementary storage occupations,29170
 ELEMENTARY OCCUPATIONS,ELEMENTARY ADMINISTRATION AND SERVICE OCCUPATIONS,Other Elementary Services Occupations,Kitchen and catering assistants,28244
-"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",CORPORATE MANAGERS AND DIRECTORS,Functional Managers and Directors,Marketing and sales directors,6513
+ELEMENTARY OCCUPATIONS,ELEMENTARY TRADES AND RELATED OCCUPATIONS,Elementary Construction Occupations,Elementary construction occupations,3998
+"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",All other postings,All other postings,All other postings,14270
+"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",CORPORATE MANAGERS AND DIRECTORS,Chief Executives and Senior Officials,Chief executives and senior officials,1702
+"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",CORPORATE MANAGERS AND DIRECTORS,Functional Managers and Directors,Financial managers and directors,1543
+"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",CORPORATE MANAGERS AND DIRECTORS,Functional Managers and Directors,Marketing and sales directors,8093
 "MANAGERS, DIRECTORS AND SENIOR OFFICIALS",CORPORATE MANAGERS AND DIRECTORS,Health and Social Services Managers and Directors,Health services and public health managers and directors,11447
-"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",CORPORATE MANAGERS AND DIRECTORS,Managers and Directors in Retail and Wholesale,Managers and directors in retail and wholesale,7024
+"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",CORPORATE MANAGERS AND DIRECTORS,Managers and Directors in Retail and Wholesale,Managers and directors in retail and wholesale,8551
+"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",CORPORATE MANAGERS AND DIRECTORS,Production Managers and Directors,Production managers and directors in construction,1729
+"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",CORPORATE MANAGERS AND DIRECTORS,Production Managers and Directors,Production managers and directors in manufacturing,1570
 "MANAGERS, DIRECTORS AND SENIOR OFFICIALS",OTHER MANAGERS AND PROPRIETORS,Managers and Proprietors in Health and Care Services,"Residential, day and domiciliary  care managers and proprietors",9074
-"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",OTHER MANAGERS AND PROPRIETORS,Managers and Proprietors in Other Services,Managers and proprietors in other services n.e.c.,10953
-"PROCESS, PLANT AND MACHINE OPERATIVES",TRANSPORT AND MOBILE MACHINE DRIVERS AND OPERATIVES,Road Transport Drivers,Large goods vehicle drivers,7450
-PROFESSIONAL OCCUPATIONS,HEALTH PROFESSIONALS,Nursing and Midwifery Professionals,Nurses,200050
+"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",OTHER MANAGERS AND PROPRIETORS,Managers and Proprietors in Other Services,Managers and proprietors in other services n.e.c.,13575
+"MANAGERS, DIRECTORS AND SENIOR OFFICIALS",OTHER MANAGERS AND PROPRIETORS,Managers and Proprietors in Other Services,"Property, housing and estate managers",3482
+"PROCESS, PLANT AND MACHINE OPERATIVES",All other postings,All other postings,All other postings,4815
+"PROCESS, PLANT AND MACHINE OPERATIVES",TRANSPORT AND MOBILE MACHINE DRIVERS AND OPERATIVES,Road Transport Drivers,Large goods vehicle drivers,11000
+"PROCESS, PLANT AND MACHINE OPERATIVES",TRANSPORT AND MOBILE MACHINE DRIVERS AND OPERATIVES,Road Transport Drivers,Van drivers,3660
+PROFESSIONAL OCCUPATIONS,All other postings,All other postings,All other postings,32301
+PROFESSIONAL OCCUPATIONS,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS","Architects, Town Planners and Surveyors",Chartered architectural technologists,1350
+PROFESSIONAL OCCUPATIONS,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS","Architects, Town Planners and Surveyors",Construction project managers and related professionals,1619
+PROFESSIONAL OCCUPATIONS,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS","Architects, Town Planners and Surveyors",Quantity surveyors,3290
+PROFESSIONAL OCCUPATIONS,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS","Business, Research and Administrative Professionals",Business and financial project management professionals,4254
+PROFESSIONAL OCCUPATIONS,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS","Business, Research and Administrative Professionals",Business and related research professionals,3336
+PROFESSIONAL OCCUPATIONS,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS","Business, Research and Administrative Professionals",Chartered and certified accountants,2844
+PROFESSIONAL OCCUPATIONS,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS","Business, Research and Administrative Professionals",Management consultants and business analysts,4618
+PROFESSIONAL OCCUPATIONS,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS",Legal Professionals,Solicitors,1769
+PROFESSIONAL OCCUPATIONS,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS",Quality and Regulatory Professionals,Quality assurance and regulatory professionals,2110
+PROFESSIONAL OCCUPATIONS,"BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS",Quality and Regulatory Professionals,Quality control and planning engineers,3604
+PROFESSIONAL OCCUPATIONS,HEALTH PROFESSIONALS,Health Professionals,Pharmacists,3389
+PROFESSIONAL OCCUPATIONS,HEALTH PROFESSIONALS,Nursing and Midwifery Professionals,Nurses,205477
 PROFESSIONAL OCCUPATIONS,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",Engineering Professionals,Civil engineers,11458
+PROFESSIONAL OCCUPATIONS,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",Engineering Professionals,Design and development engineers,2113
+PROFESSIONAL OCCUPATIONS,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",Engineering Professionals,Electrical engineers,3924
+PROFESSIONAL OCCUPATIONS,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",Engineering Professionals,Engineering professionals n.e.c.,5347
 PROFESSIONAL OCCUPATIONS,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",Engineering Professionals,Mechanical engineers,7572
+PROFESSIONAL OCCUPATIONS,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",Information Technology and Telecommunications Professionals,"IT business analysts, architects and systems designers",4453
+PROFESSIONAL OCCUPATIONS,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",Information Technology and Telecommunications Professionals,IT project and programme managers,2892
+PROFESSIONAL OCCUPATIONS,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",Information Technology and Telecommunications Professionals,Information technology and telecommunications professionals n.e.c.,3091
 PROFESSIONAL OCCUPATIONS,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",Information Technology and Telecommunications Professionals,Programmers and software development professionals,17272
-PROFESSIONAL OCCUPATIONS,TEACHING AND EDUCATIONAL PROFESSIONALS,Teaching and Educational Professionals,Teaching and other educational professionals n.e.c.,16871
+PROFESSIONAL OCCUPATIONS,"SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",Information Technology and Telecommunications Professionals,Web design and development professionals,3981
+PROFESSIONAL OCCUPATIONS,TEACHING AND EDUCATIONAL PROFESSIONALS,Teaching and Educational Professionals,Higher education teaching professionals,2831
+PROFESSIONAL OCCUPATIONS,TEACHING AND EDUCATIONAL PROFESSIONALS,Teaching and Educational Professionals,Primary and nursery education teaching professionals,2029
+PROFESSIONAL OCCUPATIONS,TEACHING AND EDUCATIONAL PROFESSIONALS,Teaching and Educational Professionals,Teaching and other educational professionals n.e.c.,18856
+SALES AND CUSTOMER SERVICE OCCUPATIONS,All other postings,All other postings,All other postings,6456
+SALES AND CUSTOMER SERVICE OCCUPATIONS,CUSTOMER SERVICE OCCUPATIONS,Customer Service Managers and Supervisors,Customer service managers and supervisors,1654
+SALES AND CUSTOMER SERVICE OCCUPATIONS,CUSTOMER SERVICE OCCUPATIONS,Customer Service Occupations,Customer service occupations n.e.c.,3081
 SALES AND CUSTOMER SERVICE OCCUPATIONS,SALES OCCUPATIONS,Sales Assistants and Retail Cashiers,Sales and retail assistants,6994
-SALES AND CUSTOMER SERVICE OCCUPATIONS,SALES OCCUPATIONS,Sales Related Occupations,Sales related occupations n.e.c.,6483
+SALES AND CUSTOMER SERVICE OCCUPATIONS,SALES OCCUPATIONS,Sales Related Occupations,Merchandisers and window dressers,5213
+SALES AND CUSTOMER SERVICE OCCUPATIONS,SALES OCCUPATIONS,Sales Related Occupations,Sales related occupations n.e.c.,13506
+SALES AND CUSTOMER SERVICE OCCUPATIONS,SALES OCCUPATIONS,Sales Supervisors,Sales supervisors,4253
+SKILLED TRADES OCCUPATIONS,All other postings,All other postings,All other postings,10784
+SKILLED TRADES OCCUPATIONS,SKILLED CONSTRUCTION AND BUILDING TRADES,Construction and Building Trades,Plumbers and heating and ventilating engineers,2864
+SKILLED TRADES OCCUPATIONS,"SKILLED METAL, ELECTRICAL AND ELECTRONIC TRADES",Electrical and Electronic Trades,Electrical and electronic trades n.e.c.,1301
+SKILLED TRADES OCCUPATIONS,"SKILLED METAL, ELECTRICAL AND ELECTRONIC TRADES",Electrical and Electronic Trades,Electricians and electrical fitters,3769
 SKILLED TRADES OCCUPATIONS,"TEXTILES, PRINTING AND OTHER SKILLED TRADES",Food Preparation and Hospitality Trades,Chefs,13199
 SKILLED TRADES OCCUPATIONS,"TEXTILES, PRINTING AND OTHER SKILLED TRADES",Food Preparation and Hospitality Trades,Cooks,12243

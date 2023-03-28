@@ -91,9 +91,9 @@ if __name__ == '__main__':
     postings_hierarchy = postings_by_soc_code
 
     # Clip the smaller postings (less than 0.5%)
-    clip = postings_by_soc_code['count'].sum() * 0.005
+    clip = postings_by_soc_code['count'].sum() * 0.001
     postings_hierarchy.loc[postings_hierarchy['count']
-                           < clip, ['major_title', 'sub_major_title', 'minor_title', 'unit_title']] = 'All other postings'
+                           < clip, ['sub_major_title', 'minor_title', 'unit_title']] = 'All other postings'
 
     postings_hierarchy.groupby([
         'major_title', 'sub_major_title', 'minor_title', 'unit_title'
