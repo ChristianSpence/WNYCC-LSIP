@@ -1,6 +1,11 @@
 ---
 layout: layouts/default.njk
 ---
+<h1>Skills Supply: Further Education</h1>
+<p>
+    This page shows the latest available data (2021/22) for further education (FE), 
+    which is education below degree level for people above school age. 
+    </p>
 {# Summary headlines #}
 {% comp 'dashboard.grid', {max_width: '10rem'} %}
 {{ comp.dashboard.headline({
@@ -13,7 +18,10 @@ layout: layouts/default.njk
     }) | safe }}
 {% endcomp %}
 
-
+<h2> Breakdowns by Local Authority </h2>
+<p> The following figures show data on Basic Skills, which consists of English and Maths up to GSCE level and basic digital skills. 
+    Participation represents anyone who took part on the course at any point during the year. Achievement represents anyone who gained a qualification
+    during the year. </p>
 {% comp 'dashboard.pane' %}
 <table class="centred-block">
 <thead>
@@ -35,7 +43,6 @@ layout: layouts/default.njk
 </tbody>
 </table>
 {% endcomp %}
-
 
 {% comp 'dashboard.grid' %}
     {% comp 'dashboard.pane' %}
@@ -75,6 +82,11 @@ layout: layouts/default.njk
         {% endcomp %}
 {% endcomp %}
 
+<h2> National Vocational Qulaification (NVQ) </h2>
+<p> The NVQ is a work based qualification. In the figures below, 'enrolments' represents anyone who took part in the 
+    course during the year, while 'achievements' represents those that gained a qualification. 
+    There are breakdowns by gender, ethnicity, NVQ level and subject.
+    <p>
 {% comp 'dashboard.pane' %}
     <p class="centred">Students Entering/Completing FE by subject area</p>
     {{ comp.oi.chart.bar({
@@ -91,7 +103,9 @@ layout: layouts/default.njk
     {% endcomp %}
 
 {# {{comp.DEBUG({metric:2021_22.e_and_t_aims_enrolments_sex_notional_nvq_level.rows}) | safe}} #}
-
+<p>NVQ level 1 is roughly equivalent to 3/4 GCSE grades D-G. NVQ level 4 is roughlly equivalent 
+    to a Higher Education Certificate/BTEC
+    </p>
 {%comp 'dashboard.grid' %}
     {% comp 'dashboard.pane' %}
         <p class="centred">NVQ Enrolments: Level and Gender Split</p>
@@ -195,7 +209,16 @@ layout: layouts/default.njk
             }) | safe }}
         {% endcomp %}
 {% endcomp %}
-
+<h2> Apprenticeships </h2>
+<li>
+      Intermediate: Level 2
+    </li>
+<li>
+    <a>Advanced: Level 3</a>
+    </li>
+<li>
+    <a>Higher: Level 4/5</a>
+    </li>
 {% comp 'dashboard.grid' %}
 {% comp 'dashboard.pane' %}
         <p class="centred">Apprenticeship Participations: Level and Age Split</p>
