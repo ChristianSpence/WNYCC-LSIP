@@ -85,9 +85,31 @@ layout: layouts/default.njk
 <h2> National Vocational Qulaification (NVQ) </h2>
 <p> The NVQ is a work based qualification. In the figures below, 'enrolments' represents anyone who took part in the 
     course during the year, while 'achievements' represents those that gained a qualification. 
-    There are breakdowns by gender, ethnicity, NVQ level and subject.
+    There are breakdowns by gender, ethnicity, NVQ level and subject. NVQ level 1 is roughly equivalent to 3/4 
+    GCSE grades D-G. NVQ level 4 is roughlly equivalent to a Higher Education Certificate/BTEC.
     <p>
-{% comp 'dashboard.pane' %}
+In the treemap below, the area of each rectangle represents the number of enrolments in each subject.
+<div data-dependencies="/assets/js/treemap-popup.js">
+{{
+  comp.oi.viz.beta.tree_map({
+    config: {
+      table: 2021_22.e_and_t_aims_enrolments_ssa_t1_desc_ethnicity_group.rows,
+      grouping: mapper.treemap.supply_fe.grouping,
+      reduce: mapper.treemap.supply_fe.reduce,
+      width: 800,
+      height: 600,
+      padding: 0,
+      dataMapper: mapper.treemap.supply_fe.data,
+      nameMapper: mapper.treemap.supply_fe.name,
+      valueKey: 'total',
+      ratio: 3.5,
+      colourMapper: mapper.treemap.supply_fe.colour
+    }
+  }) | safe 
+}}
+</div>
+
+{# {% comp 'dashboard.pane' %}
     <p class="centred">Students Entering/Completing FE by subject area</p>
     {{ comp.oi.chart.bar({
         config: {
@@ -100,12 +122,9 @@ layout: layouts/default.njk
             }
         }
         }) | safe }}
-    {% endcomp %}
+    {% endcomp %} #}
 
 {# {{comp.DEBUG({metric:2021_22.e_and_t_aims_enrolments_sex_notional_nvq_level.rows}) | safe}} #}
-<p>NVQ level 1 is roughly equivalent to 3/4 GCSE grades D-G. NVQ level 4 is roughlly equivalent 
-    to a Higher Education Certificate/BTEC
-    </p>
 {%comp 'dashboard.grid' %}
     {% comp 'dashboard.pane' %}
         <p class="centred">NVQ Enrolments: Level and Gender Split</p>
@@ -210,15 +229,16 @@ layout: layouts/default.njk
         {% endcomp %}
 {% endcomp %}
 <h2> Apprenticeships </h2>
-<li>
-      Intermediate: Level 2
-    </li>
-<li>
-    <a>Advanced: Level 3</a>
-    </li>
-<li>
-    <a>Higher: Level 4/5</a>
-    </li>
+<p> Shown below is the apprenticeship level of study for different age groups. The levels are roughly as follows:
+    <li>
+        Intermediate: Level 2
+        </li>
+    <li>
+        <a>Advanced: Level 3</a>
+        </li>
+    <li>
+        <a>Higher: Level 4/5</a>
+        </li>
 {% comp 'dashboard.grid' %}
 {% comp 'dashboard.pane' %}
         <p class="centred">Apprenticeship Participations: Level and Age Split</p>
@@ -269,27 +289,3 @@ layout: layouts/default.njk
         }) | safe }}
     {% endcomp %}
 {% endfor %} #}
-
-
-
-<h2>Treemap</h2>
-
-<div data-dependencies="/assets/js/treemap-popup.js">
-{{
-  comp.oi.viz.beta.tree_map({
-    config: {
-      table: 2021_22.e_and_t_aims_enrolments_ssa_t1_desc_ethnicity_group.rows,
-      grouping: mapper.treemap.supply_fe.grouping,
-      reduce: mapper.treemap.supply_fe.reduce,
-      width: 800,
-      height: 600,
-      padding: 0,
-      dataMapper: mapper.treemap.supply_fe.data,
-      nameMapper: mapper.treemap.supply_fe.name,
-      valueKey: 'Asian/ Asian British',
-      ratio: 3.5,
-      colourMapper: mapper.treemap.supply_fe.colour
-    }
-  }) | safe 
-}}
-</div>

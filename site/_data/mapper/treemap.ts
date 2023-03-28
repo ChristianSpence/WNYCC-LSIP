@@ -20,9 +20,13 @@ export const soc4Demand = {
     const { unit_title, minor_title, sub_major_title, major_title, count } =
       d.data;
 
-    let title = [ major_title, sub_major_title, minor_title, unit_title ].join(' / ');
-    if ( unit_title === 'All other postings' ) title = [ major_title, unit_title ].join(' / ');
-    return `${ title }: ${ count.toLocaleString() } postings`;
+    let title = [major_title, sub_major_title, minor_title, unit_title].join(
+      " / ",
+    );
+    if (unit_title === "All other postings") {
+      title = [major_title, unit_title].join(" / ");
+    }
+    return `${title}: ${count.toLocaleString()} postings`;
   },
   colour: (d) => {
     const { major_title } = d.data;
@@ -46,17 +50,41 @@ export const soc4Demand = {
 
 export const supply_fe = {
   grouping: [
-    (d) => 'Subject'
+    (d) => "Subject",
   ],
   reduce: (d) => d,
-  colour: (d) => "#aaa",
+  // colour: (d) => "#aaa",
   data: (d) => {
     if (d.height > 0) {
-      d.data =  { title: d.data[0] || 'ROOT', children: d.data[1] };
+      d.data = { title: d.data[0] || "ROOT", children: d.data[1] };
     }
     if (d.height === 0) d.data.title = d.data.ssa_t1_desc;
   },
   name: (d) => {
     return `${d.data.ssa_t1_desc} had ${d.value} enrolments`;
+  },
+  colour: (d) => {
+    const { ssa_t1_desc } = d.data;
+    const colourTable = {
+      "Agriculture, Horticulture and Animal Care": hslToHex(16, 50, 50),
+      "Arts, Media and Publishing": hslToHex(32, 50, 50),
+      "Business, Administration and Law": hslToHex(48, 50, 50),
+      "Construction, Planning and the Built Environment": hslToHex(64, 50, 50),
+      "Education and Training": hslToHex(80, 50, 50),
+      "Engineering and Manufacturing Technologies": hslToHex(96, 50, 50),
+      "Health, Public Services and Care": hslToHex(112, 50, 50),
+      "History, Philosophy and Theology": hslToHex(128, 50, 50),
+      "Information and Communication Technology": hslToHex(144, 50, 50),
+      "Languages, Literature and Culture": hslToHex(160, 50, 50),
+      "Leisure, Travel and Tourism": hslToHex(176, 50, 50),
+      "Not Applicable/ Not Known": hslToHex(192, 50, 50),
+      "Preparation for Life and Work": hslToHex(208, 50, 50),
+      "Retail and Commercial Enterprise": hslToHex(224, 50, 50),
+      "Science and Mathematics": hslToHex(240, 50, 50),
+      "Social Sciences": hslToHex(256, 50, 50),
+    };
+    if (!ssa_t1_desc) return "#aaaaaa";
+    const colour = colourTable[ssa_t1_desc as string];
+    return colour;
   },
 };
