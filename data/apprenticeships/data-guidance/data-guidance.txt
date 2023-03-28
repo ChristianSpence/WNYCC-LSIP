@@ -1,0 +1,78 @@
+Apprenticeships and traineeships
+2022/23 Academic year
+
+Description
+
+This document describes the contents of the underlying data files accompanying the ‘Apprenticeships and traineeships’ statistics publication. There is a Methodology document that is linked under ‘Useful information’ at the top of the release, that contains further information on the statistics published here.
+
+Coverage
+
+England
+
+Data files
+
+Geography Region and LAD - Starts, Achievements by Sex, Level, Ethnicity, SSA
+
+Filename: app-geography-detailed-202223-q1.csv
+Geographic levels: Local authority district; National; Regional
+Time period: 2022/23
+Content summary: Detailed geographical breakdowns (National, Regional, Local Authority District) of  apprenticeship starts and achievements
+
+Academic year: 2022/23 (Aug-Oct, reported to date)
+
+Indicators: Starts, Achievements
+
+Filters: Apprenticeship level, Ethnicity group, Sex, Sector subject area (tier 1)
+
+Variable names and descriptions for this file are provided below:
+
+Variable name    |  Variable description
+---------------  |  ----------------------------
+achievements     |  Achievements
+apps_level       |  Apprenticeship level
+ethnicity_group  |  Ethnicity group
+sex              |  Sex
+ssa_t1_desc      |  Sector subject area (tier 1)
+starts           |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5 but greater than 0. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Age, sex, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner.
+3. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+4. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+5. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+6. Comparisons of learner characteristics using provisional in-year data are less reliable than using full-year final data (published in November). Differences between provisional and final figures vary throughout and between academic years
+7. White comprises white British, Gypsy or Irish Traveller, Irish, and any other white background.
+8. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+9. Geographies are taken from the National Statistics Postcode Lookup based on boundaries as of May 2022.
+
+
+Providers - Starts, Achievements by Provider Name, UKPRN, Provider Type, Level, SSA
+
+Filename: app-provider-starts-202223-q1.csv
+Geographic levels: Provider
+Time period: 2017/18 to 2022/23
+Content summary: Breakdowns of apprenticeship starts and achievements by individual provider
+
+Academic years: 2017/18 to 2021/22 full academic years, 2022/23 (Aug-Oct, reported to date)
+
+Indicators:  Starts, Achievements
+
+Filters:  Apprenticeship level, Sector subject area (tier 1), Provider name (with UKPRN)
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+------------  |  ----------------------------
+achievements  |  Achievements
+apps_level    |  Level
+ssa_t1_desc   |  Sector subject area (tier 1)
+starts        |  Starts
+
+Footnotes:
+
+1. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+2. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+3. Provider UKPRN is shown after the provider name.
+4. Figures for 2022/23 are provisional and cover the first quarter (Aug to Oct 2022). All other years are final, full-year figures.
