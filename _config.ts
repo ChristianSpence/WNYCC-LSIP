@@ -7,6 +7,7 @@ import inline from "lume/plugins/inline.ts";
 import metas from "lume/plugins/metas.ts";
 import minify_html from "lume/plugins/minify_html.ts";
 import postcss from "lume/plugins/postcss.ts";
+import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import oiCharts from "oi-lume-charts/mod.ts";
 import csvLoader from "oi-lume-utils/loaders/csv-loader.ts";
 import autoDependency from "oi-lume-utils/processors/auto-dependency.ts";
@@ -30,6 +31,8 @@ site.use(date());
 site.use(inline());
 site.use(metas());
 site.use(postcss());
+site.use(slugifyUrls());
+
 site.use(oiCharts({
   assetPath: "/assets/oi",
   componentNamespace: "oi",

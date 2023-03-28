@@ -461,6 +461,7 @@
     "https://deno.land/x/lume@v1.15.1/deps/path.ts": "4074013258f93b9ad3ef3c017664c7b942c6c2ecccb839e8d311b8dbe74dc617",
     "https://deno.land/x/lume@v1.15.1/deps/postcss.ts": "01123b56f44b3e47e0309bb17c744dd777d39656bfa97e55dce39b1693e44e2b",
     "https://deno.land/x/lume@v1.15.1/deps/react.ts": "6ce99e14ad6bd9ce09f69c90b5a5597e44be78eab7f334bcab31f4824b12536a",
+    "https://deno.land/x/lume@v1.15.1/deps/unidecode.ts": "7479d3695704320279c8c3468ec4801a70064a7471f9974e04c45852ca882769",
     "https://deno.land/x/lume@v1.15.1/deps/yaml.ts": "061a253b5bb7b65d3083b46ba0ee1893f2c243bd6b049dbd108cea2c418431cf",
     "https://deno.land/x/lume@v1.15.1/middlewares/logger.ts": "69e69099a2e3a8c62d0bb62014381337f6e855c6b330e210e4a705fe8111e10a",
     "https://deno.land/x/lume@v1.15.1/middlewares/no_cache.ts": "95fb11d820d931b6aca268fa30aee22e315c556bd214e135bb9b5ddbcbe039d6",
@@ -484,6 +485,7 @@
     "https://deno.land/x/lume@v1.15.1/plugins/paginate.ts": "0fefcbb290088bfa8770b84af3cd092a5fd9e8abd0adb426eb74be0927abc0da",
     "https://deno.land/x/lume@v1.15.1/plugins/postcss.ts": "5dc3a6e76293db27a7b98e4f63f1a38fb7c7ca6038628adee79c1b6698795215",
     "https://deno.land/x/lume@v1.15.1/plugins/search.ts": "63b29bf31dfdb4cb9146b5e82c5d86190507842f5da0b85be9ed310c15752076",
+    "https://deno.land/x/lume@v1.15.1/plugins/slugify_urls.ts": "321ab12f08f82711135699dc85f6d530a73c105dd87ae50a9b70505df556b767",
     "https://deno.land/x/lume@v1.15.1/plugins/source_maps.ts": "3d3d97691937019949fa791dbd61002c42d918d07cc7cc37028c5018b9aa1bc4",
     "https://deno.land/x/lume@v1.15.1/plugins/url.ts": "43d3d47896a7322a8dd34572dedb4baa6f73a382594a2ff7c34a3a064dcc6c9e",
     "https://deno.land/x/lume@v1.15.1/plugins/yaml.ts": "df24aac4098dba258f1ac331a3b16ba488a336eb63c51afed8f59201228d583c",
@@ -761,7 +763,8 @@
       "postcss-nesting@10.2.0": "postcss-nesting@10.2.0_postcss@8.4.21_postcss-selector-parser@6.0.11",
       "postcss@8.4.21": "postcss@8.4.21",
       "react-dom@18.2.0": "react-dom@18.2.0_react@18.2.0",
-      "react@18.2.0": "react@18.2.0"
+      "react@18.2.0": "react@18.2.0",
+      "unidecode@0.1.8": "unidecode@0.1.8"
     },
     "packages": {
       "@csstools/selector-specificity@2.2.0_postcss-selector-parser@6.0.11": {
@@ -983,6 +986,10 @@
       },
       "uc.micro@1.0.6": {
         "integrity": "sha512-8Y75pvTYkLJW2hWQHXxoqRgV7qb9B+9vFEtidML+7koHUFapnVJAZ6cKs+Qjz5Aw3aZWHMC6u0wJE3At+nSGwA==",
+        "dependencies": {}
+      },
+      "unidecode@0.1.8": {
+        "integrity": "sha512-SdoZNxCWpN2tXTCrGkPF/0rL2HEq+i2gwRG1ReBvx8/0yTzC3enHfugOf8A9JBShVwwrRIkLX0YcDUGbzjbVCA==",
         "dependencies": {}
       },
       "update-browserslist-db@1.0.10_browserslist@4.21.5": {

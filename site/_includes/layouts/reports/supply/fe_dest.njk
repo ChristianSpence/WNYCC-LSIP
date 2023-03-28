@@ -1,7 +1,7 @@
 ---
 layout: layouts/default.njk
 datasets:
-  - fe_dest/16-18 local authority level destinations
+  - fe_dest/16-18-local-authority-level-destinations
 ---
 <h1>Skills Supply: 16-18 Destinations</h1>
 <p>This page shows the latest data (2020/21) for the current level of 16-18 study and their intended destinations.
@@ -12,9 +12,11 @@ datasets:
 
 <ul>
   {% for dataset in datasets %}
-    {% set page = search.page("url=/metadata/" + dataset + "/" ) %}
+    {{ dataset | slugify }}
+    {% set page = search.page("url=/metadata/" + (dataset | escape) + "/" ) %}
     <li>
-      <a href="{{ page.url}}">
+      {{ page.data }}
+      <a href="{{ page.url }}">
         {{ page.title }} from {{ page.origin }}
       </a>
     </li>
