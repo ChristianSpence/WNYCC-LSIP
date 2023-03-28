@@ -27,10 +27,9 @@ def load_data(filepath, group=None, fill_na=True, na_values=None, value=2):
 
     #read csv
     if fill_na == True:
-        data = pd.read_csv(filepath, na_values=na_values)
-        data.update(data.iloc[:, list(data.dtypes == 'float64')].fillna(value))
-        #TODO update so that 'low' values and 'NA' treated differerntly.
-        #data.fillna(0)
+        data = pd.read_csv(filepath)
+        data = data.replace(['low'], value)
+        #data =  pd.to_numeric(data, errors='coerce') #invalid parsing set as NaN
         
     else:
         data = pd.read_csv(filepath)
