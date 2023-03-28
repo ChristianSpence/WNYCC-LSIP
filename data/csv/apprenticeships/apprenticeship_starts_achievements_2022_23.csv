@@ -1,0 +1,729 @@
+date,geography_code,geography_name,ssa_t1_desc,apprenticeship_level,starts,achievements
+2022/23,E07000167,Ryedale,Retail and Commercial Enterprise,Intermediate Apprenticeship,10,low
+2022/23,E08000032,Bradford,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Total,Total,240,50
+2022/23,E08000035,Leeds,Social Sciences,Total,low,low
+2022/23,E07000165,Harrogate,Total,Intermediate Apprenticeship,80,30
+2022/23,E07000163,Craven,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,low,low
+2022/23,E07000163,Craven,"Arts, Media and Publishing",Advanced Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,Retail and Commercial Enterprise,Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,"Arts, Media and Publishing",Total,low,low
+2022/23,E08000034,Kirklees,Information and Communication Technology,Advanced Apprenticeship,30,10
+2022/23,E07000164,Hambleton,"Health, Public Services and Care",Total,110,10
+2022/23,E07000166,Richmondshire,"Leisure, Travel and Tourism",Total,low,low
+2022/23,E07000165,Harrogate,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,20,low
+2022/23,E08000033,Calderdale,Information and Communication Technology,Higher Apprenticeship,20,low
+2022/23,E08000033,Calderdale,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E07000167,Ryedale,"Construction, Planning and the Built Environment",Higher Apprenticeship,low,low
+2022/23,E08000033,Calderdale,Retail and Commercial Enterprise,Advanced Apprenticeship,10,low
+2022/23,E07000169,Selby,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,50,low
+2022/23,E07000165,Harrogate,"History, Philosophy and Theology",Total,low,low
+2022/23,E07000167,Ryedale,"Agriculture, Horticulture and Animal Care",Total,20,low
+2022/23,E08000033,Calderdale,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E08000034,Kirklees,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E07000168,Scarborough,"Health, Public Services and Care",Higher Apprenticeship,40,low
+2022/23,E06000014,York,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,10,low
+2022/23,E07000167,Ryedale,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E06000014,York,Retail and Commercial Enterprise,Total,40,20
+2022/23,E07000163,Craven,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E08000034,Kirklees,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E07000168,Scarborough,"Health, Public Services and Care",Advanced Apprenticeship,20,10
+2022/23,E08000035,Leeds,"Construction, Planning and the Built Environment",Higher Apprenticeship,40,low
+2022/23,E07000168,Scarborough,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Information and Communication Technology,Higher Apprenticeship,20,low
+2022/23,E07000168,Scarborough,Information and Communication Technology,Advanced Apprenticeship,low,low
+2022/23,E08000036,Wakefield,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E07000163,Craven,Retail and Commercial Enterprise,Intermediate Apprenticeship,10,low
+2022/23,E07000167,Ryedale,Information and Communication Technology,Total,low,low
+2022/23,E08000034,Kirklees,Retail and Commercial Enterprise,Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E08000034,Kirklees,"Business, Administration and Law",Intermediate Apprenticeship,50,20
+2022/23,E06000014,York,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Retail and Commercial Enterprise,Total,20,10
+2022/23,E07000165,Harrogate,"Construction, Planning and the Built Environment",Advanced Apprenticeship,10,low
+2022/23,E06000014,York,Information and Communication Technology,Advanced Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E07000169,Selby,"Arts, Media and Publishing",Advanced Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Social Sciences,Total,low,low
+2022/23,E07000166,Richmondshire,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,"Arts, Media and Publishing",Advanced Apprenticeship,10,low
+2022/23,E08000032,Bradford,"Business, Administration and Law",Intermediate Apprenticeship,30,20
+2022/23,E08000034,Kirklees,Retail and Commercial Enterprise,Total,80,20
+2022/23,E07000167,Ryedale,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,low,low
+2022/23,E07000169,Selby,"Business, Administration and Law",Total,70,20
+2022/23,E07000169,Selby,"Construction, Planning and the Built Environment",Higher Apprenticeship,10,low
+2022/23,E07000169,Selby,"Health, Public Services and Care",Intermediate Apprenticeship,10,low
+2022/23,E08000033,Calderdale,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E07000163,Craven,Total,Higher Apprenticeship,40,10
+2022/23,E08000033,Calderdale,Engineering and Manufacturing Technologies,Total,90,20
+2022/23,E06000014,York,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E07000169,Selby,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,low,low
+2022/23,E07000163,Craven,"Health, Public Services and Care",Advanced Apprenticeship,20,low
+2022/23,E07000167,Ryedale,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,10,low
+2022/23,E07000168,Scarborough,"Arts, Media and Publishing",Advanced Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Construction, Planning and the Built Environment",Total,30,low
+2022/23,E08000033,Calderdale,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,10,low
+2022/23,E08000036,Wakefield,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,low,low
+2022/23,E08000035,Leeds,Engineering and Manufacturing Technologies,Total,240,50
+2022/23,E07000165,Harrogate,"Construction, Planning and the Built Environment",Higher Apprenticeship,10,low
+2022/23,E08000032,Bradford,Retail and Commercial Enterprise,Higher Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Information and Communication Technology,Total,10,low
+2022/23,E08000033,Calderdale,Engineering and Manufacturing Technologies,Higher Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E08000034,Kirklees,Retail and Commercial Enterprise,Advanced Apprenticeship,20,10
+2022/23,E06000014,York,Retail and Commercial Enterprise,Advanced Apprenticeship,20,low
+2022/23,E08000035,Leeds,Engineering and Manufacturing Technologies,Higher Apprenticeship,20,low
+2022/23,E08000032,Bradford,Retail and Commercial Enterprise,Total,110,40
+2022/23,E08000036,Wakefield,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Business, Administration and Law",Advanced Apprenticeship,140,30
+2022/23,E07000165,Harrogate,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E07000168,Scarborough,"Business, Administration and Law",Intermediate Apprenticeship,10,low
+2022/23,E08000036,Wakefield,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E08000036,Wakefield,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Information and Communication Technology,Higher Apprenticeship,10,low
+2022/23,E07000168,Scarborough,"Construction, Planning and the Built Environment",Higher Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Total,Intermediate Apprenticeship,60,10
+2022/23,E08000033,Calderdale,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E08000032,Bradford,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E06000014,York,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,20,10
+2022/23,E07000169,Selby,"Health, Public Services and Care",Higher Apprenticeship,20,low
+2022/23,E07000168,Scarborough,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,Retail and Commercial Enterprise,Intermediate Apprenticeship,low,low
+2022/23,E07000167,Ryedale,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,10,low
+2022/23,E07000166,Richmondshire,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,"Health, Public Services and Care",Intermediate Apprenticeship,140,30
+2022/23,E08000033,Calderdale,"Agriculture, Horticulture and Animal Care",Total,10,low
+2022/23,E07000167,Ryedale,Total,Total,130,40
+2022/23,E07000164,Hambleton,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"Business, Administration and Law",Intermediate Apprenticeship,10,low
+2022/23,E08000034,Kirklees,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E08000034,Kirklees,Engineering and Manufacturing Technologies,Total,250,40
+2022/23,E08000035,Leeds,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,80,10
+2022/23,E07000166,Richmondshire,Information and Communication Technology,Advanced Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Business, Administration and Law",Advanced Apprenticeship,40,10
+2022/23,E08000034,Kirklees,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,50,10
+2022/23,E08000034,Kirklees,"Health, Public Services and Care",Intermediate Apprenticeship,70,20
+2022/23,E07000165,Harrogate,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E08000036,Wakefield,"Arts, Media and Publishing",Advanced Apprenticeship,low,low
+2022/23,E08000036,Wakefield,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,20,low
+2022/23,E08000036,Wakefield,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,50,20
+2022/23,E08000033,Calderdale,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E08000032,Bradford,Education and Training,Total,40,10
+2022/23,E06000014,York,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E07000167,Ryedale,Retail and Commercial Enterprise,Higher Apprenticeship,low,low
+2022/23,E08000035,Leeds,Total,Intermediate Apprenticeship,460,90
+2022/23,E07000167,Ryedale,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E07000163,Craven,Total,Advanced Apprenticeship,50,10
+2022/23,E08000034,Kirklees,Education and Training,Advanced Apprenticeship,20,10
+2022/23,E08000033,Calderdale,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,"History, Philosophy and Theology",Total,low,low
+2022/23,E07000168,Scarborough,Engineering and Manufacturing Technologies,Higher Apprenticeship,10,low
+2022/23,E08000033,Calderdale,Engineering and Manufacturing Technologies,Advanced Apprenticeship,70,10
+2022/23,E08000033,Calderdale,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Arts, Media and Publishing",Advanced Apprenticeship,10,low
+2022/23,E08000036,Wakefield,"Business, Administration and Law",Total,250,80
+2022/23,E07000168,Scarborough,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"Health, Public Services and Care",Total,90,30
+2022/23,E07000167,Ryedale,"Leisure, Travel and Tourism",Total,low,low
+2022/23,E08000033,Calderdale,"Business, Administration and Law",Higher Apprenticeship,70,20
+2022/23,E08000032,Bradford,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,60,10
+2022/23,E08000035,Leeds,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E07000167,Ryedale,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E07000163,Craven,"Agriculture, Horticulture and Animal Care",Total,10,low
+2022/23,E07000166,Richmondshire,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E07000168,Scarborough,"Business, Administration and Law",Advanced Apprenticeship,10,low
+2022/23,E08000034,Kirklees,Education and Training,Total,40,10
+2022/23,E08000036,Wakefield,"Business, Administration and Law",Higher Apprenticeship,120,30
+2022/23,E08000033,Calderdale,Education and Training,Advanced Apprenticeship,low,low
+2022/23,E08000035,Leeds,"Agriculture, Horticulture and Animal Care",Total,20,10
+2022/23,E06000014,York,"Construction, Planning and the Built Environment",Total,90,10
+2022/23,E07000169,Selby,"Health, Public Services and Care",Total,60,10
+2022/23,E07000165,Harrogate,Total,Higher Apprenticeship,120,30
+2022/23,E06000014,York,"Construction, Planning and the Built Environment",Higher Apprenticeship,10,low
+2022/23,E07000166,Richmondshire,"Health, Public Services and Care",Higher Apprenticeship,10,low
+2022/23,E07000163,Craven,"Construction, Planning and the Built Environment",Advanced Apprenticeship,10,low
+2022/23,E07000166,Richmondshire,Information and Communication Technology,Higher Apprenticeship,low,low
+2022/23,E07000163,Craven,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E08000036,Wakefield,"Health, Public Services and Care",Higher Apprenticeship,110,20
+2022/23,E07000167,Ryedale,Retail and Commercial Enterprise,Advanced Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Retail and Commercial Enterprise,Intermediate Apprenticeship,10,low
+2022/23,E08000034,Kirklees,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E08000034,Kirklees,"Business, Administration and Law",Total,290,100
+2022/23,E07000164,Hambleton,"Arts, Media and Publishing",Advanced Apprenticeship,low,low
+2022/23,E07000169,Selby,Information and Communication Technology,Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Business, Administration and Law",Total,50,20
+2022/23,E08000035,Leeds,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,10,low
+2022/23,E07000169,Selby,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,"Business, Administration and Law",Total,460,150
+2022/23,E08000036,Wakefield,"Business, Administration and Law",Advanced Apprenticeship,110,40
+2022/23,E06000014,York,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,"Health, Public Services and Care",Total,1000,300
+2022/23,E07000166,Richmondshire,Information and Communication Technology,Total,low,low
+2022/23,E08000035,Leeds,"Construction, Planning and the Built Environment",Advanced Apprenticeship,60,low
+2022/23,E08000033,Calderdale,Education and Training,Total,low,low
+2022/23,E07000167,Ryedale,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,20,10
+2022/23,E06000014,York,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E06000014,York,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Engineering and Manufacturing Technologies,Advanced Apprenticeship,40,low
+2022/23,E08000034,Kirklees,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E08000032,Bradford,Information and Communication Technology,Higher Apprenticeship,40,10
+2022/23,E06000014,York,"Agriculture, Horticulture and Animal Care",Total,10,low
+2022/23,E08000032,Bradford,"Construction, Planning and the Built Environment",Total,100,10
+2022/23,E08000034,Kirklees,Total,Total,1190,280
+2022/23,E07000166,Richmondshire,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Education and Training,Advanced Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Business, Administration and Law",Total,280,80
+2022/23,E06000014,York,"Business, Administration and Law",Advanced Apprenticeship,30,20
+2022/23,E07000166,Richmondshire,"Business, Administration and Law",Intermediate Apprenticeship,low,low
+2022/23,E06000014,York,"Health, Public Services and Care",Total,110,30
+2022/23,E07000163,Craven,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E08000032,Bradford,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,60,10
+2022/23,E07000164,Hambleton,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Agriculture, Horticulture and Animal Care",Total,10,low
+2022/23,E08000036,Wakefield,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E07000169,Selby,"Business, Administration and Law",Intermediate Apprenticeship,10,low
+2022/23,E06000014,York,"Health, Public Services and Care",Intermediate Apprenticeship,20,10
+2022/23,E07000164,Hambleton,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Health, Public Services and Care",Total,320,100
+2022/23,E08000034,Kirklees,Engineering and Manufacturing Technologies,Higher Apprenticeship,20,low
+2022/23,E06000014,York,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E06000014,York,"History, Philosophy and Theology",Total,low,low
+2022/23,E07000163,Craven,"Health, Public Services and Care",Higher Apprenticeship,10,low
+2022/23,E07000169,Selby,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Health, Public Services and Care",Higher Apprenticeship,50,10
+2022/23,E07000167,Ryedale,"Leisure, Travel and Tourism",Advanced Apprenticeship,low,low
+2022/23,E08000034,Kirklees,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E08000033,Calderdale,Total,Intermediate Apprenticeship,130,40
+2022/23,E08000034,Kirklees,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E06000014,York,"Arts, Media and Publishing",Advanced Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Engineering and Manufacturing Technologies,Advanced Apprenticeship,90,20
+2022/23,E06000014,York,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Retail and Commercial Enterprise,Intermediate Apprenticeship,20,10
+2022/23,E07000163,Craven,"Health, Public Services and Care",Total,30,10
+2022/23,E07000165,Harrogate,Engineering and Manufacturing Technologies,Total,60,10
+2022/23,E08000034,Kirklees,Total,Advanced Apprenticeship,540,120
+2022/23,E07000167,Ryedale,"Health, Public Services and Care",Intermediate Apprenticeship,low,low
+2022/23,E08000032,Bradford,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E07000163,Craven,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E06000014,York,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E08000035,Leeds,"Leisure, Travel and Tourism",Intermediate Apprenticeship,10,low
+2022/23,E08000035,Leeds,Information and Communication Technology,Higher Apprenticeship,100,20
+2022/23,E07000163,Craven,Education and Training,Advanced Apprenticeship,low,low
+2022/23,E08000033,Calderdale,Information and Communication Technology,Total,40,10
+2022/23,E07000168,Scarborough,Retail and Commercial Enterprise,Total,20,10
+2022/23,E08000035,Leeds,"Business, Administration and Law",Intermediate Apprenticeship,50,10
+2022/23,E08000033,Calderdale,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Construction, Planning and the Built Environment",Higher Apprenticeship,10,low
+2022/23,E08000036,Wakefield,Retail and Commercial Enterprise,Advanced Apprenticeship,20,10
+2022/23,E08000033,Calderdale,Education and Training,Higher Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Retail and Commercial Enterprise,Total,40,10
+2022/23,E08000033,Calderdale,"History, Philosophy and Theology",Total,low,low
+2022/23,E07000166,Richmondshire,Total,Intermediate Apprenticeship,1000,300
+2022/23,E08000032,Bradford,"Construction, Planning and the Built Environment",Advanced Apprenticeship,30,low
+2022/23,E07000163,Craven,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E06000014,York,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E07000169,Selby,"Health, Public Services and Care",Advanced Apprenticeship,30,10
+2022/23,E07000169,Selby,"Construction, Planning and the Built Environment",Total,90,low
+2022/23,E08000035,Leeds,Total,Advanced Apprenticeship,670,210
+2022/23,E08000035,Leeds,Retail and Commercial Enterprise,Advanced Apprenticeship,40,10
+2022/23,E07000166,Richmondshire,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,low,low
+2022/23,E07000169,Selby,"Leisure, Travel and Tourism",Advanced Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,10,low
+2022/23,E08000035,Leeds,Total,Total,1720,440
+2022/23,E07000167,Ryedale,Social Sciences,Total,low,low
+2022/23,E08000033,Calderdale,"Construction, Planning and the Built Environment",Higher Apprenticeship,10,low
+2022/23,E07000167,Ryedale,"Arts, Media and Publishing",Advanced Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,"Business, Administration and Law",Total,30,10
+2022/23,E07000163,Craven,Social Sciences,Total,low,low
+2022/23,E08000035,Leeds,"Construction, Planning and the Built Environment",Total,180,10
+2022/23,E07000166,Richmondshire,Retail and Commercial Enterprise,Total,10,low
+2022/23,E07000168,Scarborough,"Construction, Planning and the Built Environment",Advanced Apprenticeship,10,low
+2022/23,E07000169,Selby,Retail and Commercial Enterprise,Intermediate Apprenticeship,20,low
+2022/23,E08000035,Leeds,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E08000036,Wakefield,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Health, Public Services and Care",Advanced Apprenticeship,20,10
+2022/23,E07000164,Hambleton,Social Sciences,Total,low,low
+2022/23,E07000169,Selby,Education and Training,Advanced Apprenticeship,low,low
+2022/23,E07000167,Ryedale,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E08000032,Bradford,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E08000036,Wakefield,"Leisure, Travel and Tourism",Total,10,low
+2022/23,E06000014,York,"Arts, Media and Publishing",Total,low,low
+2022/23,E07000163,Craven,Information and Communication Technology,Total,low,low
+2022/23,E07000167,Ryedale,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E07000167,Ryedale,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E08000035,Leeds,Information and Communication Technology,Advanced Apprenticeship,50,20
+2022/23,E07000166,Richmondshire,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E08000034,Kirklees,Education and Training,Higher Apprenticeship,10,low
+2022/23,E08000035,Leeds,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E08000034,Kirklees,"Construction, Planning and the Built Environment",Advanced Apprenticeship,60,low
+2022/23,E07000166,Richmondshire,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,"Leisure, Travel and Tourism",Advanced Apprenticeship,low,low
+2022/23,E08000032,Bradford,Information and Communication Technology,Advanced Apprenticeship,30,10
+2022/23,E08000032,Bradford,Total,Higher Apprenticeship,310,60
+2022/23,E07000163,Craven,Education and Training,Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,Social Sciences,Total,low,low
+2022/23,E07000166,Richmondshire,"Arts, Media and Publishing",Advanced Apprenticeship,low,low
+2022/23,E07000167,Ryedale,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,Retail and Commercial Enterprise,Total,20,10
+2022/23,E07000169,Selby,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E07000167,Ryedale,"Construction, Planning and the Built Environment",Advanced Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,10,low
+2022/23,E08000036,Wakefield,"Health, Public Services and Care",Advanced Apprenticeship,80,40
+2022/23,E08000036,Wakefield,Total,Higher Apprenticeship,290,50
+2022/23,E08000034,Kirklees,Total,Higher Apprenticeship,300,70
+2022/23,E07000169,Selby,Information and Communication Technology,Advanced Apprenticeship,10,low
+2022/23,E07000169,Selby,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,10,low
+2022/23,E07000169,Selby,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E07000163,Craven,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E06000014,York,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,Education and Training,Higher Apprenticeship,low,low
+2022/23,E08000032,Bradford,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Total,Advanced Apprenticeship,410,130
+2022/23,E07000167,Ryedale,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E07000163,Craven,Information and Communication Technology,Higher Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Construction, Planning and the Built Environment",Advanced Apprenticeship,10,low
+2022/23,E08000034,Kirklees,"Health, Public Services and Care",Total,260,70
+2022/23,E08000034,Kirklees,"Construction, Planning and the Built Environment",Higher Apprenticeship,20,low
+2022/23,E07000165,Harrogate,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,low,low
+2022/23,E08000032,Bradford,Social Sciences,Total,low,low
+2022/23,E07000165,Harrogate,Information and Communication Technology,Advanced Apprenticeship,10,low
+2022/23,E07000166,Richmondshire,Total,Total,1080,310
+2022/23,E07000163,Craven,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Health, Public Services and Care",Intermediate Apprenticeship,100,40
+2022/23,E08000032,Bradford,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"Arts, Media and Publishing",Advanced Apprenticeship,low,low
+2022/23,E07000163,Craven,Total,Intermediate Apprenticeship,30,10
+2022/23,E07000166,Richmondshire,Social Sciences,Total,low,low
+2022/23,E07000163,Craven,Engineering and Manufacturing Technologies,Total,20,low
+2022/23,E07000169,Selby,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E08000035,Leeds,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,20,10
+2022/23,E06000014,York,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,50,10
+2022/23,E07000163,Craven,"Leisure, Travel and Tourism",Total,low,low
+2022/23,E07000167,Ryedale,"Business, Administration and Law",Total,30,10
+2022/23,E06000014,York,"Business, Administration and Law",Higher Apprenticeship,70,20
+2022/23,E08000032,Bradford,Science and Mathematics,Total,low,low
+2022/23,E08000036,Wakefield,Education and Training,Advanced Apprenticeship,10,10
+2022/23,E07000166,Richmondshire,Engineering and Manufacturing Technologies,Advanced Apprenticeship,10,low
+2022/23,E08000032,Bradford,Information and Communication Technology,Total,70,20
+2022/23,E07000169,Selby,Engineering and Manufacturing Technologies,Total,90,10
+2022/23,E08000034,Kirklees,"History, Philosophy and Theology",Total,low,low
+2022/23,E08000036,Wakefield,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,"Business, Administration and Law",Total,30,low
+2022/23,E06000014,York,"Leisure, Travel and Tourism",Advanced Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Leisure, Travel and Tourism",Total,10,low
+2022/23,E08000032,Bradford,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E07000167,Ryedale,"History, Philosophy and Theology",Total,low,low
+2022/23,E08000036,Wakefield,Engineering and Manufacturing Technologies,Higher Apprenticeship,10,low
+2022/23,E08000032,Bradford,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"Business, Administration and Law",Total,70,20
+2022/23,E07000163,Craven,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"Agriculture, Horticulture and Animal Care",Total,10,low
+2022/23,E08000032,Bradford,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E08000033,Calderdale,Total,Advanced Apprenticeship,200,50
+2022/23,E07000165,Harrogate,"Health, Public Services and Care",Intermediate Apprenticeship,20,10
+2022/23,E08000035,Leeds,"Health, Public Services and Care",Total,430,120
+2022/23,E08000033,Calderdale,Total,Total,490,120
+2022/23,E07000163,Craven,Engineering and Manufacturing Technologies,Advanced Apprenticeship,10,low
+2022/23,E07000163,Craven,Engineering and Manufacturing Technologies,Higher Apprenticeship,low,low
+2022/23,E07000163,Craven,"Health, Public Services and Care",Intermediate Apprenticeship,low,low
+2022/23,E06000014,York,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Retail and Commercial Enterprise,Higher Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E07000167,Ryedale,"Health, Public Services and Care",Total,30,10
+2022/23,E08000032,Bradford,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,10,low
+2022/23,E08000032,Bradford,Engineering and Manufacturing Technologies,Total,220,20
+2022/23,E07000167,Ryedale,Science and Mathematics,Total,low,low
+2022/23,E07000166,Richmondshire,"Business, Administration and Law",Advanced Apprenticeship,20,low
+2022/23,E07000163,Craven,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,Engineering and Manufacturing Technologies,Advanced Apprenticeship,60,10
+2022/23,E07000164,Hambleton,"Construction, Planning and the Built Environment",Advanced Apprenticeship,10,low
+2022/23,E08000035,Leeds,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,10,low
+2022/23,E08000032,Bradford,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,10,low
+2022/23,E08000035,Leeds,Retail and Commercial Enterprise,Intermediate Apprenticeship,110,20
+2022/23,E07000165,Harrogate,Information and Communication Technology,Higher Apprenticeship,10,low
+2022/23,E07000169,Selby,"Leisure, Travel and Tourism",Total,10,low
+2022/23,E08000036,Wakefield,"Construction, Planning and the Built Environment",Total,140,10
+2022/23,E07000163,Craven,Information and Communication Technology,Advanced Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,Total,Advanced Apprenticeship,60,10
+2022/23,E07000166,Richmondshire,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Retail and Commercial Enterprise,Intermediate Apprenticeship,30,10
+2022/23,E07000163,Craven,"Arts, Media and Publishing",Total,low,low
+2022/23,E08000036,Wakefield,"Business, Administration and Law",Intermediate Apprenticeship,30,10
+2022/23,E07000168,Scarborough,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E07000168,Scarborough,"Construction, Planning and the Built Environment",Total,30,low
+2022/23,E07000168,Scarborough,Information and Communication Technology,Total,10,low
+2022/23,E07000165,Harrogate,Education and Training,Advanced Apprenticeship,low,low
+2022/23,E06000014,York,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E08000035,Leeds,"History, Philosophy and Theology",Total,low,low
+2022/23,E08000034,Kirklees,Information and Communication Technology,Total,60,20
+2022/23,E06000014,York,Information and Communication Technology,Total,10,low
+2022/23,E07000165,Harrogate,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E08000034,Kirklees,Social Sciences,Total,low,low
+2022/23,E08000033,Calderdale,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,30,low
+2022/23,E07000168,Scarborough,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E06000014,York,Total,Total,460,120
+2022/23,E08000036,Wakefield,"History, Philosophy and Theology",Total,low,low
+2022/23,E07000166,Richmondshire,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,"History, Philosophy and Theology",Total,low,low
+2022/23,E07000163,Craven,Retail and Commercial Enterprise,Higher Apprenticeship,low,low
+2022/23,E08000036,Wakefield,"Agriculture, Horticulture and Animal Care",Total,20,low
+2022/23,E08000035,Leeds,Total,Higher Apprenticeship,580,140
+2022/23,E07000169,Selby,Education and Training,Total,low,low
+2022/23,E07000164,Hambleton,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,10,low
+2022/23,E07000164,Hambleton,Information and Communication Technology,Advanced Apprenticeship,10,low
+2022/23,E07000166,Richmondshire,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Engineering and Manufacturing Technologies,Total,30,10
+2022/23,E07000166,Richmondshire,"Business, Administration and Law",Higher Apprenticeship,10,low
+2022/23,E07000167,Ryedale,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E07000163,Craven,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,10,low
+2022/23,E07000167,Ryedale,Information and Communication Technology,Advanced Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"Construction, Planning and the Built Environment",Total,20,low
+2022/23,E08000036,Wakefield,"Health, Public Services and Care",Intermediate Apprenticeship,50,10
+2022/23,E07000165,Harrogate,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E07000167,Ryedale,Education and Training,Total,low,low
+2022/23,E08000036,Wakefield,"Construction, Planning and the Built Environment",Advanced Apprenticeship,50,low
+2022/23,E07000164,Hambleton,Engineering and Manufacturing Technologies,Advanced Apprenticeship,20,10
+2022/23,E06000014,York,Total,Advanced Apprenticeship,180,50
+2022/23,E08000035,Leeds,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Retail and Commercial Enterprise,Higher Apprenticeship,10,low
+2022/23,E07000169,Selby,"Business, Administration and Law",Advanced Apprenticeship,30,10
+2022/23,E08000034,Kirklees,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Business, Administration and Law",Intermediate Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E06000014,York,Total,Higher Apprenticeship,160,30
+2022/23,E07000169,Selby,"Business, Administration and Law",Higher Apprenticeship,30,10
+2022/23,E07000169,Selby,Engineering and Manufacturing Technologies,Higher Apprenticeship,20,low
+2022/23,E08000036,Wakefield,Total,Intermediate Apprenticeship,250,50
+2022/23,E07000168,Scarborough,"Health, Public Services and Care",Total,70,20
+2022/23,E08000032,Bradford,Education and Training,Higher Apprenticeship,20,low
+2022/23,E08000036,Wakefield,Retail and Commercial Enterprise,Intermediate Apprenticeship,40,10
+2022/23,E07000168,Scarborough,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,10,low
+2022/23,E07000168,Scarborough,"Agriculture, Horticulture and Animal Care",Total,10,low
+2022/23,E07000166,Richmondshire,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E08000033,Calderdale,Total,Higher Apprenticeship,160,30
+2022/23,E07000169,Selby,"Agriculture, Horticulture and Animal Care",Total,10,low
+2022/23,E08000035,Leeds,"Leisure, Travel and Tourism",Advanced Apprenticeship,10,low
+2022/23,E08000036,Wakefield,Science and Mathematics,Total,low,low
+2022/23,E08000035,Leeds,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E08000035,Leeds,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E06000014,York,"Construction, Planning and the Built Environment",Advanced Apprenticeship,30,low
+2022/23,E07000165,Harrogate,Education and Training,Total,10,low
+2022/23,E07000163,Craven,"Construction, Planning and the Built Environment",Higher Apprenticeship,10,low
+2022/23,E07000166,Richmondshire,Engineering and Manufacturing Technologies,Higher Apprenticeship,low,low
+2022/23,E07000167,Ryedale,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Retail and Commercial Enterprise,Advanced Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Science and Mathematics,Total,low,low
+2022/23,E08000033,Calderdale,"Health, Public Services and Care",Intermediate Apprenticeship,40,10
+2022/23,E08000034,Kirklees,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,110,10
+2022/23,E07000164,Hambleton,"Health, Public Services and Care",Higher Apprenticeship,80,low
+2022/23,E07000169,Selby,Education and Training,Higher Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E07000163,Craven,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E07000169,Selby,Total,Intermediate Apprenticeship,100,10
+2022/23,E08000034,Kirklees,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E08000032,Bradford,Total,Advanced Apprenticeship,540,120
+2022/23,E07000165,Harrogate,Engineering and Manufacturing Technologies,Higher Apprenticeship,10,low
+2022/23,E08000034,Kirklees,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,10,low
+2022/23,E08000033,Calderdale,"Business, Administration and Law",Total,130,30
+2022/23,E06000014,York,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E07000163,Craven,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E07000169,Selby,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,low,low
+2022/23,E07000163,Craven,Science and Mathematics,Total,low,low
+2022/23,E07000163,Craven,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E08000032,Bradford,Education and Training,Advanced Apprenticeship,20,10
+2022/23,E08000034,Kirklees,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E07000163,Craven,"Business, Administration and Law",Intermediate Apprenticeship,low,low
+2022/23,E07000163,Craven,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Education and Training,Higher Apprenticeship,10,low
+2022/23,E08000036,Wakefield,"Construction, Planning and the Built Environment",Higher Apprenticeship,20,low
+2022/23,E08000035,Leeds,"Health, Public Services and Care",Higher Apprenticeship,150,40
+2022/23,E07000167,Ryedale,"Business, Administration and Law",Intermediate Apprenticeship,low,low
+2022/23,E07000163,Craven,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,low,low
+2022/23,E06000014,York,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Business, Administration and Law",Higher Apprenticeship,120,30
+2022/23,E08000033,Calderdale,"Health, Public Services and Care",Advanced Apprenticeship,40,10
+2022/23,E06000014,York,Social Sciences,Total,low,low
+2022/23,E07000168,Scarborough,Education and Training,Total,low,low
+2022/23,E08000033,Calderdale,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,10,10
+2022/23,E08000035,Leeds,"Leisure, Travel and Tourism",Total,10,low
+2022/23,E07000163,Craven,Total,Total,110,30
+2022/23,E07000163,Craven,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Arts, Media and Publishing",Advanced Apprenticeship,low,low
+2022/23,E08000035,Leeds,Science and Mathematics,Total,low,low
+2022/23,E07000165,Harrogate,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E07000167,Ryedale,Total,Advanced Apprenticeship,50,20
+2022/23,E08000033,Calderdale,Social Sciences,Total,low,low
+2022/23,E06000014,York,Engineering and Manufacturing Technologies,Total,80,20
+2022/23,E08000032,Bradford,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Health, Public Services and Care",Higher Apprenticeship,110,20
+2022/23,E08000036,Wakefield,"Arts, Media and Publishing",Total,low,low
+2022/23,E06000014,York,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E08000034,Kirklees,"Agriculture, Horticulture and Animal Care",Advanced Apprenticeship,10,low
+2022/23,E08000033,Calderdale,"Arts, Media and Publishing",Total,low,low
+2022/23,E07000164,Hambleton,Engineering and Manufacturing Technologies,Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E07000167,Ryedale,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Total,Intermediate Apprenticeship,60,20
+2022/23,E07000164,Hambleton,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"Health, Public Services and Care",Higher Apprenticeship,30,10
+2022/23,E07000168,Scarborough,"Health, Public Services and Care",Intermediate Apprenticeship,10,10
+2022/23,E08000032,Bradford,Total,Total,1180,280
+2022/23,E07000167,Ryedale,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,low,low
+2022/23,E07000167,Ryedale,Education and Training,Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,Science and Mathematics,Total,low,low
+2022/23,E06000014,York,Engineering and Manufacturing Technologies,Advanced Apprenticeship,50,10
+2022/23,E07000166,Richmondshire,Education and Training,Advanced Apprenticeship,low,low
+2022/23,E08000034,Kirklees,"Agriculture, Horticulture and Animal Care",Total,20,low
+2022/23,E08000036,Wakefield,Retail and Commercial Enterprise,Total,70,20
+2022/23,E07000168,Scarborough,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E06000014,York,"Business, Administration and Law",Intermediate Apprenticeship,10,low
+2022/23,E07000167,Ryedale,Retail and Commercial Enterprise,Total,10,low
+2022/23,E07000164,Hambleton,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E08000034,Kirklees,"Leisure, Travel and Tourism",Total,low,low
+2022/23,E07000169,Selby,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,Retail and Commercial Enterprise,Total,160,30
+2022/23,E06000014,York,Retail and Commercial Enterprise,Intermediate Apprenticeship,20,10
+2022/23,E07000168,Scarborough,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E07000167,Ryedale,Engineering and Manufacturing Technologies,Advanced Apprenticeship,20,10
+2022/23,E08000035,Leeds,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E08000034,Kirklees,Science and Mathematics,Total,low,low
+2022/23,E07000165,Harrogate,"Health, Public Services and Care",Advanced Apprenticeship,40,10
+2022/23,E08000034,Kirklees,Engineering and Manufacturing Technologies,Advanced Apprenticeship,190,30
+2022/23,E07000168,Scarborough,Education and Training,Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,"Business, Administration and Law",Higher Apprenticeship,20,low
+2022/23,E07000168,Scarborough,Social Sciences,Total,low,low
+2022/23,E08000035,Leeds,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Leisure, Travel and Tourism",Total,low,low
+2022/23,E08000034,Kirklees,Total,Intermediate Apprenticeship,350,80
+2022/23,E07000166,Richmondshire,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,10,low
+2022/23,E08000034,Kirklees,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E08000036,Wakefield,"Health, Public Services and Care",Total,240,70
+2022/23,E07000164,Hambleton,"Leisure, Travel and Tourism",Advanced Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Engineering and Manufacturing Technologies,Total,160,40
+2022/23,E07000165,Harrogate,Total,Advanced Apprenticeship,130,30
+2022/23,E06000014,York,Education and Training,Advanced Apprenticeship,low,low
+2022/23,E07000163,Craven,Retail and Commercial Enterprise,Advanced Apprenticeship,low,low
+2022/23,E08000034,Kirklees,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E08000035,Leeds,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,Education and Training,Total,low,low
+2022/23,E08000035,Leeds,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,Retail and Commercial Enterprise,Higher Apprenticeship,10,low
+2022/23,E07000164,Hambleton,"Business, Administration and Law",Advanced Apprenticeship,20,20
+2022/23,E07000169,Selby,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Social Sciences,Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,"Business, Administration and Law",Advanced Apprenticeship,190,70
+2022/23,E07000164,Hambleton,"Health, Public Services and Care",Intermediate Apprenticeship,10,low
+2022/23,E07000163,Craven,"History, Philosophy and Theology",Total,low,low
+2022/23,E08000034,Kirklees,"Health, Public Services and Care",Higher Apprenticeship,100,20
+2022/23,E07000165,Harrogate,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"History, Philosophy and Theology",Total,low,low
+2022/23,E06000014,York,Total,Intermediate Apprenticeship,120,40
+2022/23,E08000033,Calderdale,"Leisure, Travel and Tourism",Advanced Apprenticeship,low,low
+2022/23,E08000035,Leeds,Education and Training,Total,40,20
+2022/23,E07000164,Hambleton,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Total,Total,330,90
+2022/23,E07000168,Scarborough,"Leisure, Travel and Tourism",Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,20,low
+2022/23,E07000167,Ryedale,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,10,low
+2022/23,E07000163,Craven,"Construction, Planning and the Built Environment",Total,10,10
+2022/23,E08000034,Kirklees,"Arts, Media and Publishing",Advanced Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Arts, Media and Publishing",Total,10,low
+2022/23,E08000036,Wakefield,"Leisure, Travel and Tourism",Advanced Apprenticeship,10,low
+2022/23,E08000034,Kirklees,"Leisure, Travel and Tourism",Advanced Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Retail and Commercial Enterprise,Higher Apprenticeship,10,low
+2022/23,E07000166,Richmondshire,"Health, Public Services and Care",Intermediate Apprenticeship,980,300
+2022/23,E07000169,Selby,Retail and Commercial Enterprise,Advanced Apprenticeship,10,low
+2022/23,E08000033,Calderdale,Retail and Commercial Enterprise,Intermediate Apprenticeship,20,20
+2022/23,E07000163,Craven,Education and Training,Total,low,low
+2022/23,E08000035,Leeds,Education and Training,Advanced Apprenticeship,10,10
+2022/23,E08000032,Bradford,Engineering and Manufacturing Technologies,Higher Apprenticeship,10,low
+2022/23,E07000167,Ryedale,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E07000169,Selby,Retail and Commercial Enterprise,Higher Apprenticeship,low,low
+2022/23,E08000033,Calderdale,Information and Communication Technology,Advanced Apprenticeship,20,10
+2022/23,E08000036,Wakefield,Information and Communication Technology,Advanced Apprenticeship,40,10
+2022/23,E07000168,Scarborough,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,10,low
+2022/23,E08000034,Kirklees,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E06000014,York,"Health, Public Services and Care",Higher Apprenticeship,50,10
+2022/23,E07000167,Ryedale,Engineering and Manufacturing Technologies,Total,20,10
+2022/23,E06000014,York,Science and Mathematics,Total,low,low
+2022/23,E08000035,Leeds,"Business, Administration and Law",Higher Apprenticeship,220,70
+2022/23,E08000034,Kirklees,Retail and Commercial Enterprise,Intermediate Apprenticeship,60,20
+2022/23,E07000164,Hambleton,Information and Communication Technology,Higher Apprenticeship,low,low
+2022/23,E08000033,Calderdale,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Education and Training,Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,Science and Mathematics,Higher Apprenticeship,low,low
+2022/23,E08000036,Wakefield,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E07000163,Craven,Retail and Commercial Enterprise,Total,10,low
+2022/23,E07000169,Selby,"Construction, Planning and the Built Environment",Advanced Apprenticeship,40,low
+2022/23,E07000169,Selby,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,Information and Communication Technology,Total,150,40
+2022/23,E07000168,Scarborough,Science and Mathematics,Total,low,low
+2022/23,E08000034,Kirklees,"Health, Public Services and Care",Advanced Apprenticeship,90,30
+2022/23,E07000165,Harrogate,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,"Agriculture, Horticulture and Animal Care",Total,10,low
+2022/23,E07000164,Hambleton,"Arts, Media and Publishing",Total,low,low
+2022/23,E07000165,Harrogate,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E07000168,Scarborough,Engineering and Manufacturing Technologies,Total,70,20
+2022/23,E07000167,Ryedale,Total,Intermediate Apprenticeship,40,10
+2022/23,E07000165,Harrogate,"Leisure, Travel and Tourism",Total,low,low
+2022/23,E07000163,Craven,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,10,low
+2022/23,E08000034,Kirklees,Information and Communication Technology,Higher Apprenticeship,30,10
+2022/23,E07000168,Scarborough,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,"Arts, Media and Publishing",Total,low,low
+2022/23,E07000166,Richmondshire,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E06000014,York,Education and Training,Higher Apprenticeship,low,low
+2022/23,E08000032,Bradford,Retail and Commercial Enterprise,Advanced Apprenticeship,40,10
+2022/23,E08000033,Calderdale,"Health, Public Services and Care",Total,140,40
+2022/23,E08000032,Bradford,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Construction, Planning and the Built Environment",Higher Apprenticeship,low,low
+2022/23,E07000165,Harrogate,Retail and Commercial Enterprise,Advanced Apprenticeship,10,low
+2022/23,E08000033,Calderdale,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E08000032,Bradford,Retail and Commercial Enterprise,Intermediate Apprenticeship,70,30
+2022/23,E07000165,Harrogate,"Leisure, Travel and Tourism",Advanced Apprenticeship,low,low
+2022/23,E07000163,Craven,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E08000032,Bradford,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E07000164,Hambleton,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Business, Administration and Law",Intermediate Apprenticeship,20,low
+2022/23,E06000014,York,Retail and Commercial Enterprise,Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,Total,Total,370,50
+2022/23,E07000168,Scarborough,Engineering and Manufacturing Technologies,Advanced Apprenticeship,50,10
+2022/23,E07000168,Scarborough,"Leisure, Travel and Tourism",Total,low,low
+2022/23,E07000164,Hambleton,"Business, Administration and Law",Higher Apprenticeship,30,10
+2022/23,E08000034,Kirklees,"Business, Administration and Law",Higher Apprenticeship,110,50
+2022/23,E07000166,Richmondshire,Science and Mathematics,Total,low,low
+2022/23,E07000169,Selby,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Leisure, Travel and Tourism",Total,low,low
+2022/23,E07000167,Ryedale,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Education and Training,Advanced Apprenticeship,low,low
+2022/23,E08000035,Leeds,"Arts, Media and Publishing",Total,10,low
+2022/23,E07000164,Hambleton,Retail and Commercial Enterprise,Advanced Apprenticeship,10,low
+2022/23,E08000036,Wakefield,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E07000167,Ryedale,"Arts, Media and Publishing",Total,low,low
+2022/23,E08000036,Wakefield,"Agriculture, Horticulture and Animal Care",Higher Apprenticeship,low,low
+2022/23,E08000034,Kirklees,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,Education and Training,Higher Apprenticeship,30,low
+2022/23,E08000032,Bradford,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Retail and Commercial Enterprise,Higher Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Social Sciences,Advanced Apprenticeship,low,low
+2022/23,E06000014,York,Information and Communication Technology,Higher Apprenticeship,10,low
+2022/23,E07000169,Selby,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E07000167,Ryedale,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E08000032,Bradford,Total,Intermediate Apprenticeship,330,100
+2022/23,E08000035,Leeds,Engineering and Manufacturing Technologies,Advanced Apprenticeship,160,30
+2022/23,E07000164,Hambleton,"History, Philosophy and Theology",Advanced Apprenticeship,low,low
+2022/23,E07000167,Ryedale,Engineering and Manufacturing Technologies,Higher Apprenticeship,low,low
+2022/23,E07000163,Craven,"Business, Administration and Law",Advanced Apprenticeship,10,low
+2022/23,E07000164,Hambleton,Total,Advanced Apprenticeship,90,30
+2022/23,E08000034,Kirklees,"Construction, Planning and the Built Environment",Total,190,20
+2022/23,E07000169,Selby,Information and Communication Technology,Total,10,low
+2022/23,E07000168,Scarborough,Total,Higher Apprenticeship,80,10
+2022/23,E07000168,Scarborough,Total,Advanced Apprenticeship,100,30
+2022/23,E07000166,Richmondshire,"Health, Public Services and Care",Advanced Apprenticeship,20,low
+2022/23,E08000036,Wakefield,Social Sciences,Total,low,low
+2022/23,E07000164,Hambleton,Science and Mathematics,Total,low,low
+2022/23,E06000014,York,"Leisure, Travel and Tourism",Total,low,low
+2022/23,E08000035,Leeds,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E06000014,York,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E08000034,Kirklees,Science and Mathematics,Intermediate Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Arts, Media and Publishing",Higher Apprenticeship,low,low
+2022/23,E07000167,Ryedale,Total,Higher Apprenticeship,40,low
+2022/23,E08000034,Kirklees,Science and Mathematics,Advanced Apprenticeship,low,low
+2022/23,E07000163,Craven,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E07000169,Selby,Total,Advanced Apprenticeship,180,30
+2022/23,E07000167,Ryedale,"Health, Public Services and Care",Advanced Apprenticeship,10,low
+2022/23,E07000167,Ryedale,"Business, Administration and Law",Higher Apprenticeship,20,low
+2022/23,E08000032,Bradford,"Health, Public Services and Care",Advanced Apprenticeship,120,40
+2022/23,E07000165,Harrogate,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,Engineering and Manufacturing Technologies,Intermediate Apprenticeship,60,20
+2022/23,E08000033,Calderdale,Retail and Commercial Enterprise,Higher Apprenticeship,low,low
+2022/23,E08000033,Calderdale,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Total,Total,950,230
+2022/23,E08000032,Bradford,"History, Philosophy and Theology",Total,low,low
+2022/23,E06000014,York,Education and Training,Total,low,10
+2022/23,E06000014,York,"Business, Administration and Law",Total,100,30
+2022/23,E07000169,Selby,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E06000014,York,"Health, Public Services and Care",Advanced Apprenticeship,50,10
+2022/23,E08000032,Bradford,"Leisure, Travel and Tourism",Higher Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,Engineering and Manufacturing Technologies,Total,10,low
+2022/23,E07000168,Scarborough,"Agriculture, Horticulture and Animal Care",Intermediate Apprenticeship,10,low
+2022/23,E08000032,Bradford,Engineering and Manufacturing Technologies,Advanced Apprenticeship,150,20
+2022/23,E07000167,Ryedale,"Construction, Planning and the Built Environment",Total,20,10
+2022/23,E07000166,Richmondshire,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E08000033,Calderdale,Retail and Commercial Enterprise,Total,30,20
+2022/23,E08000033,Calderdale,Science and Mathematics,Total,low,low
+2022/23,E08000036,Wakefield,"History, Philosophy and Theology",Intermediate Apprenticeship,low,low
+2022/23,E08000035,Leeds,"Arts, Media and Publishing",Intermediate Apprenticeship,low,low
+2022/23,E07000167,Ryedale,Education and Training,Advanced Apprenticeship,low,low
+2022/23,E08000036,Wakefield,Information and Communication Technology,Total,60,10
+2022/23,E07000169,Selby,"History, Philosophy and Theology",Total,low,low
+2022/23,E07000166,Richmondshire,"Arts, Media and Publishing",Total,low,low
+2022/23,E07000164,Hambleton,Education and Training,Total,low,low
+2022/23,E07000168,Scarborough,"Leisure, Travel and Tourism",Intermediate Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,Total,Higher Apprenticeship,30,low
+2022/23,E07000167,Ryedale,"Business, Administration and Law",Advanced Apprenticeship,10,10
+2022/23,E07000166,Richmondshire,"Construction, Planning and the Built Environment",Advanced Apprenticeship,10,low
+2022/23,E08000036,Wakefield,Education and Training,Total,20,10
+2022/23,E07000165,Harrogate,Education and Training,Higher Apprenticeship,low,low
+2022/23,E07000165,Harrogate,"Business, Administration and Law",Higher Apprenticeship,50,10
+2022/23,E07000169,Selby,Total,Higher Apprenticeship,90,10
+2022/23,E07000165,Harrogate,"Business, Administration and Law",Advanced Apprenticeship,20,10
+2022/23,E06000014,York,Engineering and Manufacturing Technologies,Higher Apprenticeship,10,low
+2022/23,E08000036,Wakefield,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,70,low
+2022/23,E07000167,Ryedale,"Health, Public Services and Care",Higher Apprenticeship,10,low
+2022/23,E08000036,Wakefield,Social Sciences,Higher Apprenticeship,low,low
+2022/23,E07000163,Craven,"Leisure, Travel and Tourism",Advanced Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Leisure, Travel and Tourism",Advanced Apprenticeship,low,low
+2022/23,E07000164,Hambleton,Total,Higher Apprenticeship,110,10
+2022/23,E08000034,Kirklees,"Arts, Media and Publishing",Total,10,low
+2022/23,E07000165,Harrogate,Information and Communication Technology,Total,20,10
+2022/23,E07000166,Richmondshire,"Construction, Planning and the Built Environment",Total,20,low
+2022/23,E07000168,Scarborough,"Construction, Planning and the Built Environment",Intermediate Apprenticeship,20,low
+2022/23,E08000033,Calderdale,"Construction, Planning and the Built Environment",Total,50,low
+2022/23,E08000035,Leeds,"Health, Public Services and Care",Advanced Apprenticeship,150,50
+2022/23,E07000168,Scarborough,Information and Communication Technology,Intermediate Apprenticeship,low,low
+2022/23,E07000166,Richmondshire,Retail and Commercial Enterprise,Higher Apprenticeship,low,low
+2022/23,E07000168,Scarborough,"History, Philosophy and Theology",Higher Apprenticeship,low,low
+2022/23,E08000032,Bradford,Education and Training,Intermediate Apprenticeship,low,low
+2022/23,E08000032,Bradford,"Agriculture, Horticulture and Animal Care",Total,20,10
+2022/23,E07000166,Richmondshire,"Construction, Planning and the Built Environment",Higher Apprenticeship,low,low
+2022/23,E08000034,Kirklees,"Business, Administration and Law",Advanced Apprenticeship,120,40
+2022/23,E07000163,Craven,"Business, Administration and Law",Higher Apprenticeship,10,low
+2022/23,E07000165,Harrogate,"Arts, Media and Publishing",Total,low,low
+2022/23,E07000167,Ryedale,Information and Communication Technology,Higher Apprenticeship,low,low
+2022/23,E07000163,Craven,"Business, Administration and Law",Total,20,10
+2022/23,E07000164,Hambleton,Total,Total,250,60
