@@ -1,19 +1,18 @@
 - value: fel3
   title: FE Level 3
-  colour: lightgreen
+  colour: "#ffffcc"
 - value: fel2
   title: FE Level 2
-  colour: limegreen
+  colour: "#c7e9b4"
 - value: fel1
   title: FE Level 1
-  colour: turquoise
+  colour: "#7fcdbb"
 - value: appl4
   title: Apprenticeship Level 4
-  colour: navy
+  colour: "#41b6c4"
 - value: appl3
   title: Apprenticeship Level 3
-  colour: purple
+  colour: "#2c7fb8"
 - value: appl2
   title: Apprenticeship Level 2
-  colour: indigo
-#he,fe,fel3,fel2,fel1,other_edu,appren,appl4,appl3,appl2,all_work,all_notsust,all_unknown
+  colour: "#253494"

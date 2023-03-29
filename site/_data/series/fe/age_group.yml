@@ -1,9 +1,9 @@
 - value: "19-24"
   title: "19-24"
-  colour: blue
+  colour: "#edf8b1"
 - value: "25+"
   title: 25+
-  colour: red
+  colour: "#7fcdbb"
 - value: "Under 19"
   title: Under 19
-  colour: purple
+  colour: "#2c7fb8"

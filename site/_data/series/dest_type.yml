@@ -1,9 +1,9 @@
 - value: pct_employment
   title: Work
-  colour: red
+  colour: "#66c2a5"
 - value: pct_apprenticeship
   title: Apprenticeship
-  colour: skyblue
+  colour: "#fc8d62"
 - value: pct_education
   title: Education
-  colour: green
+  colour: "#8da0cb"

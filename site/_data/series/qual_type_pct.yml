@@ -1,9 +1,9 @@
 - value: pct_all_other_qualifications
   title: All other qualifications
-  colour: red
+  colour: "#7fc97f"
 - value: pct_level3
   title: Level 3
-  colour: skyblue
+  colour: "#beaed4"
 - value: pct_level2
   title: Level 2
-  colour: orange
+  colour: "#fdc086"

@@ -1,18 +1,18 @@
 - value: Asian/ Asian British
   title: "Asian/Asian British"
-  colour: purple
+  colour: "#66c2a5"
 - value: Black/African/Caribbean/Black British
   title: "Black/African/Caribbean/Black British"
-  colour: red
+  colour: "#fc8d62"
 - value: Mixed/ Multiple Ethnic Group
   title: "Mixed/Multiple Ethnic Group"
-  colour: skyblue
+  colour: "#8da0cb"
 - value: Not Provided
   title: "Not Provided"
-  colour: orange
+  colour: "#e78ac3"
 - value: Other Ethnic Group
   title: "Other Ethnic Group"
-  colour: green
+  colour: "#a6d854"
 - value: White
   title: "White"
-  colour: navy
+  colour: "#ffd92f"
