@@ -1,0 +1,19 @@
+- value: fel3
+  title: FE Level 3
+  colour: lightgreen
+- value: fel2
+  title: FE Level 2
+  colour: limegreen
+- value: fel1
+  title: FE Level 1
+  colour: turquoise
+- value: appl4
+  title: Apprenticeship Level 4
+  colour: navy
+- value: appl3
+  title: Apprenticeship Level 3
+  colour: purple
+- value: appl2
+  title: Apprenticeship Level 2
+  colour: indigo
+#he,fe,fel3,fel2,fel1,other_edu,appren,appl4,appl3,appl2,all_work,all_notsust,all_unknown

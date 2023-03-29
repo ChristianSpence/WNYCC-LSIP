@@ -137,11 +137,33 @@ datasets:
   {% endcomp %}
 {% endcomp %}
 
-<h2> Breakdown by Student Characteristic </h2>
-<h3> **Please note this is WIP, data is not accurate as it stands** </h3>
-<p> The figures below show different student characterstic splits in a range of destination types
-  More splits will be added. </p> 
-
+<h2> 
+  Breakdown by Student Characteristic 
+</h2>
+<h3> 
+  **Please note this is WIP, data is not accurate as it stands** 
+</h3>
+<p> 
+  The figures below show different student characterstic splits in a range of destination types
+  More splits will be added. 
+</p> 
+{# {{comp.DEBUG({metric:2020_21.fe_dest_detail.rows}) | safe}} #}
+{# {{comp.DEBUG({metric:series.fe_dest.characteristic}) | safe}} #}
+{% comp 'dashboard.pane' %}
+  <p class="centred">Hello</p>
+  {{ comp.oi.chart.bar({
+        config: {
+          data: 2020_21.fe_dest_detail.rows,
+          stacked: true,
+          category: "characteristic",
+          series: series.fe_dest.study_level,
+          legend: { show: true },
+          axis: {
+            x: { tickSize: 100}
+          }
+        }
+      }) | safe }}
+  {% endcomp %}
 {# {% comp 'dashboard.grid' %}
   {% comp 'dashboard.pane' %}
   <p class="centred">FE Level 3</p>
