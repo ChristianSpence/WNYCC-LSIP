@@ -242,8 +242,32 @@ fe_dest |>
 
 
 
+# Apprenticeships ---------------------------------------------------------
 
+apprenticeships <- lapply(list.files("data/apprenticeships/data",
+                                     full.names = TRUE),
+                          function(file) {
+                            readr::read_csv(file)
+                          }) |>
+  setNames(basename(list.files("data/apprenticeships/data")))
 
+# data is so granular, everything is suppressed!
+apprenticeships$`app-geography-detailed-202223-q1.csv` |>
+  dplyr::group_by(achievements_with_suppressed_values = ifelse(achievements == "low", TRUE, FALSE)) |>
+  dplyr::summarise(n = dplyr::n())
+
+# bespoke data, generated to total sex and ethnicity BUT 22/23 so far only
+apprenticeships <- readr::read_csv("data/apprenticeships/data-apprenticeships-and-traineeships.csv") |>
+  dplyr::filter(lad_code %in% c(geog_codes$wy, geog_codes$ny)) |>
+  dplyr::mutate(date = academic_year(time_period)) |>
+  dplyr::select(date,
+                geography_code = lad_code,
+                geography_name = lad_name,
+                ssa_t1_desc,
+                apprenticeship_level = apps_level,
+                starts,
+                achievements) |>
+  readr::write_csv("data/csv/apprenticeships/apprenticeship_starts_achievements_2022_23.csv")
 
 
 # HESA --------------------------------------------------------------------
