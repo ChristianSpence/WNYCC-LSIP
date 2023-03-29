@@ -1,21 +1,21 @@
 - value: number_at_grade_a_star
   title: Number at Grade A*
-  colour: red
+  colour: "#ffffcc"
 - value: number_at_grade_a
   title: Number at Grade A
-  colour: yellow
+  colour: "#c7e9b4"
 - value: number_at_grade_b
   title: Number at Grade B
-  colour: red
+  colour: "#7fcdbb"
 - value: number_at_grade_c
   title: Number at Grade C
-  colour: yellow
+  colour: "#41b6c4"
 - value: number_at_grade_d
   title: Number at Grade D
-  colour: red
+  colour: "#1d91c0"
 - value: number_at_grade_e
   title: Number at Grade E
-  colour: yellow
+  colour: "#225ea8"
 - value: number_at_grade_u
   title: Number at Grade U
-  colour: red
+  colour: "#0c2c84"

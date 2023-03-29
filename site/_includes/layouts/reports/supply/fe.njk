@@ -1,11 +1,29 @@
 ---
 layout: layouts/default.njk
+datasets:
+  - fe/further-education-and-skills-geography-detailed-summary
+  - fe/education-and-training-geography-local-authority-district
+  - fe/basic-skills-regional-breakdown
 ---
 <h1>Skills Supply: Further Education</h1>
 <p>
     This page shows the latest available data (2021/22) for further education (FE), 
     which is education below degree level for people above school age. 
     </p>
+
+<p>Datasets used:</p>
+
+<ul>
+  {% for dataset in datasets %}
+    {% set page = search.page("url=/metadata/" + dataset + "/" ) %}
+    <li>
+      {{ page.data }}
+      <a href="{{ page.url }}">
+        {{ page.title }} from {{ page.origin }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
 {# Summary headlines #}
 {% comp 'dashboard.grid', {max_width: '10rem'} %}
 {{ comp.dashboard.headline({
