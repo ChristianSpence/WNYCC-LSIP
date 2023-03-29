@@ -11,22 +11,26 @@ if __name__ == '__main__':
     filepath = 'data/csv/fe_dest/16-18 local authority level destinations.csv'
     group = sys.argv[1]
 
-    data = load_data(filepath, group=group, fill_na=True, value=2)
-    SEN_data = data.drop(columns= ['institution_group', 'cohort_level', 'institution_type'])
-    data = data[data.institution_group == 'State-funded mainstream schools & colleges'].drop(columns=
-    ['institution_group', 'cohort_level', 'institution_type'])
-    data = data[data.data_type != 'Percentage'].drop(columns=['data_type'])
+    data = load_data(filepath, group='wycc')
+    GD_data = data[data.date == '2020/21'].drop(columns='date')
+    GD_data = GD_data[GD_data.institution_group == 'State-funded mainstream schools & colleges'].drop(columns= ['institution_group', 'cohort_level', 'institution_type'])
+    GD_data = GD_data[GD_data.data_type != 'Percentage'].drop(columns=['data_type'])
+    GD_data = drop_totals(GD_data)
+    GD = GD_data.groupby('characteristic').sum(numeric_only=True)
 
-    for i in ['fe_level_3', 'fe_level_2', 'fe_entry_level_and_no_identified_level', 'other_education_destinations']:
-        filtered_data = filtering(
-            data, facts=i, dat='2020/21', subfilts=['characteristic_group', 'student_characteristic'])
+    data = data[data.date == '2020/21'].drop(columns='date')
+    SEN_data = data.drop(columns=['institution_type', 'cohort_level'])
+    SEN_data = SEN_data[SEN_data.data_type != 'Percentage'].drop(columns=['data_type'])
+    SEN_data = drop_totals(SEN_data)
+    LLDD = SEN_data[SEN_data.characteristic_group == 'LLDD Provision'].groupby('characteristic').sum(numeric_only=True)
+    SEN = SEN_data[SEN_data.characteristic_group == 'SEN Provision'].groupby('characteristic').sum(numeric_only=True)
 
-        path = path_name(facts=i, subfilts=['characteristic_group', 'student_characteristic'],
-                         dat='2020/21', group=group, stage='fe_dest')
-        
-        # write to file
-        filtered_data.to_csv(path)
+    frames = [LLDD, SEN, GD]
+    result = pd.concat(frames)
 
+    OUTDIR = 'site/{group}/supply/fe_dest/_data/2020_21/'.format(group=group)
+    os.makedirs(OUTDIR, exist_ok=True)
+    result.to_csv(os.path.join(OUTDIR, 'fe_dest_detail.csv'))
     # for i in ['fe_level_3']:
     #     filtered_SEN_data = filtering(
     #         SEN_data, facts=i, dat='2020/21', subfilts=['characteristic_group', 'student_characteristic'])
