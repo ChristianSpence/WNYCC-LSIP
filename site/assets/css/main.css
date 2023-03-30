@@ -6,9 +6,11 @@
 @import "css/text.css";
 @import "css/hexmap.css";
 @import "css/chart.css";
+@import "css/nav.css";
 @import "css/oi-viz.css";
 
 :root {
-  --colour-primary: grey;
-  --colour-primary-contrast: pink;
+  --colour-primary: #005EB8;
+  --colour-primary-contrast: yellow;
+  color: red;
 }

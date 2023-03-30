@@ -4,7 +4,7 @@ header {
   & .row {
     padding: 1rem;
     display: flex;
-    align-items: center;
+    align-items: start;
     gap: 1rem;
   }
   & :is(img, svg) {
@@ -64,6 +64,13 @@ header {
       padding: 0;
       display: flex;
       gap: 1rem;
+    }
+  }
+  & .title {
+    font-weight: bold;
+    font-size: 1.2em;
+    &.site {
+      font-size: 1.4em;
     }
   }
 }

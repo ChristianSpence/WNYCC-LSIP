@@ -3,16 +3,9 @@
     <div class="row">
       <img src="/assets/images/logo-white.svg" inline/>
       <div class="greedy">
-        <p>{{ metas.site }}</p>
-        <p>{{ title }}</p>
+        <p class="title site">{{ metas.site }}</p>
+        <p class="title page">{{ title }}</p>
       </div>
-      <nav>
-        <ul>
-          <li><a href="/metadata/">Metadata Catalogue</a></li>
-          <li><a href="/wycc/">West Yorkshire Data</a></li>
-          <li><a href="/nycc/">North Yorkshire Data</a></li>
-        </ul>
-      </nav>
     </div>
   </div>
   {% if region_key %}
