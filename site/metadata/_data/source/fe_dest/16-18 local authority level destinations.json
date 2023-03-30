@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "Institution group",
+      "name": "institution_group",
       "categories": [
         "State-funded mainstream colleges",
         "State-funded mainstream schools",
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "name": "Qualification level",
+      "name": "cohort_level_group",
       "categories": [
         "All other qualifications",
         "Level 2",
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "name": "Student characteristic",
+      "name": "characteristic",
       "categories": [
         "Disadvantaged",
         "FSM eligible",
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "name": "Data type",
+      "name": "data_type",
       "categories": [
         "Number of pupils",
         "Percentage"
@@ -108,7 +108,7 @@
   ],
   "facts": [
     {
-      "name": "Number of pupils completing 16-18 study",
+      "name": "cohort",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "name": "Sustained education, apprenticeship or employment",
+      "name": "overall",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "name": "Sustained education destination",
+      "name": "education",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "name": "UK higher education institution",
+      "name": "he",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "name": "Further education",
+      "name": "fe",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "name": "FE Level 3",
+      "name": "fel3",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -384,7 +384,7 @@
       ]
     },
     {
-      "name": "FE Level 2",
+      "name": "fel2",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -430,7 +430,7 @@
       ]
     },
     {
-      "name": "FE entry level and no identified level",
+      "name": "fel1",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -476,7 +476,7 @@
       ]
     },
     {
-      "name": "Other education destinations",
+      "name": "other_edu",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -522,7 +522,7 @@
       ]
     },
     {
-      "name": "Sustained apprenticeships",
+      "name": "appren",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -568,7 +568,7 @@
       ]
     },
     {
-      "name": "Higher and degree apprenticeships (level 4 and above)",
+      "name": "appl4",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -614,7 +614,7 @@
       ]
     },
     {
-      "name": "Advanced apprenticeships (level 3)",
+      "name": "appl3",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -660,7 +660,7 @@
       ]
     },
     {
-      "name": "Intermediate apprenticeships (level 2)",
+      "name": "appl2",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -706,7 +706,7 @@
       ]
     },
     {
-      "name": "Sustained employment destination",
+      "name": "all_work",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -752,7 +752,7 @@
       ]
     },
     {
-      "name": "Not recorded as a sustained destination",
+      "name": "all_notsust",
       "data_type": "floating",
       "value_distribution": [
         {
@@ -798,7 +798,7 @@
       ]
     },
     {
-      "name": "Activity not captured",
+      "name": "all_unknown",
       "data_type": "floating",
       "value_distribution": [
         {

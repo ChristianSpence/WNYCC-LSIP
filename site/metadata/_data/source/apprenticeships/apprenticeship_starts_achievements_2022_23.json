@@ -1,0 +1,169 @@
+{
+  "path": "data/csv/apprenticeships/apprenticeship_starts_achievements_2022_23.csv",
+  "dimensions": [
+    {
+      "name": "date",
+      "categories": [
+        "2022/23"
+      ]
+    },
+    {
+      "name": "geography_code",
+      "categories": [
+        "E06000014",
+        "E07000163",
+        "E07000164",
+        "E07000165",
+        "E07000166",
+        "E07000167",
+        "E07000168",
+        "E07000169",
+        "E08000032",
+        "E08000033",
+        "E08000034",
+        "E08000035",
+        "E08000036"
+      ]
+    },
+    {
+      "name": "geography_name",
+      "categories": [
+        "Bradford",
+        "Calderdale",
+        "Craven",
+        "Hambleton",
+        "Harrogate",
+        "Kirklees",
+        "Leeds",
+        "Richmondshire",
+        "Ryedale",
+        "Scarborough",
+        "Selby",
+        "Wakefield",
+        "York"
+      ]
+    },
+    {
+      "name": "ssa_t1_desc",
+      "categories": [
+        "Agriculture, Horticulture and Animal Care",
+        "Arts, Media and Publishing",
+        "Business, Administration and Law",
+        "Construction, Planning and the Built Environment",
+        "Education and Training",
+        "Engineering and Manufacturing Technologies",
+        "Health, Public Services and Care",
+        "History, Philosophy and Theology",
+        "Information and Communication Technology",
+        "Leisure, Travel and Tourism",
+        "Retail and Commercial Enterprise",
+        "Science and Mathematics",
+        "Social Sciences",
+        "Total"
+      ]
+    },
+    {
+      "name": "apprenticeship_level",
+      "categories": [
+        "Advanced Apprenticeship",
+        "Higher Apprenticeship",
+        "Intermediate Apprenticeship",
+        "Total"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "name": "starts",
+      "data_type": "string",
+      "value_distribution": [
+        {
+          "value": "low",
+          "count": 0.506868
+        },
+        {
+          "value": "10",
+          "count": 0.146978
+        },
+        {
+          "value": "20",
+          "count": 0.076923
+        },
+        {
+          "value": "30",
+          "count": 0.037088
+        },
+        {
+          "value": "40",
+          "count": 0.03022
+        },
+        {
+          "value": "50",
+          "count": 0.026099
+        },
+        {
+          "value": "60",
+          "count": 0.019231
+        },
+        {
+          "value": "70",
+          "count": 0.016484
+        },
+        {
+          "value": "110",
+          "count": 0.01511
+        },
+        {
+          "value": "90",
+          "count": 0.012363
+        }
+      ]
+    },
+    {
+      "name": "achievements",
+      "data_type": "string",
+      "value_distribution": [
+        {
+          "value": "low",
+          "count": 0.710165
+        },
+        {
+          "value": "10",
+          "count": 0.133242
+        },
+        {
+          "value": "20",
+          "count": 0.050824
+        },
+        {
+          "value": "30",
+          "count": 0.03022
+        },
+        {
+          "value": "40",
+          "count": 0.019231
+        },
+        {
+          "value": "50",
+          "count": 0.012363
+        },
+        {
+          "value": "70",
+          "count": 0.006868
+        },
+        {
+          "value": "120",
+          "count": 0.006868
+        },
+        {
+          "value": "300",
+          "count": 0.004121
+        },
+        {
+          "value": "100",
+          "count": 0.004121
+        }
+      ]
+    }
+  ]
+}
