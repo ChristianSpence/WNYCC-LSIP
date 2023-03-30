@@ -71,6 +71,7 @@ site.remoteFile(
   "assets/images/lsip-web-logo.png",
   "https://www.wnychamber.co.uk/app/uploads/2023/01/LSIP-Web-Logo.png",
 );
+site.copy("assets/images");
 
 site.filter("localise", (num: number) => num.toLocaleString());
 site.filter(

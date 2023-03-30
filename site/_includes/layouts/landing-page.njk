@@ -1,0 +1,30 @@
+---
+layout: layouts/default.njk
+---
+<h1>{{ metas.site }}</h1>
+<div class="centred">
+  <img src="/assets/images/lsip-web-logo.png" inline>
+</div>
+
+<p>
+  Welcome to the {{ metas.site }} microsite.
+  The site presents data and visualisations relevant to the Local Skills Improvement Plan,
+  including information about skills supply and skill demand.
+</p>
+
+<p>
+  Select the Supply or Demand data from the menu above.
+</p>
+
+<p>
+  Supply is broken down by stage of study, with a focus on <a href="/{{ region_key }}/supply/fe">Further Education</a> and
+  <a href="/{{ region_key }}/supply/fe-dest/">16-18 Destinations</a>, including apprenticeships. The source of this data is
+  mainly the Department for Education.
+</p>
+
+<p>
+  <a href="/{{ region_key }}/demand/">Demand data</a> is based on data provided by <a href="https://lightcast.io/">Lightcast</a> accessed via
+  <a href="https://thedatacity.com/">The Data City</a>.
+</p>
+
+{{ content | safe }}
