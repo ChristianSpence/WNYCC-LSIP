@@ -1,0 +1,56 @@
+schema: '2.0'
+stages:
+  prep-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/apprenticeships/prepare.py
+      wycc
+    deps:
+    - path: data/csv/apprenticeships/apprenticeship_starts_achievements_2022_23.csv
+      md5: a9c4cb9e8d450ef38b09724776b18069
+      size: 63539
+    - path: site/_pipelines/apprenticeships/prepare.py
+      md5: 1821c9a3ab326de74dd900906bc7c3a1
+      size: 1932
+    outs:
+    - path: site/wycc/supply/apprenticeships/_data/all_apprenticeship_all_subject_geography_code.csv
+      md5: 9d2385000fb04d08e5f6fa4e9ff46192
+      size: 148
+      isexec: true
+    - path: site/wycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code.csv
+      md5: 8994eb9f0ead4af2e9637d558c6ca973
+      size: 3357
+      isexec: true
+    - path: site/wycc/supply/apprenticeships/_data/all_subjects_level_geography_code.csv
+      md5: 4b98f861da59e40e08ec2963266d9388
+      size: 687
+      isexec: true
+    - path: site/wycc/supply/apprenticeships/_data/stats.json
+      md5: b08473d1b5ba053c197c923c6a75918f
+      size: 39
+      isexec: true
+  prep-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/apprenticeships/prepare.py
+      nycc
+    deps:
+    - path: data/csv/apprenticeships/apprenticeship_starts_achievements_2022_23.csv
+      md5: a9c4cb9e8d450ef38b09724776b18069
+      size: 63539
+    - path: site/_pipelines/apprenticeships/prepare.py
+      md5: 1821c9a3ab326de74dd900906bc7c3a1
+      size: 1932
+    outs:
+    - path: site/nycc/supply/apprenticeships/_data/all_apprenticeship_all_subject_geography_code.csv
+      md5: 16f5bb331aea92e636a30855de2bfbce
+      size: 206
+      isexec: true
+    - path: site/nycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code.csv
+      md5: a36449417fc835d2b03ac51927a953f2
+      size: 5351
+      isexec: true
+    - path: site/nycc/supply/apprenticeships/_data/all_subjects_level_geography_code.csv
+      md5: 6e7bd5f84a6414fd78b093b88408d920
+      size: 1046
+      isexec: true
+    - path: site/nycc/supply/apprenticeships/_data/stats.json
+      md5: 9f35a71436fd527c83c354f5ab0c908c
+      size: 38
+      isexec: true

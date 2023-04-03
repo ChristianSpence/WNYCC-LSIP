@@ -1,0 +1,31 @@
+stages:
+  prep-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/apprenticeships/prepare.py wycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/apprenticeships/prepare.py
+      - data/csv/apprenticeships/apprenticeship_starts_achievements_2022_23.csv
+    outs:
+      - ? site/wycc/supply/apprenticeships/_data/all_subjects_level_geography_code.csv
+        : cache: false
+      - ? site/wycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code.csv
+        : cache: false
+      - ? site/wycc/supply/apprenticeships/_data/all_apprenticeship_all_subject_geography_code.csv
+        : cache: false
+      - site/wycc/supply/apprenticeships/_data/stats.json:
+          cache: false
+  prep-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/apprenticeships/prepare.py nycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/apprenticeships/prepare.py
+      - data/csv/apprenticeships/apprenticeship_starts_achievements_2022_23.csv
+    outs:
+      - ? site/nycc/supply/apprenticeships/_data/all_subjects_level_geography_code.csv
+        : cache: false
+      - ? site/nycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code.csv
+        : cache: false
+      - ? site/nycc/supply/apprenticeships/_data/all_apprenticeship_all_subject_geography_code.csv
+        : cache: false
+      - site/nycc/supply/apprenticeships/_data/stats.json:
+          cache: false

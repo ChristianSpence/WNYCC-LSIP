@@ -1,0 +1,25 @@
+geography_code,apprenticeship_level,starts,achievements
+E07000165,Intermediate Apprenticeship,80,30
+E07000163,Higher Apprenticeship,40,10
+E07000164,Intermediate Apprenticeship,60,10
+E07000163,Advanced Apprenticeship,50,10
+E07000165,Higher Apprenticeship,120,30
+E07000166,Intermediate Apprenticeship,1000,300
+E07000163,Intermediate Apprenticeship,30,10
+E07000166,Advanced Apprenticeship,60,10
+E06000014,Advanced Apprenticeship,180,50
+E06000014,Higher Apprenticeship,160,30
+E07000169,Intermediate Apprenticeship,100,10
+E07000167,Advanced Apprenticeship,50,20
+E07000168,Intermediate Apprenticeship,60,20
+E07000165,Advanced Apprenticeship,130,30
+E06000014,Intermediate Apprenticeship,120,40
+E07000167,Intermediate Apprenticeship,40,10
+E07000164,Advanced Apprenticeship,90,30
+E07000168,Higher Apprenticeship,80,10
+E07000168,Advanced Apprenticeship,100,30
+E07000167,Higher Apprenticeship,40,low
+E07000169,Advanced Apprenticeship,180,30
+E07000166,Higher Apprenticeship,30,low
+E07000169,Higher Apprenticeship,90,10
+E07000164,Higher Apprenticeship,110,10
