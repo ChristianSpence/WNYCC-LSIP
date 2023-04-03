@@ -19,5 +19,16 @@
     <p>
       Site created by <a href="https://open-innovations.org">Open Innovations</a>.
     </p>
+
+    <p>Have some feedback? Please email us at {{ comp.feedback_link({
+      email: "skills@wnychamber.co.uk",
+      subject: "LSIP Data Site Feedback",
+      body: [
+        "Feedback on page " + title + " (" + url | url(true)+ ")",
+        "Please add your feedback below.",
+        "--------"
+      ] | join('\n') }) | safe }}.</p>
+
+feedback_link: mailto:?subject=LSIP Data Site Feedback
   </div>
 </footer>

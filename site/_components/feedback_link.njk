@@ -1,0 +1,2 @@
+{%- set link -%}mailto:{{ email }}?subject={{ subject }}&body={{ body | replace("\n", "%0D%0A") }}{%- endset -%}
+<a href="{{ link }}">{{ email }}</a>
