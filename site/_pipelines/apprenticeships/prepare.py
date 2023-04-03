@@ -19,16 +19,17 @@ if __name__ == '__main__':
     all_subjects = data[data.ssa_t1_desc == 'Total'].drop(columns='ssa_t1_desc')
     all_subjects = all_subjects[all_subjects.apprenticeship_level != 'Total']
     all_subjects = all_subjects.set_index('geography_code')
+    all_subjects = pd.pivot(all_subjects, columns='apprenticeship_level', values=['starts', 'achievements'])
     
     #@TODO need to deal with "low" values for this set of data.
     all_apprenticeship_level = data[data.apprenticeship_level == 'Total'].drop(columns='apprenticeship_level')
     all_apprenticeship_level = all_apprenticeship_level[all_apprenticeship_level.ssa_t1_desc != 'Total']
     all_apprenticeship_level = all_apprenticeship_level.set_index('geography_code')
 
-    total_total = data[(data.ssa_t1_desc == 'Total') & (data.apprenticeship_level == 'Total')].drop(columns=['ssa_t1_desc', 'apprenticeship_level']).set_index('geography_code')
-    total_total = total_total.astype(float, errors='ignore')
-    stats = total_total.sum()
-    print(stats)
+    total_total = data[(data.ssa_t1_desc == 'Total') & (data.apprenticeship_level == 'Total')].set_index('geography_code')
+    total_total = total_total.astype(float, errors='ignore').drop(columns=['ssa_t1_desc', 'apprenticeship_level'])
+    stats = total_total.sum(numeric_only=True)
+   
     all_subjects.to_csv(os.path.join(OUTDIR, 'all_subjects_level_geography_code.csv'))
     all_apprenticeship_level.to_csv(os.path.join(OUTDIR, 'all_apprenticeship_level_subject_geography_code.csv'))
     total_total.to_csv(os.path.join(OUTDIR, 'all_apprenticeship_all_subject_geography_code.csv'))

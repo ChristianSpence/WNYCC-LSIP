@@ -150,7 +150,7 @@ datasets:
 {# {{comp.DEBUG({metric:2020_21.fe_dest_detail.rows}) | safe}} #}
 {# {{comp.DEBUG({metric:series.fe_dest.characteristic}) | safe}} #}
 {% comp 'dashboard.pane' %}
-  <p class="centred">Hello</p>
+  <p class="centred">FE destinations for different student characteristics</p>
   {{ comp.oi.chart.bar({
         config: {
           data: 2020_21.fe_dest_detail.rows,

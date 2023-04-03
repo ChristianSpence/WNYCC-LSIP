@@ -1,0 +1,69 @@
+---
+layout: layouts/default.njk
+---
+
+{# Summary headlines #}
+{% comp 'dashboard.grid', {max_width: '10rem'} %}
+{{ comp.dashboard.headline({
+      title: 'Total Apprenticeship Starts',
+      headline: stats.starts
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Total Apprenticeship Achievements',
+      headline: stats.achievements
+    }) | safe }}
+{% endcomp %}
+<h2> Breakdown by Local Authority
+    </h2>
+{% comp 'dashboard.grid' %}
+{% comp 'dashboard.pane' %}
+<p class='centred'> Starts </p>
+{{ comp.oi.map.hex_cartogram(
+      {
+        config: {
+          hexjson: hex_layout,
+          hexScale: 0.8,
+          data: all_apprenticeship_all_subject_geography_code.rows,
+          matchKey: 'geography_code',
+          titleProp: 'n',
+          valueProp: 'starts',
+          min: 100,
+          scale: colour_scale.sample
+        }
+      }
+    ) | safe }}
+{% endcomp %}
+{% comp 'dashboard.pane' %}
+<p class='centred'> Achievements </p>
+{{ comp.oi.map.hex_cartogram(
+      {
+        config: {
+          hexjson: hex_layout,
+          hexScale: 0.8,
+          data: all_apprenticeship_all_subject_geography_code.rows,
+          matchKey: 'geography_code',
+          titleProp: 'n',
+          valueProp: 'achievements',
+          min: 30,
+          scale: colour_scale.sample
+        }
+      }
+    ) | safe }}
+{% endcomp %}
+{% endcomp %}
+
+{# {% comp 'dashboard.pane' %}
+  <p class="centred">Apprenticeship and Local Authority</p>
+  {{ comp.oi.chart.bar({
+        config: {
+          data: all_subjects_level_geography_code.rows,
+          stacked: true,
+          category: "characteristic",
+          series: series.fe_dest.study_level,
+          legend: { show: true },
+          axis: {
+            x: { tickSize: 100}
+          }
+        }
+      }) | safe }}
+  {% endcomp %} #}
