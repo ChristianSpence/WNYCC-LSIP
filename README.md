@@ -13,6 +13,8 @@ Data for this project is collected from four main locations:
 
 In the first phase, data is aggregated from the first three sources to allow the client to determine exactly which data variables are needed. Raw downloaded data from the sources us saved in `/data-raw`, processed via scripts stored in `/R`, with final datasets saved in `/data`. A Shiny web application that allows quick investigation of the data is provided in `/app`.
 
+The data processing pipelines are located in `/site/_pipelines` and the data which gets used in the final charts is saved in `/wycc/supply` and `wycc/demand`. There are identical locations under `/site/nycc`.
+
 Sources and data transformations for each of the four main locations is described here.
 
 ### Department for Education
