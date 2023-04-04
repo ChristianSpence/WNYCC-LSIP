@@ -1,0 +1,9 @@
+- value: "Advanced Apprenticeship"
+  title: Advanced
+  colour: "#edf8b1"
+- value: "Higher Apprenticeship"
+  title: Higher
+  colour: "#7fcdbb"
+- value: "Intermediate Apprenticeship"
+  title: Intermediate
+  colour: "#2c7fb8"

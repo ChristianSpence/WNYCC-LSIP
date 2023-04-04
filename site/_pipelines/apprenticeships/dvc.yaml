@@ -6,9 +6,13 @@ stages:
       - site/_pipelines/apprenticeships/prepare.py
       - data/csv/apprenticeships/apprenticeship_starts_achievements_2022_23.csv
     outs:
-      - ? site/wycc/supply/apprenticeships/_data/all_subjects_level_geography_code.csv
+      - ? site/wycc/supply/apprenticeships/_data/all_subjects_level_geography_code_starts.csv
         : cache: false
-      - ? site/wycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code.csv
+      - ? site/wycc/supply/apprenticeships/_data/all_subjects_level_geography_code_ach.csv
+        : cache: false
+      - ? site/wycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code_starts.csv
+        : cache: false
+      - ? site/wycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code_ach.csv
         : cache: false
       - ? site/wycc/supply/apprenticeships/_data/all_apprenticeship_all_subject_geography_code.csv
         : cache: false
@@ -21,9 +25,13 @@ stages:
       - site/_pipelines/apprenticeships/prepare.py
       - data/csv/apprenticeships/apprenticeship_starts_achievements_2022_23.csv
     outs:
-      - ? site/nycc/supply/apprenticeships/_data/all_subjects_level_geography_code.csv
+      - ? site/nycc/supply/apprenticeships/_data/all_subjects_level_geography_code_starts.csv
         : cache: false
-      - ? site/nycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code.csv
+      - ? site/nycc/supply/apprenticeships/_data/all_subjects_level_geography_code_ach.csv
+        : cache: false
+      - ? site/nycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code_starts.csv
+        : cache: false
+      - ? site/nycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code_ach.csv
         : cache: false
       - ? site/nycc/supply/apprenticeships/_data/all_apprenticeship_all_subject_geography_code.csv
         : cache: false

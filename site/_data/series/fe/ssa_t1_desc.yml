@@ -1,15 +1,15 @@
 - value: "Agriculture, Horticulture and Animal Care"
   title: "Agriculture, Horticulture and Animal Care"
-  colour:
+  colour: blue
 - value: "Arts, Media and Publishing"
   title: "Arts, Media and Publishing"
-  colour:
+  colour: blue
 - value: "Construction, Planning and the Built Environment"
   title: "Construction, Planning and the Built Environment"
-  colour:
+  colour: blue
 - value: "Business, Administration and Law"
   title: "Business, Administration and Law"
-  colour:
+  colour: blue
 - value: Education and Training
   title: Education and Training
   colour: blue

@@ -16,22 +16,28 @@ if __name__ == '__main__':
     #filter by date, only count aggregated numbers for subject, remove aggregates for apprenticeship level. drop useless columns.
     dat = '2022/23'
     data = data[data.date == dat].drop(columns='date')
+    data = data.replace(['low'], 0)
     all_subjects = data[data.ssa_t1_desc == 'Total'].drop(columns='ssa_t1_desc')
-    all_subjects = all_subjects[all_subjects.apprenticeship_level != 'Total']
-    all_subjects = all_subjects.set_index('geography_code')
-    all_subjects = pd.pivot(all_subjects, columns='apprenticeship_level', values=['starts', 'achievements'])
+    all_subjects = all_subjects[all_subjects.apprenticeship_level != 'Total'].reset_index()
+    all_subjects_starts = all_subjects.pivot(index='geography_code', columns='apprenticeship_level', values='starts')
+    all_subjects_ach = all_subjects.pivot(index='geography_code', columns='apprenticeship_level', values='achievements')
     
-    #@TODO need to deal with "low" values for this set of data.
     all_apprenticeship_level = data[data.apprenticeship_level == 'Total'].drop(columns='apprenticeship_level')
-    all_apprenticeship_level = all_apprenticeship_level[all_apprenticeship_level.ssa_t1_desc != 'Total']
-    all_apprenticeship_level = all_apprenticeship_level.set_index('geography_code')
+    all_apprenticeship_level = all_apprenticeship_level[all_apprenticeship_level.ssa_t1_desc != 'Total'].reset_index()
+    all_apprenticeship_level_starts = all_apprenticeship_level.pivot(index='geography_code', columns='ssa_t1_desc', values='starts')
+    all_apprenticeship_level_ach = all_apprenticeship_level.pivot(index='geography_code', columns='ssa_t1_desc', values='achievements')
 
     total_total = data[(data.ssa_t1_desc == 'Total') & (data.apprenticeship_level == 'Total')].set_index('geography_code')
     total_total = total_total.astype(float, errors='ignore').drop(columns=['ssa_t1_desc', 'apprenticeship_level'])
     stats = total_total.sum(numeric_only=True)
-   
-    all_subjects.to_csv(os.path.join(OUTDIR, 'all_subjects_level_geography_code.csv'))
-    all_apprenticeship_level.to_csv(os.path.join(OUTDIR, 'all_apprenticeship_level_subject_geography_code.csv'))
+    
+    #WRITE TO FILES
+    all_subjects_starts.to_csv(os.path.join(OUTDIR, 'all_subjects_level_geography_code_starts.csv'))
+    all_subjects_ach.to_csv(os.path.join(OUTDIR, 'all_subjects_level_geography_code_ach.csv'))
+
+    all_apprenticeship_level_starts.to_csv(os.path.join(OUTDIR, 'all_apprenticeship_level_subject_geography_code_starts.csv'))
+    all_apprenticeship_level_ach.to_csv(os.path.join(OUTDIR, 'all_apprenticeship_level_subject_geography_code_ach.csv'))
+
     total_total.to_csv(os.path.join(OUTDIR, 'all_apprenticeship_all_subject_geography_code.csv'))
     
    

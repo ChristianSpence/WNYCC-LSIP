@@ -1,10 +1,10 @@
 geography_code,ssa_t1_desc,starts,achievements
-E08000035,Social Sciences,low,low
+E08000035,Social Sciences,2,2
 E08000034,Retail and Commercial Enterprise,80,20
 E08000033,Engineering and Manufacturing Technologies,90,20
 E08000035,Engineering and Manufacturing Technologies,240,50
 E08000032,Retail and Commercial Enterprise,110,40
-E08000033,"Agriculture, Horticulture and Animal Care",10,low
+E08000033,"Agriculture, Horticulture and Animal Care",10,2
 E08000034,Engineering and Manufacturing Technologies,250,40
 E08000032,Education and Training,40,10
 E08000036,"Business, Administration and Law",250,80
@@ -12,55 +12,55 @@ E08000034,Education and Training,40,10
 E08000035,"Agriculture, Horticulture and Animal Care",20,10
 E08000034,"Business, Administration and Law",290,100
 E08000035,"Business, Administration and Law",460,150
-E08000033,Education and Training,low,low
+E08000033,Education and Training,2,2
 E08000032,"Construction, Planning and the Built Environment",100,10
 E08000032,"Business, Administration and Law",280,80
 E08000032,"Health, Public Services and Care",320,100
 E08000033,Information and Communication Technology,40,10
-E08000033,"History, Philosophy and Theology",low,low
+E08000033,"History, Philosophy and Theology",2,2
 E08000035,"Construction, Planning and the Built Environment",180,10
-E08000036,"Leisure, Travel and Tourism",10,low
+E08000036,"Leisure, Travel and Tourism",10,2
 E08000034,"Health, Public Services and Care",260,70
-E08000032,Social Sciences,low,low
-E08000032,Science and Mathematics,low,low
+E08000032,Social Sciences,2,2
+E08000032,Science and Mathematics,2,2
 E08000032,Information and Communication Technology,70,20
-E08000034,"History, Philosophy and Theology",low,low
-E08000032,"Leisure, Travel and Tourism",10,low
+E08000034,"History, Philosophy and Theology",2,2
+E08000032,"Leisure, Travel and Tourism",10,2
 E08000035,"Health, Public Services and Care",430,120
 E08000032,Engineering and Manufacturing Technologies,220,20
 E08000036,"Construction, Planning and the Built Environment",140,10
-E08000035,"History, Philosophy and Theology",low,low
+E08000035,"History, Philosophy and Theology",2,2
 E08000034,Information and Communication Technology,60,20
-E08000034,Social Sciences,low,low
-E08000036,"History, Philosophy and Theology",low,low
-E08000036,"Agriculture, Horticulture and Animal Care",20,low
-E08000036,Science and Mathematics,low,low
+E08000034,Social Sciences,2,2
+E08000036,"History, Philosophy and Theology",2,2
+E08000036,"Agriculture, Horticulture and Animal Care",20,2
+E08000036,Science and Mathematics,2,2
 E08000033,"Business, Administration and Law",130,30
-E08000035,"Leisure, Travel and Tourism",10,low
-E08000035,Science and Mathematics,low,low
-E08000033,Social Sciences,low,low
-E08000036,"Arts, Media and Publishing",low,low
-E08000033,"Arts, Media and Publishing",low,low
-E08000034,"Agriculture, Horticulture and Animal Care",20,low
+E08000035,"Leisure, Travel and Tourism",10,2
+E08000035,Science and Mathematics,2,2
+E08000033,Social Sciences,2,2
+E08000036,"Arts, Media and Publishing",2,2
+E08000033,"Arts, Media and Publishing",2,2
+E08000034,"Agriculture, Horticulture and Animal Care",20,2
 E08000036,Retail and Commercial Enterprise,70,20
-E08000034,"Leisure, Travel and Tourism",low,low
+E08000034,"Leisure, Travel and Tourism",2,2
 E08000035,Retail and Commercial Enterprise,160,30
-E08000034,Science and Mathematics,low,low
+E08000034,Science and Mathematics,2,2
 E08000036,"Health, Public Services and Care",240,70
 E08000036,Engineering and Manufacturing Technologies,160,40
 E08000035,Education and Training,40,20
-E08000032,"Arts, Media and Publishing",10,low
+E08000032,"Arts, Media and Publishing",10,2
 E08000035,Information and Communication Technology,150,40
 E08000033,"Health, Public Services and Care",140,40
-E08000033,"Leisure, Travel and Tourism",low,low
-E08000035,"Arts, Media and Publishing",10,low
+E08000033,"Leisure, Travel and Tourism",2,2
+E08000035,"Arts, Media and Publishing",10,2
 E08000034,"Construction, Planning and the Built Environment",190,20
-E08000036,Social Sciences,low,low
-E08000032,"History, Philosophy and Theology",low,low
+E08000036,Social Sciences,2,2
+E08000032,"History, Philosophy and Theology",2,2
 E08000033,Retail and Commercial Enterprise,30,20
-E08000033,Science and Mathematics,low,low
+E08000033,Science and Mathematics,2,2
 E08000036,Information and Communication Technology,60,10
 E08000036,Education and Training,20,10
-E08000034,"Arts, Media and Publishing",10,low
-E08000033,"Construction, Planning and the Built Environment",50,low
+E08000034,"Arts, Media and Publishing",10,2
+E08000033,"Construction, Planning and the Built Environment",50,2
 E08000032,"Agriculture, Horticulture and Animal Care",20,10

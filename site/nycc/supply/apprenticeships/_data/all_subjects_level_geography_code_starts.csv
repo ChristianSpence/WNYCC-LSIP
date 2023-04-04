@@ -1,11 +1,9 @@
-,starts,starts,starts,achievements,achievements,achievements
-apprenticeship_level,Advanced Apprenticeship,Higher Apprenticeship,Intermediate Apprenticeship,Advanced Apprenticeship,Higher Apprenticeship,Intermediate Apprenticeship
-geography_code,,,,,,
-E06000014,180,160,120,50,30,40
-E07000163,50,40,30,10,10,10
-E07000164,90,110,60,30,10,10
-E07000165,130,120,80,30,30,30
-E07000166,60,30,1000,10,low,300
-E07000167,50,40,40,20,low,10
-E07000168,100,80,60,30,10,20
-E07000169,180,90,100,30,10,10
+geography_code,Advanced Apprenticeship,Higher Apprenticeship,Intermediate Apprenticeship
+E06000014,180,160,120
+E07000163,50,40,30
+E07000164,90,110,60
+E07000165,130,120,80
+E07000166,60,30,1000
+E07000167,50,40,40
+E07000168,100,80,60
+E07000169,180,90,100

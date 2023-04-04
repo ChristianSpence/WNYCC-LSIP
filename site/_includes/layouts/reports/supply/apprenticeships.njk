@@ -1,7 +1,8 @@
 ---
 layout: layouts/default.njk
 ---
-
+<h1>Skills Supply: Apprenticeships</h1>
+<p> This page shows the latest available data (2022/23) for apprenticeships.
 {# Summary headlines #}
 {% comp 'dashboard.grid', {max_width: '10rem'} %}
 {{ comp.dashboard.headline({
@@ -52,18 +53,82 @@ layout: layouts/default.njk
 {% endcomp %}
 {% endcomp %}
 
-{# {% comp 'dashboard.pane' %}
-  <p class="centred">Apprenticeship and Local Authority</p>
+{% comp 'dashboard.grid' %}
+{% comp 'dashboard.pane' %}
+  <p class="centred">Apprenticeship Levels: Starts</p>
   {{ comp.oi.chart.bar({
         config: {
-          data: all_subjects_level_geography_code.rows,
+          data: all_subjects_level_geography_code_starts.rows | value_mapper({
+          key: "geography_code",
+          mapper: mapper.geo_code_to_name
+        }),
           stacked: true,
-          category: "characteristic",
-          series: series.fe_dest.study_level,
+          category: "geography_code",
+          series: series.apprenticeships.apprenticeship_level,
           legend: { show: true },
           axis: {
             x: { tickSize: 100}
           }
         }
       }) | safe }}
-  {% endcomp %} #}
+  {% endcomp %}
+
+{% comp 'dashboard.pane' %}
+  <p class="centred">Apprenticeship Levels: Achievements</p>
+  {{ comp.oi.chart.bar({
+        config: {
+          data: all_subjects_level_geography_code_ach.rows | value_mapper({
+          key: "geography_code",
+          mapper: mapper.geo_code_to_name
+        }),
+          stacked: true,
+          category: "geography_code",
+          series: series.apprenticeships.apprenticeship_level,
+          legend: { show: true },
+          axis: {
+            x: { tickSize: 100}
+          }
+        }
+      }) | safe }}
+  {% endcomp %}
+{% endcomp %}
+
+<h2> Subject Area </h2>
+<p>We have omitted "low" entries in the dataset in favour of visual quality. These are values greater than 0 but less than 5.</p>
+{% comp 'dashboard.pane' %}
+  <p class="centred">Subjects: Starts</p>
+  {{ comp.oi.chart.bar({
+        config: {
+          data: all_apprenticeship_level_subject_geography_code_starts.rows | value_mapper({
+          key: "geography_code",
+          mapper: mapper.geo_code_to_name
+        }),
+          stacked: true,
+          category: "geography_code",
+          series: series.apprenticeships.subject_area,
+          legend: { show: true },
+          axis: {
+            x: { tickSize: 50}
+          }
+        }
+      }) | safe }}
+  {% endcomp %}
+{% comp 'dashboard.pane' %}
+  <p class="centred">Subjects: Achievements</p>
+  {{ comp.oi.chart.bar({
+        config: {
+          data: all_apprenticeship_level_subject_geography_code_ach.rows | value_mapper({
+          key: "geography_code",
+          mapper: mapper.geo_code_to_name
+        }),
+          stacked: true,
+          category: "geography_code",
+          series: series.apprenticeships.subject_area,
+          legend: { show: true },
+          axis: {
+            x: { tickSize: 50}
+          }
+        }
+      }) | safe }}
+  {% endcomp %}
+  
