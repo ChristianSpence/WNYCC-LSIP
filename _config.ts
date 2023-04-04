@@ -18,7 +18,7 @@ import * as treemap from "oi-lume-charts/components/hierarchy/tree_map.ts";
 const search = { returnPageData: true };
 const site = lume({
   src: "site",
-  location: new URL("https://open-innovations.github.io/WNYCC-LSIP"),
+  location: new URL("https://lsip-data.wnychamber.co.uk"),
 }, { search });
 
 // Load TreeMap component
