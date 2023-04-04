@@ -3,9 +3,13 @@
     margin-top: 0;
   }
 }
+
 .legend {
   display: flex;
-  & * + * {
+  flex-wrap: wrap;
+  gap: 1rem;
+
+  & *+* {
     margin-top: 0;
   }
 }
