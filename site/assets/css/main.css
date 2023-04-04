@@ -10,6 +10,8 @@
 @import "css/oi-viz.css";
 
 :root {
-  --colour-primary: #005EB8;
-  --colour-primary-contrast: yellow;
+  --colour-primary: #ff1249;
+  --colour-primary-contrast: #ffffff;
+  --main-fontstack: Gotham A,Gotham B,Helvetica,Arial,sans-serif;
+  --alt-fontstack: utopia-std,Georgia,serif;
 }

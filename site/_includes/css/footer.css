@@ -15,4 +15,7 @@ footer {
       text-decoration: underline;
     }
   }
+  & nav {
+    font-family: var(--alt-fontstack);
+  }
 }

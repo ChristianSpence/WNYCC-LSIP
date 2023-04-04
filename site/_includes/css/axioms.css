@@ -1,12 +1,17 @@
 body {
   font-size: 100%;
-  font-family: sans-serif;
+  font-family: var(--main-fontstack);
   padding: 0;
   padding-bottom: 10rem;
   position: relative;
   & > .wrapper {
     padding: 1rem;
   }
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--alt-fontstack);
+  color: var(--colour-primary);
 }
 
 main {

@@ -15,18 +15,24 @@ header {
     fill: var(--colour-primary-contrast);
   }
   & > nav {
-    color: #ffd;
-    background: #333;
-    /* TODO Fix this */
-    & * {
-      color: #ffd;
-      background: #333;
-    }
     & > ul {
       display: flex;
-    }
+      & > li:hover {
+        color: var(--colour-primary);
+        background: var(--colour-primary-contrast);
+      }
+      & ul {
+        color: black;
+        background-color: var(--colour-primary-contrast);
+        box-shadow: 0 .125rem .3125rem 0 hsla(0,0%,40%,.5);
+        & li:hover {
+          color: var(--colour-primary);
+        }
+      }
+  }
   }
   & nav {
+    font-family: var(--alt-fontstack);
     & ul {
       padding: 0;
       margin: 0;
@@ -43,10 +49,6 @@ header {
     & li {
       position: relative;
       padding: 0.5rem 1rem;
-      &:hover {
-        color: #333;
-        background: #ffd;
-      }
       & ul {
         list-style: none;
         position: absolute;
@@ -67,7 +69,7 @@ header {
     }
   }
   & .title {
-    font-weight: bold;
+    font-family: var(--alt-fontstack);
     font-size: 1.2em;
     &.site {
       font-size: 1.4em;
