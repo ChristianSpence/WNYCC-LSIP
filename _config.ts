@@ -105,6 +105,5 @@ dataFiles.forEach((remote) => {
 site.copy("/data");
 
 site.copy('.nojekyll');
-site.copy('CNAME');
 
 export default site;
