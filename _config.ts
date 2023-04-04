@@ -11,7 +11,7 @@ import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import oiCharts from "oi-lume-charts/mod.ts";
 import csvLoader from "oi-lume-utils/loaders/csv-loader.ts";
 import autoDependency from "oi-lume-utils/processors/auto-dependency.ts";
-import { walkSync } from 'std/fs/mod.ts';
+import { walkSync } from "std/fs/mod.ts";
 
 import * as treemap from "oi-lume-charts/components/hierarchy/tree_map.ts";
 
@@ -41,7 +41,7 @@ site.use(oiCharts({
 site.use(esbuild({
   options: {
     format: "iife",
-  }
+  },
 }));
 
 site.process([".html"], autoDependency);
@@ -51,10 +51,10 @@ site.use(minify_html());
 site.loadData([".csv"], csvLoader);
 site.loadData([".hexjson"], jsonLoader);
 
-site.remoteFile(
-  "_includes/css/reset.css",
-  "https://unpkg.com/modern-css-reset/dist/reset.css",
-);
+// site.remoteFile(
+//   "_includes/css/reset.css",
+//   "https://unpkg.com/modern-css-reset/dist/reset.css",
+// );
 
 site.remoteFile("assets/oi/js/chart.js", "patch/chart.js");
 
@@ -92,17 +92,16 @@ site.filter(
 );
 site.filter("head", (arr: unknown[], count = 10) => arr.slice(0, count));
 
-
-const dataDir = 'data/csv';
-const dataPath = '/data/csv';
+const dataDir = "data/csv";
+const dataPath = "/data/csv";
 const dataFiles = Array.from(walkSync(dataDir, {
   includeDirs: false,
   exts: ["csv"],
 })).map(({ path }) => path);
-dataFiles.forEach(remote => {
+dataFiles.forEach((remote) => {
   const local = remote.replace(dataDir, dataPath);
-  site.remoteFile(local, './' + remote);
+  site.remoteFile(local, "./" + remote);
 });
-site.copy('/data');
+site.copy("/data");
 
 export default site;
