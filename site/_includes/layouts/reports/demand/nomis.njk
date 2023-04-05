@@ -1,0 +1,29 @@
+---
+layout: layouts/default.njk
+datasets:
+  - data/csv/nomis/ukbc-lu-emp
+---
+{# {% comp 'dashboard.pane' %}
+  <p class="centred">Line chart</p>
+  {{ comp.oi.chart.line({
+        config: {
+          data: size_over_time_whole_region.rows,
+          axis:
+              x:
+                grid:
+                  show: true
+                tickSpacing: 5
+              'y':
+                grid:
+                  show: true
+                tickSpacing: 5
+          series:
+            - title: Large (250+)
+              x: date
+              'y': Large (250+)
+              colour: '#e52e36'
+          }
+        }
+      ) | safe }}
+  {% endcomp %} #}
+

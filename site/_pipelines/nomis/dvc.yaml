@@ -1,0 +1,13 @@
+stages:
+  prep-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/nomis/prepare.py wycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/nomis/prepare.py
+      - data/csv/nomis/ukbc-lu-emp.csv
+      - data/csv/nomis/bres.csv
+    outs:
+      - site/wycc/demand/nomis/_data/size_over_time_whole_region.csv:
+          cache: false
+      - site/wycc/demand/nomis/_data/industry_sector_latest_year.csv:
+          cache: false

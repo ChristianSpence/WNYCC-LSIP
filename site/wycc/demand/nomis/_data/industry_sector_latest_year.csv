@@ -1,0 +1,22 @@
+industry_name,obs_value
+"A : Agriculture, forestry and fishing",4850.0
+B : Mining and quarrying,460.0
+C : Manufacturing,119000.0
+"D : Electricity, gas, steam and air conditioning supply",3555.0
+"E : Water supply; sewerage, waste management and remediation activities",9500.0
+F : Construction,47500.0
+G : Wholesale and retail trade; repair of motor vehicles and motorcycles,149000.0
+H : Transportation and storage,59000.0
+I : Accommodation and food service activities,68000.0
+J : Information and communication,40750.0
+K : Financial and insurance activities,40250.0
+L : Real estate activities,20000.0
+"M : Professional, scientific and technical activities",82500.0
+N : Administrative and support service activities,105000.0
+O : Public administration and defence; compulsory social security,47000.0
+P : Education,105000.0
+Q : Human health and social work activities,161000.0
+"R : Arts, entertainment and recreation",22000.0
+S : Other service activities,24500.0
+T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use,0.0
+U : Activities of extraterritorial organisations and bodies,0.0
