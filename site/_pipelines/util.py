@@ -36,10 +36,11 @@ def load_data(filepath, group=None, fill_na=True, na_values=None, value=2):
     
     #filtering by CoC
     if (group != None):
+            data.rename(columns=slugify, inplace=True)
             data = data[data.geography_code.isin(LA_CODES[group])].drop(columns='geography_name')
     
     #renaming columns
-    data.rename(columns=slugify, inplace=True)
+    
     
     return data
 
