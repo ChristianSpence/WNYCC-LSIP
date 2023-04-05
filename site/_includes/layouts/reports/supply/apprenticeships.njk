@@ -1,8 +1,32 @@
 ---
 layout: layouts/default.njk
+datasets:
+  - apprenticeships/apprenticeship-starts-achievements-2022-23
 ---
 <h1>Skills Supply: Apprenticeships</h1>
-<p> This page shows the latest available data (2022/23) for apprenticeships.
+<p> This page shows the latest available data (2022/23) for apprenticeships. There are breakdowns by local authority, apprenticeship level, and subject area. 
+  The apprenticeship levels are approximately:
+  <inline>
+    <li>Intermediate: Level 2</li>
+    <li>Advanced: Level 3</li>
+    <li >Higher: Level 4/5</li>
+  </inline>
+</p>
+
+<p>Datasets used:</p>
+
+<ul>
+  {% for dataset in datasets %}
+    {% set page = search.page("url=/metadata/" + dataset + "/" ) %}
+    <li>
+      {{ page.data }}
+      <a href="{{ page.url }}">
+        {{ page.title }} from {{ page.origin }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
 {# Summary headlines #}
 {% comp 'dashboard.grid', {max_width: '10rem'} %}
 {{ comp.dashboard.headline({
@@ -14,7 +38,7 @@ layout: layouts/default.njk
       headline: stats.achievements
     }) | safe }}
 {% endcomp %}
-<h2> Breakdown by Local Authority
+<h2> Local Authority
     </h2>
 {% comp 'dashboard.grid' %}
 {% comp 'dashboard.pane' %}
@@ -67,7 +91,7 @@ layout: layouts/default.njk
           series: series.apprenticeships.apprenticeship_level,
           legend: { show: true },
           axis: {
-            x: { tickSize: 100}
+            x: { tickSpacing: 500}
           }
         }
       }) | safe }}
@@ -86,7 +110,7 @@ layout: layouts/default.njk
           series: series.apprenticeships.apprenticeship_level,
           legend: { show: true },
           axis: {
-            x: { tickSize: 100}
+            x: { tickSpacing: 100}
           }
         }
       }) | safe }}
@@ -108,7 +132,7 @@ layout: layouts/default.njk
           series: series.apprenticeships.subject_area,
           legend: { show: true },
           axis: {
-            x: { tickSize: 50}
+            x: { tickSpacing: 500}
           }
         }
       }) | safe }}
@@ -126,7 +150,7 @@ layout: layouts/default.njk
           series: series.apprenticeships.subject_area,
           legend: { show: true },
           axis: {
-            x: { tickSize: 50}
+            x: { tickSpacing: 100}
           }
         }
       }) | safe }}

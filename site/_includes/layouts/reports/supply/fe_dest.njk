@@ -49,7 +49,7 @@ datasets:
 
 
 <h2>
-  Breakdowns by Local Authority
+  Local Authority
 </h2>
 <p>
   Hover over the figures to show the actual numbers or over the bar chart categories to unstack the bars.
@@ -86,7 +86,7 @@ datasets:
           series: series.dest_type,
           legend: { show: true },
           axis: {
-            x: { tickSize: 50}
+            x: { tickSpacing: 50}
           }
         }
       }) | safe }}
@@ -111,7 +111,7 @@ datasets:
           series: series.qual_type_pct,
           legend: { show: true },
           axis: {
-            x: { tickSize: 50 }
+            x: { tickSpacing: 50 }
           }
         }
       }) | safe }}
@@ -130,7 +130,7 @@ datasets:
           series: series.qual_type,
           legend: { show: true },
           axis: {
-            x: { tickSize: 5000}
+            x: { tickSpacing: 5000}
           }
         }
       }) | safe }}
@@ -159,7 +159,7 @@ datasets:
           series: series.fe_dest.study_level,
           legend: { show: true },
           axis: {
-            x: { tickSize: 100}
+            x: { tickSpacing: 1000}
           }
         }
       }) | safe }}
@@ -175,7 +175,7 @@ datasets:
           series: series.fe_dest.student_characteristic,
           legend: { show: true },
           axis: {
-            x: { tickSize: 500}
+            x: { tickSpacing: 500}
           }
         }
       }) | safe }}
@@ -190,7 +190,7 @@ datasets:
             series: series.fe_dest.student_characteristic,
             legend: { show: true },
             axis: {
-              x: { tickSize: 500}
+              x: { tickSpacing: 500}
             }
           }
         }) | safe }}
@@ -208,7 +208,7 @@ datasets:
           series: series.fe_dest.student_characteristic,
           legend: { show: true },
           axis: {
-            x: { tickSize: 500}
+            x: { tickSpacing: 500}
           }
         }
       }) | safe }}
@@ -223,7 +223,7 @@ datasets:
             series: series.fe_dest.student_characteristic,
             legend: { show: true },
             axis: {
-              x: { tickSize: 500}
+              x: { tickSpacing: 500}
             }
           }
         }) | safe }}

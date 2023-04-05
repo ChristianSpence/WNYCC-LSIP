@@ -36,7 +36,7 @@ datasets:
     }) | safe }}
 {% endcomp %}
 
-<h2> Breakdowns by Local Authority </h2>
+<h2> Local Authority </h2>
 <p> The following figures show data on Basic Skills, which consists of English and Maths up to GSCE level and basic digital skills. 
     Participation represents anyone who took part on the course at any point during the year. Achievement represents anyone who gained a qualification
     during the year. </p>
@@ -75,7 +75,7 @@ datasets:
             series: series.fe_subject_area_participation,
             legend: { show: true },
             axis: {
-            x: { tickSize: 1000 }
+            x: { tickSpacing: 1000 }
             }
         }
         }) | safe }}
@@ -93,7 +93,7 @@ datasets:
                 series: series.fe_subject_area_achievements,
                 legend: { show: true },
                 axis: {
-                x: { tickSize: 1000 }
+                x: { tickSpacing: 1000 }
                 }
             }
             }) | safe }}
@@ -137,7 +137,7 @@ In the treemap below, the area of each rectangle represents the number of enrolm
             series: series.fe_training_subject_area,
             legend: { show: true },
             axis: {
-            x: { tickSize: e_and_t_by_ssa_t1_desc.columns.e_and_t_aims_enrolments | max }
+            x: { tickSpacing: e_and_t_by_ssa_t1_desc.columns.e_and_t_aims_enrolments | max }
             }
         }
         }) | safe }}
@@ -155,7 +155,7 @@ In the treemap below, the area of each rectangle represents the number of enrolm
                 series: series.fe.nvq_level,
                 legend: { show: true },
                 axis: {
-                x: { tickSize: 10000}
+                x: { tickSpacing: 10000}
                 }
             }
             }) | safe }}
@@ -171,7 +171,7 @@ In the treemap below, the area of each rectangle represents the number of enrolm
                 series: series.fe.nvq_level,
                 legend: { show: true },
                 axis: {
-                x: { tickSize: 10000}
+                x: { tickSpacing: 10000}
                 }
             }
             }) | safe }}
@@ -190,7 +190,7 @@ In the treemap below, the area of each rectangle represents the number of enrolm
                 series: series.fe.nvq_level,
                 legend: { show: true },
                 axis: {
-                x: { tickSize: 10000}
+                x: { tickSpacing: 10000}
                 }
             }
             }) | safe }}
@@ -206,7 +206,7 @@ In the treemap below, the area of each rectangle represents the number of enrolm
                 series: series.fe.nvq_level,
                 legend: { show: true },
                 axis: {
-                x: { tickSize: 10000}
+                x: { tickSpacing: 10000}
                 }
             }
             }) | safe }}
@@ -225,7 +225,7 @@ In the treemap below, the area of each rectangle represents the number of enrolm
                 series: series.fe.ethnicity_group,
                 legend: { show: true },
                 axis: {
-                x: { tickSize: 10000}
+                x: { tickSpacing: 10000}
                 }
             }
             }) | safe }}
@@ -241,7 +241,7 @@ In the treemap below, the area of each rectangle represents the number of enrolm
                 series: series.fe.ethnicity_group,
                 legend: { show: true },
                 axis: {
-                x: { tickSize: 10000}
+                x: { tickSpacing: 10000}
                 }
             }
             }) | safe }}
@@ -269,7 +269,7 @@ In the treemap below, the area of each rectangle represents the number of enrolm
                 series: series.fe.age_group,
                 legend: { show: true },
                 axis: {
-                x: { tickSize: 5000}
+                x: { tickSpacing: 5000}
                 }
             }
             }) | safe }}
@@ -285,7 +285,7 @@ In the treemap below, the area of each rectangle represents the number of enrolm
                 series: series.fe.age_group,
                 legend: { show: true },
                 axis: {
-                x: { tickSize: 1000}
+                x: { tickSpacing: 1000}
                 }
             }
             }) | safe }}
@@ -302,7 +302,7 @@ In the treemap below, the area of each rectangle represents the number of enrolm
             series: s,
             legend: { show: true },
             axis: {
-            x: { tickSize: 10000}
+            x: { tickSpacing: 10000}
             }
         }
         }) | safe }}
