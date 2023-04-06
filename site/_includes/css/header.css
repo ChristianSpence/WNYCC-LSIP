@@ -38,12 +38,18 @@ header {
       margin: 0;
       list-style: none;
       & [aria-expanded]:after {
-        content: '+';
+        content: "\2303";
+        /* rotate: 180deg; */
+        scale: 1.2 -1.2;
+        translate: 0 -0.2em;
         display: block;
         width: 1rem;
+        transition-property: scale, translate;
+        transition-duration: 0.5s;
       }
       & [aria-expanded='true']:after {
-        content: '-';
+        translate: 0 0.2em;
+        scale: 1.2 1.2;
       }
     }
     & li {
