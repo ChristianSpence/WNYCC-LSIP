@@ -24,7 +24,7 @@ This page shows the latest data () for UKBC and BRES.
 
 {# {{comp.DEBUG({metric:size_over_time_whole_region.rows}) | safe}} #}
 
-{% comp 'dashboard.pane' %}
+{# {% comp 'dashboard.pane' %}
   <p class="centred">Line chart</p>
   {{ comp.oi.chart.line({
         config: {
@@ -37,5 +37,111 @@ This page shows the latest data () for UKBC and BRES.
               }]
         }
       }) | safe }}
+  {% endcomp %} #}
+
+{% comp 'dashboard.pane' %}
+  <p class="centred">Line chart</p>
+  {{ comp.oi.chart.line({
+        config: {
+          data: size_over_time_whole_region.rows,
+          legend: { show: true},
+          series: [{
+            title: "Large (250+)",
+              x: "date",
+              y: "Large (250+)",
+              colour: "red",
+            title: "Medium-sized (50 to 249)",
+              x: "date",
+              y: "Medium-sized (50 to 249)",
+              colour: "blue"
+              }]
+        }
+      }) | safe }}
   {% endcomp %}
 
+
+{# {% comp 'dashboard.pane' %}
+  <p class="centred">Line chart</p>
+  {{ comp.oi.chart.line({
+        config: {
+          data: size_over_time_whole_region.rows,
+          legend: [{
+            show: true,
+          }]
+          axis: [{
+            x:
+              title: 
+                label: 'Year',
+                
+              grid:
+                stroke-dasharray: 6 2,
+                stroke-width: 1,
+              ticks:
+                - value: 2010
+                  grid: true
+                  label: '2010'
+                  tickSize: 5
+                - value: 2011
+                  grid: true
+                  label: ''
+                - value: 2012
+                  grid: true
+                  label: ''
+                - value: 2013
+                  grid: true
+                  label: ''
+                - value: 2014
+                  grid: true
+                  label: ''
+                - value: 2015
+                  grid: true
+                  label: '2015'
+                  tickSize: 5
+                - value: 2016
+                  grid: true
+                  label: ''
+                - value: 2017
+                  grid: true
+                  label: ''
+                - value: 2018
+                  grid: true
+                  label: ''
+                - value: 2019
+                  grid: true
+                  label: ''
+                - value: 2020
+                  grid: true
+                  label: '2020'
+                  tickSize: 5
+                - value: 2021
+                  grid: true
+                  label: ''
+                  tickSize: 5
+                - value: 2022
+                  grid: true
+                  label: ''
+                  tickSize: 5
+              min: 2000
+              max: 2022.5
+          
+            y: 
+              title:
+                label: "LINE CHART",
+              grid:
+                stroke-width: 0.5,
+             }]
+          columns: [{
+              name: 'Large (250+)',
+          }]
+          series: [{
+            title: "Large (250+)",
+            x: "date",
+            y: "Large (260+)",
+            colour: '#e52e36',
+            tooltip: "Large (250+)",
+          }]
+        }
+      }) | safe }}
+  {% endcomp %} #}
+
+{# Small (10 to 49) #}

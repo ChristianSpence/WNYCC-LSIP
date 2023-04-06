@@ -21,3 +21,24 @@ stages:
       md5: caec8fa442046b45544363445c80ac05
       size: 413
       isexec: true
+  prep-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/nomis/prepare.py nycc
+    deps:
+    - path: data/csv/nomis/bres.csv
+      md5: 3a0691b9490de31699863d28b651dad6
+      size: 148366
+    - path: data/csv/nomis/ukbc-lu-emp.csv
+      md5: d7e66621a6283148a64eccd1b600a298
+      size: 1324488
+    - path: site/_pipelines/nomis/prepare.py
+      md5: 25fc2f2829ff194084c543efb9b4bc0d
+      size: 1349
+    outs:
+    - path: site/nycc/demand/nomis/_data/industry_sector_latest_year.csv
+      md5: 342c9f1154557c783cf51aee0509a90d
+      size: 1144
+      isexec: true
+    - path: site/nycc/demand/nomis/_data/size_over_time_whole_region.csv
+      md5: 1b459d42c9c6d94056a234e19527ae8c
+      size: 378
+      isexec: true
