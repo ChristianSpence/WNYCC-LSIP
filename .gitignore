@@ -11,3 +11,7 @@ _site/
 data/csv/fe_dest/.ipynb_checkpoints/Dev-checkpoint.ipynb
 data/csv/fe_dest/Dev.ipynb
 data/csv/fe_dest/Dev.ipynb
+
+
+# TODO work out why this is so crap!
+deno.lock
