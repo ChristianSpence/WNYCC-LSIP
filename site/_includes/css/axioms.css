@@ -4,19 +4,24 @@ body {
   padding: 0;
   padding-bottom: 10rem;
   position: relative;
-  & > .wrapper {
+
+  &>.wrapper {
     padding: 1rem;
   }
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   font-family: var(--alt-fontstack);
   color: var(--colour-primary);
 }
 
 main {
   margin-top: 1.25rem;
-  & * + * {
+
+  & *+* {
     margin-top: 1.25rem;
   }
 }
@@ -24,9 +29,11 @@ main {
 table {
   margin-left: auto;
   margin-right: auto;
-  & td, & th {
+
+  & td,
+  & th {
     padding: 0.2rem 0.4rem;
-  } 
+  }
 }
 
 .smaller {
@@ -43,4 +50,17 @@ table {
   flex-grow: 5;
 }
 
+ul.inline {
+  display: flex;
+  list-style: circle;
+  gap: 1em;
+  padding: 0;
 
+  & li {
+    margin-left: 1em;
+  }
+
+  & *+* {
+    margin-top: 0;
+  }
+}

@@ -1,29 +1,41 @@
 ---
 layout: layouts/default.njk
 datasets:
-  - data/csv/nomis/ukbc-lu-emp
+  - nomis/ukbc-lu-emp
+  - nomis/bres
 ---
-{# {% comp 'dashboard.pane' %}
+<h1>NOMIS</h1>
+This page shows the latest data () for UKBC and BRES.
+<p>Datasets used:</p>
+
+<ul>
+  {% for dataset in datasets %}
+    {% set page = search.page("url=/metadata/" + dataset + "/" ) %}
+    <li>
+      {{ page.data }}
+      <a href="{{ page.url }}">
+        {{ page.title }} from {{ page.origin }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>UKBC</h2>
+
+{# {{comp.DEBUG({metric:size_over_time_whole_region.rows}) | safe}} #}
+
+{% comp 'dashboard.pane' %}
   <p class="centred">Line chart</p>
   {{ comp.oi.chart.line({
         config: {
           data: size_over_time_whole_region.rows,
-          axis:
-              x:
-                grid:
-                  show: true
-                tickSpacing: 5
-              'y':
-                grid:
-                  show: true
-                tickSpacing: 5
-          series:
-            - title: Large (250+)
-              x: date
-              'y': Large (250+)
-              colour: '#e52e36'
-          }
+          series: [{
+            title: "Large (250+)",
+              x: "date",
+              y: "Large (250+)",
+              colour: "#e52e36"
+              }]
         }
-      ) | safe }}
-  {% endcomp %} #}
+      }) | safe }}
+  {% endcomp %}
 
