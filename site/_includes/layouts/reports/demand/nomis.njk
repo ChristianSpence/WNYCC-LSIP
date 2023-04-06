@@ -21,127 +21,220 @@ This page shows the latest data () for UKBC and BRES.
 </ul>
 
 <h2>UKBC</h2>
-
-{# {{comp.DEBUG({metric:size_over_time_whole_region.rows}) | safe}} #}
-
-{# {% comp 'dashboard.pane' %}
-  <p class="centred">Line chart</p>
-  {{ comp.oi.chart.line({
-        config: {
-          data: size_over_time_whole_region.rows,
-          series: [{
-            title: "Large (250+)",
-              x: "date",
-              y: "Large (250+)",
-              colour: "#e52e36"
-              }]
-        }
-      }) | safe }}
-  {% endcomp %} #}
-
+<p>An important caveat is that we cannot directly compare different business size changes because they have very different scales.
+  Need to show percentage change rather than absolute to get a direct comparison. This will be added.</p>
+{% comp 'dashboard.flex' %}
 {% comp 'dashboard.pane' %}
   <p class="centred">Line chart</p>
   {{ comp.oi.chart.line({
         config: {
-          data: size_over_time_whole_region.rows,
-          legend: { show: true},
-          series: [{
-            title: "Large (250+)",
-              x: "date",
-              y: "Large (250+)",
-              colour: "red",
-            title: "Medium-sized (50 to 249)",
-              x: "date",
-              y: "Medium-sized (50 to 249)",
-              colour: "blue"
-              }]
+          "data": size_over_time_whole_region.rows,
+          "legend": {
+            "show": true
+          },
+          "axis": {
+            "x": {
+              "title": {
+                "label": "Year"
+              },
+              "grid": {
+                "show": true
+              },
+              "tickSpacing": 5,
+              "min": 2010,
+              "max": 2022
+            },
+            "y": {
+              "title": {
+                "label": "Number of Businesses"
+              },
+              "grid": {
+                "show": true
+              },
+              "tickSpacing": 10,
+              "min": 50,
+              "max": 120
+            }
+          },
+          "series": [{
+              "title": "Large (250+)",
+              "x": "date",
+              "y": "large_250+_",
+              "colour": "red"
+            }
+          ]
         }
       }) | safe }}
   {% endcomp %}
-
-
-{# {% comp 'dashboard.pane' %}
+  {% comp 'dashboard.pane' %}
   <p class="centred">Line chart</p>
   {{ comp.oi.chart.line({
         config: {
-          data: size_over_time_whole_region.rows,
-          legend: [{
-            show: true,
-          }]
-          axis: [{
-            x:
-              title: 
-                label: 'Year',
-                
-              grid:
-                stroke-dasharray: 6 2,
-                stroke-width: 1,
-              ticks:
-                - value: 2010
-                  grid: true
-                  label: '2010'
-                  tickSize: 5
-                - value: 2011
-                  grid: true
-                  label: ''
-                - value: 2012
-                  grid: true
-                  label: ''
-                - value: 2013
-                  grid: true
-                  label: ''
-                - value: 2014
-                  grid: true
-                  label: ''
-                - value: 2015
-                  grid: true
-                  label: '2015'
-                  tickSize: 5
-                - value: 2016
-                  grid: true
-                  label: ''
-                - value: 2017
-                  grid: true
-                  label: ''
-                - value: 2018
-                  grid: true
-                  label: ''
-                - value: 2019
-                  grid: true
-                  label: ''
-                - value: 2020
-                  grid: true
-                  label: '2020'
-                  tickSize: 5
-                - value: 2021
-                  grid: true
-                  label: ''
-                  tickSize: 5
-                - value: 2022
-                  grid: true
-                  label: ''
-                  tickSize: 5
-              min: 2000
-              max: 2022.5
-          
-            y: 
-              title:
-                label: "LINE CHART",
-              grid:
-                stroke-width: 0.5,
-             }]
-          columns: [{
-              name: 'Large (250+)',
-          }]
-          series: [{
-            title: "Large (250+)",
-            x: "date",
-            y: "Large (260+)",
-            colour: '#e52e36',
-            tooltip: "Large (250+)",
-          }]
+          "data": size_over_time_whole_region.rows,
+          "legend": {
+            "show": true
+          },
+          "axis": {
+            "x": {
+              "title": {
+                "label": "Year"
+              },
+              "grid": {
+                "show": true
+              },
+              "tickSpacing": 5,
+              "min": 2010,
+              "max": 2022
+            },
+            "y": {
+              "title": {
+                "label": "Number of Businesses"
+              },
+              "grid": {
+                "show": true
+              },
+              "tickSpacing": 100,
+              "min": 800,
+              "max": 1050
+            }
+          },
+          "series": [{
+              "title": "Medium (50-249)",
+              "x": "date",
+              "y": "medium_sized_50_to_249_",
+              "colour": "blue"
+            }
+          ]
+        }
+      }) | safe }}
+  {% endcomp %}
+{% endcomp %}
+
+{% comp 'dashboard.flex' %}
+{% comp 'dashboard.pane' %}
+  <p class="centred">Line chart</p>
+  {{ comp.oi.chart.line({
+        config: {
+          "data": size_over_time_whole_region.rows,
+          "legend": {
+            "show": true
+          },
+          "axis": {
+            "x": {
+              "title": {
+                "label": "Year"
+              },
+              "grid": {
+                "show": true
+              },
+              "tickSpacing": 5,
+              "min": 2010,
+              "max": 2022
+            },
+            "y": {
+              "title": {
+                "label": "Number of Businesses"
+              },
+              "grid": {
+                "show": true
+              },
+              "tickSpacing": 1000,
+              "min": 34500,
+              "max": 40000
+            }
+          },
+          "series": [{
+              "title": "Micro (0-9)",
+              "x": "date",
+              "y": "micro_0_to_9_",
+              "colour": "orange"
+            }
+          ]
+        }
+      }) | safe }}
+  {% endcomp %}
+  {% comp 'dashboard.pane' %}
+  <p class="centred">Line chart</p>
+  {{ comp.oi.chart.line({
+        config: {
+          "data": size_over_time_whole_region.rows,
+          "legend": {
+            "show": true
+          },
+          "axis": {
+            "x": {
+              "title": {
+                "label": "Year"
+              },
+              "grid": {
+                "show": true
+              },
+              "tickSpacing": 5,
+              "min": 2010,
+              "max": 2022
+            },
+            "y": {
+              "title": {
+                "label": "Number of Businesses"
+              },
+              "grid": {
+                "show": true
+              },
+              "tickSpacing": 500,
+              "min": 5000,
+              "max": 7000
+            }
+          },
+          "series": [{
+              "title": "Small (10-49)",
+              "x": "date",
+              "y": "small_10_to_49_",
+              "colour": "green"
+            }
+          ]
+        }
+      }) | safe }}
+  {% endcomp %}
+{% endcomp %}
+
+{# <div data-dependencies="/assets/js/scatter-popup.js">
+{{ comp.plot.scatter({
+  config: {
+    data: industry_sector_latest_year.rows,
+    x: 'industry_name',
+    y: 'obs_value',
+    margin: { left: 70 },
+    nameMapper: mapper.demand.sector.businessSector,
+    radius: 4,
+    axis: {
+      x: {
+        title: 'Industry Sector'
+      },
+      y: {
+        title: 'Number of business',
+        padding: 50
+      }
+    }
+  }
+}) | safe }}
+</div> #}
+{# 
+{% comp 'dashboard.pane' %}
+  <p class="centred">Industry Sector Sizes</p>
+  {{ comp.oi.chart.bar({
+        config: {
+          "data": industry_sector_latest_year.rows,
+          "stacked": false,
+          "category": "industry_name",
+          "series": series.sector_names,
+          "legend": {
+            "show": true
+          },
+          "axis": {
+            "x": {
+              "tickSpacing": 1000
+            }
+          }
         }
       }) | safe }}
   {% endcomp %} #}
-
-{# Small (10 to 49) #}

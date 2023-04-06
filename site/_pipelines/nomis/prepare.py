@@ -26,6 +26,9 @@ if __name__ == '__main__':
     industry_sector = industry_sector.astype(float, errors='ignore')
     industry_sector = industry_sector.groupby('industry_name').sum(numeric_only=True)
 
-    #write to file
+    #slugify and write to file
+    size_time.rename(columns=slugify, inplace=True)
+    industry_sector.rename(columns=slugify, inplace=True)
+
     size_time.to_csv(os.path.join(OUTDIR, 'size_over_time_whole_region.csv'))
     industry_sector.to_csv(os.path.join(OUTDIR, 'industry_sector_latest_year.csv'))
