@@ -31,11 +31,11 @@ datasets:
 {% comp 'dashboard.grid', {max_width: '10rem'} %}
 {{ comp.dashboard.headline({
       title: 'Total Apprenticeship Starts',
-      headline: stats.starts
+      headline: stats.starts | humanise
     }) | safe }}
 {{ comp.dashboard.headline({
       title: 'Total Apprenticeship Achievements',
-      headline: stats.achievements
+      headline: stats.achievements | humanise
     }) | safe }}
 {% endcomp %}
 <h2> Local Authority

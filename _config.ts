@@ -80,6 +80,22 @@ site.filter(
 );
 site.filter("max", (arr: number[]) => (Math.max(...arr)));
 site.filter("min", (arr: number[]) => (Math.min(...arr)));
+
+site.filter("humanise", (input, max_exponent = Infinity, spacer = "") => {
+  const number = parseFloat(input);
+  const exponent = Math.min(Math.round(Math.log10(number)), max_exponent);
+  if (exponent >= 9) {
+    return `${(number / 1e9).toLocaleString()}${spacer}bn`;
+  }
+  if (exponent >= 6) {
+    return `${(number / 1e6).toLocaleString()}${spacer}m`;
+  }
+  if (exponent >= 3) {
+    return `${(number / 1e3).toLocaleString()}${spacer}k`;
+  }
+  return number.toLocaleString();
+});
+
 site.filter(
   "row_sort",
   (data: Record<string, unknown>[], sortColumn: string, ascending = false) => {
@@ -104,6 +120,6 @@ dataFiles.forEach((remote) => {
 });
 site.copy("/data");
 
-site.copy('.nojekyll');
+site.copy(".nojekyll");
 
 export default site;

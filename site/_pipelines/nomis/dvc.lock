@@ -10,16 +10,24 @@ stages:
       md5: d7e66621a6283148a64eccd1b600a298
       size: 1324488
     - path: site/_pipelines/nomis/prepare.py
-      md5: f942811405d5b02c479ecbef017b2445
-      size: 1475
+      md5: 27dcb2d10601248dc79299c951c4b373
+      size: 1924
     outs:
+    - path: site/wycc/demand/nomis/_data/headline_stats.json
+      md5: ab8cd424ccf6d780117fbae1479e63dd
+      size: 95
+      isexec: true
     - path: site/wycc/demand/nomis/_data/industry_sector_latest_year.csv
       md5: c51cc79edc43e2d96d1b392aeffd923b
       size: 1151
       isexec: true
     - path: site/wycc/demand/nomis/_data/size_over_time_whole_region.csv
-      md5: 91dd0f4b7e2dfb5e04cc1e05594840c6
-      size: 409
+      md5: c5ef67f780a2952d2ebfc2a1b75d4feb
+      size: 408
+      isexec: true
+    - path: site/wycc/demand/nomis/_data/size_time_pct_change.csv
+      md5: d556ce321f012518571dc7aa973e0cc5
+      size: 382
       isexec: true
   prep-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/nomis/prepare.py nycc
@@ -31,14 +39,22 @@ stages:
       md5: d7e66621a6283148a64eccd1b600a298
       size: 1324488
     - path: site/_pipelines/nomis/prepare.py
-      md5: f942811405d5b02c479ecbef017b2445
-      size: 1475
+      md5: 27dcb2d10601248dc79299c951c4b373
+      size: 1924
     outs:
+    - path: site/nycc/demand/nomis/_data/headline_stats.json
+      md5: 0f6b494641c64d64a748eca194636a5c
+      size: 93
+      isexec: true
     - path: site/nycc/demand/nomis/_data/industry_sector_latest_year.csv
       md5: 342c9f1154557c783cf51aee0509a90d
       size: 1144
       isexec: true
     - path: site/nycc/demand/nomis/_data/size_over_time_whole_region.csv
-      md5: 7bd0eb49aff6b1f2c1b8dbc6c987ec18
-      size: 374
+      md5: 592b36ef5af8df8bcddc9976883f04f8
+      size: 373
+      isexec: true
+    - path: site/nycc/demand/nomis/_data/size_time_pct_change.csv
+      md5: 2decb5e7f2c1d4ef50c9ebaaf10e33fd
+      size: 379
       isexec: true

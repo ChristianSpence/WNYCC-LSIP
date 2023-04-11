@@ -21,9 +21,7 @@ This page shows the latest data () for UKBC and BRES.
 </ul>
 
 <h2>UKBC</h2>
-<p>An important caveat is that we cannot directly compare different business size changes because they have very different scales.
-  Need to show percentage change rather than absolute to get a direct comparison. This will be added.</p>
-{% comp 'dashboard.flex' %}
+{# {% comp 'dashboard.flex' %}
 {% comp 'dashboard.pane' %}
   <p class="centred">Line chart</p>
   {{ comp.oi.chart.line({
@@ -195,7 +193,7 @@ This page shows the latest data () for UKBC and BRES.
         }
       }) | safe }}
   {% endcomp %}
-{% endcomp %}
+{% endcomp %} #}
 
 {# <div data-dependencies="/assets/js/scatter-popup.js">
 {{ comp.plot.scatter({
@@ -238,3 +236,104 @@ This page shows the latest data () for UKBC and BRES.
         }
       }) | safe }}
   {% endcomp %} #}
+  {# Summary headlines #}
+<p>Number of businesses by size (number of employees)</p>
+{% comp 'dashboard.grid', {max_width: '10rem'} %}
+{{ comp.dashboard.headline({
+      title: 'Large (250+)',
+      "headline": headline_stats.large_250_
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Medium (50-249)',
+      "headline": headline_stats.medium_sized_50_to_249_
+    }) | safe }}
+{{ comp.dashboard.headline({
+      title: 'Small (10-49)',
+      "headline": headline_stats.small_10_to_49_
+    }) | safe }}
+  {{ comp.dashboard.headline({
+      title: 'Micro (0-9)',
+      "headline": headline_stats.micro_0_to_9_
+    }) | safe }}
+{% endcomp %}
+  {% comp 'dashboard.pane' %}
+  <p class="centred">Business Size Change Over Time</p>
+  {{ comp.oi.chart.line({
+        config: {
+          "data": size_time_pct_change.rows,
+          "legend": {
+            "show": true
+          },
+          "axis": {
+            "x": {
+              "title": {
+                "label": "Year"
+              },
+              "grid": {
+                "show": true
+              },
+              "tickSpacing": 5,
+              "min": 2011,
+              "max": 2022
+            },
+            "y": {
+              "title": {
+                "label": "Percentage Change (year on year %)"
+              },
+              "grid": {
+                "show": true
+              },
+              "tickSpacing": 5,
+              "min": -35,
+              "max": 35
+            }
+          },
+          "series": [{
+              "title": "Large (250+)",
+              "x": "date",
+              "y": "large_250_",
+              "colour": "red",
+              "points": {
+                "marker": "triangle",
+                "size": "28"
+              }
+            },
+            {
+              "title": "Medium (50-249)",
+              "x": "date",
+              "y": "medium_sized_50_to_249_",
+              "colour": "blue",
+              "points": {
+                "marker": "line",
+                "size": "16"
+              }
+            },
+            {
+              "title": "Micro (0-9)",
+              "x": "date",
+              "y": "micro_0_to_9_",
+              "colour": "green",
+              "points": {
+                "marker": "circle",
+                "size": "14"
+              }
+            },
+            {
+              "title": "Small (10-49)",
+              "x": "date",
+              "y": "small_10_to_49_",
+              "colour": "orange",
+              "points": {
+                "marker": "diamond",
+                "size": "20"
+              }
+            }
+          ]
+        }
+      }) | safe }}
+  {% endcomp %}
+
+<h2> BRES Treemap </h2>
+<p>
+**TO BE ADDED**
+</p>
