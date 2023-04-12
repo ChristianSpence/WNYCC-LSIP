@@ -21,6 +21,7 @@ if __name__ == '__main__':
     filepath2 = 'data/csv/nomis/bres.csv'
     data2 = load_data(filepath2, group=group, fill_na=False)
     data2 = data2.astype({'date': 'str'})
+    #print(data2.date.max())
     industry_sector = data2[data2.date == '2021'].drop(columns='date')
     industry_sector = industry_sector.astype(float, errors='ignore')
     industry_sector = industry_sector.groupby('industry_name').sum(numeric_only=True)
@@ -35,10 +36,21 @@ if __name__ == '__main__':
     size_time.rename(columns={'large_250+_':'large_250_'}, inplace=True)
     size_time_pct_change.rename(columns={'large_250+_':'large_250_'}, inplace=True)
     
+    #retreive the last row.
     headline_stats = size_time.iloc[-1]
+
+    #automatic pull of stats to display on page
+    nomis_date = data.date.max()
+    bres_date = data2.date.max()
+    largest_sector = industry_sector.obs_value.max()
+    largest_sector_name = industry_sector.idxmax()[0]
+    stats = pd.Series(data={'nomis_date': nomis_date, 'bres_date': bres_date, 'largest_sector_value': \
+                            largest_sector, 'largest_sector_name': largest_sector_name})
+    
 
     size_time.to_csv(os.path.join(OUTDIR, 'size_over_time_whole_region.csv'))
     industry_sector.to_csv(os.path.join(OUTDIR, 'industry_sector_latest_year.csv'))
     size_time_pct_change.to_csv(os.path.join(OUTDIR, 'size_time_pct_change.csv'))
     
     headline_stats.to_json(os.path.join(OUTDIR, 'headline_stats.json'))
+    stats.to_json(os.path.join(OUTDIR, 'stats.json'))

@@ -15,6 +15,9 @@ stages:
           cache: false
       - site/wycc/demand/nomis/_data/headline_stats.json:
           cache: false
+      - site/wycc/demand/nomis/_data/stats.json:
+          cache: false
+
   prep-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/nomis/prepare.py nycc
     wdir: ../../..
@@ -30,4 +33,6 @@ stages:
       - site/nycc/demand/nomis/_data/size_time_pct_change.csv:
           cache: false
       - site/nycc/demand/nomis/_data/headline_stats.json:
+          cache: false
+      - site/nycc/demand/nomis/_data/stats.json:
           cache: false

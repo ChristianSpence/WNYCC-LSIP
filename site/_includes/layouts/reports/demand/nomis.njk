@@ -5,7 +5,7 @@ datasets:
   - nomis/bres
 ---
 <h1>NOMIS</h1>
-This page shows the latest data () for UKBC and BRES.
+Most recent data - UKBC ({{ stats.nomis_date | dump(2) }}) and BRES ({{ stats.bres_date | dump(2) }}).
 <p>Datasets used:</p>
 
 <ul>
@@ -237,7 +237,7 @@ This page shows the latest data () for UKBC and BRES.
       }) | safe }}
   {% endcomp %} #}
   {# Summary headlines #}
-<p>Number of businesses by size (number of employees)</p>
+<p>Number of businesses by size (number of employees) in {{ dates.nomis_date | dump(2)}}.</p>
 {% comp 'dashboard.grid', {max_width: '10rem'} %}
 {{ comp.dashboard.headline({
       title: 'Large (250+)',
@@ -284,7 +284,7 @@ This page shows the latest data () for UKBC and BRES.
                 "show": true
               },
               "tickSpacing": 5,
-              "min": -35,
+              "min": -20,
               "max": 35
             }
           },
