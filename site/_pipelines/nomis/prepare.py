@@ -32,10 +32,15 @@ if __name__ == '__main__':
 
     #percentage change figures
     size_time_pct_change = size_time.pct_change().dropna().mul(100).round(2)
+    size_time.rename(columns={'large_250+_':'large_250_'}, inplace=True)
+    size_time_indexed = pd.DataFrame()
+    for i in size_time.columns:
+        size_time_indexed[i] = size_time[i].div(size_time[i].iloc[0])*100
+    #@TODO recreate abovce as an index - 2011 = 100.
 
     size_time.rename(columns={'large_250+_':'large_250_'}, inplace=True)
     size_time_pct_change.rename(columns={'large_250+_':'large_250_'}, inplace=True)
-    
+
     #retreive the last row.
     headline_stats = size_time.iloc[-1]
 
@@ -51,6 +56,7 @@ if __name__ == '__main__':
     size_time.to_csv(os.path.join(OUTDIR, 'size_over_time_whole_region.csv'))
     industry_sector.to_csv(os.path.join(OUTDIR, 'industry_sector_latest_year.csv'))
     size_time_pct_change.to_csv(os.path.join(OUTDIR, 'size_time_pct_change.csv'))
-    
+    size_time_indexed.to_csv(os.path.join(OUTDIR, 'size_time_indexed.csv'))
+
     headline_stats.to_json(os.path.join(OUTDIR, 'headline_stats.json'))
     stats.to_json(os.path.join(OUTDIR, 'stats.json'))

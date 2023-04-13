@@ -10,8 +10,8 @@ stages:
       md5: d7e66621a6283148a64eccd1b600a298
       size: 1324488
     - path: site/_pipelines/nomis/prepare.py
-      md5: 39809782c8218cc9959d789e02be67f6
-      size: 2469
+      md5: 661cb71454f43c7790b74167b2a6dec5
+      size: 2814
     outs:
     - path: site/wycc/demand/nomis/_data/headline_stats.json
       md5: ab8cd424ccf6d780117fbae1479e63dd
@@ -24,6 +24,10 @@ stages:
     - path: site/wycc/demand/nomis/_data/size_over_time_whole_region.csv
       md5: c5ef67f780a2952d2ebfc2a1b75d4feb
       size: 408
+      isexec: true
+    - path: site/wycc/demand/nomis/_data/size_time_indexed.csv
+      md5: 03a19a914dd2e5496bfbcc18ee7cf634
+      size: 1049
       isexec: true
     - path: site/wycc/demand/nomis/_data/size_time_pct_change.csv
       md5: d556ce321f012518571dc7aa973e0cc5
@@ -43,8 +47,8 @@ stages:
       md5: d7e66621a6283148a64eccd1b600a298
       size: 1324488
     - path: site/_pipelines/nomis/prepare.py
-      md5: 39809782c8218cc9959d789e02be67f6
-      size: 2469
+      md5: 661cb71454f43c7790b74167b2a6dec5
+      size: 2814
     outs:
     - path: site/nycc/demand/nomis/_data/headline_stats.json
       md5: 0f6b494641c64d64a748eca194636a5c
@@ -57,6 +61,10 @@ stages:
     - path: site/nycc/demand/nomis/_data/size_over_time_whole_region.csv
       md5: 592b36ef5af8df8bcddc9976883f04f8
       size: 373
+      isexec: true
+    - path: site/nycc/demand/nomis/_data/size_time_indexed.csv
+      md5: 4a2d27221cb03bd81afdbf351ed4675d
+      size: 1023
       isexec: true
     - path: site/nycc/demand/nomis/_data/size_time_pct_change.csv
       md5: 2decb5e7f2c1d4ef50c9ebaaf10e33fd

@@ -260,7 +260,7 @@ Most recent data - UKBC ({{ stats.nomis_date | dump(2) }}) and BRES ({{ stats.br
   <p class="centred">Business Size Change Over Time</p>
   {{ comp.oi.chart.line({
         config: {
-          "data": size_time_pct_change.rows,
+          "data": size_time_indexed.rows,
           "legend": {
             "show": true
           },
@@ -273,19 +273,19 @@ Most recent data - UKBC ({{ stats.nomis_date | dump(2) }}) and BRES ({{ stats.br
                 "show": true
               },
               "tickSpacing": 5,
-              "min": 2011,
+              "min": 2010,
               "max": 2022
             },
             "y": {
               "title": {
-                "label": "Percentage Change (year on year %)"
+                "label": "Index 2010=100"
               },
               "grid": {
                 "show": true
               },
-              "tickSpacing": 5,
-              "min": -20,
-              "max": 35
+              "tickSpacing": 10,
+              "min": 80,
+              "max": 140
             }
           },
           "series": [{

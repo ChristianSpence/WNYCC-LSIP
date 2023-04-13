@@ -13,6 +13,8 @@ stages:
           cache: false
       - site/wycc/demand/nomis/_data/size_time_pct_change.csv:
           cache: false
+      - site/wycc/demand/nomis/_data/size_time_indexed.csv:
+          cache: false
       - site/wycc/demand/nomis/_data/headline_stats.json:
           cache: false
       - site/wycc/demand/nomis/_data/stats.json:
@@ -31,6 +33,8 @@ stages:
       - site/nycc/demand/nomis/_data/industry_sector_latest_year.csv:
           cache: false
       - site/nycc/demand/nomis/_data/size_time_pct_change.csv:
+          cache: false
+      - site/nycc/demand/nomis/_data/size_time_indexed.csv:
           cache: false
       - site/nycc/demand/nomis/_data/headline_stats.json:
           cache: false
