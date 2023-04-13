@@ -237,7 +237,7 @@ Most recent data - UKBC ({{ stats.nomis_date | dump(2) }}) and BRES ({{ stats.br
       }) | safe }}
   {% endcomp %} #}
   {# Summary headlines #}
-<p>Number of businesses by size (number of employees) in {{ dates.nomis_date | dump(2)}}.</p>
+<p>Number of businesses by size (number of employees) in {{ stats.nomis_date | dump(2) }}.</p>
 {% comp 'dashboard.grid', {max_width: '10rem'} %}
 {{ comp.dashboard.headline({
       title: 'Large (250+)',
