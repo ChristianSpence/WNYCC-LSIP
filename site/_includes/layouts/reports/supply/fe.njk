@@ -28,11 +28,11 @@ datasets:
 {% comp 'dashboard.grid', {max_width: '10rem'} %}
 {{ comp.dashboard.headline({
       title: 'Total Achievements in FE',
-      headline: summary.achievements | localise
+      headline: summary.achievements | humanise
     }) | safe }}
 {{ comp.dashboard.headline({
       title: 'Total Participation in FE',
-      headline: summary.participation | localise
+      headline: summary.participation | humanise
     }) | safe }}
 {% endcomp %}
 
@@ -106,27 +106,6 @@ datasets:
     There are breakdowns by gender, ethnicity, NVQ level and subject. NVQ level 1 is roughly equivalent to 3/4 
     GCSE grades D-G. NVQ level 4 is roughly equivalent to a Higher Education Certificate/BTEC.
     <p>
-<h4>Enrolments Tree Map </h4>
-In the treemap below, the area of each rectangle represents the number of enrolments in each subject.
-<div data-dependencies="/assets/js/treemap-popup.js">
-{{
-  comp.oi.viz.beta.tree_map({
-    config: {
-      table: 2021_22.e_and_t_aims_enrolments_ssa_t1_desc_ethnicity_group.rows,
-      grouping: mapper.treemap.supply_fe.grouping,
-      reduce: mapper.treemap.supply_fe.reduce,
-      width: 800,
-      height: 600,
-      padding: 0,
-      dataMapper: mapper.treemap.supply_fe.data,
-      nameMapper: mapper.treemap.supply_fe.name,
-      valueKey: 'total',
-      ratio: 3.5,
-      colourMapper: mapper.treemap.supply_fe.colour
-    }
-  }) | safe 
-}}
-</div>
 
 {# {% comp 'dashboard.pane' %}
     <p class="centred">Students Entering/Completing FE by subject area</p>
@@ -247,6 +226,27 @@ In the treemap below, the area of each rectangle represents the number of enrolm
             }) | safe }}
         {% endcomp %}
 {% endcomp %}
+<h2>Enrolments Tree Map </h2>
+In the treemap below, the area of each rectangle represents the number of enrolments in each subject.
+<div data-dependencies="/assets/js/treemap-popup.js">
+{{
+  comp.oi.viz.beta.tree_map({
+    config: {
+      table: 2021_22.e_and_t_aims_enrolments_ssa_t1_desc_ethnicity_group.rows,
+      grouping: mapper.treemap.supply_fe.grouping,
+      reduce: mapper.treemap.supply_fe.reduce,
+      width: 800,
+      height: 600,
+      padding: 0,
+      dataMapper: mapper.treemap.supply_fe.data,
+      nameMapper: mapper.treemap.supply_fe.name,
+      valueKey: 'total',
+      ratio: 3.5,
+      colourMapper: mapper.treemap.supply_fe.colour
+    }
+  }) | safe 
+}}
+</div>
 <h2> Apprenticeships </h2>
 <p> Shown below is the apprenticeship level of study for different age groups. The levels are roughly as follows:
     <li>
