@@ -31,8 +31,8 @@ layout: layouts/default.njk
           hexScale: 0.8,
           data: stats.rows,
           matchKey: 'geography_code',
-          titleProp: 'n',
-          valueProp: 'average_attainment_8_score_of_all_pupils',
+          label: '{{ n | slice(0,3) }}',
+          value: 'average_attainment_8_score_of_all_pupils',
           min: 30,
           scale: colour_scale.sample
         }

@@ -50,8 +50,8 @@ datasets:
           hexScale: 0.8,
           data: all_apprenticeship_all_subject_geography_code.rows,
           matchKey: 'geography_code',
-          titleProp: 'n',
-          valueProp: 'starts',
+          label: '{{ n | slice(0,3) }}',
+          value: 'starts',
           min: 100,
           scale: colour_scale.sample
         }
@@ -67,8 +67,8 @@ datasets:
           hexScale: 0.8,
           data: all_apprenticeship_all_subject_geography_code.rows,
           matchKey: 'geography_code',
-          titleProp: 'n',
-          valueProp: 'achievements',
+          label: '{{ n | slice(0,3) }}',
+          value: 'achievements',
           min: 30,
           scale: colour_scale.sample
         }

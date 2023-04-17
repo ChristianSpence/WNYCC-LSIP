@@ -28,8 +28,8 @@ layout: layouts/default.njk
             hexScale: 0.8,
             data: a_level_totals_by_geography.rows,
             matchKey: 'geography_code',
-            titleProp: 'n',
-            valueProp: 'total_number_of_students',
+            label: '{{ n | slice(0,3) }}',
+            value: 'total_number_of_students',
             scale: colour_scale.sample
           }
         }

@@ -61,8 +61,8 @@ datasets:
               hexScale: 0.8,
               data: fe_dest_totals_by_geography.rows,
               matchKey: 'geography_code',
-              titleProp: 'n',
-              valueProp: 'number_of_pupils_completing_16_18_study',
+              label: '{{ n | slice(0,3) }}',
+              value: 'number_of_pupils_completing_16_18_study',
               scale: colour_scale.sample,
               min: fe_dest_totals_by_geography.columns.number_of_pupils_completing_16_18_study | min
             }

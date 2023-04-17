@@ -13,19 +13,14 @@ import csvLoader from "oi-lume-utils/loaders/csv-loader.ts";
 import autoDependency from "oi-lume-utils/processors/auto-dependency.ts";
 import { walkSync } from "std/fs/mod.ts";
 
-import * as treemap from "oi-lume-charts/components/hierarchy/tree_map.ts";
-
 const search = { returnPageData: true };
-const site = lume({
-  src: "site",
-  location: new URL("https://lsip-data.wnychamber.co.uk"),
-}, { search });
-
-// Load TreeMap component
-site.component("oi.viz.beta", {
-  name: "tree_map",
-  render: treemap.default,
-});
+const site = lume(
+  {
+    src: 'site',
+    location: new URL('https://lsip-data.wnychamber.co.uk'),
+  },
+  { search }
+);
 
 site.use(date());
 site.use(inline());

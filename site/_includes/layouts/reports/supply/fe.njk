@@ -228,25 +228,27 @@ datasets:
 {% endcomp %}
 <h2>Enrolments Tree Map </h2>
 In the treemap below, the area of each rectangle represents the number of enrolments in each subject.
-<div data-dependencies="/assets/js/treemap-popup.js">
+
 {{
-  comp.oi.viz.beta.tree_map({
+  comp.oi.hierarchy.treemap({
     config: {
-      table: 2021_22.e_and_t_aims_enrolments_ssa_t1_desc_ethnicity_group.rows,
-      grouping: mapper.treemap.supply_fe.grouping,
-      reduce: mapper.treemap.supply_fe.reduce,
+      data: 2021_22.e_and_t_aims_enrolments_ssa_t1_desc_ethnicity_group.rows,
+      grouping: ['ssa_t1_desc'],
       width: 800,
       height: 600,
-      padding: 0,
-      dataMapper: mapper.treemap.supply_fe.data,
-      nameMapper: mapper.treemap.supply_fe.name,
-      valueKey: 'total',
-      ratio: 3.5,
-      colourMapper: mapper.treemap.supply_fe.colour
+      name: 'ssa_t1_desc',
+      value: 'total',
+      colour: mapper.treemap.supply_fe.colour,
+      columns: [
+        {
+          name: "popup",
+          template: "{{ ssa_t1_desc }} had {{ total }} enrolments"
+        }
+      ],
+      tooltip: 'popup'
     }
   }) | safe 
 }}
-</div>
 <h2> Apprenticeships </h2>
 <p> Shown below is the apprenticeship level of study for different age groups. The levels are approximately:
     <li>

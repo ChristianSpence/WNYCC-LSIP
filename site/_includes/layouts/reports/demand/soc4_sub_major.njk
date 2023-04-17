@@ -80,23 +80,18 @@ datasets:
 
 <h2>Postings (all Local Authorities)</h2>
 
-<div class="chart" data-dependencies="/assets/js/treemap-popup.js">
-{{ comp.oi.viz.beta.tree_map({
+{{ comp.oi.hierarchy.treemap({
   config: {
-    table: postings.rows,
-    grouping: mapper.treemap.soc4Demand.grouper,
-    reduce: mapper.treemap.soc4Demand.reducer,
+    data: postings.rows,
+    grouping: ['major_title', 'sub_major_title', 'minor_title', 'unit_title'],
     width: 1200,
     height: 900,
-    padding: 0,
-    ratio: 3.5,
-    dataMapper: mapper.treemap.soc4Demand.data,
-    nameMapper: mapper.treemap.soc4Demand.name,
-    colourMapper: mapper.treemap.soc4Demand.colour,
-    valueKey: 'count'
+    name: 'unit_title',
+    description: mapper.treemap.soc4Demand.tooltip,
+    colour: mapper.treemap.soc4Demand.colour,
+    value: 'count'
   }
 }) | safe }}
-</div>
 
 {%- set count = 15 -%}
 {%- set jobs = postings_by_soc4_sub_major.rows | row_sort('Total') | head(count) -%}
