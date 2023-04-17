@@ -335,5 +335,26 @@ Most recent data - UKBC ({{ stats.nomis_date | dump(2) }}) and BRES ({{ stats.br
 
 <h2> BRES Treemap </h2>
 <p>
-**TO BE ADDED**
+  Industry size by number of employees.
 </p>
+{{
+  comp.oi.hierarchy.treemap({
+    config: {
+      data: industry_sector_latest_year.rows,
+      grouping: ['industry_name'],
+      width: 800,
+      height: 600,
+      name: 'industry_name',
+      value: 'obs_value',
+      columns: [
+        {
+          name: "popup",
+          template: "{{ industry_name }} had {{ obs_value }} employees"
+        }
+      ],
+      tooltip: 'popup',
+      colour: mapper.treemap.industry_sector.colour,
+      scale: viridis
+    }
+  }) | safe 
+}}

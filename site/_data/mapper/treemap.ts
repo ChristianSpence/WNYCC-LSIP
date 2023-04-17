@@ -61,3 +61,35 @@ export const supply_fe = {
     return colour;
   },
 };
+
+export const industry_sector = {
+  colour: (d) => {
+    const { industry_name } = d.data.original[0];
+    const colourTable = {
+      "A : Agriculture, forestry and fishing": hslToHex(11, 50, 50),
+      "B : Mining and quarrying": hslToHex(22, 50, 50),
+      "C : Manufacturing": hslToHex(33, 50, 50),
+      "D : Electricity, gas, steam and air conditioning supply": hslToHex(44, 50, 50),
+      "E : Water supply; sewerage, waste management and remediation activities": hslToHex(55, 50, 50),
+      'F : Construction': hslToHex(66, 50, 50),
+      'G : Wholesale and retail trade; repair of motor vehicles and motorcycles': hslToHex(77, 50, 50),
+      "H : Transportation and storage": hslToHex(88, 50, 50),
+      "I : Accommodation and food service activities": hslToHex(99, 50, 50),
+      "J : Information and communication": hslToHex(110, 50, 50),
+      "K : Financial and insurance activities": hslToHex(121, 50, 50),
+      "L : Real estate activities": hslToHex(132, 50, 50),
+      "M : Professional scientific and technical activities": hslToHex(143, 50, 50),
+      "N : Administrative and support service activities": hslToHex(154, 50, 50),
+      "O : Public administration and defence; compulsory social security": hslToHex(165, 50, 50),
+      "P : Education": hslToHex(176, 50, 50),
+      "Q : Human health and social work activities": hslToHex(187, 50, 50),
+      "R : Arts entertainment and recreation": hslToHex(198, 50, 50),
+      "S : Other service activities": hslToHex(209, 50, 50),
+      "T : Activities of households as employers;undifferentiated goods-and services-producing activities of households for own use": hslToHex(220, 50, 50),
+      "U : Activities of extraterritorial organisations and bodies": hslToHex(256, 50, 50),
+    };
+    if (!industry_name) return '#aaaaaa';
+    const colour = colourTable[industry_name as string];
+    return colour;
+  },
+};
