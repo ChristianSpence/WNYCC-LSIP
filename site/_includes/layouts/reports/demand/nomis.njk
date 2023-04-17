@@ -241,19 +241,19 @@ Most recent data - UKBC ({{ stats.nomis_date | dump(2) }}) and BRES ({{ stats.br
 {% comp 'dashboard.grid', {max_width: '10rem'} %}
 {{ comp.dashboard.headline({
       title: 'Large (250+)',
-      "headline": headline_stats.large_250_
+      "headline": headline_stats.large_250_ | humanise({ decimalPlaces: 1 })
     }) | safe }}
 {{ comp.dashboard.headline({
       title: 'Medium (50-249)',
-      "headline": headline_stats.medium_sized_50_to_249_
+      "headline": headline_stats.medium_sized_50_to_249_ | humanise({ decimalPlaces: 1 })
     }) | safe }}
 {{ comp.dashboard.headline({
       title: 'Small (10-49)',
-      "headline": headline_stats.small_10_to_49_
+      "headline": headline_stats.small_10_to_49_ | humanise({ decimalPlaces: 1 })
     }) | safe }}
   {{ comp.dashboard.headline({
       title: 'Micro (0-9)',
-      "headline": headline_stats.micro_0_to_9_
+      "headline": headline_stats.micro_0_to_9_ | humanise({ decimalPlaces: 1 })
     }) | safe }}
 {% endcomp %}
   {% comp 'dashboard.pane' %}

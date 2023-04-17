@@ -22,9 +22,22 @@ layout: layouts/default.njk
 <p>
   Demand data is split into job <a href="/{{ region_key }}/demand/postings">postings</a> and <a href="/{{ region_key }}/demand/nomis">NOMIS</a> data.
   The former is based on data provided by <a href="https://lightcast.io/">Lightcast</a> and accessed via
-  <a href="https://thedatacity.com/">The Data City</a>.
+  <a href="https://thedatacity.com/">The Data City</a>. The latter is is a service provided by <a href="https://www.nomisweb.co.uk"/>Office for National Statistics (ONS)</a>
 </p>
+<h2>Chart Interactivity</h2>
+<p>
+  Most charts and figures are interactive. 
+  You can hover your mouse (or click on mobile/tablet) 
+  to show individual data point's values. On bar/line charts 
+  you can show individual categories by hovering over them in the legend.
+  </p>
+<h2>Data Processing</h2>
+  You can view our data processing pipelines <a href="https://github.com/open-innovations/WNYCC-LSIP/tree/main/site/_pipelines">here</a>. 
+  In general, we replace "low" entries (greater than 0, less than 5) with 2. There are some instances where this is impractical, so we omit "low" entries, stating when this happens.
+  All the headline stats are rounded for readability.
+  <p>
 
+    </p>
 {{ content | safe }}
 
 <div class="centred">

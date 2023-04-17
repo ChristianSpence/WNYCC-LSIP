@@ -248,7 +248,7 @@ In the treemap below, the area of each rectangle represents the number of enrolm
 }}
 </div>
 <h2> Apprenticeships </h2>
-<p> Shown below is the apprenticeship level of study for different age groups. The levels are roughly as follows:
+<p> Shown below is the apprenticeship level of study for different age groups. The levels are approximately:
     <li>
         Intermediate: Level 2
         </li>
@@ -291,20 +291,3 @@ In the treemap below, the area of each rectangle represents the number of enrolm
             }) | safe }}
         {% endcomp %}
 {% endcomp %}
-{# {% for key, s in series.fe %}
-{% comp 'dashboard.pane' %}
-    <p class="centred">NVQ Level Gender Split</p>
-    {{ comp.oi.chart.bar({
-        config: {
-            data: 2021_22[key].rows,
-            category: "sex",
-            stacked: true,
-            series: s,
-            legend: { show: true },
-            axis: {
-            x: { tickSpacing: 10000}
-            }
-        }
-        }) | safe }}
-    {% endcomp %}
-{% endfor %} #}

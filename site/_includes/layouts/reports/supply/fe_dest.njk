@@ -43,7 +43,7 @@ datasets:
     }) | safe }}
 {{ comp.dashboard.headline({
       title: 'Total other qualification',
-      headline: summary.all_other_qualifications | humanise
+      headline: summary.all_other_qualifications | humanise({ decimalPlaces: 1 })
     }) | safe }}
 {% endcomp %}
 
@@ -51,9 +51,6 @@ datasets:
 <h2>
   Local Authority
 </h2>
-<p>
-  Hover over the figures to show the actual numbers or over the bar chart categories to unstack the bars.
-</p>
 {% comp 'dashboard.grid' %}
   {% comp 'dashboard.pane', {classes: 'centred'} %}
     <p>Total number of students completing 16-18 studies by Local Authority</p>
@@ -74,7 +71,7 @@ datasets:
   {% endcomp %}
 
   {% comp 'dashboard.pane' %}
-  <p class="centred">Destination as a percentage <small>(only includes sustained destinations)</small></p>
+  <p class="centred">Percentage of pupils by destination type <small>(only includes sustained destinations)</small></p>
   {{ comp.oi.chart.bar({
         config: {
           data: fe_dest_totals_by_geography.rows | value_mapper({
@@ -92,11 +89,10 @@ datasets:
       }) | safe }}
   {% endcomp %}
 {% endcomp %}
-
-<p> The two figures below show pupils completing 16-18 study, as a percentage (left) and raw numbers (right).
+<p>
+ The two figures below show pupils completing 16-18 study, as a percentage (left) and raw numbers (right).
   Seeing this data as a percentage is useful when one place has many more people than another (e.g. Leeds).
 </p>
-
 {% comp 'dashboard.flex' %}
   {% comp 'dashboard.pane' %}
   <p class="centred">Percentage of pupils by qualification type</p>
@@ -138,14 +134,10 @@ datasets:
 {% endcomp %}
 
 <h2> 
-  Breakdown by Student Characteristic 
+  Student Characteristics 
 </h2>
-<h3> 
-  **Please note this is WIP** 
-</h3>
 <p> 
-  The figures below show different student characterstic splits in a range of destination types
-  More splits will be added. 
+  Different student characterstic splits in a range of destination types.
 </p> 
 {# {{comp.DEBUG({metric:2020_21.fe_dest_detail.rows}) | safe}} #}
 {# {{comp.DEBUG({metric:series.fe_dest.characteristic}) | safe}} #}
