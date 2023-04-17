@@ -7,8 +7,8 @@ stages:
       md5: aceb942bb32b6c0ae772c86270f85acf
       size: 23820
     - path: site/_pipelines/datacity/prepare.py
-      md5: 5cc1e2adacc8b457a5a5501c80fa26cd
-      size: 3503
+      md5: 8cb47e5f1c44582d04874e2281e74cc9
+      size: 3512
     - path: site/_pipelines/datacity/soc4.py
       md5: 3a9751e87e00614c73ea1250c6dfe57f
       size: 1954
@@ -16,19 +16,19 @@ stages:
       md5: 414041da95ff3817e3db4a83d431fcf9
       size: 809
     outs:
-    - path: site/wycc/demand/_data/postings.csv
+    - path: site/wycc/demand/postings/_data/postings.csv
       md5: e0c17624efb5c9a7b37d6799f0af4f0b
       size: 14108
-    - path: site/wycc/demand/_data/postings_by_soc4_sub_major.csv
+    - path: site/wycc/demand/postings/_data/postings_by_soc4_sub_major.csv
       md5: 79948cba28c7a408231e755808774bee
       size: 2960
-    - path: site/wycc/demand/_data/postings_by_soc4_unit.csv
+    - path: site/wycc/demand/postings/_data/postings_by_soc4_unit.csv
       md5: 9f400e619fac2ce17d984bc527db4bf6
       size: 12040
-    - path: site/wycc/demand/_data/postings_summary.json
+    - path: site/wycc/demand/postings/_data/postings_summary.json
       md5: b043927495f251cb4db827d12507a1a2
       size: 134
-    - path: site/wycc/demand/_data/skills_demand_duration.csv
+    - path: site/wycc/demand/postings/_data/skills_demand_duration.csv
       md5: 25e69c2c548da63b042b049de62cea92
       size: 4771
   prepare-ny:
@@ -38,8 +38,8 @@ stages:
       md5: aceb942bb32b6c0ae772c86270f85acf
       size: 23820
     - path: site/_pipelines/datacity/prepare.py
-      md5: 5cc1e2adacc8b457a5a5501c80fa26cd
-      size: 3503
+      md5: 8cb47e5f1c44582d04874e2281e74cc9
+      size: 3512
     - path: site/_pipelines/datacity/soc4.py
       md5: 3a9751e87e00614c73ea1250c6dfe57f
       size: 1954
@@ -47,18 +47,18 @@ stages:
       md5: 414041da95ff3817e3db4a83d431fcf9
       size: 809
     outs:
-    - path: site/nycc/demand/_data/postings.csv
+    - path: site/nycc/demand/postings/_data/postings.csv
       md5: c40949b4863dc8b8a4ebad8fa18ec126
       size: 12343
-    - path: site/nycc/demand/_data/postings_by_soc4_sub_major.csv
+    - path: site/nycc/demand/postings/_data/postings_by_soc4_sub_major.csv
       md5: 3d1a05d02eee211c4f0f1b93b26ea112
       size: 3378
-    - path: site/nycc/demand/_data/postings_by_soc4_unit.csv
+    - path: site/nycc/demand/postings/_data/postings_by_soc4_unit.csv
       md5: 4a6c4670544792a524be7e8eee78c630
       size: 17371
-    - path: site/nycc/demand/_data/postings_summary.json
+    - path: site/nycc/demand/postings/_data/postings_summary.json
       md5: e913a7b207853e507d80127d436d7709
       size: 193
-    - path: site/nycc/demand/_data/skills_demand_duration.csv
+    - path: site/nycc/demand/postings/_data/skills_demand_duration.csv
       md5: 498ff4b6f08c1c6f99de3c9b8afdd48c
       size: 10383

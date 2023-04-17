@@ -42,27 +42,25 @@ stages:
     deps:
     - path: data/csv/fe_dest/16-18 local authority level destinations.csv
       md5: 66ff93065a279d15dc6cc07de777e6e5
-      size: 1259494
+      size: 1252633
     - path: site/_pipelines/fe_dest/prepare_detail.py
       md5: f1bfa3b14c46a5d0d7920ba357b2941b
-      size: 2626
+      size: 2575
     outs:
     - path: site/wycc/supply/fe_dest/_data/2020_21/fe_dest_detail.csv
       md5: f66dedce59e8cfd75bb388c67a63d88d
       size: 1031
-      isexec: true
   prep-detail-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare_detail.py
       nycc
     deps:
     - path: data/csv/fe_dest/16-18 local authority level destinations.csv
       md5: 66ff93065a279d15dc6cc07de777e6e5
-      size: 1259494
+      size: 1252633
     - path: site/_pipelines/fe_dest/prepare_detail.py
       md5: f1bfa3b14c46a5d0d7920ba357b2941b
-      size: 2626
+      size: 2575
     outs:
     - path: site/nycc/supply/fe_dest/_data/2020_21/fe_dest_detail.csv
       md5: f66dedce59e8cfd75bb388c67a63d88d
       size: 1031
-      isexec: true

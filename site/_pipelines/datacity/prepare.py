@@ -11,7 +11,7 @@ OUT_DIR = ''
 def create_path(group):
     if group is None:
         raise Exception('Please provide a group')
-    dir = 'site/{group}/demand/_data/'.format(group=group)
+    dir = 'site/{group}/demand/postings/_data/'.format(group=group)
     os.makedirs(dir, exist_ok=True)
     return dir
 

@@ -8,15 +8,15 @@ stages:
       - site/_pipelines/lookups.py
       - data/csv/datacity/JobPostingsBySOC4Code.csv
     outs:
-      - site/wycc/demand/_data/postings.csv:
+      - site/wycc/demand/postings/_data/postings.csv:
           cache: false
-      - site/wycc/demand/_data/postings_by_soc4_unit.csv:
+      - site/wycc/demand/postings/_data/postings_by_soc4_unit.csv:
           cache: false
-      - site/wycc/demand/_data/postings_by_soc4_sub_major.csv:
+      - site/wycc/demand/postings/_data/postings_by_soc4_sub_major.csv:
           cache: false
-      - site/wycc/demand/_data/postings_summary.json:
+      - site/wycc/demand/postings/_data/postings_summary.json:
           cache: false
-      - site/wycc/demand/_data/skills_demand_duration.csv:
+      - site/wycc/demand/postings/_data/skills_demand_duration.csv:
           cache: false
 
   prepare-ny:
@@ -28,13 +28,13 @@ stages:
       - site/_pipelines/lookups.py
       - data/csv/datacity/JobPostingsBySOC4Code.csv
     outs:
-      - site/nycc/demand/_data/postings.csv:
+      - site/nycc/demand/postings/_data/postings.csv:
           cache: false
-      - site/nycc/demand/_data/postings_by_soc4_unit.csv:
+      - site/nycc/demand/postings/_data/postings_by_soc4_unit.csv:
           cache: false
-      - site/nycc/demand/_data/postings_by_soc4_sub_major.csv:
+      - site/nycc/demand/postings/_data/postings_by_soc4_sub_major.csv:
           cache: false
-      - site/nycc/demand/_data/postings_summary.json:
+      - site/nycc/demand/postings/_data/postings_summary.json:
           cache: false
-      - site/nycc/demand/_data/skills_demand_duration.csv:
+      - site/nycc/demand/postings/_data/skills_demand_duration.csv:
           cache: false
