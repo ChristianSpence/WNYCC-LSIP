@@ -28,10 +28,16 @@ layout: layouts/default.njk
 {{ content | safe }}
 
 <div class="centred">
-  <img style="display: inline;" src={{'/assets/images/LSIP-Email2.png' if metas.site == "West Yorkshire Local Skills Improvement Plan Data"}}>
-  <img style="display: inline;" src={{'/assets/images/NY-logo-banner.svg' if metas.site == "North Yorkshire Local Skills Improvement Plan Data"}} height=100px>
+  {% if region_key == "nycc" -%}
+    <img style="display: inline;" src="/assets/images/NY-logo-banner.svg" height="100">
+  {%- endif %}
+  {% if region_key == "wycc" -%}
+    <img style="display: inline;" src="/assets/images/LSIP-Email2.png">
+  {%- endif %}
 </div>
 <div class="centred">
-  <img style="display: inline; height:100px;" src={{"/assets/images/oi-square.svg" if metas.site == "West Yorkshire Local Skills Improvement Plan Data"}}>
+  {% if region_key == "wycc" -%}
+    <img style="display: inline; height:100px;" src="/assets/images/oi-square.svg">
+  {%- endif %}
 </div>
 
