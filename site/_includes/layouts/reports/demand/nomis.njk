@@ -285,7 +285,7 @@ Most recent data - UKBC ({{ stats.nomis_date | dump(2) }}) and BRES ({{ stats.br
               },
               "tickSpacing": 10,
               "min": 80,
-              "max": 160
+              "max": charts.business_change.max or 160
             }
           },
           "series": [{
