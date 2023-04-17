@@ -36,6 +36,7 @@ if __name__ == '__main__':
     size_time_indexed = pd.DataFrame()
     for i in size_time.columns:
         size_time_indexed[i] = size_time[i].div(size_time[i].iloc[0])*100
+    size_time_indexed = size_time_indexed.round(2)
     #@TODO recreate abovce as an index - 2011 = 100.
 
     size_time.rename(columns={'large_250+_':'large_250_'}, inplace=True)
