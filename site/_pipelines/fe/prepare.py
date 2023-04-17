@@ -31,8 +31,6 @@ if __name__ == '__main__':
     #load the data
     data = load_data('data/csv/fe/Basic skills - regional breakdown.csv', group)
 
-    #temp data filter
-    #data = data[data.geography_code == 'E08000032']
     mycols = ['Basic Skills (Excluding digital skills)', 'Basic Skills (Including digital skills)','ESOL', 'Maths', 'English', 'Essential Digital Skills']
     
 
@@ -40,7 +38,7 @@ if __name__ == '__main__':
     basic_skills = basic_skills.loc[mycols].set_index('geography_code')
     
     if group == 'nycc':
-        basic_skills = basic_skills.replace(to_replace=r'^lo.$', value=0, regex=True)
+        basic_skills = basic_skills.replace(to_replace=r'^lo.$', value=2, regex=True)
     #print(basic_skills)
     
 
@@ -74,7 +72,7 @@ if __name__ == '__main__':
     fe_and_skills  = fe_and_skills[fe_and_skills.level_or_type.str.endswith('Total')].drop(columns=['new_la_code', 'date', 'la_name', 'level_or_type']).set_index('geography_code')
 
     e_and_t = load_data('data/csv/fe/Education and training geography - local authority district.csv', group)
-    e_and_t = e_and_t.replace(to_replace=r'^lo.$', value=0, regex=True)
+    e_and_t = e_and_t.replace(to_replace=r'^lo.$', value=2, regex=True)
     e_and_t = e_and_t[(e_and_t.date == '2021/22') & (e_and_t.sex == 'Total') & (e_and_t.ethnicity_group == 'Total')].drop(columns=[
                                                                                 'date', 'sex', 'ethnicity_group', 'notional_nvq_level']).set_index('ssa_t1_desc')
     
