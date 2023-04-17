@@ -6,6 +6,7 @@ header {
     display: flex;
     align-items: start;
     gap: 1rem;
+    flex-wrap: wrap;
   }
   & :is(img, svg) {
     height: 5rem;
@@ -76,9 +77,9 @@ header {
   }
   & .title {
     font-family: var(--alt-fontstack);
-    font-size: 1.2em;
+    font-size: min(3.2vw, 1.2em);
     &.site {
-      font-size: 1.4em;
+      font-size: min(3.5vw, 1.4em);
     }
   }
 }
