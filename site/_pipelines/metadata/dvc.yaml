@@ -1,7 +1,7 @@
 stages:
   metadata:
     cmd: python site/_pipelines/metadata/prepare.py
-    wdir: ../..
+    wdir: ../../..
     deps:
       - site/_pipelines/metadata/prepare.py
       - site/_pipelines/metadata/datasets.yaml
