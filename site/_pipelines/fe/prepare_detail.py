@@ -13,6 +13,10 @@ if __name__ == '__main__':
     # load the data
     data = load_data(filepath, group=group, fill_na=True, na_values=['low'], value=2)
 
+    # Handle low / na values
+    data.e_and_t_aims_enrolments = data.e_and_t_aims_enrolments.fillna(0).astype(float)
+    data.e_and_t_aims_ach = data.e_and_t_aims_ach.fillna(0).astype(float)
+
     # filter
     for i in ['e_and_t_aims_enrolments', 'e_and_t_aims_ach']:
         filtered_data = filtering(
@@ -48,6 +52,11 @@ if __name__ == '__main__':
     # apprenticeships
     filepath2 = 'data/csv/fe/Further education and skills geography - detailed summary.csv'
     data2 = load_data(filepath2, group=group, fill_na=True, na_values=['low'], value=2)
+
+    # Handle low / na values
+    data2.participation = data2.participation.fillna(0).astype(float)
+    data2.achievements = data2.achievements.fillna(0).astype(float)
+
     for i in ['participation', 'achievements']:
         apprenticeships = data2[data2.apprenticeships_or_further_education ==
                                 'Apprenticeships']

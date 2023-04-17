@@ -5,160 +5,134 @@ stages:
     deps:
     - path: data/csv/fe/Basic skills - regional breakdown.csv
       md5: a30bc6601c0bc9961cf0e5eef8d4d4ce
-      size: 42943
+      size: 42240
     - path: data/csv/fe/Education and training geography - local authority district.csv
       md5: 96e9516fdb6b70434616cf8e06ac44d2
-      size: 3132820
+      size: 3100332
     - path: data/csv/fe/Further education and skills geography - detailed summary.csv
       md5: 0b238a931a20d49767300b51e9081593
-      size: 793477
+      size: 786913
     - path: site/_pipelines/fe/prepare.py
       md5: 044e9e1abe28566511d79339e41efb51
-      size: 4230
+      size: 4139
     outs:
     - path: site/wycc/supply/fe/_data/basic_skills.csv
       md5: 1063298faa33b4c4a24b40eaad5defbf
       size: 1248
-      isexec: true
     - path: site/wycc/supply/fe/_data/e_and_t_by_ssa_t1_desc.csv
       md5: 602e6229cf8bb955c5be5fd346724349
       size: 741
-      isexec: true
     - path: site/wycc/supply/fe/_data/fe_type.csv
       md5: 79f48e8dcbfd36647558d1eb305a5af0
       size: 1311
-      isexec: true
     - path: site/wycc/supply/fe/_data/stats.csv
       md5: 48fd1a22ecedbd932789533558d33b57
       size: 500
-      isexec: true
     - path: site/wycc/supply/fe/_data/summary.json
       md5: 1515b00573df6ad16e4f5652b9ee197a
       size: 246
-      isexec: true
   prep-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe/prepare.py nycc
     deps:
     - path: data/csv/fe/Basic skills - regional breakdown.csv
       md5: a30bc6601c0bc9961cf0e5eef8d4d4ce
-      size: 42943
+      size: 42240
     - path: data/csv/fe/Education and training geography - local authority district.csv
       md5: 96e9516fdb6b70434616cf8e06ac44d2
-      size: 3132820
+      size: 3100332
     - path: data/csv/fe/Further education and skills geography - detailed summary.csv
       md5: 0b238a931a20d49767300b51e9081593
-      size: 793477
+      size: 786913
     - path: site/_pipelines/fe/prepare.py
       md5: 044e9e1abe28566511d79339e41efb51
-      size: 4230
+      size: 4139
     outs:
     - path: site/nycc/supply/fe/_data/basic_skills.csv
       md5: e527e899b90b94966570f9f5da84d7ad
       size: 1869
-      isexec: true
     - path: site/nycc/supply/fe/_data/e_and_t_by_ssa_t1_desc.csv
       md5: a9ec7431d9f0655afe3ebd35cacc9b90
       size: 728
-      isexec: true
     - path: site/nycc/supply/fe/_data/fe_type.csv
       md5: 9811626f6b8f3c87a9cc4444e31992d0
       size: 1923
-      isexec: true
     - path: site/nycc/supply/fe/_data/stats.csv
       md5: 8f672fd1c19575964df0f5648599ec9e
       size: 599
-      isexec: true
     - path: site/nycc/supply/fe/_data/summary.json
       md5: 95320fb0de6026436401140652bb4314
       size: 239
-      isexec: true
   prep-detail-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe/prepare_detail.py nycc
     deps:
     - path: data/csv/fe/Education and training geography - local authority district.csv
       md5: 96e9516fdb6b70434616cf8e06ac44d2
-      size: 3132820
+      size: 3100332
     - path: data/csv/fe/Further education and skills geography - detailed summary.csv
       md5: 0b238a931a20d49767300b51e9081593
-      size: 793477
+      size: 786913
     - path: site/_pipelines/fe/prepare_detail.py
-      md5: b6a0f23ac5d8ef05d32188d748a25bee
-      size: 2631
+      md5: 93e37f9f2863280cec81cdff12ad38ee
+      size: 2931
     outs:
     - path: site/nycc/supply/fe/_data/2021_22/achievements_level_or_type_age_group.csv
       md5: 9b95a918fb9ead6c26a997730775fa19
       size: 166
-      isexec: true
     - path: site/nycc/supply/fe/_data/2021_22/e_and_t_aims_ach_ethnicity_group_notional_nvq_level.csv
       md5: 81a2a11e912d36e3dd90b282b2611c15
       size: 389
-      isexec: true
     - path: site/nycc/supply/fe/_data/2021_22/e_and_t_aims_ach_sex_notional_nvq_level.csv
       md5: 0d9042db92353ee908d5783bec55533f
       size: 124
-      isexec: true
     - path: site/nycc/supply/fe/_data/2021_22/e_and_t_aims_ach_ssa_t1_desc_ethnicity_group.csv
       md5: 70d4815d9ede4882d0d8c64901529e63
       size: 1366
-      isexec: true
     - path: site/nycc/supply/fe/_data/2021_22/e_and_t_aims_enrolments_ethnicity_group_notional_nvq_level.csv
       md5: 9f908416fec4a6652cbe9851f1014177
       size: 389
-      isexec: true
     - path: site/nycc/supply/fe/_data/2021_22/e_and_t_aims_enrolments_sex_notional_nvq_level.csv
       md5: c29effe1238741fa747757f52e7d97e1
       size: 124
-      isexec: true
     - path: site/nycc/supply/fe/_data/2021_22/e_and_t_aims_enrolments_ssa_t1_desc_ethnicity_group.csv
       md5: 5c0b255e9d6ef39e029bb418d11ef6bf
       size: 1367
-      isexec: true
     - path: site/nycc/supply/fe/_data/2021_22/participation_level_or_type_age_group.csv
       md5: eb72cb57c8a11d82a6cda562f04f2b4c
       size: 173
-      isexec: true
   prep-detail-wy:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe/prepare_detail.py wycc
     deps:
     - path: data/csv/fe/Education and training geography - local authority district.csv
       md5: 96e9516fdb6b70434616cf8e06ac44d2
-      size: 3132820
+      size: 3100332
     - path: data/csv/fe/Further education and skills geography - detailed summary.csv
       md5: 0b238a931a20d49767300b51e9081593
-      size: 793477
+      size: 786913
     - path: site/_pipelines/fe/prepare_detail.py
-      md5: b6a0f23ac5d8ef05d32188d748a25bee
-      size: 2631
+      md5: 93e37f9f2863280cec81cdff12ad38ee
+      size: 2931
     outs:
     - path: site/wycc/supply/fe/_data/2021_22/achievements_level_or_type_age_group.csv
       md5: 09d57b71ab598985cfd8ae40288f6ca8
       size: 169
-      isexec: true
     - path: site/wycc/supply/fe/_data/2021_22/e_and_t_aims_ach_ethnicity_group_notional_nvq_level.csv
       md5: ca4678ff226b8008890189061cc46738
       size: 395
-      isexec: true
     - path: site/wycc/supply/fe/_data/2021_22/e_and_t_aims_ach_sex_notional_nvq_level.csv
       md5: 214bd9b26b9c0891c5275125500f1169
       size: 125
-      isexec: true
     - path: site/wycc/supply/fe/_data/2021_22/e_and_t_aims_ach_ssa_t1_desc_ethnicity_group.csv
       md5: 0e31e2a2e3e97a1fc22bae0e8896692c
       size: 1373
-      isexec: true
     - path: site/wycc/supply/fe/_data/2021_22/e_and_t_aims_enrolments_ethnicity_group_notional_nvq_level.csv
       md5: 5ac2a8a81028755b9533919f29dd16cd
       size: 400
-      isexec: true
     - path: site/wycc/supply/fe/_data/2021_22/e_and_t_aims_enrolments_sex_notional_nvq_level.csv
       md5: 923970368f8bb9242f9a30dcebd3edb9
       size: 126
-      isexec: true
     - path: site/wycc/supply/fe/_data/2021_22/e_and_t_aims_enrolments_ssa_t1_desc_ethnicity_group.csv
       md5: ed6190e692ea8ec3239c1a47659e1035
       size: 1381
-      isexec: true
     - path: site/wycc/supply/fe/_data/2021_22/participation_level_or_type_age_group.csv
       md5: 067271702536cc363abc0829e926a830
       size: 175
-      isexec: true
