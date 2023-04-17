@@ -31,15 +31,15 @@ datasets:
 {% comp 'dashboard.grid', {max_width: '10rem'} %}
 {{ comp.dashboard.headline({
       title: 'Total completing 16-18 studies',
-      headline: summary.number_of_pupils_completing_16_18_study | humanise
+      headline: summary.number_of_pupils_completing_16_18_study | humanise({ decimalPlaces: 1 })
     }) | safe }}
 {{ comp.dashboard.headline({
       title: 'Total at Level 3',
-      headline: summary.level_3 | humanise
+      headline: summary.level_3 | humanise({ decimalPlaces: 1 })
     }) | safe }}
 {{ comp.dashboard.headline({
       title: 'Total at Level 2',
-      headline: summary.level_2 | humanise
+      headline: summary.level_2 | humanise({ decimalPlaces: 1 })
     }) | safe }}
 {{ comp.dashboard.headline({
       title: 'Total other qualification',

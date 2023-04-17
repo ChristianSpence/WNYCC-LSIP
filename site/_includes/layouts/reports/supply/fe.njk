@@ -28,11 +28,11 @@ datasets:
 {% comp 'dashboard.grid', {max_width: '10rem'} %}
 {{ comp.dashboard.headline({
       title: 'Total Achievements in FE',
-      headline: summary.achievements | humanise
+      headline: summary.achievements | humanise({ decimalPlaces: 1 })
     }) | safe }}
 {{ comp.dashboard.headline({
       title: 'Total Participation in FE',
-      headline: summary.participation | humanise
+      headline: summary.participation | humanise({ decimalPlaces: 1 })
     }) | safe }}
 {% endcomp %}
 

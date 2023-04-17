@@ -81,17 +81,24 @@ site.filter(
 site.filter("max", (arr: number[]) => (Math.max(...arr)));
 site.filter("min", (arr: number[]) => (Math.min(...arr)));
 
-site.filter("humanise", (input, max_exponent = Infinity, spacer = "") => {
+site.filter('humanise', (input, options = {}) => {
+  const { maxExponent = Infinity, decimalPlaces, spacer = '' } = options;
   const number = parseFloat(input);
-  const exponent = Math.min(Math.round(Math.log10(number)), max_exponent);
+  const exponent = Math.min(Math.floor(Math.log10(number)), maxExponent);
   if (exponent >= 9) {
-    return `${(number / 1e9).toLocaleString()}${spacer}bn`;
+    return `${(number / 1e9).toLocaleString(undefined, {
+      maximumFractionDigits: decimalPlaces,
+    })}${spacer}bn`;
   }
   if (exponent >= 6) {
-    return `${(number / 1e6).toLocaleString()}${spacer}m`;
+    return `${(number / 1e6).toLocaleString(undefined, {
+      maximumFractionDigits: decimalPlaces,
+    })}${spacer}m`;
   }
   if (exponent >= 3) {
-    return `${(number / 1e3).toLocaleString()}${spacer}k`;
+    return `${(number / 1e3).toLocaleString(undefined, {
+      maximumFractionDigits: decimalPlaces,
+    })}${spacer}k`;
   }
   return number.toLocaleString();
 });
