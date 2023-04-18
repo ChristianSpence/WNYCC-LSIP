@@ -5,7 +5,7 @@ datasets:
   - nomis/bres
 ---
 <h1>NOMIS</h1>
-Most recent data - UKBC ({{ stats.nomis_date | dump(2) }}) and BRES ({{ stats.bres_date | dump(2) }}).
+Most recent data - UKBC ({{ stats.nomis_date | replace('"', '') }}) and BRES ({{ stats.bres_date | replace('"', '') }}).
 <p>Datasets used:</p>
 
 <ul>
