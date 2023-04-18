@@ -14,7 +14,7 @@ if __name__ == '__main__':
     data = load_data(filepath, group=group, fill_na=False)
     
     #filter by date, only count aggregated numbers for subject, remove aggregates for apprenticeship level. drop useless columns.
-    dat = data.date.max()
+    dat = '2022/23'
     data = data[data.date == dat].drop(columns='date')
     data = data.replace(['low'], 0)
     all_subjects = data[data.ssa_t1_desc == 'Total'].drop(columns='ssa_t1_desc')
@@ -40,8 +40,6 @@ if __name__ == '__main__':
 
     total_total.to_csv(os.path.join(OUTDIR, 'all_apprenticeship_all_subject_geography_code.csv'))
     
-    
+   
     stats.to_json(os.path.join(OUTDIR, 'stats.json')) 
 
-    date = pd.Series(data={'date': dat})
-    date.to_json(os.path.join(OUTDIR, 'date.json'))
