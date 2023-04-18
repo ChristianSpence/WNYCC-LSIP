@@ -64,7 +64,8 @@ datasets:
               label: '{{ n | slice(0,3) }}',
               value: 'cohort',
               scale: colour_scale.sample,
-              min: fe_dest_totals_by_geography.columns.cohort | min
+              min: fe_dest_totals_by_geography.columns.cohort | min,
+              tooltip: '{{cohort | toLocaleString()}}'
             }
           }
         ) | safe }}

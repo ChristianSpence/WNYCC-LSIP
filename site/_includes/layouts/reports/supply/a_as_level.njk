@@ -30,7 +30,8 @@ layout: layouts/default.njk
             matchKey: 'geography_code',
             label: '{{ n | slice(0,3) }}',
             value: 'total_number_of_students',
-            scale: colour_scale.sample
+            scale: colour_scale.sample,
+            tooltip: '{{total_number_of_students | toLocaleString()}}'
           }
         }
       ) | safe }}

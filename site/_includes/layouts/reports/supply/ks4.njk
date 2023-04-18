@@ -34,7 +34,8 @@ layout: layouts/default.njk
           label: '{{ n | slice(0,3) }}',
           value: 'average_attainment_8_score_of_all_pupils',
           min: 30,
-          scale: colour_scale.sample
+          scale: colour_scale.sample,
+          tooltip: '{{average_attainment_8_score_of_all_pupils | toLocaleString()}}'
         }
       }
     ) | safe }}

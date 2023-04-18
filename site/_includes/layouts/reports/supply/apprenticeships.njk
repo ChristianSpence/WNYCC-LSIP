@@ -53,7 +53,8 @@ datasets:
           label: '{{ n | slice(0,3) }}',
           value: 'starts',
           min: 100,
-          scale: colour_scale.sample
+          scale: colour_scale.sample,
+          tooltip: '{{starts | toLocaleString()}}'
         }
       }
     ) | safe }}
@@ -70,7 +71,8 @@ datasets:
           label: '{{ n | slice(0,3) }}',
           value: 'achievements',
           min: 30,
-          scale: colour_scale.sample
+          scale: colour_scale.sample,
+          tooltip: '{{achievements | toLocaleString()}}'
         }
       }
     ) | safe }}
