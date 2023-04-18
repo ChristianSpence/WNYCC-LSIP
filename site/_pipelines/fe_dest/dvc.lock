@@ -4,37 +4,37 @@ stages:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare.py nycc
     deps:
     - path: data/csv/fe_dest/16-18 local authority level destinations.csv
-      md5: 7fbccd8fc8d1f221f201c7839ff8a6cc
-      size: 1259902
+      md5: 66ff93065a279d15dc6cc07de777e6e5
+      size: 1259494
     - path: site/_pipelines/fe_dest/prepare.py
-      md5: 41f5accffcf23e09d83a7a72888983e8
-      size: 3990
+      md5: 888cd166e0f9df88e8dff6c27861e50b
+      size: 3602
     outs:
     - path: site/nycc/supply/fe_dest/_data/fe_dest_totals_by_geography.csv
-      md5: 2dfecf29efa3024c3244a0376f428ec8
-      size: 325
+      md5: 461a650133a6ce9a5add6b3ff3339755
+      size: 292
       isexec: true
     - path: site/nycc/supply/fe_dest/_data/summary.json
-      md5: c787dac270f22628c4cafedd7ff1b384
-      size: 117
+      md5: 31c4dfb708a0917a295c576b6fdfbc2e
+      size: 84
       isexec: true
   prep-wy:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare.py wycc
     deps:
     - path: data/csv/fe_dest/16-18 local authority level destinations.csv
-      md5: 7fbccd8fc8d1f221f201c7839ff8a6cc
-      size: 1259902
+      md5: 66ff93065a279d15dc6cc07de777e6e5
+      size: 1259494
     - path: site/_pipelines/fe_dest/prepare.py
-      md5: 41f5accffcf23e09d83a7a72888983e8
-      size: 3990
+      md5: 888cd166e0f9df88e8dff6c27861e50b
+      size: 3602
     outs:
     - path: site/wycc/supply/fe_dest/_data/fe_dest_totals_by_geography.csv
-      md5: 3a48497ef71569da8d8d4772605ea5c8
-      size: 524
+      md5: 8a7e2bc87e6eb8bf1d8018f54656853b
+      size: 491
       isexec: true
     - path: site/wycc/supply/fe_dest/_data/summary.json
-      md5: 98581c9eeb2b6cae1a8e9c1ef31b5dfb
-      size: 120
+      md5: 245fa04c095fbaa5c2133d22a61005c4
+      size: 87
       isexec: true
   prep-detail-wy:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare_detail.py
