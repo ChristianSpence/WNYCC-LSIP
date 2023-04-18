@@ -6,55 +6,75 @@ stages:
     deps:
     - path: data/csv/apprenticeships/apprenticeship_starts_achievements_2022_23.csv
       md5: a9c4cb9e8d450ef38b09724776b18069
-      size: 62810
+      size: 63539
     - path: site/_pipelines/apprenticeships/prepare.py
-      md5: 15664e29eee7b75d0984453875fc4bbc
-      size: 2529
+      md5: 2fd171257fe382b75178c379123e6810
+      size: 2676
     outs:
     - path: site/wycc/supply/apprenticeships/_data/all_apprenticeship_all_subject_geography_code.csv
       md5: 9d2385000fb04d08e5f6fa4e9ff46192
       size: 148
+      isexec: true
     - path: site/wycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code_ach.csv
       md5: 41f57c16b4ed38d0ba929fd02ba2f3e8
       size: 673
+      isexec: true
     - path: site/wycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code_starts.csv
       md5: 7002d2c310df90d7dd2bcc8d84be0b33
       size: 700
+      isexec: true
     - path: site/wycc/supply/apprenticeships/_data/all_subjects_level_geography_code_ach.csv
       md5: 342a2f32fa2f4c8c62a81ebeea652117
       size: 190
+      isexec: true
     - path: site/wycc/supply/apprenticeships/_data/all_subjects_level_geography_code_starts.csv
       md5: f8bd437211a77906b3759e5eff593a63
       size: 199
+      isexec: true
+    - path: site/wycc/supply/apprenticeships/_data/date.json
+      md5: d202868e80ce4127b7fb550fd193034f
+      size: 19
+      isexec: true
     - path: site/wycc/supply/apprenticeships/_data/stats.json
       md5: b08473d1b5ba053c197c923c6a75918f
       size: 39
+      isexec: true
   prep-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/apprenticeships/prepare.py
       nycc
     deps:
     - path: data/csv/apprenticeships/apprenticeship_starts_achievements_2022_23.csv
       md5: a9c4cb9e8d450ef38b09724776b18069
-      size: 62810
+      size: 63539
     - path: site/_pipelines/apprenticeships/prepare.py
-      md5: 15664e29eee7b75d0984453875fc4bbc
-      size: 2529
+      md5: 2fd171257fe382b75178c379123e6810
+      size: 2676
     outs:
     - path: site/nycc/supply/apprenticeships/_data/all_apprenticeship_all_subject_geography_code.csv
       md5: 16f5bb331aea92e636a30855de2bfbce
       size: 206
+      isexec: true
     - path: site/nycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code_ach.csv
       md5: a09fc777073c0ac2cbf3d8f27bb727ea
       size: 774
+      isexec: true
     - path: site/nycc/supply/apprenticeships/_data/all_apprenticeship_level_subject_geography_code_starts.csv
       md5: 352e0a1de24996ec9fd76ee5da237beb
       size: 802
+      isexec: true
     - path: site/nycc/supply/apprenticeships/_data/all_subjects_level_geography_code_ach.csv
       md5: e3d8b75d0736c9917774823b27ea5968
       size: 240
+      isexec: true
     - path: site/nycc/supply/apprenticeships/_data/all_subjects_level_geography_code_starts.csv
       md5: 5aff677591948051bdddf594ee9539e1
       size: 252
+      isexec: true
+    - path: site/nycc/supply/apprenticeships/_data/date.json
+      md5: d202868e80ce4127b7fb550fd193034f
+      size: 19
+      isexec: true
     - path: site/nycc/supply/apprenticeships/_data/stats.json
       md5: 9f35a71436fd527c83c354f5ab0c908c
       size: 38
+      isexec: true

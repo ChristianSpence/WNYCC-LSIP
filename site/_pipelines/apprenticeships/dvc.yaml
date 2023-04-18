@@ -18,6 +18,8 @@ stages:
         : cache: false
       - site/wycc/supply/apprenticeships/_data/stats.json:
           cache: false
+      - site/wycc/supply/apprenticeships/_data/date.json:
+          cache: false
   prep-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/apprenticeships/prepare.py nycc
     wdir: ../../..
@@ -36,4 +38,6 @@ stages:
       - ? site/nycc/supply/apprenticeships/_data/all_apprenticeship_all_subject_geography_code.csv
         : cache: false
       - site/nycc/supply/apprenticeships/_data/stats.json:
+          cache: false
+      - site/nycc/supply/apprenticeships/_data/date.json:
           cache: false
