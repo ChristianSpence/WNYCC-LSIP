@@ -12,13 +12,15 @@ if __name__ == '__main__':
     group = sys.argv[1]
 
     data = load_data(filepath, group='wycc')
-    GD_data = data[data.date == '2020/21'].drop(columns='date')
+    date = data.date.max()
+    dat = pd.Series(data={'date': date})
+    GD_data = data[data.date == date].drop(columns='date')
     GD_data = GD_data[GD_data.institution_group == 'State-funded mainstream schools & colleges'].drop(columns= ['institution_group', 'cohort_level', 'institution_type'])
     GD_data = GD_data[GD_data.data_type != 'Percentage'].drop(columns=['data_type'])
     GD_data = drop_totals(GD_data)
     GD = GD_data.groupby('characteristic').sum(numeric_only=True)
 
-    data = data[data.date == '2020/21'].drop(columns='date')
+    data = data[data.date == date].drop(columns='date')
     SEN_data = data.drop(columns=['institution_type', 'cohort_level'])
     SEN_data = SEN_data[SEN_data.data_type != 'Percentage'].drop(columns=['data_type'])
     SEN_data = drop_totals(SEN_data)
@@ -31,6 +33,7 @@ if __name__ == '__main__':
     OUTDIR = 'site/{group}/supply/fe_dest/_data/2020_21/'.format(group=group)
     os.makedirs(OUTDIR, exist_ok=True)
     result.to_csv(os.path.join(OUTDIR, 'fe_dest_detail.csv'))
+    dat.to_json(os.path.join(OUTDIR, 'date.json'), orient='index')
     # for i in ['fe_level_3']:
     #     filtered_SEN_data = filtering(
     #         SEN_data, facts=i, dat='2020/21', subfilts=['characteristic_group', 'student_characteristic'])

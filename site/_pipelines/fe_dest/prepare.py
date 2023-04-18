@@ -16,9 +16,9 @@ def load_data(group=None):
 
     #renaming columns
     data.rename(columns=slugify, inplace=True)
-
+    dat = data.date.max()
     #filtering by date and colleges and schools combined, then dropping them
-    data = data[data.date == '2020/21'].drop(columns='date').reset_index()
+    data = data[data.date == dat].drop(columns='date').reset_index()
     #data = data[data.geography_name == 'Leeds']
     data = data[data.institution_group == 'State-funded mainstream schools & colleges'].drop(columns=
     ['institution_group', 'cohort_level', 'institution_type', 'index'])
@@ -26,7 +26,7 @@ def load_data(group=None):
     data = data[data.characteristic_group == 'Total'].drop(columns='characteristic_group') 
     data = data[data.data_type == 'Number of pupils'].drop(columns=['data_type', 'characteristic'])
 
-    return data
+    return data, dat
 
 if __name__ == '__main__':
 
@@ -38,8 +38,9 @@ if __name__ == '__main__':
     os.makedirs(OUTDIR, exist_ok=True)
 
     #load the data
-    data = load_data(group=group)
-
+    df = load_data(group=group)
+    data = df[0]
+    date = pd.Series(data={'date': df[1]})
     #student totals by geography
     complete_studies = data[data.cohort_level_group == 'Total'].reset_index().drop(columns='index')[['geography_code', 'cohort']].set_index('geography_code')
 
@@ -76,4 +77,5 @@ if __name__ == '__main__':
     #write to file
     qual_level_by_geography.to_csv(os.path.join(OUTDIR, 'fe_dest_totals_by_geography.csv'))
     summary.to_json(os.path.join(OUTDIR, 'summary.json'), orient='index')
+    date.to_json(os.path.join(OUTDIR, 'date.json'), orient='index')
 
