@@ -29,7 +29,8 @@ def load_a_level_data(group=None):
     ])
 
     data = data[data.Institution == 'All state-funded schools and colleges'].drop(columns=['Institution'])
-    data = data[data.date == '2021/22'].drop(columns=['date'])
+    dat = data.date.max()
+    data = data[data.date == dat].drop(columns=['date'])
     data = data[data.Subject.str.startswith('Total')].drop(columns=['Subject'])
 
     if (group != None):
@@ -37,7 +38,7 @@ def load_a_level_data(group=None):
 
     data.rename(columns=slugify_column_name, inplace=True)
 
-    return data
+    return data, dat
 
 
 if __name__ == '__main__':
@@ -49,13 +50,14 @@ if __name__ == '__main__':
 
 
     # prepare A-level
-    data = load_a_level_data(group)
+    data, dat = load_a_level_data(group)
 
     # Prepare stats data structure
     stats = data.drop(columns=['geography_name', 'geography_code']).groupby('subject_area').sum().reset_index()
 
     # Take the All Subjects summary line as our headline summary
     summary = stats[stats.subject_area == 'All subjects'].drop(columns=['subject_area']).sum()
+    summary['csv_date'] = dat
     summary.to_json(os.path.join(OUTDIR, 'summary.json'), orient='index')
 
     # Remove aggregated lines

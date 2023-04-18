@@ -35,7 +35,8 @@ if __name__ == '__main__':
     os.makedirs(OUTDIR, exist_ok=True)
 
     data = read_data(region)
-    data = data[data.date == "2021/22"]
+    dat = data.date.max()
+    data = data[data.date == dat]
 
     # Select key stats
     stats = data[[
@@ -89,7 +90,7 @@ if __name__ == '__main__':
         'total_number_of_pupils_entering_english_and_mathematics_gcses',
         'total_number_of_pupils_entering_the_english_baccalaureate',
     ]].sum()
-
+    summary['csv_date'] = dat
     summary.to_json(os.path.join(OUTDIR, 'summary.json'), orient='index')
 
     totals_by_area = stats[[

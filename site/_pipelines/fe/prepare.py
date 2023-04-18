@@ -30,7 +30,7 @@ if __name__ == '__main__':
 
     #load the data
     data = load_data('data/csv/fe/Basic skills - regional breakdown.csv', group)
-
+    dat = data.date.max()
     mycols = ['Basic Skills (Excluding digital skills)', 'Basic Skills (Including digital skills)','ESOL', 'Maths', 'English', 'Essential Digital Skills']
     
 
@@ -39,7 +39,7 @@ if __name__ == '__main__':
     
     if group == 'nycc':
         basic_skills = basic_skills.replace(to_replace=r'^lo.$', value=2, regex=True)
-    #print(basic_skills)
+    
     
 
     #making stuff numeric
@@ -68,12 +68,14 @@ if __name__ == '__main__':
 
     fe_and_skills = load_data('data/csv/fe/Further education and skills geography - detailed summary.csv', group)
     fe_and_skills = fe_and_skills[fe_and_skills.age_group == 'Total'].drop(columns=['age_group'])
-    fe_and_skills = fe_and_skills[fe_and_skills.date == '2021/22']
+    fe_skills_date = fe_and_skills.date.max()
+    fe_and_skills = fe_and_skills[fe_and_skills.date == fe_skills_date]
     fe_and_skills  = fe_and_skills[fe_and_skills.level_or_type.str.endswith('Total')].drop(columns=['new_la_code', 'date', 'la_name', 'level_or_type']).set_index('geography_code')
 
     e_and_t = load_data('data/csv/fe/Education and training geography - local authority district.csv', group)
     e_and_t = e_and_t.replace(to_replace=r'^lo.$', value=2, regex=True)
-    e_and_t = e_and_t[(e_and_t.date == '2021/22') & (e_and_t.sex == 'Total') & (e_and_t.ethnicity_group == 'Total')].drop(columns=[
+    e_and_t_date = e_and_t.date.max()
+    e_and_t = e_and_t[(e_and_t.date == e_and_t_date) & (e_and_t.sex == 'Total') & (e_and_t.ethnicity_group == 'Total')].drop(columns=[
                                                                                 'date', 'sex', 'ethnicity_group', 'notional_nvq_level']).set_index('ssa_t1_desc')
     
     for k in ['e_and_t_aims_enrolments', 'e_and_t_aims_ach']:
@@ -82,6 +84,8 @@ if __name__ == '__main__':
     e_and_t = e_and_t.groupby('ssa_t1_desc').sum(numeric_only=True)
 
     summary = stats.drop(columns='ap_ratio').sum()
+    summary['e_and_t_date'] = e_and_t_date
+    summary['fe_skills_date'] = fe_skills_date
     #print(e_and_t)
 
     #write to file

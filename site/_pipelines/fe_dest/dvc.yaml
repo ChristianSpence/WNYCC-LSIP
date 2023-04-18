@@ -38,6 +38,8 @@ stages:
     outs:
       - site/wycc/supply/fe_dest/_data/2020_21/fe_dest_detail.csv:
           cache: false
+      - site/wycc/supply/fe_dest/_data/2020_21/detail_summary.json:
+          cache: false
 
   prep-detail-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/fe_dest/prepare_detail.py nycc
@@ -47,4 +49,6 @@ stages:
       - data/csv/fe_dest/16-18 local authority level destinations.csv
     outs:
       - site/nycc/supply/fe_dest/_data/2020_21/fe_dest_detail.csv:
+          cache: false
+      - site/nycc/supply/fe_dest/_data/2020_21/detail_summary.json:
           cache: false

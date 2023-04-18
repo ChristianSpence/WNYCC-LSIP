@@ -5,42 +5,50 @@ stages:
     deps:
     - path: data/csv/ks4/Key stage 4 performance.csv
       md5: 27fbc5a31ef986824aa950275ee5bb1e
-      size: 3292
+      size: 3306
     - path: site/_pipelines/ks4/prepare.py
-      md5: 38b5768598c022665ee8556c26fead88
-      size: 5657
+      md5: 6fef3d33b3fe71a6b608c8f4d47cb3a3
+      size: 5820
     outs:
     - path: site/wycc/supply/ks4/_data/percentage_by_geography.csv
       md5: d9454a0052a792648377c3b4af903120
       size: 470
+      isexec: true
     - path: site/wycc/supply/ks4/_data/stats.csv
       md5: 79b1a95ba8579297572c24d0f90b6588
       size: 1347
+      isexec: true
     - path: site/wycc/supply/ks4/_data/summary.json
-      md5: 6dd67cb90c862aae451fbbd485f8076a
-      size: 223
+      md5: 92dea98e58174369f9d1161491b43bd0
+      size: 245
+      isexec: true
     - path: site/wycc/supply/ks4/_data/totals_by_geography.csv
       md5: debdd50a30e73a8e7e10ae9125ab4148
       size: 473
+      isexec: true
   prep-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/ks4/prepare.py nycc
     deps:
     - path: data/csv/ks4/Key stage 4 performance.csv
       md5: 27fbc5a31ef986824aa950275ee5bb1e
-      size: 3292
+      size: 3306
     - path: site/_pipelines/ks4/prepare.py
-      md5: 38b5768598c022665ee8556c26fead88
-      size: 5657
+      md5: 6fef3d33b3fe71a6b608c8f4d47cb3a3
+      size: 5820
     outs:
     - path: site/nycc/supply/ks4/_data/percentage_by_geography.csv
       md5: e9713ce27fd6440e9f4bc0b82198db90
       size: 560
+      isexec: true
     - path: site/nycc/supply/ks4/_data/stats.csv
       md5: ef56637ac8df57af8ca9ae109837c841
       size: 1551
+      isexec: true
     - path: site/nycc/supply/ks4/_data/summary.json
-      md5: ea5f436040f8fae82518ed35ec0adfb3
-      size: 221
+      md5: 7c16eef7b3eab3fc96a9dd712a5ed8a8
+      size: 243
+      isexec: true
     - path: site/nycc/supply/ks4/_data/totals_by_geography.csv
       md5: a99821cde41cd067f658d2d77670928e
       size: 537
+      isexec: true
