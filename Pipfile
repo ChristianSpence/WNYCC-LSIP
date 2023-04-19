@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pandas = "*"
 dvc = {extras = ["all"], version = "*"}
+dvc-s3 = "*"
 
 [dev-packages]
 
