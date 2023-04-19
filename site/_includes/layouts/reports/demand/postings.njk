@@ -1,8 +1,14 @@
 ---
 layout: layouts/default.njk
 datasets:
-  - datacity/jobpostingsbyspecializedskill
+  - datacity/averagepostingdurationbycertificationsskill
+  - datacity/averagepostingdurationbycommonskill
+  - datacity/averagepostingdurationbysoftwareskill
   - datacity/averagepostingdurationbyspecializedskill
+  - datacity/jobpostingsbycertificationsskill
+  - datacity/jobpostingsbycommonskill
+  - datacity/jobpostingsbysoftwareskill
+  - datacity/jobpostingsbyspecializedskill
   - datacity/jobpostingsbysoc4code
 ---
 {% macro jobs_table(jobs, area, total) %}
@@ -31,19 +37,6 @@ datasets:
 {% endmacro %}
 
 <h1>Skills demand based on job postings</h1>
-
-<p>Datasets used:</p>
-
-<ul>
-  {% for dataset in datasets %}
-    {% set page = search.page("url=/metadata/" + dataset + "/" ) %}
-    <li>
-      <a href="{{ page.url}}">
-        {{ page.title }} from {{ page.origin }}
-      </a>
-    </li>
-  {% endfor %}
-</ul>
 
 <h2>In-demand skills</h2>
 
@@ -157,8 +150,8 @@ datasets:
   config: {
     data: postings.rows,
     grouping: ['major_title', 'sub_major_title', 'minor_title', 'unit_title'],
-    width: 1200,
-    height: 900,
+    width: 900,
+    height: 700,
     name: 'unit_title',
     description: mapper.treemap.soc4Demand.tooltip,
     colour: mapper.treemap.soc4Demand.colour,
@@ -177,3 +170,5 @@ datasets:
   <h2>Top {{ jobs | length }} job postings by SOC4 sub-major code in {{ area }}</h2>
   {{ jobs_table(jobs, area, postings_summary[area]) }}
 {%- endfor -%}
+
+{{ comp.datasets({ datasets: datasets }) | safe }}
