@@ -7,8 +7,8 @@ stages:
       md5: aceb942bb32b6c0ae772c86270f85acf
       size: 23820
     - path: site/_pipelines/datacity/prepare.py
-      md5: 8cb47e5f1c44582d04874e2281e74cc9
-      size: 3512
+      md5: 3c4eaada359320dc77099f5dee33c297
+      size: 4241
     - path: site/_pipelines/datacity/soc4.py
       md5: 3a9751e87e00614c73ea1250c6dfe57f
       size: 1954
@@ -16,6 +16,12 @@ stages:
       md5: 414041da95ff3817e3db4a83d431fcf9
       size: 809
     outs:
+    - path: site/wycc/demand/postings/_data/certifications_skill_demand_duration.csv
+      md5: dc2914582cb8db0d318c722be081af07
+      size: 8147
+    - path: site/wycc/demand/postings/_data/common_skill_demand_duration.csv
+      md5: 2575d0de83d0f0ad0686abb077e8edc1
+      size: 20998
     - path: site/wycc/demand/postings/_data/postings.csv
       md5: e0c17624efb5c9a7b37d6799f0af4f0b
       size: 14108
@@ -28,7 +34,10 @@ stages:
     - path: site/wycc/demand/postings/_data/postings_summary.json
       md5: b043927495f251cb4db827d12507a1a2
       size: 134
-    - path: site/wycc/demand/postings/_data/skills_demand_duration.csv
+    - path: site/wycc/demand/postings/_data/software_skill_demand_duration.csv
+      md5: d467b33a1a1009c7f8b071abdac71f81
+      size: 11969
+    - path: site/wycc/demand/postings/_data/specialised_skill_demand_duration.csv
       md5: 25e69c2c548da63b042b049de62cea92
       size: 4771
   prepare-ny:
@@ -38,8 +47,8 @@ stages:
       md5: aceb942bb32b6c0ae772c86270f85acf
       size: 23820
     - path: site/_pipelines/datacity/prepare.py
-      md5: 8cb47e5f1c44582d04874e2281e74cc9
-      size: 3512
+      md5: 3c4eaada359320dc77099f5dee33c297
+      size: 4241
     - path: site/_pipelines/datacity/soc4.py
       md5: 3a9751e87e00614c73ea1250c6dfe57f
       size: 1954
@@ -47,6 +56,12 @@ stages:
       md5: 414041da95ff3817e3db4a83d431fcf9
       size: 809
     outs:
+    - path: site/nycc/demand/postings/_data/certifications_skill_demand_duration.csv
+      md5: d4101249cd0bd5a01d5ea0b38f0f7f9f
+      size: 3732
+    - path: site/nycc/demand/postings/_data/common_skill_demand_duration.csv
+      md5: a5f0c90e7c0683f1cf22c0212d73731d
+      size: 34973
     - path: site/nycc/demand/postings/_data/postings.csv
       md5: c40949b4863dc8b8a4ebad8fa18ec126
       size: 12343
@@ -59,6 +74,9 @@ stages:
     - path: site/nycc/demand/postings/_data/postings_summary.json
       md5: e913a7b207853e507d80127d436d7709
       size: 193
-    - path: site/nycc/demand/postings/_data/skills_demand_duration.csv
+    - path: site/nycc/demand/postings/_data/software_skill_demand_duration.csv
+      md5: 9bd80eb47349d41953aa1384fd3f9bfd
+      size: 13478
+    - path: site/nycc/demand/postings/_data/specialised_skill_demand_duration.csv
       md5: 498ff4b6f08c1c6f99de3c9b8afdd48c
       size: 10383

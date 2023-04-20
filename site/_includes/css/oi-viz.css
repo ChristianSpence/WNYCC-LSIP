@@ -10,7 +10,7 @@ svg.oi-viz {
   transition: opacity 0.5s, left 0.1s, top 0.1s;
   margin-top: 1.8rem;
   &::after {
-    content: "";
+    content: '';
     position: absolute;
     bottom: auto;
     width: 0;
@@ -21,4 +21,10 @@ svg.oi-viz {
     border: 0.5rem solid #ffffff00;
     border-bottom-color: var(--bg-colour);
   }
+}
+.treemap .series div {
+  color: #ffffff;
+  font-size: 10px;
+  padding: 5px;
+  border: none;
 }

@@ -16,7 +16,13 @@ stages:
           cache: false
       - site/wycc/demand/postings/_data/postings_summary.json:
           cache: false
-      - site/wycc/demand/postings/_data/skills_demand_duration.csv:
+      - site/wycc/demand/postings/_data/certifications_skill_demand_duration.csv:
+          cache: false
+      - site/wycc/demand/postings/_data/common_skill_demand_duration.csv:
+          cache: false
+      - site/wycc/demand/postings/_data/software_skill_demand_duration.csv:
+          cache: false
+      - site/wycc/demand/postings/_data/specialised_skill_demand_duration.csv:
           cache: false
 
   prepare-ny:
@@ -36,5 +42,12 @@ stages:
           cache: false
       - site/nycc/demand/postings/_data/postings_summary.json:
           cache: false
-      - site/nycc/demand/postings/_data/skills_demand_duration.csv:
+      - site/nycc/demand/postings/_data/certifications_skill_demand_duration.csv:
           cache: false
+      - site/nycc/demand/postings/_data/common_skill_demand_duration.csv:
+          cache: false
+      - site/nycc/demand/postings/_data/software_skill_demand_duration.csv:
+          cache: false
+      - site/nycc/demand/postings/_data/specialised_skill_demand_duration.csv:
+          cache: false
+

@@ -1,0 +1,12 @@
+<h2>Datasets used</h2>
+
+<ul>
+  {% for dataset in datasets %}
+    {% set page = search.page("url=/metadata/" + dataset + "/" ) %}
+    <li>
+      <a href="{{ page.url}}">
+        {{ page.title }} from {{ page.origin }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

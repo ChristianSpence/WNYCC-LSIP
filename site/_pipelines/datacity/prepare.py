@@ -69,23 +69,29 @@ if __name__ == '__main__':
 
     by_sub_major.sum().to_json(os.path.join(OUT_DIR, 'postings_summary.json'), indent=2)
 
-    skill_postings = read_data(
-        'data/csv/datacity/JobPostingsBySpecializedSkill.csv',
-        group=group,
-        metric='skill'
-    )
-    skill_duration = read_data(
-        'data/csv/datacity/AveragePostingDurationBySpecializedSkill.csv',
-        group=group,
-        metric='skill'
-    ).rename(columns={
-        'count': 'duration',
-    })
+    def make_demand_duration(postings, duration, output):
+        skill_postings = read_data(
+            postings,
+            group=group,
+            metric='skill'
+        )
+        skill_duration = read_data(
+            duration,
+            group=group,
+            metric='skill'
+        ).rename(columns={
+            'count': 'duration',
+        })
 
-    skill_postings = skill_postings.merge(skill_duration)
+        skill_postings = skill_postings.merge(skill_duration)
 
-    skill_postings.set_index(['geography_code', 'geography_code', 'skill']).drop(
-        columns=['group']).to_csv(os.path.join(OUT_DIR, 'skills_demand_duration.csv'))
+        skill_postings.set_index(['geography_code', 'geography_code', 'skill']).drop(
+            columns=['group']).to_csv(os.path.join(OUT_DIR, output))
+
+    make_demand_duration('data/csv/datacity/JobPostingsByCertificationsSkill.csv', 'data/csv/datacity/AveragePostingDurationByCertificationsSkill.csv', 'certifications_skill_demand_duration.csv')
+    make_demand_duration('data/csv/datacity/JobPostingsByCommonSkill.csv', 'data/csv/datacity/AveragePostingDurationByCommonSkill.csv', 'common_skill_demand_duration.csv')
+    make_demand_duration('data/csv/datacity/JobPostingsBySoftwareSkill.csv', 'data/csv/datacity/AveragePostingDurationBySoftwareSkill.csv', 'software_skill_demand_duration.csv')
+    make_demand_duration('data/csv/datacity/JobPostingsBySpecializedSkill.csv', 'data/csv/datacity/AveragePostingDurationBySpecializedSkill.csv', 'specialised_skill_demand_duration.csv')
 
     # Calcualte the postings hierarchy
     postings_hierarchy = postings_by_soc_code

@@ -1,8 +1,14 @@
 ---
 layout: layouts/default.njk
 datasets:
-  - datacity/jobpostingsbyspecializedskill
+  - datacity/averagepostingdurationbycertificationsskill
+  - datacity/averagepostingdurationbycommonskill
+  - datacity/averagepostingdurationbysoftwareskill
   - datacity/averagepostingdurationbyspecializedskill
+  - datacity/jobpostingsbycertificationsskill
+  - datacity/jobpostingsbycommonskill
+  - datacity/jobpostingsbysoftwareskill
+  - datacity/jobpostingsbyspecializedskill
   - datacity/jobpostingsbysoc4code
 ---
 {% macro jobs_table(jobs, area, total) %}
@@ -32,23 +38,10 @@ datasets:
 
 <h1>Skills demand based on job postings</h1>
 
-<p>Datasets used:</p>
-
-<ul>
-  {% for dataset in datasets %}
-    {% set page = search.page("url=/metadata/" + dataset + "/" ) %}
-    <li>
-      <a href="{{ page.url}}">
-        {{ page.title }} from {{ page.origin }}
-      </a>
-    </li>
-  {% endfor %}
-</ul>
-
 <h2>In-demand skills</h2>
 
 <p>
-  This chart shows the count of postings compared with the average duration of those postings.
+  These charts show the count of postings compared with the average duration of those postings.
   This is a proxy for difficult to fill jobs, either as demand is high, or the skill is niche.
 </p>
 
@@ -56,10 +49,13 @@ datasets:
   Hover over the points to show the geography of the point and the actual numbers.
 </p>
 
+{% comp 'dashboard.grid' %}
+
 <div data-dependencies="/assets/js/scatter-popup.js">
+<h3>Specialised Skill Demand</h3>
 {{ comp.plot.scatter({
   config: {
-    data: skills_demand_duration.rows,
+    data: specialised_skill_demand_duration.rows,
     x: 'duration',
     y: 'count',
     margin: { left: 70 },
@@ -78,14 +74,84 @@ datasets:
 }) | safe }}
 </div>
 
+<div data-dependencies="/assets/js/scatter-popup.js">
+<h3>Certification Skill Demand</h3>
+{{ comp.plot.scatter({
+  config: {
+    data: certifications_skill_demand_duration.rows,
+    x: 'duration',
+    y: 'count',
+    margin: { left: 70 },
+    radius: 4,
+    nameMapper: mapper.demand.name.postingsDemandDuration,
+    axis: {
+      x: {
+        title: 'Average duration of job posting'
+      },
+      y: {
+        title: 'Count of job posting',
+        padding: 50
+      }
+    }
+  }
+}) | safe }}
+</div>
+
+<div data-dependencies="/assets/js/scatter-popup.js">
+<h3>Software Skill Demand</h3>
+{{ comp.plot.scatter({
+  config: {
+    data: software_skill_demand_duration.rows,
+    x: 'duration',
+    y: 'count',
+    margin: { left: 70 },
+    radius: 4,
+    nameMapper: mapper.demand.name.postingsDemandDuration,
+    axis: {
+      x: {
+        title: 'Average duration of job posting'
+      },
+      y: {
+        title: 'Count of job posting',
+        padding: 50
+      }
+    }
+  }
+}) | safe }}
+</div>
+
+<div data-dependencies="/assets/js/scatter-popup.js">
+<h3>Common Skill Demand</h3>
+{{ comp.plot.scatter({
+  config: {
+    data: common_skill_demand_duration.rows,
+    x: 'duration',
+    y: 'count',
+    margin: { left: 70 },
+    radius: 4,
+    nameMapper: mapper.demand.name.postingsDemandDuration,
+    axis: {
+      x: {
+        title: 'Average duration of job posting'
+      },
+      y: {
+        title: 'Count of job posting',
+        padding: 50
+      }
+    }
+  }
+}) | safe }}
+</div>
+{% endcomp %}
+
 <h2>Postings (all Local Authorities)</h2>
 
 {{ comp.oi.hierarchy.treemap({
   config: {
     data: postings.rows,
     grouping: ['major_title', 'sub_major_title', 'minor_title', 'unit_title'],
-    width: 1200,
-    height: 900,
+    width: 900,
+    height: 700,
     name: 'unit_title',
     description: mapper.treemap.soc4Demand.tooltip,
     colour: mapper.treemap.soc4Demand.colour,
@@ -104,3 +170,5 @@ datasets:
   <h2>Top {{ jobs | length }} job postings by SOC4 sub-major code in {{ area }}</h2>
   {{ jobs_table(jobs, area, postings_summary[area]) }}
 {%- endfor -%}
+
+{{ comp.datasets({ datasets: datasets }) | safe }}
