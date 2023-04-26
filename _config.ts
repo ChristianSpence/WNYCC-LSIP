@@ -53,6 +53,13 @@ site.loadData([".hexjson"], jsonLoader);
 
 site.remoteFile("assets/oi/js/chart.js", "patch/chart.js");
 
+// Add oi logging JS
+site.remoteFile(
+  '/assets/oi/js/oi.log.js',
+  'https://open-innovations.org/resources/oi.log.js'
+);
+site.copy('/assets/oi/js/oi.log.js');
+
 site.filter("value_mapper", (data, config) => {
   const { key, mapper } = config;
   return data.map((v) => ({ ...v, [key]: mapper[v[key]] || v[key] }));
