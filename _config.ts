@@ -51,8 +51,6 @@ site.loadData([".hexjson"], jsonLoader);
 //   "https://unpkg.com/modern-css-reset/dist/reset.css",
 // );
 
-site.remoteFile("assets/oi/js/chart.js", "patch/chart.js");
-
 // Add oi logging JS
 site.remoteFile(
   '/assets/oi/js/oi.log.js',
