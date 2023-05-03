@@ -4,6 +4,10 @@ library(httr)
 
 source('R/datacityAPIkey.R')
 
+
+# Single call for all LAs summed. Don't use -------------------------------
+
+
 datacity <- httr::POST(
   url = datacityURL,
   add_headers(Authorization = paste("Bearer", datacityAPIkey)),
@@ -48,6 +52,9 @@ dfs <- content_dfs[isdf]
 for (i in seq_along(dfs)) {
   readr::write_csv(dfs[[i]], paste0("data/csv/datacity/", names(dfs)[i], ".csv"))
 }
+
+# Use this section --------------------------------------------------------
+
 
 
 # multiple calls, one per LA
@@ -120,7 +127,7 @@ for (table in names(grouped[[1]])) {
   for (area in names(grouped)) {
     out[[table]] <- dplyr::bind_rows(out[[table]], grouped[[area]][[table]])
     }
-  out[[table]] <- dplyr::bind_rows(out[[table]], grouped[[area]][[table]])
+  out[[table]]  # <- dplyr::bind_rows(out[[table]], grouped[[area]][[table]])
   }
 
 
