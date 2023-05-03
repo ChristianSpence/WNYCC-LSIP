@@ -1,10 +1,10 @@
 LA,Thing,Count
-Bradford,Business and financial project management professionals,62496.3043478261
+Bradford,Business and financial project management professionals,63064.3181818182
 Bradford,Electricians and electrical fitters,43277.4347826087
 Bradford,Carpenters and joiners,41371.6
-Bradford,Managers and proprietors in other services n.e.c.,39284.9583333333
+Bradford,Managers and proprietors in other services n.e.c.,39493
+Bradford,Financial managers and directors,38871.4545454545
 Bradford,Programmers and software development professionals,38449.4242424242
-Bradford,Financial managers and directors,38132.1666666667
 Bradford,Finance and investment analysts and advisers,37613.3636363636
 Bradford,Sales accounts and business development managers,36569
 Bradford,"IT business analysts, architects and systems designers",36399.6363636364
@@ -19,7 +19,6 @@ Bradford,Metal working machine operatives,30985.3571428571
 Bradford,Teaching and other educational professionals n.e.c.,30733
 Bradford,Web design and development professionals,30644.6666666667
 Bradford,Marketing and sales directors,30427.71875
-Bradford,Teaching assistants,29737.25
 Bradford,Mechanical engineers,29040.5555555556
 Bradford,Sales supervisors,28600.5
 Bradford,Elementary process plant occupations n.e.c.,28080.44
@@ -45,163 +44,158 @@ Bradford,Elementary construction occupations,21552.8125
 Bradford,Other administrative occupations n.e.c.,21497.8867924528
 Bradford,Nursery nurses and assistants,21446.3
 Bradford,Production and process engineers,21360.5714285714
-Bradford,Human resources and industrial relations officers,21098.6571428571
-Bradford,Care workers and home carers,21035.0571428571
+Bradford,Care workers and home carers,21086.3055555556
+Bradford,Human resources and industrial relations officers,20983.9117647059
 Bradford,Cleaners and domestics,20726.75
 Bradford,"Book-keepers, payroll managers and wages clerks",20677.5833333333
 Bradford,Sales and retail assistants,20525.5517241379
 Bradford,Financial administrative occupations n.e.c.,20514.0833333333
 Bradford,"Packers, bottlers, canners and fillers",20238
-Bradford,Customer service occupations n.e.c.,19756.825
+Bradford,Customer service occupations n.e.c.,19732.2682926829
 Bradford,Elementary storage occupations,19582.8421052632
 Bradford,Kitchen and catering assistants,19393.2222222222
-Bradford,Elementary administration occupations n.e.c.,18443.9375
+Bradford,Elementary administration occupations n.e.c.,18393.7419354839
 Calderdale,"Science, engineering and production technicians n.e.c.",40525.1666666667
 Calderdale,Marketing and sales directors,33674.6
 Calderdale,Engineering technicians,29115.9333333333
-Calderdale,Sales related occupations n.e.c.,26319.92
+Calderdale,Sales related occupations n.e.c.,25822.8333333333
 Calderdale,Customer service occupations n.e.c.,23924.8571428571
 Calderdale,Other administrative occupations n.e.c.,19403.3157894737
-Harrogate,Programmers and software development professionals,44870.4615384615
-Harrogate,Marketing and sales directors,37838.52
+Harrogate,Marketing and sales directors,38787.0384615385
 Harrogate,Engineering technicians,29813.1875
-Harrogate,Sales related occupations n.e.c.,27976.5517241379
-Harrogate,Human resources and industrial relations officers,25443.4166666667
+Harrogate,Sales related occupations n.e.c.,26297.1428571429
+Harrogate,Human resources and industrial relations officers,25409.3076923077
 Harrogate,Marketing associate professionals,24440.4516129032
 Harrogate,"Book-keepers, payroll managers and wages clerks",22789.7894736842
 Harrogate,Care workers and home carers,22458.6666666667
 Harrogate,Customer service occupations n.e.c.,21941.2307692308
-Harrogate,Other administrative occupations n.e.c.,21275.9393939394
-Kirklees,Financial managers and directors,51320.0625
-Kirklees,Information technology and telecommunications professionals n.e.c.,44956.8421052632
-Kirklees,Sales accounts and business development managers,44931.15
-Kirklees,"IT business analysts, architects and systems designers",43505.6875
-Kirklees,Managers and proprietors in other services n.e.c.,43470.7142857143
-Kirklees,Engineering professionals n.e.c.,41604.5714285714
-Kirklees,Programmers and software development professionals,39465.1875
-Kirklees,Marketing and sales directors,39209.3157894737
-Kirklees,IT operations technicians,37628.65
-Kirklees,Metal working production and maintenance fitters,36195.9285714286
+Harrogate,Other administrative occupations n.e.c.,21290.8125
+Kirklees,Financial managers and directors,50351.3125
+Kirklees,Managers and proprietors in other services n.e.c.,44314.6153846154
+Kirklees,Information technology and telecommunications professionals n.e.c.,43809
+Kirklees,"IT business analysts, architects and systems designers",43572.7333333333
+Kirklees,Engineering professionals n.e.c.,42072.3
+Kirklees,Programmers and software development professionals,40611.8064516129
+Kirklees,Marketing and sales directors,39755.6666666667
+Kirklees,Production managers and directors in manufacturing,35484.1304347826
 Kirklees,Chartered and certified accountants,34674.4444444444
-Kirklees,Production managers and directors in manufacturing,34610.2
+Kirklees,Business sales executives,33197.8666666667
 Kirklees,Electricians and electrical fitters,32397.2666666667
-Kirklees,Web design and development professionals,31879.45
-Kirklees,Engineering technicians,31727.3703703704
-Kirklees,Business sales executives,31424.5882352941
+Kirklees,Engineering technicians,31831
+Kirklees,Web design and development professionals,31715.2105263158
 Kirklees,"Vehicle technicians, mechanics and electricians",28159.16
-Kirklees,Buyers and procurement officers,27465.380952381
-Kirklees,Human resources and industrial relations officers,25800.375
-Kirklees,Sales related occupations n.e.c.,25034.0909090909
-Kirklees,Marketing associate professionals,23401.1290322581
-Kirklees,"Book-keepers, payroll managers and wages clerks",22597.1428571429
+Kirklees,Buyers and procurement officers,27430.65
+Kirklees,Human resources and industrial relations officers,26032.2272727273
+Kirklees,Sales related occupations n.e.c.,24866.6226415094
+Kirklees,Marketing associate professionals,23456.9310344828
+Kirklees,"Book-keepers, payroll managers and wages clerks",22673.5294117647
+Kirklees,"Science, engineering and production technicians n.e.c.",22418.08
 Kirklees,IT user support technicians,22379.5909090909
-Kirklees,"Science, engineering and production technicians n.e.c.",22299.2307692308
-Kirklees,Van drivers,21835.1739130435
-Kirklees,Customer service occupations n.e.c.,21582.6363636364
-Kirklees,Elementary storage occupations,20941
-Kirklees,Other administrative occupations n.e.c.,20651.6382978723
-Kirklees,Cleaners and domestics,19332.8095238095
-Kirklees,Receptionists,18767.4545454545
-Leeds,Information technology and telecommunications directors,56793.5
-Leeds,Construction project managers and related professionals,56545.6666666667
-Leeds,Chief executives and senior officials,56469.380952381
+Kirklees,Van drivers,21931.6818181818
+Kirklees,Customer service occupations n.e.c.,21616.6129032258
+Kirklees,Elementary storage occupations,20964.75
+Kirklees,Other administrative occupations n.e.c.,20590.2558139535
+Kirklees,Receptionists,18830.4
+Leeds,Chief executives and senior officials,57972.0434782609
+Leeds,Construction project managers and related professionals,56344.0188679245
+Leeds,Information technology and telecommunications directors,56337.6666666667
+Leeds,Architects,55662.85
 Leeds,Psychologists,54478.4482758621
-Leeds,Architects,53863.2105263158
-Leeds,"Residential, day and domiciliary  care managers and proprietors",52137.5434782609
-Leeds,Financial managers and directors,51244.96
-Leeds,"IT business analysts, architects and systems designers",50756.84375
+Leeds,"Residential, day and domiciliary  care managers and proprietors",52198.4468085106
+Leeds,Financial managers and directors,51619.4805194805
+Leeds,"IT business analysts, architects and systems designers",50330.0303030303
 Leeds,Managers and directors in transport and distribution,49663.8095238095
-Leeds,Production managers and directors in construction,49000.2727272727
-Leeds,Research and development managers,48768.8
-Leeds,Quantity surveyors,48482.1935483871
-Leeds,Sales accounts and business development managers,48257.7166666667
-Leeds,Financial accounts managers,47276
-Leeds,Marketing and sales directors,47096.2529411765
-Leeds,"Business, research and administrative professionals n.e.c.",46557.7619047619
-Leeds,Production and process engineers,46555.2307692308
-Leeds,IT project and programme managers,46370.9661016949
-Leeds,Managers and directors in storage and warehousing,46205.1111111111
-Leeds,Senior professionals of educational establishments,46186.8148148148
-Leeds,Business and financial project management professionals,46113.1529411765
-Leeds,Production managers and directors in manufacturing,45707.4202898551
-Leeds,Purchasing managers and directors,45678.56
-Leeds,Management consultants and business analysts,45675.6338028169
-Leeds,Quality control and planning engineers,44589.8157894737
-Leeds,Health services and public health managers and directors,44041.0967741935
-Leeds,Programmers and software development professionals,43252.9904761905
-Leeds,Solicitors,43044.7391304348
-Leeds,Managers and proprietors in other services n.e.c.,42706.5928143713
-Leeds,Information technology and telecommunications professionals n.e.c.,42619.25
+Leeds,Production managers and directors in construction,48633.6
+Leeds,Sales accounts and business development managers,47890.9365079365
+Leeds,Quantity surveyors,47595.0967741935
+Leeds,Research and development managers,47307.3333333333
+Leeds,Marketing and sales directors,46926.4593023256
+Leeds,"Business, research and administrative professionals n.e.c.",46535.6956521739
+Leeds,IT project and programme managers,46514.606557377
+Leeds,Managers and directors in storage and warehousing,46466.8275862069
+Leeds,Business and financial project management professionals,46012.3448275862
+Leeds,Production and process engineers,45979.8571428571
+Leeds,Quality control and planning engineers,45774.075
+Leeds,Production managers and directors in manufacturing,45654.2777777778
+Leeds,Purchasing managers and directors,45553.6923076923
+Leeds,Management consultants and business analysts,45548.1917808219
+Leeds,Financial accounts managers,45336.8695652174
+Leeds,Health services and public health managers and directors,44645.935483871
+Leeds,Senior professionals of educational establishments,44621.1724137931
+Leeds,Programmers and software development professionals,43170.2222222222
+Leeds,Solicitors,42893.32
+Leeds,Information technology and telecommunications professionals n.e.c.,42888.8070175439
+Leeds,Managers and proprietors in other services n.e.c.,42839.1588235294
 Leeds,Draughtspersons,42496.275
-Leeds,Civil engineers,42366.4285714286
+Leeds,Civil engineers,42200.4090909091
+Leeds,Human resource managers and directors,42182.6829268293
 Leeds,Chartered surveyors,42096.6315789474
-Leeds,"Estimators, valuers and assessors",41680.4042553191
-Leeds,Human resource managers and directors,41460.9743589744
-Leeds,"Arts officers, producers and directors",40668.6
-Leeds,Finance and investment analysts and advisers,40524.1224489796
-Leeds,Business and related research professionals,40330
-Leeds,Health and safety officers,39925.6511627907
-Leeds,Office supervisors,39902.9
+Leeds,"Estimators, valuers and assessors",41384.9791666667
+Leeds,"Arts officers, producers and directors",40983.6363636364
+Leeds,Finance and investment analysts and advisers,40551.2549019608
+Leeds,Functional managers and directors n.e.c.,40194.612244898
+Leeds,Health and safety officers,39929.0444444444
+Leeds,Nurses,39735.6486486486
 Leeds,Construction and building trades supervisors,39734.3333333333
-Leeds,Nurses,39699.0666666667
+Leeds,Business and related research professionals,39700.5555555556
+Leeds,Office supervisors,39694.7619047619
 Leeds,Biological scientists and biochemists,39387.8076923077
-Leeds,Electrical engineers,39163.1666666667
-Leeds,Functional managers and directors n.e.c.,39159.914893617
-Leeds,Mechanical engineers,39002.7450980392
+Leeds,Electrical engineers,39118.6279069767
 Leeds,Higher education teaching professionals,38847
 Leeds,"Journalists, newspaper and periodical editors",38836.1363636364
-Leeds,Design and development engineers,38654.5833333333
-Leeds,Advertising and public relations directors,38004.3
-Leeds,"Property, housing and estate managers",37050.7666666667
-Leeds,Engineering professionals n.e.c.,37007.6538461538
-Leeds,Quality assurance and regulatory professionals,36611.5185185185
-Leeds,Telecommunications engineers,36395.1538461538
+Leeds,Mechanical engineers,38756.4528301887
+Leeds,Design and development engineers,38485.1081081081
+Leeds,Advertising and public relations directors,37576.78125
+Leeds,Engineering professionals n.e.c.,36961.9382716049
+Leeds,"Property, housing and estate managers",36940.9673913043
+Leeds,Telecommunications engineers,36657.2142857143
+Leeds,Quality assurance and regulatory professionals,36529.1204819277
 Leeds,Plumbers and heating and ventilating engineers,36167.4054054054
-Leeds,Business sales executives,35889.7916666667
+Leeds,Business sales executives,35836.5540540541
 Leeds,Construction operatives n.e.c.,35648.8
-Leeds,Electricians and electrical fitters,35486.4210526316
-Leeds,Transport and distribution clerks and assistants,35410.9166666667
+Leeds,Web design and development professionals,35553.5490196078
 Leeds,"Planning, process and production technicians",35389.425
-Leeds,Customer service managers and supervisors,35276.7826086957
-Leeds,Web design and development professionals,35263.66
+Leeds,Customer service managers and supervisors,35352.1408450704
+Leeds,Electricians and electrical fitters,35269.8461538462
 Leeds,Secondary education teaching professionals,35107.625
+Leeds,Transport and distribution clerks and assistants,34703
 Leeds,Plant and machine operatives n.e.c.,34677.4473684211
-Leeds,Buyers and procurement officers,34259.9137931034
-Leeds,Primary and nursery education teaching professionals,34144.25
-Leeds,Business and related associate professionals n.e.c.,33574.6851851852
-Leeds,Quality assurance technicians,33513.0677966102
-Leeds,"Authors, writers and translators",33322.21875
-Leeds,Carpenters and joiners,33318.1111111111
-Leeds,Hotel and accommodation managers and proprietors,33237.3333333333
-Leeds,Legal associate professionals,33027.7692307692
-Leeds,Artists,32775
-Leeds,Social workers,32495
-Leeds,Bank and post office clerks,32269.7619047619
-Leeds,Sales supervisors,32250.8269230769
-Leeds,Stock control clerks and assistants,32172.4333333333
+Leeds,Buyers and procurement officers,34156.85
+Leeds,Primary and nursery education teaching professionals,34065.9523809524
+Leeds,Quality assurance technicians,33791.262295082
+Leeds,Business and related associate professionals n.e.c.,33501.7321428571
+Leeds,"Authors, writers and translators",33274.5588235294
+Leeds,Carpenters and joiners,33228.2702702703
+Leeds,Hotel and accommodation managers and proprietors,32866.9090909091
+Leeds,Legal associate professionals,32563.7777777778
+Leeds,Social workers,32344.8333333333
+Leeds,Sales supervisors,32334.1296296296
+Leeds,Artists,32283.9444444444
 Leeds,Health professionals n.e.c.,32121.32
-Leeds,Electrical and electronic trades n.e.c.,31780.1627906977
+Leeds,Stock control clerks and assistants,32083.15625
+Leeds,Bank and post office clerks,32007.5
+Leeds,Electrical and electronic trades n.e.c.,31619.2666666667
+Leeds,Metal working production and maintenance fitters,31565.86
 Leeds,Restaurant and catering establishment managers and proprietors,31469.8666666667
-Leeds,Metal working production and maintenance fitters,31318.6041666667
+Leeds,Records clerks and assistants,31180.0909090909
+Leeds,Chartered and certified accountants,31093.3827160494
+Leeds,Office managers,31049.7941176471
 Leeds,Security guards and related occupations,31047
-Leeds,Chartered and certified accountants,30931.0886075949
 Leeds,Construction and building trades n.e.c.,30858.9
-Leeds,Records clerks and assistants,30757.0476190476
-Leeds,Office managers,30721.8805970149
-Leeds,Metal working machine operatives,30610.0285714286
+Leeds,IT operations technicians,30583.7586206897
+Leeds,Metal working machine operatives,30509.75
+Leeds,Teaching and other educational professionals n.e.c.,30508.4647887324
 Leeds,"Vehicle technicians, mechanics and electricians",30457.6923076923
-Leeds,IT operations technicians,30402.8588235294
-Leeds,Teaching and other educational professionals n.e.c.,30230.0142857143
-Leeds,Public relations professionals,30101.6296296296
-Leeds,Other skilled trades n.e.c.,29982.724137931
-Leeds,Chefs,29797.7555555556
-Leeds,"Science, engineering and production technicians n.e.c.",29696.5443037975
-Leeds,Large goods vehicle drivers,29258.2857142857
-Leeds,Sales related occupations n.e.c.,28881.7541899441
+Leeds,Chefs,30345.6304347826
+Leeds,"Science, engineering and production technicians n.e.c.",30109.962962963
+Leeds,Public relations professionals,29972
+Leeds,Other skilled trades n.e.c.,29849.9666666667
+Leeds,Large goods vehicle drivers,29295.3142857143
+Leeds,Sales related occupations n.e.c.,28953.4285714286
 Leeds,Painters and decorators,28751
 Leeds,Vehicle body builders and repairers,28687.0625
-Leeds,"Sports coaches, instructors and officials",28672.7333333333
-Leeds,Engineering technicians,28138.4102564103
+Leeds,"Sports coaches, instructors and officials",28554.2580645161
+Leeds,Cleaning and housekeeping managers and supervisors,28466.7272727273
 Wakefield,Business and financial project management professionals,44432.1666666667
 Wakefield,Marketing and sales directors,44173.5
 Wakefield,Financial managers and directors,42597
@@ -222,10 +216,10 @@ Wakefield,Elementary construction occupations,22593
 Wakefield,"Book-keepers, payroll managers and wages clerks",22145.2727272727
 Wakefield,Human resources and industrial relations officers,22065.6129032258
 Wakefield,Customer service occupations n.e.c.,21784.2222222222
-Wakefield,Care workers and home carers,21203.03125
-Wakefield,IT user support technicians,21155.4782608696
+Wakefield,Care workers and home carers,21238.7419354839
+Wakefield,IT user support technicians,21208
 Wakefield,Other administrative occupations n.e.c.,20737.3898305085
-Wakefield,Welfare and housing associate professionals n.e.c.,20527.5384615385
+Wakefield,Welfare and housing associate professionals n.e.c.,20541.6
 Wakefield,Elementary administration occupations n.e.c.,20152.5185185185
 Wakefield,Elementary storage occupations,20107.8
 Wakefield,Receptionists,18581.6
@@ -236,20 +230,7 @@ York,Programmers and software development professionals,37625.8571428571
 York,"IT business analysts, architects and systems designers",37132.3157894737
 York,Human resources and industrial relations officers,29241.35
 York,Marketing associate professionals,29076.9166666667
-York,IT operations technicians,28171.2
-York,Sales related occupations n.e.c.,27721.7741935484
-York,Customer service occupations n.e.c.,26710.8823529412
-York,"Book-keepers, payroll managers and wages clerks",24759.5238095238
-York,Other administrative occupations n.e.c.,22445.4210526316
-York,Receptionists,18411.2083333333
-York,Managers and proprietors in other services n.e.c.,47173.1666666667
-York,Marketing and sales directors,45544
-York,Veterinarians,42378.7
-York,Programmers and software development professionals,37625.8571428571
-York,"IT business analysts, architects and systems designers",37132.3157894737
-York,Human resources and industrial relations officers,29241.35
-York,Marketing associate professionals,29076.9166666667
-York,IT operations technicians,28171.2
+York,IT operations technicians,28623.1578947368
 York,Sales related occupations n.e.c.,27721.7741935484
 York,Customer service occupations n.e.c.,26710.8823529412
 York,"Book-keepers, payroll managers and wages clerks",24759.5238095238

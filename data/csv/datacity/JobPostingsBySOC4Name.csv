@@ -1,14 +1,14 @@
 LA,Thing,Count
 Bradford,Nursing auxiliaries and assistants,30129
-Bradford,Elementary storage occupations,27237
-Bradford,Care workers and home carers,14459
+Bradford,Elementary storage occupations,27238
+Bradford,Care workers and home carers,14460
 Bradford,Programmers and software development professionals,7492
 Bradford,Large goods vehicle drivers,7450
 Bradford,Managers and directors in retail and wholesale,7024
 Bradford,Sales and retail assistants,6994
 Bradford,Sales related occupations n.e.c.,3958
 Bradford,Van drivers,3660
-Bradford,Managers and proprietors in other services n.e.c.,2622
+Bradford,Managers and proprietors in other services n.e.c.,2618
 Bradford,Elementary construction occupations,2614
 Bradford,Other administrative occupations n.e.c.,2145
 Bradford,Web design and development professionals,2046
@@ -19,36 +19,36 @@ Bradford,Quality control and planning engineers,1505
 Bradford,Marketing associate professionals,1452
 Bradford,Management consultants and business analysts,1303
 Bradford,Buyers and procurement officers,1301
-Bradford,Business and financial project management professionals,1283
-Bradford,Human resources and industrial relations officers,1250
+Bradford,Business and financial project management professionals,1268
 Bradford,Information technology and telecommunications professionals n.e.c.,1249
+Bradford,Human resources and industrial relations officers,1244
 Bradford,Finance and investment analysts and advisers,1161
 Bradford,"Authors, writers and translators",1072
-Bradford,Sales accounts and business development managers,1031
 Bradford,IT operations technicians,1031
+Bradford,Sales accounts and business development managers,1031
 Bradford,"IT business analysts, architects and systems designers",981
 Bradford,Call and contact centre occupations,935
 Bradford,"Book-keepers, payroll managers and wages clerks",922
 Bradford,Cleaners and domestics,851
-Bradford,Construction and building trades n.e.c.,760
+Bradford,Construction and building trades n.e.c.,756
 Bradford,Painters and decorators,715
-Bradford,Engineering technicians,698
+Bradford,Engineering technicians,696
 Bradford,Production managers and directors in construction,686
 Bradford,Chartered surveyors,663
 Bradford,Metal working machine operatives,645
 Bradford,"Planning, process and production technicians",634
 Bradford,Inspectors of standards and regulations,624
 Bradford,Estate agents and auctioneers,588
-Bradford,"Science, engineering and production technicians n.e.c.",585
-Bradford,Engineering professionals n.e.c.,573
+Bradford,"Science, engineering and production technicians n.e.c.",583
+Bradford,Engineering professionals n.e.c.,572
 Bradford,Teaching and other educational professionals n.e.c.,562
-Bradford,Customer service occupations n.e.c.,557
+Bradford,Customer service occupations n.e.c.,558
 Bradford,"Business, research and administrative professionals n.e.c.",555
 Bradford,Production managers and directors in manufacturing,548
 Bradford,IT user support technicians,544
 Bradford,Fork-lift truck drivers,539
 Bradford,Construction project managers and related professionals,520
-Bradford,Chartered and certified accountants,517
+Bradford,Chartered and certified accountants,513
 Bradford,Mechanical engineers,509
 Bradford,Transport and distribution clerks and assistants,504
 Bradford,Health professionals n.e.c.,498
@@ -56,7 +56,7 @@ Bradford,Purchasing managers and directors,458
 Bradford,Carpenters and joiners,454
 Bradford,IT project and programme managers,442
 Bradford,Business sales executives,427
-Bradford,Financial managers and directors,420
+Bradford,Financial managers and directors,413
 Bradford,Design and development engineers,411
 Bradford,Vocational and industrial trainers and instructors,396
 Bradford,Welding trades,388
@@ -76,54 +76,51 @@ Bradford,Social workers,326
 Bradford,"Textiles, garments and related trades n.e.c.",307
 Bradford,Health and safety officers,298
 Bradford,Credit controllers,292
-Bradford,Managers and directors in storage and warehousing,282
 Bradford,Sales administrators,282
+Bradford,Managers and directors in storage and warehousing,282
 Bradford,Public relations professionals,274
 Bradford,Customer service managers and supervisors,273
 Bradford,Stock control clerks and assistants,263
 Bradford,Medical radiographers,260
-Bradford,Plant and machine operatives n.e.c.,244
 Bradford,Elementary process plant occupations n.e.c.,244
-Bradford,Production and process engineers,240
+Bradford,Plant and machine operatives n.e.c.,243
+Bradford,Production and process engineers,238
 Bradford,Bricklayers and masons,223
-Bradford,Metal working production and maintenance fitters,219
+Bradford,Metal working production and maintenance fitters,218
 Bradford,Quality assurance and regulatory professionals,216
-Bradford,Civil engineers,214
 Bradford,Plasterers,213
 Bradford,Managers and directors in transport and distribution,213
 Bradford,Pharmacy and other dispensing assistants,206
 Bradford,Security guards and related occupations,197
+Bradford,Civil engineers,197
 Bradford,Health associate professionals n.e.c.,196
 Bradford,Personal assistants and other secretaries,179
 Bradford,Business and related research professionals,176
 Bradford,Other drivers and transport operatives n.e.c.,174
 Bradford,"Estimators, valuers and assessors",171
-Bradford,Elementary administration occupations n.e.c.,168
-Calderdale,Nurses,696
-Calderdale,Dental nurses,486
-Calderdale,Cleaners and domestics,393
+Bradford,Chefs,167
+Calderdale,Cleaners and domestics,392
 Calderdale,"IT business analysts, architects and systems designers",378
 Calderdale,Programmers and software development professionals,365
-Calderdale,Sales related occupations n.e.c.,289
+Calderdale,Sales related occupations n.e.c.,286
 Calderdale,Management consultants and business analysts,279
 Calderdale,Secondary education teaching professionals,268
 Calderdale,Other administrative occupations n.e.c.,265
-Calderdale,Care workers and home carers,264
 Calderdale,Marketing and sales directors,258
 Calderdale,Human resources and industrial relations officers,247
-Calderdale,IT user support technicians,228
+Calderdale,Nurses,239
+Calderdale,IT user support technicians,226
 Calderdale,Information technology and telecommunications professionals n.e.c.,206
 Calderdale,Customer service occupations n.e.c.,190
-Calderdale,Chefs,176
+Calderdale,Chefs,179
 Calderdale,IT operations technicians,173
 Calderdale,Chartered and certified accountants,157
-Calderdale,Dental practitioners,150
 Calderdale,Marketing associate professionals,148
 Calderdale,Elementary storage occupations,145
 Calderdale,Web design and development professionals,143
 Calderdale,"Arts officers, producers and directors",139
 Calderdale,Large goods vehicle drivers,138
-Calderdale,Managers and proprietors in other services n.e.c.,136
+Calderdale,Managers and proprietors in other services n.e.c.,132
 Calderdale,IT project and programme managers,129
 Calderdale,Engineering professionals n.e.c.,118
 Calderdale,"Book-keepers, payroll managers and wages clerks",117
@@ -131,12 +128,12 @@ Calderdale,"Science, engineering and production technicians n.e.c.",116
 Calderdale,Financial managers and directors,115
 Calderdale,Finance and investment analysts and advisers,113
 Calderdale,Van drivers,111
+Calderdale,Care workers and home carers,104
 Calderdale,Quality control and planning engineers,102
 Calderdale,Business and related associate professionals n.e.c.,88
 Calderdale,Engineering technicians,85
+Calderdale,Senior professionals of educational establishments,74
 Calderdale,Mechanical engineers,72
-Calderdale,Receptionists,72
-Calderdale,Senior professionals of educational establishments,70
 Calderdale,Business sales executives,68
 Calderdale,"Business, research and administrative professionals n.e.c.",64
 Calderdale,"Authors, writers and translators",63
@@ -148,57 +145,60 @@ Calderdale,Business and financial project management professionals,56
 Calderdale,Transport and distribution clerks and assistants,55
 Calderdale,Electrical engineers,55
 Calderdale,Carpenters and joiners,54
-Calderdale,"Property, housing and estate managers",49
 Calderdale,Public relations professionals,47
 Calderdale,Stock control clerks and assistants,45
 Calderdale,Metal working machine operatives,44
-Calderdale,Human resource managers and directors,43
-Calderdale,Health care practice managers,43
+Calderdale,Human resource managers and directors,44
 Calderdale,Metal machining setters and setter-operators,43
 Calderdale,Brokers,41
-Calderdale,Quality assurance and regulatory professionals,40
+Calderdale,"Property, housing and estate managers",40
 Calderdale,Sales and retail assistants,40
+Calderdale,Quality assurance and regulatory professionals,40
 Calderdale,Electrical and electronic trades n.e.c.,36
 Calderdale,Company secretaries,34
 Calderdale,"Journalists, newspaper and periodical editors",34
 Calderdale,Teaching and other educational professionals n.e.c.,33
-Calderdale,Sales supervisors,33
 Calderdale,Teaching assistants,32
-Calderdale,Metal working production and maintenance fitters,32
 Calderdale,Legal associate professionals,32
+Calderdale,Metal working production and maintenance fitters,32
 Calderdale,Information technology and telecommunications directors,32
 Calderdale,Electricians and electrical fitters,31
-Calderdale,Health professionals n.e.c.,30
 Calderdale,Design and development engineers,30
 Calderdale,Construction project managers and related professionals,30
 Calderdale,"Packers, bottlers, canners and fillers",30
+Calderdale,Health professionals n.e.c.,29
 Calderdale,Office managers,29
 Calderdale,Functional managers and directors n.e.c.,28
-Calderdale,Welding trades,27
+Calderdale,Nursery nurses and assistants,28
 Calderdale,Advertising and public relations directors,27
+Calderdale,Welding trades,27
 Calderdale,Estate agents and auctioneers,27
 Calderdale,Taxation experts,27
 Calderdale,Civil engineers,26
 Calderdale,"Vehicle technicians, mechanics and electricians",25
-Calderdale,Nursery nurses and assistants,25
 Calderdale,Kitchen and catering assistants,25
-Calderdale,Production managers and directors in construction,25
-Calderdale,Customer service managers and supervisors,24
-Calderdale,Chemical scientists,23
-Calderdale,Medical and dental technicians,23
+Calderdale,Primary and nursery education teaching professionals,25
+Calderdale,Sales supervisors,24
+Calderdale,Production managers and directors in construction,24
 Calderdale,Personal assistants and other secretaries,23
+Calderdale,Chemical scientists,23
 Calderdale,Metal making and treating process operatives,23
+Calderdale,Customer service managers and supervisors,22
 Calderdale,"Estimators, valuers and assessors",21
 Calderdale,Elementary construction occupations,21
 Calderdale,Merchandisers and window dressers,21
-Calderdale,Draughtspersons,20
-Calderdale,Primary and nursery education teaching professionals,20
-Calderdale,Higher education teaching professionals,20
 Calderdale,Painters and decorators,20
-Calderdale,"Photographers, audio-visual and broadcasting equipment operators",20
 Calderdale,Graphic designers,20
+Calderdale,"Photographers, audio-visual and broadcasting equipment operators",20
 Calderdale,Other skilled trades n.e.c.,20
+Calderdale,Draughtspersons,20
+Calderdale,Higher education teaching professionals,20
 Calderdale,Buyers and procurement officers,19
+Calderdale,Financial accounts managers,18
+Calderdale,"Planning, process and production technicians",17
+Calderdale,Welfare and housing associate professionals n.e.c.,17
+Calderdale,Construction and building trades n.e.c.,17
+Calderdale,Telephone salespersons,17
 Craven,Cleaners and domestics,485
 Craven,Quality assurance and regulatory professionals,406
 Craven,Biological scientists and biochemists,308
@@ -214,8 +214,8 @@ Craven,Estate agents and auctioneers,175
 Craven,Laboratory technicians,167
 Craven,Quality control and planning engineers,159
 Craven,Chemical scientists,138
-Craven,Other skilled trades n.e.c.,136
 Craven,Managers and proprietors in other services n.e.c.,136
+Craven,Other skilled trades n.e.c.,136
 Craven,Production managers and directors in manufacturing,135
 Craven,Business sales executives,131
 Craven,Functional managers and directors n.e.c.,129
@@ -237,26 +237,26 @@ Craven,Medical practitioners,73
 Craven,Financial managers and directors,61
 Craven,Chefs,57
 Craven,Nurses,54
-Craven,Caretakers,54
 Craven,Sales accounts and business development managers,54
+Craven,Caretakers,54
 Craven,"Vehicle technicians, mechanics and electricians",53
 Craven,"Journalists, newspaper and periodical editors",52
 Craven,Care workers and home carers,48
-Craven,"IT business analysts, architects and systems designers",47
 Craven,Kitchen and catering assistants,47
+Craven,"IT business analysts, architects and systems designers",47
 Craven,Design and development engineers,45
-Craven,Elementary storage occupations,44
 Craven,Receptionists,44
 Craven,Office managers,44
+Craven,Elementary storage occupations,44
 Craven,Personal assistants and other secretaries,38
 Craven,Elementary administration occupations n.e.c.,37
-Craven,Mechanical engineers,36
 Craven,Managers and directors in storage and warehousing,36
+Craven,Mechanical engineers,36
 Craven,Health services and public health managers and directors,35
-Craven,Metal working machine operatives,34
-Craven,Vocational and industrial trainers and instructors,34
-Craven,Prison service officers (below principal officer),34
 Craven,Draughtspersons,34
+Craven,Vocational and industrial trainers and instructors,34
+Craven,Metal working machine operatives,34
+Craven,Prison service officers (below principal officer),34
 Craven,Engineering professionals n.e.c.,33
 Craven,Civil engineers,33
 Craven,Catering and bar managers,30
@@ -268,40 +268,40 @@ Craven,Solicitors,28
 Craven,Sales and retail assistants,26
 Craven,Financial administrative occupations n.e.c.,25
 Craven,Inspectors of standards and regulations,25
-Craven,Information technology and telecommunications directors,24
-Craven,Research and development managers,24
 Craven,IT project and programme managers,24
+Craven,Research and development managers,24
+Craven,Information technology and telecommunications directors,24
 Craven,Finance and investment analysts and advisers,23
 Craven,Nursery nurses and assistants,23
 Craven,Large goods vehicle drivers,21
 Craven,"Business, research and administrative professionals n.e.c.",20
-Craven,"Planning, process and production technicians",19
 Craven,Web design and development professionals,19
 Craven,Cleaning and housekeeping managers and supervisors,19
+Craven,"Planning, process and production technicians",19
 Craven,Police officers (sergeant and below),19
 Craven,Conservation professionals,19
-Craven,Metal machining setters and setter-operators,18
 Craven,Vehicle valeters and cleaners,18
-Craven,"Tool makers, tool fitters and markers-out",17
-Craven,Library clerks and assistants,17
+Craven,Metal machining setters and setter-operators,18
 Craven,Construction project managers and related professionals,17
 Craven,Telephonists,17
 Craven,"Residential, day and domiciliary  care managers and proprietors",17
-Craven,Sales administrators,16
+Craven,Library clerks and assistants,17
+Craven,"Tool makers, tool fitters and markers-out",17
 Craven,Waiters and waitresses,16
 Craven,Health and safety officers,16
+Craven,Sales administrators,16
 Craven,Architects,16
-Craven,Records clerks and assistants,15
 Craven,Plant and machine operatives n.e.c.,15
 Craven,Medical and dental technicians,15
+Craven,Records clerks and assistants,15
 Craven,Construction and building trades n.e.c.,14
 Craven,Electrical and electronics technicians,14
-Craven,Telephone salespersons,12
-Craven,Bar staff,12
 Craven,Human resource managers and directors,12
+Craven,Bar staff,12
+Craven,Housekeepers and related occupations,12
 Hambleton,"Science, engineering and production technicians n.e.c.",205
 Hambleton,Elementary construction occupations,160
-Hambleton,Welding trades,128
+Hambleton,Welding trades,125
 Hambleton,Metal working machine operatives,119
 Hambleton,Elementary storage occupations,103
 Hambleton,Physical scientists,96
@@ -313,7 +313,7 @@ Hambleton,Civil engineers,59
 Hambleton,Mechanical engineers,59
 Hambleton,Kitchen and catering assistants,56
 Hambleton,Metal working production and maintenance fitters,54
-Hambleton,Other administrative occupations n.e.c.,51
+Hambleton,Other administrative occupations n.e.c.,53
 Hambleton,Fork-lift truck drivers,48
 Hambleton,Elementary process plant occupations n.e.c.,45
 Hambleton,"Sports coaches, instructors and officials",43
@@ -321,128 +321,128 @@ Hambleton,Programmers and software development professionals,42
 Hambleton,Security guards and related occupations,39
 Hambleton,Construction operatives n.e.c.,37
 Hambleton,"Packers, bottlers, canners and fillers",35
-Hambleton,Sales related occupations n.e.c.,32
+Hambleton,Sales related occupations n.e.c.,33
 Hambleton,Stock control clerks and assistants,32
 Hambleton,Managers and proprietors in other services n.e.c.,29
-Hambleton,Health and safety officers,28
 Hambleton,Production managers and directors in manufacturing,28
+Hambleton,Health and safety officers,28
 Hambleton,Plastics process operatives,28
 Hambleton,"Book-keepers, payroll managers and wages clerks",26
 Hambleton,Financial managers and directors,25
 Hambleton,Design and development engineers,23
-Hambleton,Electricians and electrical fitters,22
 Hambleton,Medical radiographers,22
-Hambleton,Business sales executives,20
+Hambleton,Electricians and electrical fitters,22
 Hambleton,Marketing associate professionals,20
-Hambleton,Ophthalmic opticians,20
 Hambleton,Marketing and sales directors,20
+Hambleton,Business sales executives,20
+Hambleton,Ophthalmic opticians,20
 Hambleton,Metal machining setters and setter-operators,19
 Hambleton,Sales and retail assistants,18
 Hambleton,Van drivers,18
 Hambleton,"Authors, writers and translators",18
-Hambleton,Large goods vehicle drivers,17
 Hambleton,Chartered and certified accountants,17
+Hambleton,Large goods vehicle drivers,17
 Hambleton,Nursery nurses and assistants,16
 Hambleton,Human resources and industrial relations officers,15
 Hambleton,"IT business analysts, architects and systems designers",15
-Hambleton,Carpenters and joiners,14
 Hambleton,Production managers and directors in construction,13
 Hambleton,Receptionists,13
 Hambleton,Care workers and home carers,13
-Hambleton,Customer service occupations n.e.c.,12
-Hambleton,Telephonists,12
 Hambleton,Cleaners and domestics,12
-Hambleton,Managers and directors in storage and warehousing,12
+Hambleton,Telephonists,12
 Hambleton,Transport and distribution clerks and assistants,12
+Hambleton,Customer service occupations n.e.c.,12
+Hambleton,Managers and directors in storage and warehousing,12
 Hambleton,Electrical engineers,12
 Hambleton,Electrical and electronic trades n.e.c.,10
-Hambleton,IT operations technicians,10
 Hambleton,Furniture makers and other craft woodworkers,10
-Hambleton,Hairdressers and barbers,9
-Hambleton,Office managers,9
+Hambleton,IT operations technicians,10
+Hambleton,Carpenters and joiners,9
 Hambleton,Plant and machine operatives n.e.c.,9
+Hambleton,Office managers,9
+Hambleton,Hairdressers and barbers,9
 Hambleton,"Vehicle technicians, mechanics and electricians",9
 Hambleton,Secondary education teaching professionals,9
 Hambleton,"Estimators, valuers and assessors",8
-Hambleton,Cleaning and housekeeping managers and supervisors,8
 Hambleton,Company secretaries,8
+Hambleton,Cleaning and housekeeping managers and supervisors,8
+Hambleton,Steel erectors,7
 Hambleton,Elementary administration occupations n.e.c.,7
 Hambleton,Medical and dental technicians,7
-Hambleton,Steel erectors,7
 Hambleton,Pharmacists,7
 Hambleton,Information technology and telecommunications professionals n.e.c.,7
 Hambleton,Occupational therapists,7
-Hambleton,Nurses,6
-Hambleton,Financial administrative occupations n.e.c.,6
 Hambleton,Assemblers (vehicles and metal goods),6
 Hambleton,Quality control and planning engineers,6
-Hambleton,Chartered surveyors,6
+Hambleton,Nurses,6
+Hambleton,Financial administrative occupations n.e.c.,6
 Hambleton,"Scaffolders, stagers and riggers",6
-Hambleton,Catering and bar managers,5
-Hambleton,Chief executives and senior officials,5
-Hambleton,Vehicle body builders and repairers,5
-Hambleton,Construction and building trades n.e.c.,5
-Hambleton,Managers and directors in transport and distribution,5
+Hambleton,Chartered surveyors,6
 Hambleton,Other skilled trades n.e.c.,5
 Hambleton,Quantity surveyors,5
+Hambleton,Managers and directors in transport and distribution,5
+Hambleton,Vehicle body builders and repairers,5
 Hambleton,Construction project managers and related professionals,5
 Hambleton,Buyers and procurement officers,5
 Hambleton,Teaching and other educational professionals n.e.c.,5
+Hambleton,Catering and bar managers,5
 Hambleton,Plumbers and heating and ventilating engineers,5
+Hambleton,Construction and building trades n.e.c.,5
+Hambleton,Chief executives and senior officials,5
 Hambleton,Quality assurance and regulatory professionals,5
 Hambleton,Credit controllers,5
 Hambleton,Chemical and related process operatives,5
-Hambleton,Biological scientists and biochemists,4
-Hambleton,Vocational and industrial trainers and instructors,4
 Hambleton,Production and process engineers,4
-Hambleton,"Actors, entertainers and presenters",4
 Hambleton,Elementary cleaning occupations n.e.c.,4
 Hambleton,Draughtspersons,4
+Hambleton,Biological scientists and biochemists,4
+Hambleton,"Actors, entertainers and presenters",4
+Hambleton,Vocational and industrial trainers and instructors,4
 Hambleton,Personal assistants and other secretaries,4
 Harrogate,Large goods vehicle drivers,1819
 Harrogate,Veterinarians,1318
 Harrogate,Management consultants and business analysts,953
 Harrogate,Driving instructors,723
-Harrogate,Sales related occupations n.e.c.,716
+Harrogate,Sales related occupations n.e.c.,715
 Harrogate,Veterinary nurses,589
 Harrogate,Cleaners and domestics,561
-Harrogate,Engineering technicians,475
+Harrogate,Engineering technicians,477
 Harrogate,Nurses,389
 Harrogate,Chefs,367
-Harrogate,Marketing associate professionals,362
-Harrogate,Care workers and home carers,361
+Harrogate,Care workers and home carers,360
+Harrogate,Marketing associate professionals,360
 Harrogate,Business sales executives,358
 Harrogate,Chartered and certified accountants,347
-Harrogate,Customer service occupations n.e.c.,332
-Harrogate,Marketing and sales directors,318
-Harrogate,Other administrative occupations n.e.c.,302
+Harrogate,Customer service occupations n.e.c.,334
+Harrogate,Marketing and sales directors,319
+Harrogate,Other administrative occupations n.e.c.,283
 Harrogate,Waiters and waitresses,278
-Harrogate,Programmers and software development professionals,245
-Harrogate,Human resources and industrial relations officers,242
+Harrogate,Human resources and industrial relations officers,248
+Harrogate,Programmers and software development professionals,241
 Harrogate,Kitchen and catering assistants,219
+Harrogate,Managers and proprietors in other services n.e.c.,217
 Harrogate,IT user support technicians,213
-Harrogate,Managers and proprietors in other services n.e.c.,213
 Harrogate,"IT business analysts, architects and systems designers",211
 Harrogate,Mechanical engineers,193
 Harrogate,Electricians and electrical fitters,181
-Harrogate,Quantity surveyors,174
-Harrogate,Engineering professionals n.e.c.,160
+Harrogate,Quantity surveyors,177
+Harrogate,Engineering professionals n.e.c.,161
 Harrogate,"Book-keepers, payroll managers and wages clerks",157
-Harrogate,"Science, engineering and production technicians n.e.c.",153
+Harrogate,"Science, engineering and production technicians n.e.c.",155
 Harrogate,Sales and retail assistants,150
 Harrogate,Elementary storage occupations,147
 Harrogate,Electrical engineers,137
 Harrogate,Buyers and procurement officers,126
-Harrogate,Production and process engineers,123
+Harrogate,Production and process engineers,125
 Harrogate,Dental nurses,115
 Harrogate,Metal working production and maintenance fitters,114
 Harrogate,IT operations technicians,111
-Harrogate,Business and related associate professionals n.e.c.,95
-Harrogate,Receptionists,90
-Harrogate,Human resource managers and directors,89
+Harrogate,Business and related associate professionals n.e.c.,96
+Harrogate,Human resource managers and directors,90
+Harrogate,Receptionists,89
 Harrogate,Office managers,87
+Harrogate,Financial administrative occupations n.e.c.,85
 Harrogate,Taxation experts,85
-Harrogate,Financial administrative occupations n.e.c.,84
 Harrogate,Caretakers,83
 Harrogate,"Property, housing and estate managers",81
 Harrogate,Transport and distribution clerks and assistants,77
@@ -450,324 +450,330 @@ Harrogate,Housekeepers and related occupations,74
 Harrogate,"Vehicle technicians, mechanics and electricians",73
 Harrogate,Quality assurance and regulatory professionals,73
 Harrogate,Van drivers,72
-Harrogate,Information technology and telecommunications professionals n.e.c.,70
 Harrogate,Catering and bar managers,70
+Harrogate,Information technology and telecommunications professionals n.e.c.,70
 Harrogate,Electrical and electronic trades n.e.c.,68
+Harrogate,Financial managers and directors,67
 Harrogate,Legal associate professionals,67
+Harrogate,Business and financial project management professionals,67
 Harrogate,Other elementary services occupations n.e.c.,67
 Harrogate,Bar staff,67
 Harrogate,Telephone salespersons,66
+Harrogate,Civil engineers,63
 Harrogate,Personal assistants and other secretaries,62
-Harrogate,Financial managers and directors,62
 Harrogate,Sales accounts and business development managers,60
 Harrogate,Customer service managers and supervisors,59
-Harrogate,"Estimators, valuers and assessors",58
 Harrogate,Vehicle body builders and repairers,58
-Harrogate,Construction project managers and related professionals,57
 Harrogate,IT project and programme managers,57
 Harrogate,Bus and coach drivers,57
+Harrogate,Construction project managers and related professionals,57
 Harrogate,Finance and investment analysts and advisers,56
 Harrogate,Purchasing managers and directors,53
-Harrogate,Business and financial project management professionals,52
 Harrogate,Vocational and industrial trainers and instructors,51
 Harrogate,Production managers and directors in manufacturing,48
 Harrogate,Sales supervisors,47
+Harrogate,"Estimators, valuers and assessors",47
 Harrogate,Web design and development professionals,46
-Harrogate,Civil engineers,46
 Harrogate,Legal secretaries,46
+Harrogate,Nursing auxiliaries and assistants,45
 Harrogate,Health and safety officers,45
 Harrogate,Conference and exhibition managers and organisers,45
 Harrogate,"Launderers, dry cleaners and pressers",44
+Harrogate,Elementary administration occupations n.e.c.,43
 Harrogate,Plumbers and heating and ventilating engineers,43
 Harrogate,Teaching assistants,43
-Harrogate,"Planning, process and production technicians",42
-Harrogate,Information technology and telecommunications directors,42
 Harrogate,Gardeners and landscape gardeners,42
+Harrogate,Information technology and telecommunications directors,42
+Harrogate,"Planning, process and production technicians",42
 Harrogate,Beauticians and related occupations,41
-Harrogate,Elementary administration occupations n.e.c.,39
-Harrogate,Nursing auxiliaries and assistants,37
 Harrogate,Stock control clerks and assistants,36
 Harrogate,Welding trades,34
-Harrogate,"Packers, bottlers, canners and fillers",34
 Harrogate,Health services and public health managers and directors,34
+Harrogate,"Packers, bottlers, canners and fillers",34
 Harrogate,Electrical and electronics technicians,34
 Harrogate,Nursery nurses and assistants,33
 Harrogate,Sales administrators,32
 Harrogate,Design and development engineers,31
+Harrogate,Plant and machine operatives n.e.c.,30
 Harrogate,Vehicle and parts salespersons and advisers,29
-Harrogate,Plant and machine operatives n.e.c.,29
 Harrogate,Graphic designers,28
-Harrogate,Quality assurance technicians,28
 Harrogate,Elementary construction occupations,28
+Harrogate,Dispensing opticians,28
 Kirklees,Merchandisers and window dressers,5213
-Kirklees,Sales related occupations n.e.c.,1855
-Kirklees,Managers and directors in retail and wholesale,1527
-Kirklees,Engineering technicians,1165
+Kirklees,Sales related occupations n.e.c.,1814
+Kirklees,Managers and directors in retail and wholesale,1334
 Kirklees,Sales and retail assistants,1019
-Kirklees,Engineering professionals n.e.c.,861
-Kirklees,Marketing and sales directors,848
-Kirklees,Other administrative occupations n.e.c.,720
-Kirklees,Programmers and software development professionals,665
-Kirklees,Elementary storage occupations,638
-Kirklees,"Science, engineering and production technicians n.e.c.",628
-Kirklees,Sales supervisors,626
-Kirklees,Mechanical engineers,622
+Kirklees,Engineering technicians,963
+Kirklees,Engineering professionals n.e.c.,859
+Kirklees,Marketing and sales directors,830
+Kirklees,Other administrative occupations n.e.c.,707
+Kirklees,Programmers and software development professionals,653
 Kirklees,"Vehicle technicians, mechanics and electricians",603
-Kirklees,Production managers and directors in manufacturing,573
-Kirklees,Customer service occupations n.e.c.,570
-Kirklees,Large goods vehicle drivers,569
-Kirklees,Electrical engineers,558
-Kirklees,Marketing associate professionals,526
-Kirklees,Business sales executives,426
+Kirklees,Mechanical engineers,603
+Kirklees,Electrical engineers,557
+Kirklees,Elementary storage occupations,543
+Kirklees,Customer service occupations n.e.c.,537
+Kirklees,Large goods vehicle drivers,532
+Kirklees,Sales supervisors,527
+Kirklees,Marketing associate professionals,476
+Kirklees,Business sales executives,422
+Kirklees,Production managers and directors in manufacturing,383
 Kirklees,Electricians and electrical fitters,379
-Kirklees,Electrical and electronic trades n.e.c.,376
-Kirklees,Van drivers,374
 Kirklees,Chartered and certified accountants,373
-Kirklees,Managers and proprietors in other services n.e.c.,372
-Kirklees,Telephone salespersons,362
-Kirklees,Financial managers and directors,347
-Kirklees,Cleaners and domestics,336
-Kirklees,Buyers and procurement officers,334
+Kirklees,Managers and proprietors in other services n.e.c.,364
+Kirklees,Electrical and electronic trades n.e.c.,356
+Kirklees,Telephone salespersons,356
+Kirklees,Financial managers and directors,348
+Kirklees,Cleaners and domestics,320
 Kirklees,Management consultants and business analysts,310
-Kirklees,Higher education teaching professionals,296
+Kirklees,"Science, engineering and production technicians n.e.c.",298
+Kirklees,Higher education teaching professionals,293
+Kirklees,Buyers and procurement officers,291
 Kirklees,Nurses,291
-Kirklees,Elementary process plant occupations n.e.c.,286
-Kirklees,Sales accounts and business development managers,277
-Kirklees,"IT business analysts, architects and systems designers",276
+Kirklees,Sales accounts and business development managers,274
 Kirklees,Plumbers and heating and ventilating engineers,272
-Kirklees,Civil engineers,256
-Kirklees,"Book-keepers, payroll managers and wages clerks",250
-Kirklees,Metal working production and maintenance fitters,249
+Kirklees,"IT business analysts, architects and systems designers",261
+Kirklees,Civil engineers,250
 Kirklees,IT user support technicians,245
-Kirklees,Business and financial project management professionals,226
-Kirklees,Human resources and industrial relations officers,214
+Kirklees,"Book-keepers, payroll managers and wages clerks",241
+Kirklees,Van drivers,230
+Kirklees,Metal working production and maintenance fitters,227
+Kirklees,Business and financial project management professionals,227
 Kirklees,Construction project managers and related professionals,210
-Kirklees,Metal working machine operatives,206
-Kirklees,Telephonists,203
-Kirklees,"Packers, bottlers, canners and fillers",199
-Kirklees,Welding trades,199
+Kirklees,Human resources and industrial relations officers,203
+Kirklees,Telephonists,201
 Kirklees,Vocational and industrial trainers and instructors,199
 Kirklees,Information technology and telecommunications professionals n.e.c.,185
-Kirklees,"Estimators, valuers and assessors",181
-Kirklees,IT operations technicians,180
+Kirklees,Welding trades,184
+Kirklees,IT operations technicians,177
 Kirklees,Production managers and directors in mining and energy,176
-Kirklees,Draughtspersons,174
 Kirklees,Collector salespersons and credit agents,174
-Kirklees,Web design and development professionals,170
+Kirklees,"Estimators, valuers and assessors",171
+Kirklees,Web design and development professionals,167
 Kirklees,Quantity surveyors,166
-Kirklees,Care workers and home carers,150
-Kirklees,Carpenters and joiners,143
-Kirklees,Transport and distribution clerks and assistants,142
-Kirklees,Metal machining setters and setter-operators,139
+Kirklees,Metal working machine operatives,147
+Kirklees,Care workers and home carers,145
+Kirklees,Carpenters and joiners,142
 Kirklees,Design and development engineers,138
-Kirklees,Health and safety officers,137
-Kirklees,Medical and dental technicians,136
-Kirklees,Quality assurance and regulatory professionals,133
-Kirklees,Quality assurance technicians,131
-Kirklees,Customer service managers and supervisors,126
+Kirklees,Medical and dental technicians,130
+Kirklees,Quality assurance and regulatory professionals,126
+Kirklees,Health and safety officers,125
+Kirklees,Metal machining setters and setter-operators,124
+Kirklees,Customer service managers and supervisors,120
+Kirklees,Draughtspersons,120
 Kirklees,Electronics engineers,118
-Kirklees,"Planning, process and production technicians",118
-Kirklees,Elementary construction occupations,116
 Kirklees,Business and related research professionals,116
 Kirklees,Elementary administration occupations n.e.c.,115
-Kirklees,Other skilled trades n.e.c.,115
-Kirklees,Teaching and other educational professionals n.e.c.,114
-Kirklees,Graphic designers,113
+Kirklees,Quality assurance technicians,115
+Kirklees,Graphic designers,112
+Kirklees,"Planning, process and production technicians",110
 Kirklees,Chartered surveyors,108
 Kirklees,Occupational therapists,107
-Kirklees,Receptionists,103
-Kirklees,Quality control and planning engineers,102
-Kirklees,Office managers,99
+Kirklees,Teaching and other educational professionals n.e.c.,102
+Kirklees,Elementary construction occupations,96
 Kirklees,Finance and investment analysts and advisers,94
+Kirklees,Office managers,93
+Kirklees,Receptionists,90
+Kirklees,Transport and distribution clerks and assistants,90
+Kirklees,Quality control and planning engineers,90
 Kirklees,Paper and wood machine operatives,89
 Kirklees,Purchasing managers and directors,88
-Kirklees,Nursing auxiliaries and assistants,84
+Kirklees,Nursing auxiliaries and assistants,83
 Kirklees,Chartered architectural technologists,83
-Kirklees,Senior professionals of educational establishments,81
+Kirklees,Other skilled trades n.e.c.,82
 Kirklees,Inspectors of standards and regulations,78
 Kirklees,Solicitors,78
-Kirklees,Information technology and telecommunications directors,77
+Kirklees,Senior professionals of educational establishments,77
 Kirklees,"Property, housing and estate managers",76
-Kirklees,IT project and programme managers,74
-Kirklees,Teaching assistants,74
+Kirklees,Information technology and telecommunications directors,75
 Kirklees,Elected officers and representatives,73
 Kirklees,Routine inspectors and testers,73
-Kirklees,Functional managers and directors n.e.c.,72
 Kirklees,"Authors, writers and translators",72
+Kirklees,Functional managers and directors n.e.c.,72
 Kirklees,Human resources administrative occupations,71
-Kirklees,Stock control clerks and assistants,71
-Kirklees,Nursery nurses and assistants,67
+Kirklees,IT project and programme managers,69
 Kirklees,Sports and leisure assistants,66
-Kirklees,Human resource managers and directors,64
-Leeds,Care workers and home carers,324880
-Leeds,Nurses,200050
-Leeds,Kitchen and catering assistants,28244
-Leeds,Cleaners and domestics,27973
-Leeds,Teaching and other educational professionals n.e.c.,16871
-Leeds,Sports and leisure assistants,16482
-Leeds,Engineering technicians,14998
-Leeds,Other administrative occupations n.e.c.,14443
-Leeds,Chefs,13199
-Leeds,Cooks,12243
-Leeds,Civil engineers,11458
-Leeds,Health services and public health managers and directors,11447
-Leeds,Managers and proprietors in other services n.e.c.,10953
-Leeds,Nursing auxiliaries and assistants,10678
-Leeds,Programmers and software development professionals,9780
+Kirklees,Stock control clerks and assistants,65
+Kirklees,Nursery nurses and assistants,64
+Kirklees,Architects,64
+Kirklees,Human resource managers and directors,63
+Kirklees,Fitness instructors,63
+Kirklees,Company secretaries,62
+Leeds,Care workers and home carers,324755
+Leeds,Nurses,200022
+Leeds,Kitchen and catering assistants,28239
+Leeds,Cleaners and domestics,27979
+Leeds,Teaching and other educational professionals n.e.c.,16884
+Leeds,Sports and leisure assistants,16471
+Leeds,Engineering technicians,15036
+Leeds,Other administrative occupations n.e.c.,14953
+Leeds,Programmers and software development professionals,13497
+Leeds,Chefs,13210
+Leeds,Cooks,12241
+Leeds,Civil engineers,11607
+Leeds,Managers and proprietors in other services n.e.c.,11599
+Leeds,Health services and public health managers and directors,11464
+Leeds,Nursing auxiliaries and assistants,10655
 Leeds,"Residential, day and domiciliary  care managers and proprietors",9074
-Leeds,Receptionists,8927
+Leeds,Receptionists,8962
 Leeds,Housekeepers and related occupations,7953
-Leeds,Mechanical engineers,7572
+Leeds,Marketing and sales directors,7781
+Leeds,Mechanical engineers,7719
+Leeds,Sales related occupations n.e.c.,6989
+Leeds,"IT business analysts, architects and systems designers",6827
 Leeds,Fitness instructors,6580
-Leeds,Marketing and sales directors,6513
-Leeds,Sales related occupations n.e.c.,6483
-Leeds,Engineering professionals n.e.c.,5347
-Leeds,"IT business analysts, architects and systems designers",4453
-Leeds,"Launderers, dry cleaners and pressers",4020
-Leeds,Electrical engineers,3924
-Leeds,Electricians and electrical fitters,3769
-Leeds,Cleaning and housekeeping managers and supervisors,3742
-Leeds,Large goods vehicle drivers,3550
-Leeds,"Property, housing and estate managers",3482
-Leeds,Business and related research professionals,3336
-Leeds,Management consultants and business analysts,3315
-Leeds,Quantity surveyors,3290
-Leeds,Human resources and industrial relations officers,3233
+Leeds,Engineering professionals n.e.c.,5586
+Leeds,IT user support technicians,5023
+Leeds,Human resources and industrial relations officers,4376
+Leeds,Management consultants and business analysts,4222
+Leeds,Electrical engineers,4146
+Leeds,"Launderers, dry cleaners and pressers",4019
+Leeds,Chartered and certified accountants,3857
+Leeds,Electricians and electrical fitters,3792
+Leeds,Cleaning and housekeeping managers and supervisors,3744
+Leeds,Large goods vehicle drivers,3584
+Leeds,Marketing associate professionals,3525
+Leeds,"Property, housing and estate managers",3498
+Leeds,Business and related research professionals,3342
+Leeds,Quantity surveyors,3296
+Leeds,Web design and development professionals,3289
+Leeds,Business and financial project management professionals,3272
+Leeds,Customer service occupations n.e.c.,3269
 Leeds,Senior care workers,3198
+Leeds,IT project and programme managers,3195
 Leeds,Caretakers,3128
-Leeds,Customer service occupations n.e.c.,3081
-Leeds,Business and financial project management professionals,2971
-Leeds,IT project and programme managers,2892
+Leeds,"Book-keepers, payroll managers and wages clerks",2875
 Leeds,Plumbers and heating and ventilating engineers,2864
-Leeds,Higher education teaching professionals,2831
-Leeds,Marketing associate professionals,2782
-Leeds,IT user support technicians,2608
-Leeds,"Science, engineering and production technicians n.e.c.",2447
-Leeds,Sales supervisors,2382
-Leeds,Sales accounts and business development managers,2357
-Leeds,Design and development engineers,2113
-Leeds,Quality assurance and regulatory professionals,2110
-Leeds,Quality control and planning engineers,2099
-Leeds,"Book-keepers, payroll managers and wages clerks",2018
-Leeds,Web design and development professionals,1935
-Leeds,Elementary storage occupations,1933
-Leeds,IT operations technicians,1913
-Leeds,Information technology and telecommunications professionals n.e.c.,1842
-Leeds,Solicitors,1769
-Leeds,Production managers and directors in construction,1729
-Leeds,Chief executives and senior officials,1702
-Leeds,Customer service managers and supervisors,1654
-Leeds,Construction project managers and related professionals,1619
-Leeds,Chartered and certified accountants,1582
-Leeds,Production managers and directors in manufacturing,1570
+Leeds,Higher education teaching professionals,2834
+Leeds,IT operations technicians,2816
+Leeds,Sales accounts and business development managers,2683
+Leeds,Information technology and telecommunications professionals n.e.c.,2494
+Leeds,"Science, engineering and production technicians n.e.c.",2458
+Leeds,Sales supervisors,2388
+Leeds,Quality assurance and regulatory professionals,2206
+Leeds,Design and development engineers,2140
+Leeds,Quality control and planning engineers,2117
+Leeds,Financial managers and directors,2109
+Leeds,Elementary storage occupations,1944
+Leeds,Solicitors,1886
+Leeds,Customer service managers and supervisors,1760
+Leeds,Production managers and directors in construction,1753
+Leeds,Finance and investment analysts and advisers,1752
+Leeds,Chief executives and senior officials,1718
+Leeds,Production managers and directors in manufacturing,1705
+Leeds,Construction project managers and related professionals,1644
 Leeds,Childminders and related occupations,1559
-Leeds,Finance and investment analysts and advisers,1547
-Leeds,Financial managers and directors,1543
-Leeds,Business sales executives,1414
-Leeds,"Planning, process and production technicians",1403
-Leeds,Nursery nurses and assistants,1394
-Leeds,Elementary construction occupations,1384
-Leeds,Bank and post office clerks,1365
+Leeds,Business sales executives,1518
+Leeds,"Planning, process and production technicians",1397
+Leeds,Nursery nurses and assistants,1393
+Leeds,Elementary construction occupations,1388
+Leeds,Electrical and electronic trades n.e.c.,1385
+Leeds,Bank and post office clerks,1371
 Leeds,Chartered architectural technologists,1350
+Leeds,Draughtspersons,1324
 Leeds,Building and civil engineering technicians,1323
-Leeds,Draughtspersons,1309
-Leeds,Electrical and electronic trades n.e.c.,1301
-Leeds,Pharmacists,1259
-Leeds,Vocational and industrial trainers and instructors,1194
-Leeds,Transport and distribution clerks and assistants,1173
-Leeds,Functional managers and directors n.e.c.,1117
-Leeds,Legal associate professionals,1103
-Leeds,Elementary administration occupations n.e.c.,1089
+Leeds,Transport and distribution clerks and assistants,1279
+Leeds,Pharmacists,1264
+Leeds,Vocational and industrial trainers and instructors,1255
+Leeds,Buyers and procurement officers,1201
+Leeds,Purchasing managers and directors,1177
+Leeds,Functional managers and directors n.e.c.,1163
+Leeds,Architects,1161
+Leeds,Elementary administration occupations n.e.c.,1147
+Leeds,Legal associate professionals,1114
 Leeds,Air-conditioning and refrigeration engineers,1083
-Leeds,Purchasing managers and directors,1081
-Leeds,Welfare and housing associate professionals n.e.c.,1079
-Leeds,Metal working production and maintenance fitters,1061
-Leeds,Buyers and procurement officers,1057
-Leeds,"Estimators, valuers and assessors",1041
-Leeds,Biological scientists and biochemists,1040
-Leeds,Quality assurance technicians,1020
-Leeds,Architects,1004
-Leeds,Production and process engineers,964
-Leeds,Business and related associate professionals n.e.c.,959
-Leeds,Office managers,939
-Leeds,Restaurant and catering establishment managers and proprietors,932
+Leeds,"Estimators, valuers and assessors",1076
+Leeds,Welfare and housing associate professionals n.e.c.,1076
+Leeds,Business and related associate professionals n.e.c.,1071
+Leeds,Metal working production and maintenance fitters,1067
+Leeds,Office managers,1065
+Leeds,Quality assurance technicians,1045
+Leeds,Biological scientists and biochemists,1037
+Leeds,Human resource managers and directors,1028
+Leeds,Information technology and telecommunications directors,1027
+Leeds,Production and process engineers,994
+Leeds,Health and safety officers,975
+Leeds,Restaurant and catering establishment managers and proprietors,944
+Leeds,Financial administrative occupations n.e.c.,943
 Leeds,Chartered surveyors,911
-Leeds,Health and safety officers,905
-Leeds,Medical and dental technicians,895
+Leeds,Medical practitioners,904
+Leeds,Medical and dental technicians,890
 Leeds,Physical scientists,876
-Leeds,Carpenters and joiners,872
-Leeds,Medical practitioners,864
-Leeds,Financial administrative occupations n.e.c.,840
-Leeds,Conference and exhibition managers and organisers,829
 Richmondshire,Communication operators,79
 Richmondshire,Butchers,79
 Richmondshire,"Science, engineering and production technicians n.e.c.",72
-Richmondshire,Cleaners and domestics,67
-Richmondshire,Other administrative occupations n.e.c.,57
+Richmondshire,Cleaners and domestics,60
 Richmondshire,Carpenters and joiners,57
 Richmondshire,Other drivers and transport operatives n.e.c.,52
-Richmondshire,Large goods vehicle drivers,47
+Richmondshire,Other administrative occupations n.e.c.,51
 Richmondshire,Elementary storage occupations,47
+Richmondshire,Large goods vehicle drivers,47
 Richmondshire,Vehicle paint technicians,30
-Richmondshire,IT user support technicians,28
-Richmondshire,Programmers and software development professionals,27
 Richmondshire,Managers and directors in storage and warehousing,22
 Richmondshire,Engineering technicians,15
-Richmondshire,Civil engineers,15
 Richmondshire,Customer service occupations n.e.c.,15
 Richmondshire,Assemblers (vehicles and metal goods),14
 Richmondshire,Other skilled trades n.e.c.,13
-Richmondshire,Web design and development professionals,13
-Richmondshire,Aircraft maintenance and related trades,12
-Richmondshire,"Estimators, valuers and assessors",12
 Richmondshire,"Book-keepers, payroll managers and wages clerks",12
 Richmondshire,Chartered and certified accountants,12
+Richmondshire,Civil engineers,12
+Richmondshire,Aircraft maintenance and related trades,12
+Richmondshire,"Estimators, valuers and assessors",12
 Richmondshire,"Scaffolders, stagers and riggers",12
-Richmondshire,"IT business analysts, architects and systems designers",11
-Richmondshire,Management consultants and business analysts,10
-Richmondshire,Information technology and telecommunications professionals n.e.c.,9
-Richmondshire,Sales related occupations n.e.c.,9
+Richmondshire,Web design and development professionals,10
+Richmondshire,Programmers and software development professionals,9
 Richmondshire,Graphic designers,8
 Richmondshire,Elementary construction occupations,8
 Richmondshire,Elementary administration occupations n.e.c.,7
-Richmondshire,Business and related associate professionals n.e.c.,7
+Richmondshire,IT user support technicians,7
 Richmondshire,Chefs,6
 Richmondshire,Rail transport operatives,6
 Richmondshire,Animal care services occupations n.e.c.,6
-Richmondshire,Farm workers,5
-Richmondshire,"Vehicle technicians, mechanics and electricians",5
 Richmondshire,Marketing associate professionals,5
+Richmondshire,Farm workers,5
 Richmondshire,Human resources and industrial relations officers,5
 Richmondshire,Sales administrators,5
 Richmondshire,Business and financial project management professionals,5
-Richmondshire,Vehicle and parts salespersons and advisers,4
+Richmondshire,"Vehicle technicians, mechanics and electricians",5
 Richmondshire,"Photographers, audio-visual and broadcasting equipment operators",4
 Richmondshire,Solicitors,4
 Richmondshire,Metal working machine operatives,4
+Richmondshire,Vehicle and parts salespersons and advisers,4
 Richmondshire,Chartered surveyors,4
-Richmondshire,Managers and proprietors in other services n.e.c.,3
-Richmondshire,Kitchen and catering assistants,3
-Richmondshire,Sales and retail assistants,3
-Richmondshire,Chartered architectural technologists,3
-Richmondshire,Business sales executives,3
 Richmondshire,Refuse and salvage occupations,3
 Richmondshire,"Property, housing and estate managers",3
+Richmondshire,Sales related occupations n.e.c.,3
+Richmondshire,Management consultants and business analysts,3
+Richmondshire,Kitchen and catering assistants,3
+Richmondshire,Managers and proprietors in other services n.e.c.,3
+Richmondshire,Business sales executives,3
+Richmondshire,Sales and retail assistants,3
+Richmondshire,Chartered architectural technologists,3
 Richmondshire,"Authors, writers and translators",2
-Richmondshire,Medical and dental technicians,2
-Richmondshire,"Packers, bottlers, canners and fillers",2
 Richmondshire,Childminders and related occupations,2
-Richmondshire,Teaching and other educational professionals n.e.c.,2
 Richmondshire,Health associate professionals n.e.c.,2
 Richmondshire,Upholsterers,2
+Richmondshire,Medical and dental technicians,2
+Richmondshire,"Packers, bottlers, canners and fillers",2
+Richmondshire,Teaching and other educational professionals n.e.c.,2
+Richmondshire,Nursing auxiliaries and assistants,1
+Richmondshire,Company secretaries,1
+Richmondshire,Managers and proprietors in agriculture and horticulture,1
+Richmondshire,Advertising and public relations directors,1
 Richmondshire,Caretakers,1
-Richmondshire,Receptionists,1
-Richmondshire,Welding trades,1
-Richmondshire,Furniture makers and other craft woodworkers,1
-Richmondshire,Gardeners and landscape gardeners,1
-Richmondshire,Quality assurance technicians,1
+Richmondshire,Telephone salespersons,1
+Richmondshire,Electricians and electrical fitters,1
+Richmondshire,Care workers and home carers,1
 Richmondshire,Merchandisers and window dressers,1
 Richmondshire,Cleaning and housekeeping managers and supervisors,1
 Richmondshire,Marketing and sales directors,1
+Richmondshire,Receptionists,1
+Richmondshire,Gardeners and landscape gardeners,1
+Richmondshire,Quality assurance technicians,1
+Richmondshire,Welding trades,1
+Richmondshire,Elementary security occupations n.e.c.,1
+Richmondshire,Elementary process plant occupations n.e.c.,1
+Richmondshire,Sales supervisors,1
 Richmondshire,Taxation experts,1
 Richmondshire,NCOs and other ranks,1
 Richmondshire,"Actuaries, economists and statisticians",1
@@ -776,22 +782,12 @@ Richmondshire,Production managers and directors in manufacturing,1
 Richmondshire,Housekeepers and related occupations,1
 Richmondshire,Hotel and accommodation managers and proprietors,1
 Richmondshire,Waiters and waitresses,1
-Richmondshire,Information technology and telecommunications directors,1
-Richmondshire,Draughtspersons,1
 Richmondshire,Nurses,1
-Richmondshire,Telephone salespersons,1
-Richmondshire,Elementary security occupations n.e.c.,1
-Richmondshire,Elementary process plant occupations n.e.c.,1
-Richmondshire,Sales supervisors,1
-Richmondshire,Nursing auxiliaries and assistants,1
-Richmondshire,Company secretaries,1
-Richmondshire,Managers and proprietors in agriculture and horticulture,1
-Richmondshire,Advertising and public relations directors,1
+Richmondshire,Draughtspersons,1
 Richmondshire,Vehicle valeters and cleaners,1
 Richmondshire,Road construction operatives,1
-Richmondshire,Care workers and home carers,1
+Richmondshire,Furniture makers and other craft woodworkers,1
 Richmondshire,Bar staff,1
-Richmondshire,Electricians and electrical fitters,1
 Ryedale,Care workers and home carers,258
 Ryedale,Engineering technicians,163
 Ryedale,Other administrative occupations n.e.c.,93
@@ -807,17 +803,17 @@ Ryedale,Health services and public health managers and directors,45
 Ryedale,Construction project managers and related professionals,42
 Ryedale,"IT business analysts, architects and systems designers",38
 Ryedale,Sales related occupations n.e.c.,33
-Ryedale,Credit controllers,33
 Ryedale,"Planning, process and production technicians",33
+Ryedale,Credit controllers,33
 Ryedale,Quality assurance and regulatory professionals,31
+Ryedale,Customer service occupations n.e.c.,24
 Ryedale,Managers and proprietors in other services n.e.c.,24
 Ryedale,Management consultants and business analysts,24
-Ryedale,Customer service occupations n.e.c.,24
 Ryedale,Quality assurance technicians,23
+Ryedale,IT operations technicians,23
+Ryedale,Financial administrative occupations n.e.c.,23
 Ryedale,"Business, research and administrative professionals n.e.c.",23
 Ryedale,Catering and bar managers,23
-Ryedale,Financial administrative occupations n.e.c.,23
-Ryedale,IT operations technicians,23
 Ryedale,Finance and investment analysts and advisers,22
 Ryedale,Elementary storage occupations,21
 Ryedale,Managers and directors in retail and wholesale,21
@@ -826,72 +822,72 @@ Ryedale,Marketing and sales directors,19
 Ryedale,Office supervisors,19
 Ryedale,Medical radiographers,19
 Ryedale,Mechanical engineers,18
-Ryedale,Financial managers and directors,18
 Ryedale,IT user support technicians,18
+Ryedale,Financial managers and directors,18
+Ryedale,Large goods vehicle drivers,16
 Ryedale,Ophthalmic opticians,16
 Ryedale,Human resources administrative occupations,15
 Ryedale,"Vehicle technicians, mechanics and electricians",14
 Ryedale,Cooks,14
 Ryedale,Welfare and housing associate professionals n.e.c.,13
-Ryedale,Chief executives and senior officials,13
 Ryedale,Stock control clerks and assistants,13
-Ryedale,Large goods vehicle drivers,12
-Ryedale,IT project and programme managers,12
+Ryedale,Chief executives and senior officials,13
 Ryedale,Metal working machine operatives,12
+Ryedale,IT project and programme managers,12
 Ryedale,Kitchen and catering assistants,11
 Ryedale,Carpenters and joiners,11
 Ryedale,"Packers, bottlers, canners and fillers",10
 Ryedale,Managers and proprietors in agriculture and horticulture,10
-Ryedale,Human resource managers and directors,9
 Ryedale,Welding trades,9
-Ryedale,Company secretaries,9
+Ryedale,Human resource managers and directors,9
 Ryedale,Elementary process plant occupations n.e.c.,9
-Ryedale,Cleaners and domestics,8
+Ryedale,Company secretaries,9
 Ryedale,Buyers and procurement officers,8
 Ryedale,Vocational and industrial trainers and instructors,8
 Ryedale,Elementary construction occupations,8
+Ryedale,Cleaners and domestics,8
+Ryedale,Van drivers,8
 Ryedale,"Authors, writers and translators",8
 Ryedale,Programmers and software development professionals,8
-Ryedale,Van drivers,8
+Ryedale,Electrical and electronics technicians,7
 Ryedale,Social workers,7
 Ryedale,"Property, housing and estate managers",7
-Ryedale,Conference and exhibition managers and organisers,7
 Ryedale,Office managers,7
+Ryedale,Conference and exhibition managers and organisers,7
 Ryedale,Farm workers,7
 Ryedale,Aircraft maintenance and related trades,7
 Ryedale,Nurses,7
 Ryedale,Civil engineers,7
-Ryedale,Electrical and electronics technicians,7
 Ryedale,IT specialist managers,6
+Ryedale,Marketing associate professionals,6
+Ryedale,Typists and related keyboard occupations,6
+Ryedale,Bank and post office clerks,6
+Ryedale,Personal assistants and other secretaries,6
 Ryedale,Nursing auxiliaries and assistants,6
 Ryedale,Fitness instructors,6
 Ryedale,Brokers,6
-Ryedale,Personal assistants and other secretaries,6
-Ryedale,Bank and post office clerks,6
-Ryedale,Marketing associate professionals,6
-Ryedale,Typists and related keyboard occupations,6
-Ryedale,Waiters and waitresses,5
-Ryedale,Purchasing managers and directors,5
 Ryedale,Restaurant and catering establishment managers and proprietors,5
 Ryedale,Chefs,5
-Ryedale,Artists,5
-Ryedale,Elementary administration occupations n.e.c.,5
-Ryedale,Teaching and other educational professionals n.e.c.,5
-Ryedale,Transport and distribution clerks and assistants,5
-Ryedale,Farmers,5
-Ryedale,Smiths and forge workers,5
 Ryedale,Plant and machine operatives n.e.c.,5
+Ryedale,Artists,5
+Ryedale,Purchasing managers and directors,5
+Ryedale,Smiths and forge workers,5
+Ryedale,Farmers,5
+Ryedale,Transport and distribution clerks and assistants,5
+Ryedale,Waiters and waitresses,5
+Ryedale,Teaching and other educational professionals n.e.c.,5
+Ryedale,Elementary administration occupations n.e.c.,5
 Ryedale,Metal working production and maintenance fitters,4
 Ryedale,"Sports coaches, instructors and officials",4
 Ryedale,Senior professionals of educational establishments,4
-Ryedale,Receptionists,4
 Ryedale,Electrical engineers,4
 Ryedale,Shelf fillers,4
-Ryedale,Fishing and other elementary agriculture occupations n.e.c.,4
+Ryedale,Receptionists,4
 Ryedale,Draughtspersons,4
-Ryedale,Careers advisers and vocational guidance specialists,4
 Ryedale,Sales accounts and business development managers,4
 Ryedale,Information technology and telecommunications directors,4
+Ryedale,Fishing and other elementary agriculture occupations n.e.c.,4
+Ryedale,Careers advisers and vocational guidance specialists,4
 Scarborough,Beauticians and related occupations,330
 Scarborough,Bar staff,204
 Scarborough,Care workers and home carers,203
@@ -899,99 +895,99 @@ Scarborough,Chefs,197
 Scarborough,Other administrative occupations n.e.c.,147
 Scarborough,Kitchen and catering assistants,140
 Scarborough,Catering and bar managers,108
-Scarborough,"Science, engineering and production technicians n.e.c.",98
 Scarborough,Waiters and waitresses,96
 Scarborough,Van drivers,89
+Scarborough,"Science, engineering and production technicians n.e.c.",88
 Scarborough,Cleaners and domestics,59
 Scarborough,"Vehicle technicians, mechanics and electricians",51
 Scarborough,Electrical engineers,47
 Scarborough,Engineering technicians,40
 Scarborough,Sales related occupations n.e.c.,33
+Scarborough,Customer service occupations n.e.c.,27
 Scarborough,Financial managers and directors,27
 Scarborough,Personal assistants and other secretaries,27
-Scarborough,Customer service occupations n.e.c.,27
 Scarborough,Managers and proprietors in other services n.e.c.,25
 Scarborough,Gardeners and landscape gardeners,23
 Scarborough,"Book-keepers, payroll managers and wages clerks",22
 Scarborough,Buyers and procurement officers,20
 Scarborough,Psychologists,20
-Scarborough,Human resources and industrial relations officers,19
 Scarborough,Housekeepers and related occupations,19
+Scarborough,Human resources and industrial relations officers,19
 Scarborough,Mechanical engineers,17
 Scarborough,Receptionists,17
 Scarborough,Welding trades,17
-Scarborough,Electricians and electrical fitters,16
 Scarborough,Nursing auxiliaries and assistants,16
 Scarborough,Chartered and certified accountants,15
+Scarborough,Electricians and electrical fitters,15
 Scarborough,Health associate professionals n.e.c.,15
 Scarborough,Electrical and electronic trades n.e.c.,14
+Scarborough,Nursery nurses and assistants,13
 Scarborough,Elementary storage occupations,13
 Scarborough,Construction operatives n.e.c.,13
 Scarborough,Animal care services occupations n.e.c.,13
-Scarborough,Nursery nurses and assistants,13
 Scarborough,Marketing and sales directors,12
 Scarborough,Leisure and sports managers,12
-Scarborough,"Sports coaches, instructors and officials",11
 Scarborough,Programmers and software development professionals,11
-Scarborough,Elementary administration occupations n.e.c.,11
 Scarborough,Marketing associate professionals,11
+Scarborough,Elementary administration occupations n.e.c.,11
+Scarborough,"Sports coaches, instructors and officials",11
 Scarborough,Elementary process plant occupations n.e.c.,10
 Scarborough,IT operations technicians,10
-Scarborough,Large goods vehicle drivers,10
 Scarborough,"Journalists, newspaper and periodical editors",10
-Scarborough,Carpenters and joiners,9
 Scarborough,Plumbers and heating and ventilating engineers,9
-Scarborough,Social workers,9
+Scarborough,Carpenters and joiners,9
 Scarborough,Security guards and related occupations,9
-Scarborough,Taxi and cab drivers and chauffeurs,8
-Scarborough,Sales supervisors,8
-Scarborough,Metal working machine operatives,8
+Scarborough,Social workers,9
 Scarborough,Engineering professionals n.e.c.,8
+Scarborough,Sales supervisors,8
 Scarborough,Furniture makers and other craft woodworkers,8
+Scarborough,Metal working machine operatives,8
+Scarborough,Taxi and cab drivers and chauffeurs,8
+Scarborough,Large goods vehicle drivers,6
 Scarborough,Sales and retail assistants,6
-Scarborough,"Property, housing and estate managers",6
-Scarborough,IT user support technicians,6
 Scarborough,Other drivers and transport operatives n.e.c.,6
 Scarborough,Quality control and planning engineers,6
+Scarborough,"Property, housing and estate managers",6
+Scarborough,IT user support technicians,6
 Scarborough,Cooks,5
+Scarborough,Transport and distribution clerks and assistants,5
+Scarborough,Assemblers (electrical and electronic products),5
 Scarborough,"IT business analysts, architects and systems designers",5
 Scarborough,Production managers and directors in manufacturing,5
 Scarborough,Welfare and housing associate professionals n.e.c.,5
 Scarborough,Paper and wood machine operatives,5
 Scarborough,Printers,5
-Scarborough,Assemblers (electrical and electronic products),5
-Scarborough,Transport and distribution clerks and assistants,5
-Scarborough,Elementary construction occupations,4
-Scarborough,Fishing and other elementary agriculture occupations n.e.c.,4
-Scarborough,Stock control clerks and assistants,4
-Scarborough,Youth and community workers,4
-Scarborough,Secondary education teaching professionals,4
-Scarborough,"Arts officers, producers and directors",4
+Scarborough,Merchandisers and window dressers,4
 Scarborough,Metal working production and maintenance fitters,4
+Scarborough,Stock control clerks and assistants,4
+Scarborough,"Arts officers, producers and directors",4
+Scarborough,Secondary education teaching professionals,4
 Scarborough,Butchers,4
 Scarborough,"Moulders, core makers and die casters",4
 Scarborough,"Estimators, valuers and assessors",4
 Scarborough,Leisure and travel service occupations n.e.c.,4
+Scarborough,Fishing and other elementary agriculture occupations n.e.c.,4
+Scarborough,Elementary construction occupations,4
+Scarborough,Youth and community workers,4
 Scarborough,Legal associate professionals,4
-Scarborough,Merchandisers and window dressers,4
-Scarborough,Plant and machine operatives n.e.c.,3
-Scarborough,Artists,3
-Scarborough,Dental nurses,3
-Scarborough,Bricklayers and masons,3
-Scarborough,Advertising and public relations directors,3
-Scarborough,Quality assurance technicians,3
 Scarborough,"Tool makers, tool fitters and markers-out",3
 Scarborough,Quality assurance and regulatory professionals,3
 Scarborough,Insurance underwriters,3
 Scarborough,Solicitors,3
+Scarborough,Plant and machine operatives n.e.c.,3
+Scarborough,Artists,3
+Scarborough,Bricklayers and masons,3
+Scarborough,Dental nurses,3
+Scarborough,Advertising and public relations directors,3
 Scarborough,"Glaziers, window fabricators and fitters",3
-Scarborough,Vocational and industrial trainers and instructors,2
-Scarborough,Cleaning and housekeeping managers and supervisors,2
-Scarborough,Nurses,2
-Scarborough,Agricultural and fishing trades n.e.c.,2
-Scarborough,Functional managers and directors n.e.c.,2
-Scarborough,Bus and coach drivers,2
-Scarborough,Primary and nursery education teaching professionals,2
+Scarborough,Groundsmen and greenkeepers,2
+Scarborough,Records clerks and assistants,2
+Scarborough,Business and related associate professionals n.e.c.,2
+Scarborough,"Food, drink and tobacco process operatives",2
+Scarborough,Call and contact centre occupations,2
+Scarborough,Bank and post office clerks,2
+Scarborough,Quality assurance technicians,2
+Scarborough,Information technology and telecommunications professionals n.e.c.,2
 Selby,Publicans and managers of licensed premises,1460
 Selby,Cleaners and domestics,1240
 Selby,Metal working production and maintenance fitters,409
@@ -1000,8 +996,8 @@ Selby,"Science, engineering and production technicians n.e.c.",260
 Selby,Hotel and accommodation managers and proprietors,250
 Selby,Farmers,120
 Selby,"Sports coaches, instructors and officials",108
-Selby,Care workers and home carers,86
 Selby,Engineering professionals n.e.c.,86
+Selby,Care workers and home carers,86
 Selby,Production managers and directors in manufacturing,71
 Selby,Production managers and directors in construction,70
 Selby,Elementary construction occupations,70
@@ -1033,11 +1029,11 @@ Selby,Programmers and software development professionals,29
 Selby,Chemical and related process operatives,28
 Selby,IT user support technicians,28
 Selby,Nursery nurses and assistants,27
-Selby,Electrical engineers,27
 Selby,Primary and nursery education teaching professionals,27
+Selby,Electrical engineers,27
 Selby,Cleaning and housekeeping managers and supervisors,24
-Selby,Carpenters and joiners,23
 Selby,Marketing and sales directors,23
+Selby,Carpenters and joiners,23
 Selby,Welfare and housing associate professionals n.e.c.,21
 Selby,Restaurant and catering establishment managers and proprietors,20
 Selby,Managers and proprietors in agriculture and horticulture,20
@@ -1045,23 +1041,23 @@ Selby,Social services managers and directors,20
 Selby,Agricultural machinery drivers,20
 Selby,Electroplaters,20
 Selby,Printers,20
-Selby,Telephonists,19
 Selby,Human resources and industrial relations officers,19
 Selby,Chartered and certified accountants,19
-Selby,"IT business analysts, architects and systems designers",18
+Selby,Telephonists,19
 Selby,"Book-keepers, payroll managers and wages clerks",18
+Selby,"IT business analysts, architects and systems designers",18
 Selby,Customer service managers and supervisors,17
 Selby,Business and financial project management professionals,16
 Selby,Electricians and electrical fitters,15
 Selby,Plumbers and heating and ventilating engineers,12
 Selby,Call and contact centre occupations,12
-Selby,Large goods vehicle drivers,11
-Selby,Animal care services occupations n.e.c.,11
 Selby,Chief executives and senior officials,11
+Selby,Animal care services occupations n.e.c.,11
+Selby,Large goods vehicle drivers,11
 Selby,Marine and waterways transport operatives,10
 Selby,Mechanical engineers,10
-Selby,Purchasing managers and directors,9
 Selby,IT operations technicians,9
+Selby,Purchasing managers and directors,9
 Selby,Civil engineers,9
 Selby,Buyers and procurement officers,8
 Selby,Vehicle body builders and repairers,8
@@ -1080,28 +1076,28 @@ Selby,Vehicle and parts salespersons and advisers,6
 Selby,"Authors, writers and translators",6
 Selby,Security guards and related occupations,6
 Selby,Catering and bar managers,6
+Selby,Fork-lift truck drivers,5
 Selby,Quality assurance and regulatory professionals,5
-Selby,Financial administrative occupations n.e.c.,5
 Selby,Business and related associate professionals n.e.c.,5
 Selby,Quality control and planning engineers,5
 Selby,Assemblers (vehicles and metal goods),5
-Selby,Fork-lift truck drivers,5
+Selby,Financial administrative occupations n.e.c.,5
 Selby,Medical and dental technicians,5
 Selby,Metal working machine operatives,5
 Selby,Quality assurance technicians,5
 Selby,Farm workers,5
-Selby,Web design and development professionals,4
-Selby,Managers and directors in transport and distribution,4
-Wakefield,Care workers and home carers,14994
-Wakefield,Nurses,3891
+Selby,Financial managers and directors,4
+Selby,Special needs education teaching professionals,4
+Wakefield,Care workers and home carers,14955
+Wakefield,Nurses,3890
 Wakefield,Pharmacists,2130
 Wakefield,Primary and nursery education teaching professionals,2029
 Wakefield,Teaching and other educational professionals n.e.c.,1985
 Wakefield,Chartered and certified accountants,1262
 Wakefield,Sales related occupations n.e.c.,1210
-Wakefield,Programmers and software development professionals,1129
+Wakefield,Programmers and software development professionals,1128
 Wakefield,Marketing and sales directors,1105
-Wakefield,Other administrative occupations n.e.c.,1080
+Wakefield,Other administrative occupations n.e.c.,1079
 Wakefield,Secondary education teaching professionals,967
 Wakefield,"Book-keepers, payroll managers and wages clerks",957
 Wakefield,Teaching assistants,886
@@ -1116,17 +1112,17 @@ Wakefield,Health services and public health managers and directors,525
 Wakefield,Therapy professionals n.e.c.,516
 Wakefield,Health associate professionals n.e.c.,488
 Wakefield,Business and financial project management professionals,469
-Wakefield,Marketing associate professionals,451
+Wakefield,Marketing associate professionals,452
 Wakefield,Cleaners and domestics,443
 Wakefield,Elementary storage occupations,441
 Wakefield,Engineering professionals n.e.c.,429
 Wakefield,Management consultants and business analysts,425
 Wakefield,Social workers,420
-Wakefield,Customer service occupations n.e.c.,415
+Wakefield,Customer service occupations n.e.c.,417
 Wakefield,Customer service managers and supervisors,393
 Wakefield,Business sales executives,367
 Wakefield,Information technology and telecommunications professionals n.e.c.,359
-Wakefield,IT user support technicians,357
+Wakefield,IT user support technicians,354
 Wakefield,Finance and investment analysts and advisers,293
 Wakefield,Elementary administration occupations n.e.c.,289
 Wakefield,Solicitors,287
@@ -1138,7 +1134,7 @@ Wakefield,"Residential, day and domiciliary  care managers and proprietors",254
 Wakefield,Electrical and electronic trades n.e.c.,252
 Wakefield,Senior care workers,247
 Wakefield,IT operations technicians,243
-Wakefield,Metal working machine operatives,241
+Wakefield,Metal working machine operatives,242
 Wakefield,"Science, engineering and production technicians n.e.c.",231
 Wakefield,Financial administrative occupations n.e.c.,226
 Wakefield,Hairdressers and barbers,221
@@ -1147,21 +1143,21 @@ Wakefield,Van drivers,210
 Wakefield,Welding trades,205
 Wakefield,Production managers and directors in manufacturing,200
 Wakefield,IT project and programme managers,198
-Wakefield,Welfare and housing associate professionals n.e.c.,198
 Wakefield,Receptionists,195
+Wakefield,Welfare and housing associate professionals n.e.c.,195
 Wakefield,Credit controllers,190
 Wakefield,Social services managers and directors,179
 Wakefield,Office managers,178
 Wakefield,Legal associate professionals,173
-Wakefield,Plant and machine operatives n.e.c.,142
+Wakefield,Plant and machine operatives n.e.c.,143
 Wakefield,Personal assistants and other secretaries,137
 Wakefield,"Authors, writers and translators",136
 Wakefield,Higher education teaching professionals,135
 Wakefield,Construction and building trades supervisors,134
 Wakefield,Medical practitioners,125
 Wakefield,School midday and crossing patrol occupations,125
-Wakefield,Web design and development professionals,124
 Wakefield,Stock control clerks and assistants,122
+Wakefield,Web design and development professionals,120
 Wakefield,Business and related associate professionals n.e.c.,118
 Wakefield,Vocational and industrial trainers and instructors,117
 Wakefield,Mechanical engineers,108
@@ -1177,27 +1173,27 @@ Wakefield,Sports and leisure assistants,84
 Wakefield,Probation officers,83
 Wakefield,Health care practice managers,81
 Wakefield,Plumbers and heating and ventilating engineers,79
-Wakefield,Purchasing managers and directors,78
 Wakefield,Gardeners and landscape gardeners,78
-Wakefield,Electricians and electrical fitters,77
+Wakefield,Purchasing managers and directors,78
 Wakefield,Sales administrators,77
-Wakefield,Production managers and directors in construction,76
+Wakefield,Electricians and electrical fitters,77
 Wakefield,"Glaziers, window fabricators and fitters",76
+Wakefield,Production managers and directors in construction,76
 Wakefield,Pharmaceutical technicians,76
 Wakefield,Managers and directors in storage and warehousing,74
 Wakefield,Elementary construction occupations,73
 Wakefield,Civil engineers,72
 Wakefield,Chefs,72
 Wakefield,Electrical engineers,70
+Wakefield,Caretakers,69
 Wakefield,Legal secretaries,66
 Wakefield,Health and safety officers,65
-Wakefield,"Property, housing and estate managers",64
 York,Driving instructors,35958
-York,Nurses,4703
-York,Programmers and software development professionals,1474
+York,Nurses,4702
+York,Programmers and software development professionals,1473
 York,Quantity surveyors,1419
-York,Managers and proprietors in other services n.e.c.,1285
-York,Sales related occupations n.e.c.,1241
+York,Managers and proprietors in other services n.e.c.,1281
+York,Sales related occupations n.e.c.,1240
 York,Estate agents and auctioneers,1067
 York,Sales accounts and business development managers,1035
 York,Health services and public health managers and directors,874
@@ -1208,29 +1204,29 @@ York,Medical radiographers,718
 York,"Property, housing and estate managers",683
 York,Civil engineers,681
 York,"IT business analysts, architects and systems designers",622
-York,Other administrative occupations n.e.c.,579
+York,Other administrative occupations n.e.c.,578
 York,Production managers and directors in construction,541
 York,Engineering technicians,467
 York,Management consultants and business analysts,463
 York,Engineering professionals n.e.c.,459
 York,Human resources and industrial relations officers,448
 York,Information technology and telecommunications professionals n.e.c.,426
-York,IT operations technicians,425
+York,IT operations technicians,422
 York,Medical and dental technicians,413
 York,IT user support technicians,412
 York,Construction project managers and related professionals,409
 York,Customer service occupations n.e.c.,408
 York,Higher education teaching professionals,397
-York,Buyers and procurement officers,352
+York,Buyers and procurement officers,351
 York,Physiotherapists,328
 York,Chartered surveyors,315
-York,Production managers and directors in manufacturing,310
 York,Web design and development professionals,310
+York,Production managers and directors in manufacturing,310
 York,Electricians and electrical fitters,271
 York,Chartered architectural technologists,262
 York,Mechanical engineers,261
 York,Caretakers,253
-York,IT project and programme managers,248
+York,IT project and programme managers,247
 York,Catering and bar managers,247
 York,Architects,238
 York,Plumbers and heating and ventilating engineers,237
@@ -1243,33 +1239,33 @@ York,Teaching and other educational professionals n.e.c.,212
 York,Design and development engineers,206
 York,"Book-keepers, payroll managers and wages clerks",199
 York,Customer service managers and supervisors,186
-York,Marketing associate professionals,182
+York,Marketing associate professionals,181
 York,"Planning, process and production technicians",181
 York,Draughtspersons,179
-York,Carpenters and joiners,179
+York,Carpenters and joiners,178
 York,"Science, engineering and production technicians n.e.c.",175
 York,Electrical engineers,174
-York,Elementary storage occupations,170
+York,Elementary storage occupations,169
 York,Nursing auxiliaries and assistants,159
 York,Health and safety officers,150
 York,Pharmacists,149
 York,Care workers and home carers,147
 York,Purchasing managers and directors,145
 York,Gardeners and landscape gardeners,143
-York,Chartered and certified accountants,137
 York,Veterinarians,137
+York,Chartered and certified accountants,137
 York,"Authors, writers and translators",129
 York,Office managers,120
 York,Construction and building trades supervisors,119
 York,Teaching assistants,119
 York,Cleaners and domestics,118
-York,Receptionists,113
-York,Human resource managers and directors,109
-York,Senior professionals of educational establishments,109
+York,Receptionists,114
 York,Metal working production and maintenance fitters,109
+York,Senior professionals of educational establishments,108
+York,Human resource managers and directors,107
 York,Elementary construction occupations,104
-York,Business and related associate professionals n.e.c.,104
 York,Business sales executives,104
+York,Business and related associate professionals n.e.c.,104
 York,Quality control and planning engineers,103
 York,Financial managers and directors,98
 York,Quality assurance and regulatory professionals,97
@@ -1281,114 +1277,14 @@ York,Electrical and electronic trades n.e.c.,86
 York,Sales and retail assistants,83
 York,Sales administrators,79
 York,Electrical and electronics technicians,79
-York,Primary and nursery education teaching professionals,78
 York,Health professionals n.e.c.,75
 York,Managers and directors in storage and warehousing,74
 York,Financial accounts managers,72
-York,Stock control clerks and assistants,70
 York,Business and related research professionals,70
+York,Stock control clerks and assistants,70
 York,"Business, research and administrative professionals n.e.c.",69
 York,Animal care services occupations n.e.c.,69
 York,Plant and machine operatives n.e.c.,67
-York,Security guards and related occupations,65
 York,Metal working machine operatives,64
-York,Driving instructors,35958
-York,Nurses,4703
-York,Programmers and software development professionals,1474
-York,Quantity surveyors,1419
-York,Managers and proprietors in other services n.e.c.,1285
-York,Sales related occupations n.e.c.,1241
-York,Estate agents and auctioneers,1067
-York,Sales accounts and business development managers,1035
-York,Health services and public health managers and directors,874
-York,Marketing and sales directors,783
-York,"Estimators, valuers and assessors",763
-York,Business and financial project management professionals,723
-York,Medical radiographers,718
-York,"Property, housing and estate managers",683
-York,Civil engineers,681
-York,"IT business analysts, architects and systems designers",622
-York,Other administrative occupations n.e.c.,579
-York,Production managers and directors in construction,541
-York,Engineering technicians,467
-York,Management consultants and business analysts,463
-York,Engineering professionals n.e.c.,459
-York,Human resources and industrial relations officers,448
-York,Information technology and telecommunications professionals n.e.c.,426
-York,IT operations technicians,425
-York,Medical and dental technicians,413
-York,IT user support technicians,412
-York,Construction project managers and related professionals,409
-York,Customer service occupations n.e.c.,408
-York,Higher education teaching professionals,397
-York,Buyers and procurement officers,352
-York,Physiotherapists,328
-York,Chartered surveyors,315
-York,Production managers and directors in manufacturing,310
-York,Web design and development professionals,310
-York,Electricians and electrical fitters,271
-York,Chartered architectural technologists,262
-York,Mechanical engineers,261
-York,Caretakers,253
-York,IT project and programme managers,248
-York,Catering and bar managers,247
-York,Architects,238
-York,Plumbers and heating and ventilating engineers,237
-York,Leisure and sports managers,232
-York,Sales supervisors,227
-York,Solicitors,218
-York,Elementary administration occupations n.e.c.,216
-York,Veterinary nurses,214
-York,Teaching and other educational professionals n.e.c.,212
-York,Design and development engineers,206
-York,"Book-keepers, payroll managers and wages clerks",199
-York,Customer service managers and supervisors,186
-York,Marketing associate professionals,182
-York,"Planning, process and production technicians",181
-York,Draughtspersons,179
-York,Carpenters and joiners,179
-York,"Science, engineering and production technicians n.e.c.",175
-York,Electrical engineers,174
-York,Elementary storage occupations,170
-York,Nursing auxiliaries and assistants,159
-York,Health and safety officers,150
-York,Pharmacists,149
-York,Care workers and home carers,147
-York,Purchasing managers and directors,145
-York,Gardeners and landscape gardeners,143
-York,Chartered and certified accountants,137
-York,Veterinarians,137
-York,"Authors, writers and translators",129
-York,Office managers,120
-York,Construction and building trades supervisors,119
-York,Teaching assistants,119
-York,Cleaners and domestics,118
-York,Receptionists,113
-York,Human resource managers and directors,109
-York,Senior professionals of educational establishments,109
-York,Metal working production and maintenance fitters,109
-York,Elementary construction occupations,104
-York,Business and related associate professionals n.e.c.,104
-York,Business sales executives,104
-York,Quality control and planning engineers,103
-York,Financial managers and directors,98
-York,Quality assurance and regulatory professionals,97
-York,Information technology and telecommunications directors,93
-York,Financial administrative occupations n.e.c.,92
-York,Records clerks and assistants,89
-York,Medical practitioners,89
-York,Electrical and electronic trades n.e.c.,86
-York,Sales and retail assistants,83
-York,Sales administrators,79
-York,Electrical and electronics technicians,79
-York,Primary and nursery education teaching professionals,78
-York,Health professionals n.e.c.,75
-York,Managers and directors in storage and warehousing,74
-York,Financial accounts managers,72
-York,Stock control clerks and assistants,70
-York,Business and related research professionals,70
-York,"Business, research and administrative professionals n.e.c.",69
-York,Animal care services occupations n.e.c.,69
-York,Plant and machine operatives n.e.c.,67
-York,Security guards and related occupations,65
-York,Metal working machine operatives,64
+York,Security guards and related occupations,64
+York,Transport and distribution clerks and assistants,63

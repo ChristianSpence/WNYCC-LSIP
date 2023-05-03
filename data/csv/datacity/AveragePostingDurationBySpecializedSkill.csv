@@ -1,10 +1,10 @@
 LA,Thing,Count
+Bradford,User Accounts,60
 Bradford,Systems Design,60
 Bradford,Vendor Relationship Management,60
 Bradford,Product Innovation,60
 Bradford,RACI Matrix,60
 Bradford,Multi-Channel Marketing,60
-Bradford,User Accounts,60
 Bradford,CentOS,60
 Bradford,Bulk Material Handling,60
 Bradford,Trenching,60
@@ -56,7 +56,7 @@ Bradford,Balancing (Ledger/Billing),50.0454545454545
 Bradford,Nutrition Services,50
 Bradford,Windows Remote Assistance,50
 Bradford,Material Requirements Planning,49.8095238095238
-Bradford,Stock Management,49.75
+Bradford,Stock Management,49.6551724137931
 Bradford,Computer-Aided Design,49.6363636363636
 Bradford,Enterprise Application Software,49.2222222222222
 Bradford,Response Rate,49.1
@@ -65,9 +65,9 @@ Bradford,Space Planning,49
 Bradford,Google Search Console,49
 Bradford,Electrical Sockets,48.8823529411765
 Bradford,Instagram,48.4827586206897
-Bradford,AutoCAD,48.4347826086956
 Bradford,WebKit,48.34375
 Bradford,Flexbox,48.34375
+Bradford,AutoCAD,48.2272727272727
 Bradford,CNC Machining,48.2222222222222
 Bradford,Profitability Analysis,48.1764705882353
 Bradford,Service Design,48.1666666666667
@@ -75,10 +75,10 @@ Bradford,Wide Area Networks,47.7777777777778
 Bradford,Local Area Networks,47.7647058823529
 Bradford,Waterfall Methodology,47.6666666666667
 Bradford,Business Process Mapping,47.5882352941176
-Bradford,Subcontracting,47.52
 Bradford,Supplier Relationship Management,47.4285714285714
 Bradford,Operational Efficiency,47.4210526315789
 Bradford,TCP/IP,47.3157894736842
+Bradford,Subcontracting,47.25
 Bradford,Inventory Planning,47
 Bradford,Customer Engagement,46.6190476190476
 Bradford,Computer Numerical Control (CNC),46.5454545454545
@@ -90,6 +90,7 @@ Bradford,Postman API Platform,46
 Bradford,Legal Knowledge,46
 Bradford,Legislation,46
 Bradford,Economics,45.8333333333333
+Bradford,Project Governance,45.7894736842105
 Bradford,Change Requests,45.6315789473684
 Bradford,Pivot Tables And Charts,45.2222222222222
 Bradford,Cost Control,45
@@ -98,8 +99,6 @@ Bradford,Ethical Hacking,45
 Bradford,Technical Assistance,45
 Bradford,Microsoft OneNote,45
 Bradford,Hardware Virtualization,45
-Bradford,Hardware Troubleshooting,45
-Calderdale,Sales Engineering,53.25
 Calderdale,Working Capital,50.1
 Calderdale,Health And Safety Standards,50
 Calderdale,VAT Returns,48.2
@@ -107,12 +106,12 @@ Calderdale,Production Planning,48
 Calderdale,Profit And Loss (P&L) Management,47.7857142857143
 Calderdale,SAP Applications,46
 Calderdale,Sales Management,45.2857142857143
+Calderdale,WebKit,43.8
 Calderdale,Quality Management Systems,43
 Calderdale,Balance Sheet,43
 Calderdale,Financial Statements,42.8888888888889
 Calderdale,Journals,42
 Calderdale,Credit Control,40.375
-Calderdale,WebKit,39.75
 Calderdale,Cold Calling,39.75
 Calderdale,Electrical Engineering,39.5
 Calderdale,Production Process,39.1428571428571
@@ -121,6 +120,7 @@ Calderdale,Management Accounting,38.8125
 Calderdale,ISO 9000 Series,38.75
 Calderdale,Plastering,38.5
 Calderdale,Construction,38
+Calderdale,Operating Systems,37.75
 Calderdale,Personal Care,37.6666666666667
 Calderdale,C (Programming Language),37.5555555555556
 Calderdale,Sage 50 (Accounting Software),37.5
@@ -131,7 +131,6 @@ Calderdale,Business Development,36.9375
 Calderdale,Painting,36.8888888888889
 Calderdale,Production Management,36.6666666666667
 Calderdale,Power Tool Operation,36.25
-Calderdale,Operating Systems,36.2
 Calderdale,Account Management,35.8
 Calderdale,Quotations,35.1428571428571
 Calderdale,Plumbing,35
@@ -139,8 +138,8 @@ Calderdale,Instagram,35
 Calderdale,Carpentry,34.75
 Calderdale,Hand Tools,34.7142857142857
 Calderdale,Business Process,34.6666666666667
-Calderdale,Risk Analysis,34.1666666666667
 Calderdale,Strategic Planning,34.1111111111111
+Calderdale,Risk Analysis,33.9411764705882
 Calderdale,Presentation Skills,33.5333333333333
 Calderdale,Maintenance Engineering,33.375
 Calderdale,Analytics,33.2
@@ -149,19 +148,19 @@ Calderdale,Bookkeeping,32.9
 Calderdale,Fabrication,32.75
 Calderdale,Warehousing,32.7391304347826
 Calderdale,Upselling,32.6
-Calderdale,Marketing,32.4897959183674
 Calderdale,Facility Management,32.4
-Calderdale,Roofing,32.25
 Calderdale,Procurement,32.25
+Calderdale,Roofing,32.25
+Calderdale,Marketing,32.125
 Calderdale,3D Modeling,32
+Calderdale,Cascading Style Sheets (CSS),31.875
 Calderdale,Customer Relationship Management,31.84375
 Calderdale,Office Administration,31.7142857142857
-Calderdale,Software Development,31.6666666666667
 Calderdale,Marketing Management,31.6
 Calderdale,Postpartum Care,31.5714285714286
 Calderdale,Adobe Illustrator,31.5714285714286
 Calderdale,Housekeeping,31.3571428571429
-Calderdale,Selling Techniques,30.875
+Calderdale,Selling Techniques,30.9333333333333
 Calderdale,Commissioning,30.8571428571429
 Calderdale,Key Performance Indicators (KPIs),30.85
 Calderdale,Sales Process,30.6666666666667
@@ -171,7 +170,6 @@ Calderdale,Finance,30.2142857142857
 Calderdale,Auditing,29.6666666666667
 Calderdale,Microsoft Azure,29.6
 Calderdale,Invoicing,29.2424242424242
-Calderdale,Mental Health,29.125
 Calderdale,Development Environment,29
 Calderdale,Numeracy,28.969696969697
 Calderdale,Lean Manufacturing,28.9090909090909
@@ -180,12 +178,10 @@ Calderdale,Supply Chain,28.5555555555556
 Calderdale,Purchasing,28.5333333333333
 Calderdale,Workflow Management,28.2
 Calderdale,Machine Operation,28
-Calderdale,Stock Control,27.9411764705882
 Calderdale,External Auditing,27.8571428571429
-Calderdale,Cascading Style Sheets (CSS),27.8571428571429
 Calderdale,HyperText Markup Language (HTML),27.8
-Calderdale,Business To Business,27.625
 Calderdale,Ledgers (Accounting),27.5
+Calderdale,Business To Business,27.4666666666667
 Calderdale,Operations Management,27.3636363636364
 Calderdale,Palletizing,27.3333333333333
 Calderdale,Customer Inquiries,27.2857142857143
@@ -199,6 +195,10 @@ Calderdale,Mechanical Engineering,26.2608695652174
 Calderdale,Financial Management,26.25
 Calderdale,Performance Management,26.125
 Calderdale,Safety Standards,26.0833333333333
+Calderdale,Stock Control,25.9375
+Calderdale,Newsletters,25.5
+Calderdale,Adobe InDesign,25
+Calderdale,Copywriting,25
 Craven,Data Entry,49.125
 Craven,Ledgers (Accounting),41.6666666666667
 Craven,Service Quality,40.8888888888889
@@ -214,9 +214,8 @@ Craven,Stock Control,34
 Craven,Marketing,33.5862068965517
 Craven,New Product Development,33
 Craven,Booking (Sales),32.4
-Craven,Construction,32
-Craven,Sales Process,31.8
 Craven,Presentation Skills,31.8
+Craven,Sales Process,31.8
 Craven,Forklift Truck,31.75
 Craven,Market Research,31.5
 Craven,Purchasing,31.3636363636364
@@ -224,15 +223,16 @@ Craven,Administrative Support,30.875
 Craven,Finance,30.8235294117647
 Craven,Customer Relationship Management,30.6666666666667
 Craven,Marketing Materials,29.5
+Craven,Construction,29.5
 Craven,Information Privacy,29.4
 Craven,Risk Analysis,29.1875
 Craven,Account Management,28.8888888888889
 Craven,Mechanical Engineering,28.6
 Craven,Calculations,28.3333333333333
-Craven,Machinery,28.1666666666667
 Craven,Auditing,28.1333333333333
 Craven,Accounting,27.2727272727273
 Craven,Numeracy,26.6666666666667
+Craven,Machinery,26.4545454545455
 Craven,Environment Health And Safety,26.2857142857143
 Craven,Data Analysis,26.1666666666667
 Craven,Business Development,23.5833333333333
@@ -266,15 +266,16 @@ Hambleton,Key Performance Indicators (KPIs),30.6153846153846
 Hambleton,Purchasing,30.4
 Hambleton,Invoicing,30.2307692307692
 Hambleton,Metal Inert Gas (MIG) Welding,30.1428571428571
-Hambleton,Manual Handling,30
 Hambleton,Finance,30
 Hambleton,Supply Chain,30
+Hambleton,Manual Handling,30
 Hambleton,Credit Control,29.8
 Hambleton,Marketing,29.2941176470588
 Hambleton,Fabrication,29.2
 Hambleton,Food Safety And Sanitation,28.7
 Hambleton,Stock Control,28.6
 Hambleton,Auditing,28.2307692307692
+Hambleton,Data Entry,27.2857142857143
 Hambleton,Production Planning,26.1428571428571
 Hambleton,Warehousing,25.875
 Hambleton,New Product Development,25.5555555555556
@@ -284,71 +285,75 @@ Hambleton,Help Desk Support,19.1666666666667
 Harrogate,Manufacturing Processes,55.5
 Harrogate,Visual Merchandising,53.5
 Harrogate,Financial Accounting,50
+Harrogate,Surveys,49.5
 Harrogate,Product Knowledge,48.4444444444444
 Harrogate,Business Strategies,48.3333333333333
-Harrogate,SAP Applications,47.4
 Harrogate,Electrical Engineering,46.625
 Harrogate,Upselling,46.2857142857143
-Harrogate,Corrective And Preventive Action (CAPA),45
+Harrogate,SAP Applications,45.3333333333333
 Harrogate,Standard Operating Procedure,45
 Harrogate,Operations Support Systems,44.625
+Harrogate,Engineering Design Process,44.6
 Harrogate,Templates,44.5
 Harrogate,Payroll Processing,44.5
+Harrogate,Cash Flow Forecasting,44.3333333333333
 Harrogate,Technical Drawing,44.3
-Harrogate,Python (Programming Language),44.25
-Harrogate,VAT Returns,44.25
 Harrogate,Psychology,44.25
+Harrogate,Python (Programming Language),44.25
 Harrogate,Technical Engineering,44.125
 Harrogate,Safety Training,44
-Harrogate,Engineering Design Process,43.6666666666667
 Harrogate,Brochures,43.6666666666667
 Harrogate,Information Privacy,43.6
-Harrogate,Xero (Accounting Software),43.1666666666667
+Harrogate,VAT Returns,43
 Harrogate,Booking (Sales),42.8275862068966
+Harrogate,Corrective And Preventive Action (CAPA),42.75
 Harrogate,Mechanical Design,42.5
+Harrogate,Xero (Accounting Software),42.4285714285714
 Harrogate,Dementia Care,42.4285714285714
 Harrogate,Production Management,42.1818181818182
 Harrogate,Stock Rotation,42
+Harrogate,Stakeholder Communications,41.7
 Harrogate,Photography,41.6666666666667
+Harrogate,Mechanical Engineering,41.375
 Harrogate,Mopping,41.2
 Harrogate,Marketing Materials,41
 Harrogate,Postpartum Care,40.8
-Harrogate,Environment Health And Safety,40.2857142857143
 Harrogate,Palletizing,40.2
 Harrogate,Machinery,40.1739130434783
 Harrogate,Quotations,40
-Harrogate,Mobile Application Development,40
 Harrogate,Accounts Payable,40
-Harrogate,Stakeholder Communications,39.6666666666667
-Harrogate,Surveying,39.6
-Harrogate,Mechanical Engineering,39.5714285714286
-Harrogate,Medication Administration,39.4615384615385
+Harrogate,Mobile Application Development,40
+Harrogate,Subcontracting,39.4285714285714
 Harrogate,Bookkeeping,39.2857142857143
 Harrogate,Employee Engagement,39.2
 Harrogate,Labor Law,39.1428571428571
+Harrogate,Environment Health And Safety,39.125
 Harrogate,Sales Process,39.0909090909091
 Harrogate,Forklift Truck,39.0714285714286
 Harrogate,Digital Communications,38.8571428571429
 Harrogate,Warehousing,38.6969696969697
 Harrogate,Scripting,38.5
+Harrogate,Business Process,38.4166666666667
 Harrogate,Manual Handling,38.3333333333333
+Harrogate,Medication Administration,38.1666666666667
 Harrogate,Graphic Design,38.1428571428571
 Harrogate,Presentation Skills,37.7692307692308
 Harrogate,Construction,37.75
 Harrogate,Fabrication,37.7142857142857
-Harrogate,Instagram,37.5
 Harrogate,Customer Engagement,37.5
+Harrogate,Instagram,37.5
 Harrogate,Restaurant Operation,37.4444444444444
+Harrogate,C# (Programming Language),37.4
 Harrogate,Sales Management,37.375
+Harrogate,Performance Management,37.3
 Harrogate,Automation,37.1428571428571
 Harrogate,Sales Support,37.0909090909091
-Harrogate,Business Process,37.0769230769231
-Harrogate,Subcontracting,37
 Harrogate,ISO 9000 Series,37
 Harrogate,Business Requirements,37
-Harrogate,Microsoft Azure,36.8888888888889
 Harrogate,Data Management,36.8888888888889
+Harrogate,Microsoft Azure,36.8888888888889
 Harrogate,Adobe Creative Suite,36.875
+Harrogate,AutoCAD,36.8181818181818
 Harrogate,Financial Analysis,36.75
 Harrogate,Microsoft Office 365,36.7272727272727
 Harrogate,Employee Relations,36.6666666666667
@@ -356,132 +361,129 @@ Harrogate,Cross-Selling,36.5714285714286
 Harrogate,Web Analytics,36.5714285714286
 Harrogate,Cash Handling,36.5
 Harrogate,Food Safety And Sanitation,36.4444444444444
-Harrogate,Key Performance Indicators (KPIs),36.40625
+Harrogate,Business Support Systems,36.375
 Harrogate,Landscaping,36.3333333333333
 Harrogate,Direct Selling,36.3333333333333
 Harrogate,Painting,36.3
 Harrogate,Lean Manufacturing,36.2857142857143
 Harrogate,Adobe Photoshop,36.1428571428571
-Harrogate,Business Support Systems,36.1428571428571
-Harrogate,Performance Management,36.1111111111111
+Harrogate,Key Performance Indicators (KPIs),36.1212121212121
 Harrogate,Risk Analysis,36
-Harrogate,Technical Sales,36
 Harrogate,Vehicle Maintenance,36
+Harrogate,Technical Sales,36
 Harrogate,Service-Level Agreement,36
 Harrogate,Help Desk Support,35.8181818181818
-Harrogate,Housekeeping,35.7586206896552
 Harrogate,Continuous Improvement Process,35.7272727272727
 Harrogate,Marketing Management,35.6923076923077
 Harrogate,Food Services,35.6666666666667
-Harrogate,Administrative Support,35.6111111111111
+Harrogate,Housekeeping,35.6
 Harrogate,Merchandising,35.3
-Harrogate,Invoicing,35.2424242424242
+Harrogate,Invoicing,35.2941176470588
 Harrogate,Account Management,35.2380952380952
-Harrogate,AutoCAD,35.2
 Harrogate,Adobe InDesign,35.1666666666667
 Harrogate,Proofreading,35
-Harrogate,Enterprise Resource Planning,34.9090909090909
 Kirklees,Network Switches,53.2857142857143
 Kirklees,Electric Power Distribution,52.5454545454545
 Kirklees,Blended Learning,52
 Kirklees,Issue Tracking,51.5555555555556
 Kirklees,Remittance,51
-Kirklees,Aluminum,50.6666666666667
 Kirklees,Blog Posts,49.7142857142857
-Kirklees,Good Manufacturing Practices,49.1666666666667
 Kirklees,Project Documentation,49
-Kirklees,Employee Engagement,48.75
-Kirklees,Electrical Systems,47.6666666666667
+Kirklees,Process Engineering,48
 Kirklees,Market Share,47.6666666666667
+Kirklees,Electrical Systems,47.6666666666667
+Kirklees,Logistics Management,47.5
 Kirklees,Customer Demand Planning,47.2
 Kirklees,Gas Tungsten Arc Welding,47
 Kirklees,Balancing (Ledger/Billing),46.25
+Kirklees,Management Information Systems,46.25
 Kirklees,Supply Chain Planning,46.2222222222222
 Kirklees,Peripheral Devices,45.875
 Kirklees,Test Engineering,45.5555555555556
 Kirklees,Commissioning,45.5
-Kirklees,Process Engineering,45
-Kirklees,WebKit,44.8888888888889
-Kirklees,Flexbox,44.8888888888889
-Kirklees,Logistics Management,44.4
+Kirklees,WebKit,45
+Kirklees,Flexbox,45
 Kirklees,Construction Management,44.3333333333333
 Kirklees,Help Desk Support,43.8181818181818
 Kirklees,Cold Calling,43.7142857142857
-Kirklees,Travel Arrangements,43.6
 Kirklees,Performance Review,43.3333333333333
 Kirklees,Product Design,43.1875
-Kirklees,Event Management,43
+Kirklees,Bill Of Materials,43.1666666666667
 Kirklees,Upselling,43
+Kirklees,Production Process,43
+Kirklees,Internal Auditing,42.6666666666667
+Kirklees,Customer Support,42.5714285714286
+Kirklees,Telemarketing,42.4
 Kirklees,Demonstration Skills,42.3333333333333
 Kirklees,React.js,42.2857142857143
 Kirklees,Alarm Devices,42.25
-Kirklees,Production Planning,42.2105263157895
-Kirklees,Internal Auditing,42.1
 Kirklees,Project Portfolio Management,42
-Kirklees,Programmable Logic Controllers,42
 Kirklees,Competitor Analysis,42
-Kirklees,Sheet Metal,41.8571428571429
-Kirklees,Fabrication,41.8333333333333
+Kirklees,Production Planning,41.8888888888889
 Kirklees,Firewall,41.75
 Kirklees,Mechanical Design,41.6666666666667
 Kirklees,Quality Improvement,41.6666666666667
-Kirklees,Engineering Drawings,41.6153846153846
+Kirklees,Product Knowledge,41.551724137931
 Kirklees,Civil Engineering,41.5
 Kirklees,Social Media Campaigns,41.5
-Kirklees,Product Knowledge,41.4333333333333
 Kirklees,E-Commerce,41.3846153846154
-Kirklees,Telemarketing,41.3333333333333
-Kirklees,Food Safety And Sanitation,41.3125
 Kirklees,Control Systems,41.2857142857143
-Kirklees,Food Manufacturing,41.125
+Kirklees,Technical Training,41.25
+Kirklees,Standard Operating Procedure,41.1666666666667
 Kirklees,Market Intelligence,41.125
+Kirklees,Health And Safety Standards,41
 Kirklees,Futures Exchange,41
+Kirklees,Fabrication,41
+Kirklees,Logistics,41
 Kirklees,Ad Hoc Reporting,41
-Kirklees,Production Process,40.875
-Kirklees,Technical Training,40.8461538461538
 Kirklees,Financial Analysis,40.8333333333333
+Kirklees,Contract Management,40.8235294117647
+Kirklees,Distance Learning,40.8
 Kirklees,Performance Reporting,40.75
-Kirklees,Customer Support,40.6666666666667
 Kirklees,Internal Communications,40.6666666666667
-Kirklees,Distance Learning,40.5714285714286
-Kirklees,Welding,40.5454545454545
+Kirklees,Root Cause Analysis,40.6666666666667
+Kirklees,Engineering Drawings,40.5833333333333
 Kirklees,Grinding,40.5
+Kirklees,Sheet Metal,40.5
 Kirklees,Product Testing,40.4
 Kirklees,Marketing Planning,40.3333333333333
-Kirklees,Data Science,40.2222222222222
-Kirklees,Electronics,40.1666666666667
+Kirklees,Production Engineering,40.2
 Kirklees,Journals,40.1666666666667
 Kirklees,Bank Reconciliations,40.1428571428571
 Kirklees,Quality Management,40.1111111111111
 Kirklees,Growth Strategies,40.0833333333333
 Kirklees,Full Stack Development,40
 Kirklees,HVAC,39.9230769230769
-Kirklees,Software Engineering,39.8571428571429
-Kirklees,Standard Operating Procedure,39.7142857142857
+Kirklees,Phone Sales,39.7777777777778
 Kirklees,Social Media Marketing,39.6666666666667
-Kirklees,Electronic Point Of Sale,39.625
-Kirklees,Logistics,39.5714285714286
-Kirklees,Root Cause Analysis,39.2857142857143
+Kirklees,Hand Tools,39.5555555555556
+Kirklees,Welding,39.5
+Kirklees,Electronics,39.4285714285714
+Kirklees,Data Science,39.4
+Kirklees,Cooking,39.2222222222222
 Kirklees,Operations Support Systems,39.1666666666667
-Kirklees,Production Engineering,39.1666666666667
 Kirklees,Benchmarking,39.0909090909091
-Kirklees,Contract Management,39.0555555555556
-Kirklees,Data Capture,39
 Kirklees,Operating Systems,39
-Kirklees,Bill Of Materials,39
-Kirklees,Management Information Systems,39
+Kirklees,Data Capture,39
 Kirklees,Business To Business,38.7777777777778
-Kirklees,Finished Good,38.7777777777778
-Kirklees,Forklift Truck,38.6666666666667
+Kirklees,Forklift Truck,38.65
 Kirklees,Supervisory Control And Data Acquisition (SCADA),38.6
-Kirklees,Risk Analysis,38.5555555555556
+Kirklees,Account Management,38.5384615384615
 Kirklees,Technical Services,38.5
-Kirklees,Hydraulics,38.4615384615385
-Kirklees,Account Management,38.3333333333333
-Kirklees,Hand Tools,38.3
+Kirklees,Electrical Engineering,38.3333333333333
+Kirklees,Finished Good,38.25
 Kirklees,Contract Of Sale,38.25
 Kirklees,Psychology,38.2
+Kirklees,New Business Development,38.1818181818182
+Kirklees,Risk Analysis,38.12
+Kirklees,Manufacturing Processes,38.0769230769231
+Kirklees,2D Computer-Aided Drafting And Design,38
+Kirklees,Brand Awareness,38
+Kirklees,Project Management Software,38
+Kirklees,Vehicle Maintenance,37.875
+Kirklees,Web Development,37.875
 Leeds,Cloudflare,60
+Leeds,Corporate Travel Management,60
 Leeds,Fire Management,60
 Leeds,Image Optimization,60
 Leeds,Risk Based Internal Auditing,59
@@ -489,98 +491,97 @@ Leeds,Remote Computing,59
 Leeds,Behavioural Problems,59
 Leeds,Romanian Language,58
 Leeds,Training Documentation,56
+Leeds,Energy Conservation,55
 Leeds,Virtual Environment,54
 Leeds,Caregiving,53
 Leeds,Poultry,52.1666666666667
-Leeds,Pediatric First Aid,52
 Leeds,Competitive Analysis,52
+Leeds,Pediatric First Aid,52
 Leeds,Hydrogeology,52
 Leeds,Pinterest,51.8
+Leeds,Food Technology,51.1818181818182
 Leeds,Pre-Clinical Development,50.8888888888889
-Leeds,PL/SQL,50.5
-Leeds,Cisco Meraki,50
 Leeds,Economic Growth,49.6666666666667
+Leeds,Cisco Meraki,49.1904761904762
 Leeds,Cabinetry,49
-Leeds,Telemetry,49
+Leeds,ISO 50001 Standard,49
 Leeds,SketchUp (3D Modeling Software),49
-Leeds,Mobile Device Management,48.8181818181818
 Leeds,Revenue Recognition,48.6666666666667
 Leeds,Environmental Engineering,48.25
-Leeds,Remote Desktop Services,48.1739130434783
+Leeds,Operating Cost,48.25
 Leeds,Environmental Quality,48.1666666666667
-Leeds,Fixed Asset Register,47.8
-Leeds,Food Technology,47.75
+Leeds,Meat Products,47.7777777777778
 Leeds,Virtual Classroom,47.75
+Leeds,Mobile Device Management,47.5217391304348
 Leeds,Environmental Issue,47.4545454545455
+Leeds,PL/SQL,47.4444444444444
 Leeds,Aftersales,47.3076923076923
+Leeds,Remote Desktop Services,47.2916666666667
 Leeds,Environmental Protocols,47.25
 Leeds,Project Closure,47.25
-Leeds,Energy Conservation,47.2
-Leeds,Invoice Matching,47.2
+Leeds,Marketing Concepts,47
 Leeds,Dual Fuel Smart Meter,47
-Leeds,Tax Preparation,47
 Leeds,Oxygen Therapy,47
 Leeds,Shopping Lists,47
 Leeds,Nail Care,47
 Leeds,Affiliate Marketing,46.9090909090909
-Leeds,Response Rate,46.8
+Leeds,Organisational Policies,46.8
 Leeds,Employee Assistance Programs,46.75
-Leeds,Organisational Policies,46.5
-Leeds,Digital Technology,46.5
 Leeds,Geology,46.0909090909091
+Leeds,Response Rate,45.8125
 Leeds,Design Reviews,45.7857142857143
 Leeds,People Services,45.75
 Leeds,Pressure Ulcer,45.7333333333333
-Leeds,Design Management,45.7142857142857
+Leeds,Machinery Repair And Maintenance,45.6666666666667
 Leeds,Medical Science,45.625
+Leeds,Elderly Care,45.6190476190476
 Leeds,Abrasive Blasting,45.3333333333333
 Leeds,Learning Support,45.15
 Leeds,Water Heaters,45.125
-Leeds,Gardening,44.8695652173913
+Leeds,Digital Technology,45
+Leeds,Design Management,45
 Leeds,Vibrations,44.8333333333333
 Leeds,Safety Audits,44.8214285714286
-Leeds,Benefits Realization Management,44.6666666666667
+Leeds,Equities,44.8
 Leeds,Design Strategies,44.6666666666667
+Leeds,Encryption,44.6
 Leeds,Mathematics Education,44.5
-Leeds,Switchboard Operator,44.4615384615385
-Leeds,Tactical Marketing,44.3333333333333
-Leeds,Paving,44.2857142857143
-Leeds,Lean Methodologies,44.25
-Leeds,Elderly Care,44.1818181818182
-Leeds,Workforce Planning,44.1666666666667
+Leeds,Paving,44.4666666666667
+Leeds,Cycle Counting,44.375
+Leeds,Business Process Improvement,44.2692307692308
 Leeds,Building Envelope,44.1428571428571
 Leeds,Lamination,44
+Leeds,Workforce Planning,44
 Leeds,Symfony,44
 Leeds,Waste Minimization,44
 Leeds,Document Object Model,43.9444444444444
-Leeds,Machinery Repair And Maintenance,43.7
-Leeds,Marketing Concepts,43.6666666666667
+Leeds,Switchboard Operator,43.8571428571429
+Leeds,Reengineering,43.8181818181818
+Leeds,Fixed Asset Register,43.6666666666667
 Leeds,Management Training,43.6363636363636
+Leeds,Gardening,43.5833333333333
 Leeds,Feasibility Studies,43.5454545454545
+Leeds,Standard Accounting Practices,43.5
 Leeds,Project Initiation Documentation,43.5
-Leeds,Business Process Improvement,43.2962962962963
 Leeds,Technical Writing,43.2666666666667
 Leeds,LinkedIn,43.25
 Leeds,User Feedback,43.25
 Leeds,Sketching,43.25
+Leeds,Radio Frequency,43.2222222222222
 Leeds,Bilingual (French/English),43.1666666666667
-Leeds,Ajax (Programming Language),43.1428571428571
-Leeds,Crystal Reports (Reporting Software),43.1111111111111
 Leeds,Discharge Summaries,43
-Leeds,Instrumentation,42.8333333333333
+Leeds,Digital Twin,42.8888888888889
 Leeds,Infrastructure Management,42.8333333333333
+Leeds,Instrumentation,42.8333333333333
 Leeds,Account-Based Marketing,42.8
-Leeds,Database Systems,42.7777777777778
-Leeds,Payroll Administration,42.7391304347826
-Leeds,Local Area Networks,42.7037037037037
-Leeds,Dynamic Host Configuration Protocol (DHCP),42.7
-Leeds,Reengineering,42.7
-Leeds,Hyper-V,42.6451612903226
+Leeds,Local Area Networks,42.6551724137931
+Leeds,Hyper-V,42.6060606060606
+Leeds,Dynamic Host Configuration Protocol (DHCP),42.5625
 Leeds,Retail Management,42.4
-Leeds,Compliance Reporting,42.4
 Leeds,Environmental Monitoring,42.3846153846154
 Leeds,Display Devices,42.375
-Leeds,Cash Collection,42.375
+Leeds,Regulatory Documents,42.3333333333333
+Leeds,Dispatching,42
 Richmondshire,Invoicing,45.1
 Ryedale,Machinery,38
 Ryedale,Housekeeping,35.5555555555556
@@ -605,8 +606,9 @@ Selby,Accounting,32.4
 Selby,Finance,32.1666666666667
 Selby,Warehousing,32.0714285714286
 Selby,Booking (Sales),32
-Wakefield,Storyboarding,60
 Wakefield,Social Integration,60
+Wakefield,Storyboarding,60
+Wakefield,Safety Standards,58
 Wakefield,Care Standards Act 2000,57.2142857142857
 Wakefield,Mechanics,56.5
 Wakefield,Proofreading,53
@@ -624,8 +626,8 @@ Wakefield,Software Engineering,46.75
 Wakefield,Vehicle Maintenance,46
 Wakefield,Payroll Processing,45.875
 Wakefield,Corrective And Preventive Action (CAPA),45.8333333333333
-Wakefield,Performance Reporting,45.5
 Wakefield,Phone Sales,45.5
+Wakefield,Performance Reporting,45.5
 Wakefield,Business Workflow Analysis,45.1666666666667
 Wakefield,Press Releases,45
 Wakefield,Unconditional Positive Regard,45
@@ -633,9 +635,9 @@ Wakefield,Accounts Payable,44.4
 Wakefield,AutoCAD,44.25
 Wakefield,Employee Engagement,43.8333333333333
 Wakefield,Service Quality,43.8125
+Wakefield,Direct Selling,43.75
 Wakefield,Sales Management,43.75
 Wakefield,Financial Controls,43.75
-Wakefield,Direct Selling,43.75
 Wakefield,Sales Process,43.6
 Wakefield,Mental Health,43.1
 Wakefield,Psychology,43.0769230769231
@@ -644,14 +646,14 @@ Wakefield,Technical Services,42.8571428571429
 Wakefield,Account Management,42.6923076923077
 Wakefield,Adobe After Effects,42.6666666666667
 Wakefield,Accounting Software,42.5
-Wakefield,Digital Media Strategy,42
 Wakefield,Target Audience,42
 Wakefield,Photography,42
+Wakefield,Digital Media Strategy,42
 Wakefield,Quotations,41.6428571428571
 Wakefield,Cold Calling,41.375
+Wakefield,Distance Learning,41
 Wakefield,Systems Engineering,41
 Wakefield,Service-Level Agreement,41
-Wakefield,Distance Learning,41
 Wakefield,Material Requirements Planning,40.8571428571429
 Wakefield,Service Development,40.6666666666667
 Wakefield,Family Support,40.5
@@ -665,16 +667,18 @@ Wakefield,Technical Sales,39.9
 Wakefield,Stock Management,39.8461538461538
 Wakefield,Product Design,39.625
 Wakefield,Forklift Truck,39.45
+Wakefield,Medication Administration,39.3333333333333
 Wakefield,Infection Control,39.3333333333333
 Wakefield,Manufacturing Processes,39.2222222222222
-Wakefield,Medication Administration,39.1052631578947
 Wakefield,Food Safety And Sanitation,39.0714285714286
-Wakefield,Resourcing,39
 Wakefield,Computer-Aided Design,39
+Wakefield,Resourcing,39
 Wakefield,Engineering Drawings,38.8888888888889
+Wakefield,Customer Support,38.8888888888889
 Wakefield,Production Planning,38.75
-Wakefield,Brand Awareness,38.625
+Wakefield,SQL (Programming Language),38.7
 Wakefield,Inbound Calls,38.625
+Wakefield,Brand Awareness,38.625
 Wakefield,Billing,38.6
 Wakefield,Compliance Management,38.3333333333333
 Wakefield,WebKit,38.2941176470588
@@ -686,15 +690,13 @@ Wakefield,Mechanical Engineering,38.1666666666667
 Wakefield,Power Tool Operation,37.8333333333333
 Wakefield,Auditing,37.7647058823529
 Wakefield,Talent Recruitment,37.6
-Wakefield,Operating Systems,37.5454545454545
 Wakefield,Sales Support,37.5
-Wakefield,Customer Support,37.4
-Wakefield,SQL (Programming Language),37.3636363636364
 Wakefield,Standard Operating Procedure,37.3333333333333
 Wakefield,Instagram,37.1111111111111
 Wakefield,Payroll Systems,37
 Wakefield,Risk Analysis,36.9545454545455
 Wakefield,Employee Onboarding,36.875
+Wakefield,Operating Systems,36.8
 Wakefield,Security Systems,36.6666666666667
 Wakefield,Autism Spectrum Disorders,36.625
 Wakefield,Procurement,36.6086956521739
@@ -704,7 +706,6 @@ Wakefield,Credit Control,36.4333333333333
 Wakefield,Machinery,36.4
 Wakefield,Telecommunications,36.3333333333333
 Wakefield,Production Engineering,36.1666666666667
-Wakefield,Accounts Receivable,36.1176470588235
 York,Cloudflare,60
 York,Showrooms,53.1428571428571
 York,Project Management Software,51.5
@@ -715,7 +716,6 @@ York,ISO 9000 Series,47.5714285714286
 York,Project Scoping,45.8
 York,Lead Generation,45.2222222222222
 York,Templates,45.1
-York,Content Marketing,44.75
 York,Firewall,44.6666666666667
 York,Brand Management,44.5714285714286
 York,Sales Support,43.625
@@ -732,11 +732,12 @@ York,Due Diligence,41.6666666666667
 York,Welding,41.4444444444444
 York,Social Media Management,41.3333333333333
 York,Lean Manufacturing,41.2
+York,Content Marketing,41
 York,Tooling,41
 York,Adobe InDesign,40.8181818181818
 York,Direct Selling,40.6
-York,Resource Planning,40.5714285714286
 York,Financial Planning,40.5714285714286
+York,Resource Planning,40.5714285714286
 York,Customer Inquiries,40.5
 York,Small Animal Care,40.4285714285714
 York,Client Services,40.25
@@ -746,6 +747,7 @@ York,Customer Relationship Management (CRM) Software,39.6666666666667
 York,Animations,39.625
 York,Data Recording,39.625
 York,Manual Handling,39.5294117647059
+York,Blogs,39.5
 York,Medical Prescription,39.5
 York,Adobe Creative Suite,39.4
 York,Operational Excellence,39.2857142857143
@@ -755,26 +757,28 @@ York,Change Management,38.8125
 York,Pharmaceuticals,38.7777777777778
 York,Surveying,38.5555555555556
 York,Warehousing,38.4074074074074
-York,Procurement Management,38.3333333333333
 York,Financial Analysis,38.3333333333333
+York,Procurement Management,38.3333333333333
 York,Project Controls,38.3
 York,Market Research,38.25
 York,Supply Chain,38
 York,Flexbox,37.8666666666667
-York,Data Modeling,37.8333333333333
 York,Investments,37.8333333333333
+York,Data Modeling,37.8333333333333
+York,Email Marketing,37.7142857142857
 York,WebKit,37.6428571428571
 York,Housekeeping,37.25
 York,Power BI,37.25
 York,Service Improvement,37.1111111111111
-York,Blogs,37
 York,Google Analytics,36.9
 York,Endoscopy,36.8571428571429
-York,Tax Returns,36.8
 York,Triage,36.8
-York,Automation,36.6666666666667
+York,Tax Returns,36.8
+York,E-Commerce,36.7142857142857
 York,Infection Control,36.6666666666667
+York,Automation,36.6666666666667
 York,Quality Management,36.5
+York,Internal Communications,36.4
 York,Food Safety And Sanitation,36.3846153846154
 York,Regulatory Compliance,36.3636363636364
 York,Greeting Customers,36.2
@@ -790,118 +794,15 @@ York,Staff Management,35.4285714285714
 York,Business To Business,35.3
 York,Social Media Content,35.1666666666667
 York,Stock Management,35.125
-York,Computer Science,35
 York,Proofreading,35
+York,Computer Science,35
 York,New Product Development,34.9444444444444
 York,Customer Engagement,34.8888888888889
-York,Email Marketing,34.875
 York,Numeracy,34.8181818181818
 York,Forklift Truck,34.8
 York,Production Management,34.7777777777778
 York,ISO 14000 Series,34.75
 York,Service Improvement Planning,34.6666666666667
-York,Internal Communications,34.6363636363636
 York,Scripting,34.5833333333333
 York,Technical Drawing,34.5555555555556
 York,Postpartum Care,34.55
-York,Construction,34.5333333333333
-York,Cloudflare,60
-York,Showrooms,53.1428571428571
-York,Project Management Software,51.5
-York,Inbound Calls,50.2857142857143
-York,Standard Operating Procedure,49.3333333333333
-York,Web Traffic,48.5
-York,ISO 9000 Series,47.5714285714286
-York,Project Scoping,45.8
-York,Lead Generation,45.2222222222222
-York,Templates,45.1
-York,Content Marketing,44.75
-York,Firewall,44.6666666666667
-York,Brand Management,44.5714285714286
-York,Sales Support,43.625
-York,Accounts Receivable,43.3333333333333
-York,Production Line,43.2857142857143
-York,Performance Reporting,43.1428571428571
-York,Personal Care,43.0909090909091
-York,Corporate Governance,43
-York,Radiography,42.8
-York,Plastering,42.5
-York,Roofing,42
-York,Version Control,41.8333333333333
-York,Due Diligence,41.6666666666667
-York,Welding,41.4444444444444
-York,Social Media Management,41.3333333333333
-York,Lean Manufacturing,41.2
-York,Tooling,41
-York,Adobe InDesign,40.8181818181818
-York,Direct Selling,40.6
-York,Resource Planning,40.5714285714286
-York,Financial Planning,40.5714285714286
-York,Customer Inquiries,40.5
-York,Small Animal Care,40.4285714285714
-York,Client Services,40.25
-York,Office Administration,40.1666666666667
-York,Maintenance Engineering,40.1
-York,Customer Relationship Management (CRM) Software,39.6666666666667
-York,Animations,39.625
-York,Data Recording,39.625
-York,Manual Handling,39.5294117647059
-York,Medical Prescription,39.5
-York,Adobe Creative Suite,39.4
-York,Operational Excellence,39.2857142857143
-York,Performance Management,39.2
-York,Stock Control,38.9333333333333
-York,Change Management,38.8125
-York,Pharmaceuticals,38.7777777777778
-York,Surveying,38.5555555555556
-York,Warehousing,38.4074074074074
-York,Procurement Management,38.3333333333333
-York,Financial Analysis,38.3333333333333
-York,Project Controls,38.3
-York,Market Research,38.25
-York,Supply Chain,38
-York,Flexbox,37.8666666666667
-York,Data Modeling,37.8333333333333
-York,Investments,37.8333333333333
-York,WebKit,37.6428571428571
-York,Housekeeping,37.25
-York,Power BI,37.25
-York,Service Improvement,37.1111111111111
-York,Blogs,37
-York,Google Analytics,36.9
-York,Endoscopy,36.8571428571429
-York,Tax Returns,36.8
-York,Triage,36.8
-York,Automation,36.6666666666667
-York,Infection Control,36.6666666666667
-York,Quality Management,36.5
-York,Food Safety And Sanitation,36.3846153846154
-York,Regulatory Compliance,36.3636363636364
-York,Greeting Customers,36.2
-York,Selling Techniques,36.1428571428571
-York,Web Development,36.1428571428571
-York,Clinical Practices,35.75
-York,DevOps,35.7142857142857
-York,Sales Process,35.7
-York,Business Planning,35.5625
-York,Surgery,35.5
-York,Medical Ultrasonography,35.5
-York,Staff Management,35.4285714285714
-York,Business To Business,35.3
-York,Social Media Content,35.1666666666667
-York,Stock Management,35.125
-York,Computer Science,35
-York,Proofreading,35
-York,New Product Development,34.9444444444444
-York,Customer Engagement,34.8888888888889
-York,Email Marketing,34.875
-York,Numeracy,34.8181818181818
-York,Forklift Truck,34.8
-York,Production Management,34.7777777777778
-York,ISO 14000 Series,34.75
-York,Service Improvement Planning,34.6666666666667
-York,Internal Communications,34.6363636363636
-York,Scripting,34.5833333333333
-York,Technical Drawing,34.5555555555556
-York,Postpartum Care,34.55
-York,Construction,34.5333333333333

@@ -3,12 +3,12 @@ Bradford,CIPD Level 3,60
 Bradford,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,58.3529411764706
 Bradford,Chartered Institute Of Personnel And Development (CIPD) Certified,53
 Bradford,ITIL Certifications,44.2941176470588
-Bradford,Association Of Proposal Management Professionals (APMP) Certification,43.0526315789474
+Bradford,Association Of Proposal Management Professionals (APMP) Certification,43.9444444444444
 Bradford,Licensed Professional Counselor (LPC),42
 Bradford,CSCS Card,38.1458333333333
 Bradford,Functional Skills Qualification,35.3529411764706
 Bradford,Master Of Business Administration (MBA),33.2941176470588
-Bradford,General Certificate Of Secondary Education,33.1329113924051
+Bradford,General Certificate Of Secondary Education,33.2201257861635
 Bradford,Chartered Institute Of Management Accountants (CIMA),32.4444444444444
 Bradford,Association Of Chartered Certified Accountants,32.3571428571429
 Bradford,Bachelor Of Science in Business Administration,28
@@ -22,15 +22,15 @@ Bradford,Certified Information Systems Security Professional,19.3888888888889
 Bradford,GIAC Certifications,18
 Bradford,Certified Information System Auditor (CISA),18
 Bradford,Software Development Engineer in Test,16
-Bradford,PRINCE2  (PRojects IN Controlled Environments 2),15.8181818181818
+Bradford,PRINCE2  (PRojects IN Controlled Environments 2),15.2857142857143
 Bradford,IOSH Managing Safely,14.5294117647059
 Bradford,AWS Certified Security Specialty,13
 Bradford,NIST Cybersecurity Framework (CSF),11
 Bradford,Certified Internal Auditor,11
 Calderdale,Chartered Institute Of Management Accountants (CIMA),39.7058823529412
 Calderdale,Association Of Chartered Certified Accountants,37.4210526315789
-Calderdale,Functional Skills Qualification,30.6511627906977
-Calderdale,General Certificate Of Secondary Education,30.5522388059702
+Calderdale,General Certificate Of Secondary Education,30.8507462686567
+Calderdale,Functional Skills Qualification,30.4318181818182
 Calderdale,CSCS Card,28.2
 Craven,Functional Skills Qualification,38
 Craven,General Certificate Of Secondary Education,31.75
@@ -40,66 +40,68 @@ Harrogate,Functional Skills Qualification,37.0909090909091
 Harrogate,Chartered Institute Of Personnel And Development (CIPD) Certified,34.25
 Harrogate,General Certificate Of Secondary Education,34
 Harrogate,Association Of Chartered Certified Accountants,33.5
-Harrogate,CSCS Card,33
+Harrogate,CSCS Card,33.3333333333333
 Harrogate,Chartered Institute Of Management Accountants (CIMA),31.7777777777778
+Harrogate,PRINCE2  (PRojects IN Controlled Environments 2),27
 Kirklees,Chartered Institute Of Personnel And Development (CIPD) Certified,38.25
 Kirklees,CSCS Card,37.0952380952381
 Kirklees,PRINCE2  (PRojects IN Controlled Environments 2),35
-Kirklees,Functional Skills Qualification,34.5822784810127
-Kirklees,Certified International Property Specialist,34.5714285714286
-Kirklees,General Certificate Of Secondary Education,33.3666666666667
+Kirklees,Certified International Property Specialist,34.8333333333333
+Kirklees,Functional Skills Qualification,34.7564102564103
+Kirklees,General Certificate Of Secondary Education,33.1833333333333
 Kirklees,NEBOSH Diploma,31.3333333333333
 Kirklees,Association Of Chartered Certified Accountants,26.3333333333333
-Kirklees,Chartered Institute Of Management Accountants (CIMA),20.45
+Kirklees,Chartered Institute Of Management Accountants (CIMA),20.7894736842105
 Leeds,Clinical Nurse Specialists (CNS),50
 Leeds,Institute Of Internal Auditors (IIA),48.75
 Leeds,Chartered Engineer,45.3333333333333
-Leeds,Chartered Accountant,43.8
-Leeds,Project Management Professional Certification,41.7826086956522
-Leeds,CompTIA Security+,41.75
-Leeds,Certified Information Systems Security Professional,40.9230769230769
+Leeds,CompTIA Security+,44.8333333333333
+Leeds,Project Management Professional Certification,41.3333333333333
+Leeds,Chartered Accountant,40.8333333333333
+Leeds,Certified Information Systems Security Professional,40.4285714285714
 Leeds,Chartered Financial Analyst,39.2
-Leeds,Cisco Certified Network Professional,38.4
 Leeds,CSCS Card,37.625
-Leeds,NEBOSH Diploma,37.2666666666667
+Leeds,Psychiatric-Mental Health Nurse Practitioner,36.6666666666667
 Leeds,Certified Nurse Practitioner,36.2631578947368
+Leeds,Cisco Certified Network Professional,36.0909090909091
 Leeds,Nurse Practitioner,35.8888888888889
 Leeds,NEBOSH Certificate,35.8888888888889
-Leeds,Chartered Institute Of Personnel And Development (CIPD) Certified,34.6724137931034
-Leeds,IOSH Managing Safely,34.1818181818182
-Leeds,Functional Skills Qualification,34.1505376344086
-Leeds,Certified Information Security Manager,33.8333333333333
-Leeds,Psychiatric-Mental Health Nurse Practitioner,33.4285714285714
+Leeds,NEBOSH Diploma,35.8125
+Leeds,IOSH Managing Safely,35.5
+Leeds,Certified Information Security Manager,35.1428571428571
+Leeds,Chartered Institute Of Personnel And Development (CIPD) Certified,35.0677966101695
+Leeds,Functional Skills Qualification,34.283422459893
 Leeds,Six Sigma Green Belt Certification,33.2
-Leeds,Microsoft Certified Systems Engineer,33.0909090909091
-Leeds,Certified Information Privacy Professional,32.5384615384615
-Leeds,Association Of Chartered Certified Accountants,32.016393442623
+Leeds,Association Of Chartered Certified Accountants,32.3
+Leeds,Microsoft Certified Systems Engineer,32.0833333333333
+Leeds,Certified Information Privacy Professional,32.0714285714286
 Leeds,Forklift Certification,31.7
-Leeds,General Certificate Of Secondary Education,30.7682119205298
-Leeds,CIPD Level 3,29.75
-Leeds,Chartered Institute Of Management Accountants (CIMA),29.6052631578947
-Leeds,Certified International Property Specialist,29.48
+Leeds,General Certificate Of Secondary Education,30.8576158940397
+Leeds,Certified International Property Specialist,29.9230769230769
+Leeds,Chartered Institute Of Management Accountants (CIMA),29.7763157894737
+Leeds,CIPD Level 3,29.6666666666667
+Leeds,Master Of Business Administration (MBA),29.5714285714286
 Leeds,Core Domestic Gas Safety (CCN1),29.4545454545455
-Leeds,Microsoft Certified Professional,28.6666666666667
-Leeds,Master Of Business Administration (MBA),28.6
-Leeds,ITIL Foundation Certification,28.5
+Leeds,ITIL Foundation Certification,28.7272727272727
+Leeds,CIPD Level 5,28.2222222222222
 Leeds,National Examination Board In Occupational Safety And Health (NEBOSH) Certified,28.2142857142857
-Leeds,Microsoft Certified Systems Administrator (MCSA),27.6666666666667
+Leeds,Microsoft Certified Professional,27.9230769230769
+Leeds,ITIL Certifications,27.3333333333333
 Leeds,Linux/GNU Certified Administrator,27.25
 Leeds,Association Of Proposal Management Professionals (APMP) Certification,27.1666666666667
-Leeds,ITIL Certifications,27.0714285714286
+Leeds,PRINCE2  (PRojects IN Controlled Environments 2),27.1515151515152
 Leeds,Bachelor Of Science in Nursing (BSN),27
+Leeds,Microsoft Certified Systems Administrator (MCSA),26.8571428571429
 Leeds,Microsoft Certified Solutions Expert,26.6666666666667
-Leeds,PRINCE2  (PRojects IN Controlled Environments 2),26.0967741935484
-Leeds,CIPD Level 5,25.9375
-Leeds,Chartered Institute Of Marketing (CIM),24.25
+Leeds,Chartered Institute Of Marketing (CIM),26
+Leeds,CIPD Level 7,25.6666666666667
 Leeds,Licensed Professional Counselor (LPC),24
-Leeds,Cisco Certified Network Associate,22.6875
-Leeds,Security Clearance,20.3461538461538
+Leeds,Security Clearance,23.1785714285714
+Leeds,Cisco Certified Network Associate,22.5882352941176
 Leeds,Bachelor Of Science in Business,20.1111111111111
 Leeds,Certified Professional In Learning And Performance,12
-Richmondshire,General Certificate Of Secondary Education,41.9375
-Richmondshire,Functional Skills Qualification,40.75
+Richmondshire,General Certificate Of Secondary Education,43.5333333333333
+Richmondshire,Functional Skills Qualification,42.5714285714286
 Ryedale,General Certificate Of Secondary Education,35.7692307692308
 Scarborough,General Certificate Of Secondary Education,33.6842105263158
 Scarborough,Functional Skills Qualification,33.1666666666667
@@ -119,14 +121,7 @@ Wakefield,CIPD Level 5,20.1875
 Wakefield,Chartered Institute Of Personnel And Development (CIPD) Certified,16.8333333333333
 York,Functional Skills Qualification,32.8148148148148
 York,Chartered Institute Of Management Accountants (CIMA),32.7142857142857
-York,General Certificate Of Secondary Education,32.2
-York,Association Of Chartered Certified Accountants,27.3
-York,Chartered Institute Of Personnel And Development (CIPD) Certified,26
-York,CSCS Card,22.5
-York,PRINCE2  (PRojects IN Controlled Environments 2),22.1
-York,Functional Skills Qualification,32.8148148148148
-York,Chartered Institute Of Management Accountants (CIMA),32.7142857142857
-York,General Certificate Of Secondary Education,32.2
+York,General Certificate Of Secondary Education,32.3181818181818
 York,Association Of Chartered Certified Accountants,27.3
 York,Chartered Institute Of Personnel And Development (CIPD) Certified,26
 York,CSCS Card,22.5

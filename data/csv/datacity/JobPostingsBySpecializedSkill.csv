@@ -4,17 +4,17 @@ Bradford,Product Knowledge,37482
 Bradford,Apple IPad,27873
 Bradford,Cooking,22359
 Bradford,Meal Service,19495
-Bradford,Purchasing,15068
+Bradford,Purchasing,15060
 Bradford,Sports Nutrition,14320
 Bradford,Aromatherapy,14306
 Bradford,Discounts And Allowances,12827
 Bradford,Toileting,12780
 Bradford,Care Standards Act 2000,9083
-Bradford,Key Performance Indicators (KPIs),8949
-Bradford,Marketing,8692
+Bradford,Key Performance Indicators (KPIs),8948
+Bradford,Marketing,8685
 Bradford,Application Programming Interface (API),8106
-Bradford,Agile Methodology,7519
-Bradford,Warehousing,6884
+Bradford,Agile Methodology,7518
+Bradford,Warehousing,6885
 Bradford,Amazon Web Services,6820
 Bradford,Supply Chain,6585
 Bradford,Docker (Software),6417
@@ -24,7 +24,7 @@ Bradford,Java (Programming Language),6158
 Bradford,Home Health Care,5800
 Bradford,Integrated Care,5704
 Bradford,Stakeholder Management,5699
-Bradford,Finance,5579
+Bradford,Finance,5551
 Bradford,Software Development,5460
 Bradford,Scalability,5061
 Bradford,Product Management,4926
@@ -37,7 +37,7 @@ Bradford,Python (Programming Language),4562
 Bradford,DevOps,4207
 Bradford,User Experience,4063
 Bradford,Docker Swarm,3952
-Bradford,Data Science,3871
+Bradford,Data Science,3869
 Bradford,JavaScript (Programming Language),3719
 Bradford,Kotlin,3714
 Bradford,Merchandising,3599
@@ -46,15 +46,15 @@ Bradford,Product Roadmaps,3465
 Bradford,Software Engineering,3378
 Bradford,Automation,3347
 Bradford,Test-Driven Development (TDD),3318
-Bradford,Operations Management,3248
+Bradford,Operations Management,3230
 Bradford,WebKit,3181
 Bradford,Flexbox,3181
 Bradford,NoSQL,3168
-Bradford,Engineering Design Process,3132
+Bradford,Engineering Design Process,3122
 Bradford,Machinery,3112
 Bradford,PostgreSQL,3088
 Bradford,Integration Testing,2962
-Bradford,Invoicing,2957
+Bradford,Invoicing,2932
 Bradford,Architectural Design,2920
 Bradford,Forklift Truck,2885
 Bradford,React.js,2828
@@ -63,7 +63,7 @@ Bradford,Debugging,2721
 Bradford,RESTful API,2714
 Bradford,Datadog,2672
 Bradford,Root Cause Analysis,2658
-Bradford,Painting,2655
+Bradford,Painting,2654
 Bradford,Peer Review,2653
 Bradford,MySQL,2651
 Bradford,Front End Design,2621
@@ -74,12 +74,12 @@ Bradford,Cloud Computing,2438
 Bradford,Node.js,2387
 Bradford,Stock Control,2370
 Bradford,Data Engineering,2336
-Bradford,Housekeeping,2285
+Bradford,Housekeeping,2278
 Bradford,Code Review,2216
-Bradford,Accounting,2180
+Bradford,Accounting,2177
 Bradford,Relational Database Design,2144
-Bradford,Auditing,2126
 Bradford,Algorithms,2121
+Bradford,Auditing,2100
 Bradford,Front End (Software Engineering),2089
 Bradford,Software Systems,2071
 Bradford,Workflow Management,2067
@@ -87,67 +87,66 @@ Bradford,Business Requirements,1945
 Bradford,Presentation Skills,1902
 Bradford,GraphQL,1872
 Bradford,E-Commerce,1852
-Bradford,Customer Relationship Management,1845
+Bradford,Customer Relationship Management,1840
 Bradford,Apache Airflow,1840
-Bradford,Project Management,1833
 Bradford,Git (Version Control System),1829
 Bradford,Call Center Experience,1814
 Bradford,Data Analysis,1813
+Bradford,Project Management,1809
 Bradford,Configuration Management,1808
 Bradford,Event-Driven Programming,1792
 Bradford,Data Store,1792
 Bradford,Cyber Security,1786
-Bradford,Business Development,1783
 Bradford,Jenkins,1782
-Calderdale,Marketing,1126
+Bradford,Business Development,1761
+Calderdale,Marketing,1090
 Calderdale,Finance,991
 Calderdale,SAP Applications,626
-Calderdale,Auditing,590
-Calderdale,Agile Methodology,587
+Calderdale,Auditing,591
+Calderdale,Agile Methodology,588
 Calderdale,Accounting,586
 Calderdale,Data Analysis,566
-Calderdale,Key Performance Indicators (KPIs),503
+Calderdale,Key Performance Indicators (KPIs),505
 Calderdale,Microsoft Azure,409
 Calderdale,Project Management,406
-Calderdale,Invoicing,400
 Calderdale,Automation,400
 Calderdale,Risk Management,397
+Calderdale,Invoicing,392
 Calderdale,SQL (Programming Language),367
-Calderdale,Performance Management,354
+Calderdale,Performance Management,355
 Calderdale,Change Management,350
-Calderdale,Nursing,348
 Calderdale,Customer Relationship Management,321
-Calderdale,Technical Support,321
-Calderdale,Risk Analysis,318
+Calderdale,Technical Support,319
 Calderdale,Warehousing,317
 Calderdale,Supply Chain,316
 Calderdale,Business Requirements,309
 Calderdale,JavaScript (Programming Language),305
-Calderdale,Software Development,304
+Calderdale,Software Development,302
 Calderdale,Stakeholder Management,297
-Calderdale,Purchasing,262
+Calderdale,Risk Analysis,280
+Calderdale,Purchasing,261
 Calderdale,Booking (Sales),254
 Calderdale,New Product Development,251
+Calderdale,Nursing,243
 Calderdale,Information Management,243
 Calderdale,Stakeholder Engagement,241
 Calderdale,Active Directory,237
 Calderdale,Financial Statements,234
-Calderdale,Root Cause Analysis,233
 Calderdale,Computer Science,233
+Calderdale,Root Cause Analysis,233
 Calderdale,Reconciliation,230
 Calderdale,Business Process,229
 Calderdale,Workflow Management,228
-Calderdale,Dentistry,227
 Calderdale,Environment Health And Safety,218
-Calderdale,Selling Techniques,205
 Calderdale,Process Improvement,205
 Calderdale,Application Programming Interface (API),205
-Calderdale,Business Development,204
+Calderdale,Selling Techniques,204
+Calderdale,Business Development,203
 Calderdale,Power BI,203
 Calderdale,Python (Programming Language),201
 Calderdale,Presentation Skills,198
-Calderdale,Search Engine Optimization,195
 Calderdale,Machinery,193
+Calderdale,Search Engine Optimization,192
 Calderdale,Group Policy,190
 Calderdale,Amazon Web Services,186
 Calderdale,Digital Marketing,183
@@ -155,10 +154,10 @@ Calderdale,Numeracy,182
 Calderdale,Dashboard,182
 Calderdale,Business Analysis,171
 Calderdale,Internal Controls,166
+Calderdale,Cascading Style Sheets (CSS),165
 Calderdale,User Experience,164
-Calderdale,Cascading Style Sheets (CSS),164
-Calderdale,Procurement,160
 Calderdale,HyperText Markup Language (HTML),160
+Calderdale,Procurement,159
 Calderdale,Lean Manufacturing,156
 Calderdale,Data Management,154
 Calderdale,External Auditing,148
@@ -166,13 +165,13 @@ Calderdale,Data Entry,147
 Calderdale,Microsoft Office 365,146
 Calderdale,C# (Programming Language),145
 Calderdale,Software As A Service (SaaS),145
-Calderdale,Account Management,142
-Calderdale,Operating Systems,141
+Calderdale,Account Management,141
 Calderdale,Economics,141
+Calderdale,Operating Systems,139
 Calderdale,Physics,138
 Calderdale,Firewall,138
-Calderdale,DevOps,134
 Calderdale,Scripting,134
+Calderdale,DevOps,134
 Calderdale,Risk Mitigation,133
 Calderdale,Front End (Software Engineering),129
 Calderdale,Investments,125
@@ -182,7 +181,7 @@ Calderdale,Corporate Finance,123
 Calderdale,Wide Area Networks,123
 Calderdale,Test Engineering,122
 Calderdale,Data-Driven Decision-Making,122
-Calderdale,Financial Management,119
+Calderdale,Financial Management,121
 Calderdale,Financial Services,119
 Calderdale,React.js,119
 Calderdale,Working Capital,118
@@ -194,15 +193,16 @@ Calderdale,Business Strategies,116
 Calderdale,Value Chain,116
 Calderdale,Business Case,114
 Calderdale,Commodity Trading,114
-Calderdale,Adobe Photoshop,113
+Calderdale,Information Privacy,113
 Calderdale,Performance Reporting,113
-Calderdale,Financial Controls,112
 Calderdale,Microsoft Windows 10,112
-Calderdale,Information Privacy,112
+Calderdale,Adobe Photoshop,112
+Calderdale,Financial Controls,112
+Calderdale,Contract Management,111
 Craven,Good Manufacturing Practices,1059
 Craven,Pharmaceuticals,958
 Craven,Auditing,948
-Craven,Machinery,819
+Craven,Machinery,818
 Craven,Marketing,706
 Craven,Medical Devices,675
 Craven,New Product Development,607
@@ -253,9 +253,9 @@ Craven,Continuous Improvement Process,175
 Craven,Clinical Trials,175
 Craven,Property Maintenance,174
 Craven,Agrochemicals,160
-Craven,Valves (Piping),157
-Craven,Good Clinical Practices (GCP),157
 Craven,Technical Support,157
+Craven,Good Clinical Practices (GCP),157
+Craven,Valves (Piping),157
 Craven,Oncology,153
 Craven,Pharmaceutical Sciences,151
 Craven,Product Quality (QA/QC),148
@@ -283,10 +283,10 @@ Craven,Manufacturing Processes,117
 Craven,Fermentation,116
 Craven,Automotive Engineering,115
 Craven,Production Planning,114
-Craven,Production Part Approval Process,111
-Craven,Advanced Product Quality Planning,111
 Craven,Analytical Testing,111
 Craven,Supplier Quality Management,111
+Craven,Production Part Approval Process,111
+Craven,Advanced Product Quality Planning,111
 Craven,Key Opinion Leader Development,109
 Craven,Drag And Drop,107
 Craven,Product Design,107
@@ -294,10 +294,10 @@ Craven,Quotations,106
 Craven,Medical Device Directive,103
 Craven,Student Services,102
 Craven,Orthopedics,101
-Craven,Selling Techniques,100
 Craven,Administrative Support,100
 Craven,Root Cause Analysis,100
 Craven,Neurology,100
+Craven,Selling Techniques,100
 Craven,Preventive Maintenance,100
 Hambleton,Food Safety And Sanitation,451
 Hambleton,Machinery,311
@@ -326,10 +326,10 @@ Hambleton,Technical Support,95
 Hambleton,Engineering Geology,94
 Hambleton,Housekeeping,86
 Hambleton,Hazard Analysis And Critical Control Points (HACCP),86
-Hambleton,Automation,85
 Hambleton,Manual Handling,85
+Hambleton,Automation,85
 Hambleton,Engineering Management,84
-Hambleton,Metal Inert Gas (MIG) Welding,80
+Hambleton,Metal Inert Gas (MIG) Welding,79
 Hambleton,Geotechnical Engineering,77
 Hambleton,Preventive Maintenance,76
 Hambleton,Manufacturing Processes,74
@@ -342,12 +342,12 @@ Hambleton,Invoicing,69
 Hambleton,Mechanical Engineering,69
 Hambleton,Supply Chain,67
 Hambleton,Electronic Point Of Sale,67
-Hambleton,Stock Control,64
 Hambleton,Production Management,64
+Hambleton,Stock Control,64
 Hambleton,Lean Manufacturing,64
 Hambleton,Engineering Drawings,63
-Hambleton,Baking,62
 Hambleton,Corrective And Preventive Action (CAPA),62
+Hambleton,Baking,62
 Hambleton,Operating Systems,61
 Hambleton,Advanced Manufacturing,60
 Hambleton,Profit Margins,60
@@ -363,8 +363,8 @@ Hambleton,User Accounts,48
 Hambleton,Computer Numerical Control (CNC),48
 Hambleton,Computer-Aided Design,47
 Hambleton,Programmable Logic Controllers,47
-Hambleton,Closed-Circuit Television Systems (CCTV),45
 Hambleton,Veeam,45
+Hambleton,Closed-Circuit Television Systems (CCTV),45
 Hambleton,Brakes,45
 Hambleton,Legislation,44
 Hambleton,Food Quality Assurance And Control,44
@@ -386,9 +386,9 @@ Hambleton,Active Directory,42
 Hambleton,Site Security,42
 Hambleton,Refrigerant,42
 Hambleton,Inventory Management System,41
-Hambleton,Operations Management,40
 Hambleton,Service Quality,40
 Hambleton,Stocks (Inventory),40
+Hambleton,Operations Management,40
 Hambleton,Stock Selection Criterion,40
 Hambleton,Screwdrivers,40
 Hambleton,Screen Printing,40
@@ -399,58 +399,58 @@ Hambleton,Geology,40
 Hambleton,Numerical Analysis,39
 Hambleton,Desktop Support,39
 Hambleton,Production Schedule,39
-Harrogate,Marketing,1201
+Harrogate,Marketing,1188
 Harrogate,Surgery,1095
 Harrogate,Building Services Engineering,1063
 Harrogate,Medical Ultrasonography,1041
 Harrogate,Nursing,922
-Harrogate,Accounting,909
-Harrogate,Finance,828
-Harrogate,Business Development,786
-Harrogate,Customer Relationship Management,769
+Harrogate,Accounting,910
+Harrogate,Finance,837
+Harrogate,Business Development,809
 Harrogate,Vehicle Maintenance,762
-Harrogate,Auditing,724
+Harrogate,Customer Relationship Management,757
+Harrogate,Auditing,750
 Harrogate,Trunking,641
 Harrogate,Management Consulting,634
-Harrogate,Selling Techniques,564
-Harrogate,Warehousing,562
+Harrogate,Selling Techniques,566
+Harrogate,Warehousing,560
 Harrogate,Mopping,556
 Harrogate,Restaurant Operation,554
-Harrogate,Booking (Sales),541
 Harrogate,Dentistry,531
+Harrogate,Booking (Sales),530
 Harrogate,Manual Handling,496
-Harrogate,Construction,491
+Harrogate,Construction,490
 Harrogate,Software Sales,486
-Harrogate,Key Performance Indicators (KPIs),479
+Harrogate,Key Performance Indicators (KPIs),480
+Harrogate,Housekeeping,459
 Harrogate,Endoscopy,455
-Harrogate,Housekeeping,452
-Harrogate,Invoicing,445
-Harrogate,Service Quality,439
+Harrogate,Invoicing,451
+Harrogate,Service Quality,443
 Harrogate,Internal Communications,430
 Harrogate,Machinery,420
-Harrogate,Account Management,410
-Harrogate,Maintenance Engineering,406
+Harrogate,Account Management,411
+Harrogate,Maintenance Engineering,411
 Harrogate,Isolation Ward,404
 Harrogate,Orthopedics,393
+Harrogate,Purchasing,391
 Harrogate,Animal Welfare,390
-Harrogate,Purchasing,383
-Harrogate,Procurement,379
+Harrogate,Procurement,385
 Harrogate,Small Animal Care,379
 Harrogate,HVAC,358
 Harrogate,Digital Marketing,335
-Harrogate,Mechanical Engineering,335
+Harrogate,Mechanical Engineering,329
 Harrogate,Operating Room (OR),327
 Harrogate,Discounts And Allowances,324
-Harrogate,Business To Business,321
 Harrogate,Electrical Engineering,321
+Harrogate,Business To Business,319
+Harrogate,Risk Analysis,316
 Harrogate,Search Engine Optimization,313
 Harrogate,Hand Tools,313
 Harrogate,Dementia Care,308
 Harrogate,Maid Services,307
-Harrogate,Risk Analysis,306
-Harrogate,VAT Returns,303
+Harrogate,VAT Returns,305
 Harrogate,Commercial Cleaning,303
-Harrogate,Engineering Drawings,300
+Harrogate,Engineering Drawings,302
 Harrogate,Change Management,298
 Harrogate,Personal Care,292
 Harrogate,Project Engineering,287
@@ -469,342 +469,342 @@ Harrogate,Aftersales,247
 Harrogate,Content Creation,244
 Harrogate,Supply Chain,239
 Harrogate,Numeracy,236
+Harrogate,Project Management,234
 Harrogate,Cooking,234
 Harrogate,Plumbing,233
 Harrogate,Google Analytics,232
-Harrogate,Stock Control,229
+Harrogate,Operations Management,231
 Harrogate,Safety Standards,227
 Harrogate,Help Desk Support,225
 Harrogate,User Experience,219
 Harrogate,Pay Per Click,217
-Harrogate,Operations Management,213
-Harrogate,Project Management,210
+Harrogate,Stock Control,212
 Harrogate,Ventilation,210
 Harrogate,Boilers,205
 Harrogate,Upselling,202
 Harrogate,Resourcing,201
+Harrogate,Subcontracting,197
 Harrogate,Drilling,197
-Harrogate,Subcontracting,193
 Harrogate,Change Control,191
 Harrogate,Analytics,190
 Harrogate,Web Development,188
 Harrogate,Data Analysis,187
-Harrogate,Business-To-Business (B2B) Marketing,187
-Harrogate,Medication Administration,184
+Harrogate,Business-To-Business (B2B) Marketing,185
 Harrogate,User Interface,183
+Harrogate,Medication Administration,183
 Harrogate,Corporate Tax,179
 Harrogate,Blogs,178
-Harrogate,SQL (Programming Language),176
 Harrogate,Lean Manufacturing,176
+Harrogate,SQL (Programming Language),176
 Harrogate,Telemarketing,175
 Harrogate,Sales Process,173
 Harrogate,Web Maintenance,169
-Kirklees,Direct Selling,5422
+Kirklees,Direct Selling,5418
 Kirklees,Cold Calling,5386
-Kirklees,Marketing,3059
-Kirklees,Merchandising,2118
-Kirklees,Warehousing,2057
-Kirklees,Maintenance Engineering,1597
-Kirklees,Key Performance Indicators (KPIs),1364
-Kirklees,Machinery,1192
-Kirklees,New Product Development,1159
-Kirklees,Finance,1097
-Kirklees,Numeracy,1002
-Kirklees,Auditing,943
-Kirklees,Accounting,900
+Kirklees,Marketing,2933
+Kirklees,Merchandising,2052
+Kirklees,Maintenance Engineering,1419
+Kirklees,Warehousing,1340
+Kirklees,New Product Development,1110
+Kirklees,Key Performance Indicators (KPIs),1108
+Kirklees,Finance,1061
+Kirklees,Machinery,897
+Kirklees,Accounting,894
+Kirklees,Auditing,873
 Kirklees,Building Services Engineering,869
 Kirklees,Boilers,785
-Kirklees,Lead Generation,779
-Kirklees,Business To Business,750
-Kirklees,Purchasing,744
-Kirklees,Invoicing,716
-Kirklees,Housekeeping,689
-Kirklees,Telemarketing,667
-Kirklees,Mechanical Engineering,665
-Kirklees,Business Development,649
-Kirklees,Food Manufacturing,634
-Kirklees,Procurement,611
-Kirklees,Product Knowledge,610
-Kirklees,Electrical Engineering,587
+Kirklees,Lead Generation,771
+Kirklees,Business To Business,745
+Kirklees,Invoicing,656
+Kirklees,Telemarketing,650
+Kirklees,Numeracy,638
+Kirklees,Business Development,629
+Kirklees,Purchasing,628
+Kirklees,Food Manufacturing,612
+Kirklees,Procurement,569
+Kirklees,Product Knowledge,565
+Kirklees,Mechanical Engineering,538
 Kirklees,Recruitment Consultancy,519
-Kirklees,Hydraulics,516
-Kirklees,Production Line,509
-Kirklees,Root Cause Analysis,495
-Kirklees,Selling Techniques,494
-Kirklees,Supply Chain,478
-Kirklees,Data Analysis,472
-Kirklees,Construction,468
-Kirklees,Mechanical Design,463
-Kirklees,Agile Methodology,458
+Kirklees,Hydraulics,492
+Kirklees,Electrical Engineering,490
+Kirklees,Root Cause Analysis,481
+Kirklees,Mechanical Design,462
 Kirklees,HVAC,457
-Kirklees,Overall Equipment Effectiveness,449
-Kirklees,Presentation Skills,444
-Kirklees,AutoCAD,440
-Kirklees,Palletizing,440
-Kirklees,Engineering Design Process,439
-Kirklees,Lean Manufacturing,430
-Kirklees,SQL (Programming Language),429
-Kirklees,Customer Relationship Management,420
-Kirklees,Digital Marketing,419
+Kirklees,Agile Methodology,457
+Kirklees,Data Analysis,446
+Kirklees,Presentation Skills,437
+Kirklees,Selling Techniques,427
+Kirklees,SQL (Programming Language),426
+Kirklees,Engineering Design Process,426
+Kirklees,Supply Chain,425
+Kirklees,Overall Equipment Effectiveness,420
 Kirklees,Solar Systems,419
-Kirklees,Operations Management,412
-Kirklees,Standard Operating Procedure,400
-Kirklees,Service Quality,394
-Kirklees,Risk Analysis,394
-Kirklees,Stock Control,390
-Kirklees,Commissioning,386
-Kirklees,Forklift Truck,374
+Kirklees,Digital Marketing,416
+Kirklees,Construction,412
+Kirklees,Customer Relationship Management,401
+Kirklees,Operations Management,382
+Kirklees,Commissioning,381
+Kirklees,AutoCAD,378
+Kirklees,Standard Operating Procedure,377
+Kirklees,Stock Control,375
+Kirklees,Service Quality,371
 Kirklees,Autodesk Revit,371
-Kirklees,Plumbing,363
-Kirklees,Administrative Support,359
-Kirklees,Booking (Sales),342
-Kirklees,Environment Health And Safety,341
-Kirklees,Engineering Drawings,340
-Kirklees,Automation,335
-Kirklees,Pneumatics,333
-Kirklees,SAP Applications,330
-Kirklees,Food Safety And Sanitation,323
-Kirklees,Technical Support,320
-Kirklees,Systems Engineering,312
-Kirklees,Postpartum Care,310
+Kirklees,Plumbing,357
+Kirklees,Risk Analysis,348
+Kirklees,Forklift Truck,335
+Kirklees,Administrative Support,333
+Kirklees,Automation,332
+Kirklees,Lean Manufacturing,329
+Kirklees,Pneumatics,314
 Kirklees,CorelDRAW (Corel Software),310
-Kirklees,Continuous Improvement Process,309
-Kirklees,Sales Management,304
+Kirklees,Environment Health And Safety,309
+Kirklees,Booking (Sales),307
+Kirklees,Technical Support,305
+Kirklees,Postpartum Care,305
+Kirklees,Systems Engineering,302
 Kirklees,Product Management,300
 Kirklees,Surveying,297
-Kirklees,Safety Standards,294
-Kirklees,JavaScript (Programming Language),286
+Kirklees,Food Safety And Sanitation,294
 Kirklees,Nursing,285
 Kirklees,Mechanical Electrical And Plumbing (MEP) Systems,285
-Kirklees,Technical Drawing,279
-Kirklees,Grant Applications,278
-Kirklees,Call Center Experience,276
-Kirklees,Development Environment,274
-Kirklees,Microsoft Azure,273
-Kirklees,Corrective And Preventive Action (CAPA),273
-Kirklees,Quality Management,271
-Kirklees,Cascading Style Sheets (CSS),270
-Kirklees,Python (Programming Language),270
-Kirklees,Profit And Loss (P&L) Management,270
-Kirklees,Good Manufacturing Practices,263
-Kirklees,Wholesaling,262
-Kirklees,Production Engineering,262
-Kirklees,Engineering Management,258
-Kirklees,Java (Programming Language),257
-Kirklees,Process Improvement,254
-Kirklees,Tooling,252
-Kirklees,Performance Management,252
-Kirklees,Field Service Management,252
-Kirklees,Marketing Management,249
-Kirklees,ISO 9000 Series,244
-Kirklees,Project Management,244
-Kirklees,Injection Molding,243
-Leeds,Personal Care,236405
-Leeds,Nursing,91462
-Leeds,Psychology,61632
+Kirklees,JavaScript (Programming Language),280
+Kirklees,Grant Applications,279
+Kirklees,Call Center Experience,272
+Kirklees,Housekeeping,270
+Kirklees,Sales Management,270
+Kirklees,Technical Drawing,270
+Kirklees,Python (Programming Language),268
+Kirklees,Profit And Loss (P&L) Management,265
+Kirklees,Cascading Style Sheets (CSS),263
+Kirklees,Continuous Improvement Process,262
+Kirklees,Wholesaling,260
+Kirklees,Java (Programming Language),258
+Kirklees,SAP Applications,257
+Kirklees,Engineering Management,254
+Kirklees,Good Manufacturing Practices,251
+Kirklees,Microsoft Azure,249
+Kirklees,Marketing Management,248
+Kirklees,Project Management,246
+Kirklees,Production Engineering,246
+Kirklees,Field Service Management,243
+Kirklees,Performance Management,243
+Kirklees,Linux,239
+Kirklees,Technical Training,237
+Kirklees,Project Engineering,235
+Kirklees,Marketing Communications,231
+Kirklees,Financial Statements,230
+Kirklees,Welding,226
+Kirklees,Electronic Engineering,223
+Kirklees,Category Management,218
+Kirklees,Building Information Modeling,217
+Kirklees,Technical Management,213
+Kirklees,Oil And Gas,211
+Leeds,Personal Care,236344
+Leeds,Nursing,91448
+Leeds,Psychology,61663
 Leeds,Furnishing,42701
 Leeds,Smoke Detector,42047
 Leeds,Surgery,39784
-Leeds,Marketing,35347
-Leeds,Restaurant Operation,30593
-Leeds,Home Health Care,29235
-Leeds,Infection Control,28743
-Leeds,Dementia Care,27515
+Leeds,Marketing,38166
+Leeds,Restaurant Operation,30601
+Leeds,Home Health Care,29231
+Leeds,Infection Control,28742
+Leeds,Dementia Care,27514
 Leeds,Network Interface Controllers,26360
-Leeds,Dementia,24417
-Leeds,Baking,24293
+Leeds,Dementia,24410
+Leeds,Baking,24290
 Leeds,Maid Services,23883
-Leeds,Food Preparation,23551
-Leeds,Window Cleaning,21077
-Leeds,Auditing,20842
-Leeds,Nursing Care,20189
+Leeds,Food Preparation,23552
+Leeds,Auditing,22433
+Leeds,Window Cleaning,21076
+Leeds,Nursing Care,20187
 Leeds,Electronic Systems,19722
-Leeds,Service Quality,19149
-Leeds,Stock Rotation,17616
-Leeds,Information Privacy,17026
-Leeds,Food Services,16133
-Leeds,Housekeeping,15921
-Leeds,Regulatory Compliance,14791
+Leeds,Service Quality,19249
+Leeds,Stock Rotation,17604
+Leeds,Information Privacy,17163
+Leeds,Food Services,16139
+Leeds,Housekeeping,16039
+Leeds,Regulatory Compliance,15055
 Leeds,Meal Service,14308
-Leeds,Warehousing,10576
-Leeds,Key Performance Indicators (KPIs),9746
-Leeds,Agile Methodology,9604
-Leeds,Finance,9466
-Leeds,Civil Engineering,9266
-Leeds,Business Development,9046
+Leeds,Finance,12310
+Leeds,Agile Methodology,11940
+Leeds,Key Performance Indicators (KPIs),10883
+Leeds,Warehousing,10817
+Leeds,Business Development,9906
+Leeds,Accounting,9405
+Leeds,Civil Engineering,9296
 Leeds,Information Governance,9016
-Leeds,Building Services Engineering,8813
-Leeds,Procurement,8340
-Leeds,Risk Analysis,7971
-Leeds,Clinical Nursing,7892
-Leeds,AutoCAD,7090
-Leeds,Construction,7043
-Leeds,Health And Safety At Work Act,6892
+Leeds,Procurement,9006
+Leeds,Building Services Engineering,8814
+Leeds,Risk Analysis,8278
+Leeds,Clinical Nursing,7890
+Leeds,AutoCAD,7194
+Leeds,Construction,7088
+Leeds,Health And Safety At Work Act,6902
 Leeds,Palliative Care,6841
 Leeds,Hydrotherapy,6804
-Leeds,Autodesk Revit,6473
-Leeds,HVAC,6387
-Leeds,Control Of Substances Hazardous To Health (COSHH),5965
-Leeds,Accounting,5923
-Leeds,Hoisting,5660
-Leeds,Commercial Management,5578
+Leeds,Autodesk Revit,6559
+Leeds,HVAC,6486
+Leeds,SQL (Programming Language),6403
+Leeds,Microsoft Azure,6198
+Leeds,Control Of Substances Hazardous To Health (COSHH),5999
+Leeds,JavaScript (Programming Language),5978
+Leeds,Invoicing,5794
+Leeds,Hoisting,5737
+Leeds,Data Analysis,5600
+Leeds,Commercial Management,5583
 Leeds,Care Standards Act 2000,5516
-Leeds,Recruitment Consultancy,5406
-Leeds,Pharmaceuticals,5371
-Leeds,Information Management,5266
-Leeds,Social Work,5153
-Leeds,Care Planning,5120
-Leeds,Data Quality,5057
-Leeds,Billing,5048
-Leeds,Group Policy,5000
+Leeds,Recruitment Consultancy,5497
+Leeds,Pharmaceuticals,5484
+Leeds,Information Management,5315
+Leeds,Project Management,5260
+Leeds,Data Quality,5231
+Leeds,Group Policy,5215
+Leeds,Social Work,5202
+Leeds,Billing,5178
+Leeds,Care Planning,5117
+Leeds,Customer Relationship Management,5081
+Leeds,Amazon Web Services,5010
 Leeds,Convalescence,4901
-Leeds,Project Management,4707
-Leeds,Invoicing,4631
-Leeds,Mental Health,4556
+Leeds,Purchasing,4776
+Leeds,Cascading Style Sheets (CSS),4718
+Leeds,Automation,4709
+Leeds,Sales Management,4621
+Leeds,Mental Health,4526
 Leeds,Hoppers,4508
-Leeds,Marketing Planning,4441
-Leeds,Engineering Design Process,4430
-Leeds,Sales Management,4362
-Leeds,Data Analysis,4293
-Leeds,Purchasing,4269
+Leeds,Marketing Planning,4506
+Leeds,Stakeholder Management,4482
+Leeds,Supply Chain,4465
+Leeds,Engineering Design Process,4463
 Leeds,Midwifery,4233
-Leeds,Supply Chain,4167
-Leeds,Customer Relationship Management,4154
-Leeds,JavaScript (Programming Language),4070
-Leeds,Facility Management,4038
-Leeds,Numeracy,4014
-Leeds,Amazon Web Services,3987
-Leeds,Maintenance Engineering,3919
+Leeds,New Product Development,4156
+Leeds,Facility Management,4091
+Leeds,DevOps,4090
+Leeds,Numeracy,4050
+Leeds,Maintenance Engineering,3979
+Leeds,C# (Programming Language),3972
+Leeds,Risk Management,3968
+Leeds,Electrical Engineering,3935
+Leeds,Account Management,3911
 Leeds,Clinical Leadership,3865
 Leeds,Intercom,3851
-Leeds,Electrical Engineering,3731
-Leeds,Stakeholder Management,3719
 Leeds,Clinical Assessments,3718
-Leeds,Risk Management,3707
-Leeds,Cooking,3706
-Leeds,New Product Development,3672
-Leeds,Microsoft Azure,3669
+Leeds,Cooking,3702
+Leeds,Business Requirements,3688
 Leeds,Child Safeguarding,3660
-Leeds,SQL (Programming Language),3605
-Leeds,Account Management,3571
-Leeds,Automation,3546
-Leeds,Mechanical Engineering,3544
-Leeds,Structural Engineering,3527
-Leeds,Cascading Style Sheets (CSS),3521
-Leeds,Environment Health And Safety,3518
-Leeds,Respite Care,3453
-Leeds,Selling Techniques,3427
-Leeds,Subcontracting,3422
-Leeds,Presentation Skills,3336
-Leeds,Software Engineering,3330
-Leeds,Machinery,3293
-Leeds,Administrative Support,3282
+Leeds,Selling Techniques,3647
+Leeds,Mechanical Engineering,3631
+Leeds,Software Engineering,3616
+Leeds,Environment Health And Safety,3583
+Leeds,Structural Engineering,3542
+Leeds,Machinery,3534
+Leeds,Administrative Support,3483
 Richmondshire,Transport Dispatch,117
 Richmondshire,Food Safety And Sanitation,106
 Richmondshire,Butchering,103
 Richmondshire,Procurement,61
-Richmondshire,Hand Tools,60
 Richmondshire,Stock Rotation,60
+Richmondshire,Hand Tools,60
 Richmondshire,Pressure Washer,59
-Richmondshire,Invoicing,58
 Richmondshire,Woodworking,54
 Richmondshire,Woodworking Machines,54
 Richmondshire,Product Planning,51
 Richmondshire,Drawing Interpretation,48
 Richmondshire,Upholstery,42
+Richmondshire,Invoicing,39
 Richmondshire,Painting,36
 Richmondshire,Paint Sprayers,36
 Richmondshire,Concrete Mixing And Batching,36
 Richmondshire,Warehousing,35
-Richmondshire,Booking (Sales),35
-Richmondshire,Technical Support,32
 Richmondshire,Solvent,30
 Richmondshire,Corrective And Preventive Action (CAPA),27
-Richmondshire,Windows Desktop,27
 Richmondshire,Marketing,26
-Richmondshire,JavaScript (Programming Language),26
-Richmondshire,Software Development,25
 Richmondshire,Truck Driving,24
-Richmondshire,HyperText Markup Language (HTML),24
-Richmondshire,Microsoft Office 365,24
-Richmondshire,Accounting,24
-Richmondshire,Traceroute,23
-Richmondshire,Ping (Networking Utility),23
-Richmondshire,Network Troubleshooting,23
-Richmondshire,Microsoft Exchange Servers,23
-Richmondshire,Active Directory,23
-Richmondshire,Surveying,22
+Richmondshire,Accounting,22
 Richmondshire,Cash Handling,22
-Richmondshire,Computer Hardware,21
-Richmondshire,Cascading Style Sheets (CSS),21
+Richmondshire,Surveying,22
 Richmondshire,Knife Skills,20
 Richmondshire,LESS,19
-Richmondshire,Data Analysis,19
+Richmondshire,JavaScript (Programming Language),18
 Richmondshire,Civil Engineering,18
 Richmondshire,Auditing,17
-Richmondshire,Finance,16
-Richmondshire,Machinery,16
+Richmondshire,Data Analysis,17
 Richmondshire,Numeracy,16
-Richmondshire,AutoCAD,15
+Richmondshire,Machinery,16
+Richmondshire,Booking (Sales),16
+Richmondshire,HyperText Markup Language (HTML),16
+Richmondshire,Finance,16
 Richmondshire,Assisted Feeding,15
-Richmondshire,Selling Techniques,15
-Richmondshire,Product Knowledge,15
+Richmondshire,AutoCAD,15
 Richmondshire,Fabrication,14
 Richmondshire,Reconciliation,14
 Richmondshire,Bitbucket,14
-Richmondshire,Cloud Services,14
-Richmondshire,Welding,13
 Richmondshire,Blogs,13
-Richmondshire,Microsoft Azure,13
-Richmondshire,Group Policy,13
+Richmondshire,Welding,13
+Richmondshire,Ledgers (Accounting),12
 Richmondshire,Architectural Drawing,12
 Richmondshire,Glazing,12
-Richmondshire,Ledgers (Accounting),12
-Richmondshire,Computer Science,12
-Richmondshire,Help Desk Support,12
 Richmondshire,Telecommunications,12
-Richmondshire,Business Development,11
+Richmondshire,Financial Services,11
 Richmondshire,Administrative Support,11
+Richmondshire,Copywriting,11
 Richmondshire,Maintenance Engineering,11
 Richmondshire,Machinery Repair And Maintenance,11
-Richmondshire,Copywriting,11
-Richmondshire,Financial Services,11
-Richmondshire,Private Cloud,11
-Richmondshire,Azure Active Directory,11
 Richmondshire,Customer Data Management,11
+Richmondshire,Business Development,10
 Richmondshire,Profit And Loss (P&L) Management,10
 Richmondshire,Fixed Asset,10
+Richmondshire,Software Development,10
 Richmondshire,Agile Methodology,10
-Richmondshire,C# (Programming Language),10
-Richmondshire,User Accounts,10
-Richmondshire,Security Administration,10
 Richmondshire,Wireframing,10
 Richmondshire,Web Maintenance,10
 Richmondshire,Software Testing,10
 Richmondshire,NopCommerce,10
 Richmondshire,Microsoft Visual Studio,10
+Richmondshire,Help Desk Support,10
 Richmondshire,Github,10
 Richmondshire,DotNetNuke,10
 Richmondshire,Content Management,10
+Richmondshire,Cascading Style Sheets (CSS),10
 Richmondshire,Bootstrap (Front-End Framework),10
 Richmondshire,Credit Control,9
-Richmondshire,Stock Control,9
 Richmondshire,Proofreading,9
 Richmondshire,Production Management,9
 Richmondshire,Newsletters,9
 Richmondshire,Marketing Materials,9
+Richmondshire,Stock Control,9
 Richmondshire,Remittance,9
 Richmondshire,Prepayment,9
 Richmondshire,Journals,9
 Richmondshire,Import Declarations,9
 Richmondshire,Financial Accounting,9
 Richmondshire,Export Declarations,9
+Richmondshire,Balance Sheet,9
+Richmondshire,Accruals,9
+Richmondshire,Accounting Records,9
+Richmondshire,Communications Management,8
+Richmondshire,Project Management Software,8
+Richmondshire,Selling Techniques,8
+Richmondshire,Construction,8
+Richmondshire,Housekeeping,8
+Richmondshire,Systems Development,8
+Richmondshire,Computer Science,8
+Richmondshire,Angular (Web Framework),8
+Richmondshire,Adobe Illustrator,8
+Richmondshire,Database Systems,8
+Richmondshire,Building Controls,8
+Richmondshire,Brand Management,7
+Richmondshire,Digital Marketing,7
+Richmondshire,Adobe InDesign,7
+Richmondshire,Order Processing,7
+Richmondshire,Spray Painting,7
+Richmondshire,Sawing,7
 Ryedale,Food Safety And Sanitation,270
 Ryedale,Auditing,263
 Ryedale,Finance,240
 Ryedale,Key Performance Indicators (KPIs),206
+Ryedale,Machinery,198
 Ryedale,Learning Disabilities,195
-Ryedale,Machinery,193
 Ryedale,SAP Applications,191
 Ryedale,Accounting,163
 Ryedale,Food Manufacturing,163
@@ -818,17 +818,17 @@ Ryedale,Pneumatics,101
 Ryedale,Packaging Machine Operation,99
 Ryedale,Mono,81
 Ryedale,Continuous Improvement Process,80
-Ryedale,New Product Development,77
 Ryedale,Marketing,77
+Ryedale,New Product Development,77
 Ryedale,Corrective And Preventive Action (CAPA),73
 Ryedale,Root Cause Analysis,69
 Ryedale,Pharmaceuticals,69
 Ryedale,Risk Management,68
 Ryedale,Customer Relationship Management,67
 Ryedale,Accounts Payable,67
+Ryedale,Environment Health And Safety,66
 Ryedale,Engineering Management,66
 Ryedale,Management Accounting,66
-Ryedale,Environment Health And Safety,66
 Ryedale,Production Line,64
 Ryedale,Warehousing,63
 Ryedale,Pivot Tables And Charts,61
@@ -840,16 +840,16 @@ Ryedale,Risk Analysis,55
 Ryedale,Financial Controls,55
 Ryedale,Butchering,54
 Ryedale,Proactive Maintenance,54
-Ryedale,Ledgers (Accounting),53
 Ryedale,Purchasing,53
+Ryedale,Ledgers (Accounting),53
 Ryedale,Operations Management,53
 Ryedale,Credit Control,51
+Ryedale,Vlookups,51
 Ryedale,Animal Welfare,51
 Ryedale,Balance Sheet,51
-Ryedale,Vlookups,51
 Ryedale,Production Planning,49
-Ryedale,Presentation Skills,49
 Ryedale,Account Management,49
+Ryedale,Presentation Skills,49
 Ryedale,Internal Auditing,47
 Ryedale,Knife Skills,47
 Ryedale,Business Requirements,45
@@ -858,37 +858,37 @@ Ryedale,Six Sigma Methodology,43
 Ryedale,Food Science,42
 Ryedale,External Auditing,41
 Ryedale,Financial Statements,41
-Ryedale,Numerical Analysis,40
 Ryedale,Mechanical Engineering,40
+Ryedale,Numerical Analysis,40
 Ryedale,Business Process,39
 Ryedale,Programmable Logic Controllers,39
 Ryedale,SAP Functional,39
-Ryedale,SAP Implementation,38
 Ryedale,Development Environment,38
+Ryedale,SAP Implementation,38
+Ryedale,Zoom (Video Conferencing Tool),37
 Ryedale,Stock Control,37
 Ryedale,Housekeeping,37
-Ryedale,Zoom (Video Conferencing Tool),37
-Ryedale,Anaplan,37
 Ryedale,Financial Planning,37
+Ryedale,Anaplan,37
+Ryedale,Health And Safety Standards,36
 Ryedale,Quality Management,36
 Ryedale,Document Processing,36
 Ryedale,Process Improvement,36
-Ryedale,Health And Safety Standards,36
 Ryedale,Business Systems,35
-Ryedale,Production Management,34
 Ryedale,Procurement,34
+Ryedale,Production Management,34
 Ryedale,Agriculture,34
 Ryedale,Tax Accounting,34
 Ryedale,Working Capital,34
 Ryedale,Capital Expenditure,34
 Ryedale,Project Management,34
 Ryedale,Advanced Manufacturing,33
+Ryedale,Apache Pig,33
 Ryedale,Seafood Preparation,33
 Ryedale,Matrix Management,33
 Ryedale,Lean Enterprise,33
 Ryedale,Contingency Planning,33
 Ryedale,Conflict Resolution,33
-Ryedale,Apache Pig,33
 Ryedale,Safety Standards,32
 Ryedale,On-The-Job Training,32
 Ryedale,Paragraphs,31
@@ -911,7 +911,6 @@ Scarborough,Accounting,58
 Scarborough,Mechanical Engineering,53
 Scarborough,Loans,53
 Scarborough,Invoicing,52
-Scarborough,Machinery,52
 Scarborough,Housekeeping,51
 Scarborough,Electrical Engineering,50
 Scarborough,Marketing,50
@@ -919,36 +918,37 @@ Scarborough,Restaurant Operation,49
 Scarborough,Key Performance Indicators (KPIs),49
 Scarborough,Customer Relationship Building,49
 Scarborough,Purchasing,47
+Scarborough,Machinery,47
 Scarborough,Technical Support,46
 Scarborough,Meal Planning And Preparation,46
 Scarborough,Manicure,44
 Scarborough,Three-Phase,43
-Scarborough,Gardening,42
 Scarborough,AutoCAD,42
+Scarborough,Gardening,42
 Scarborough,Single-Phase Electric Power,41
 Scarborough,Autism Spectrum Disorders,41
 Scarborough,Medication Administration,40
 Scarborough,Oil And Gas,39
 Scarborough,Food Quality Assurance And Control,39
-Scarborough,Procurement,38
 Scarborough,Food Preparation,38
 Scarborough,Surveying,38
 Scarborough,Manufacturing Resource Planning,38
-Scarborough,Hoisting,37
-Scarborough,Process Control,37
+Scarborough,Procurement,38
 Scarborough,Microsoft Teams,37
+Scarborough,Hoisting,37
 Scarborough,Systems Design,36
 Scarborough,Systems Architecture,36
 Scarborough,Software Design Documents,36
 Scarborough,Programmable Logic Controller Control Panel,36
+Scarborough,Process Control,36
 Scarborough,Manufacturing Operations,36
 Scarborough,Electrical System Design,36
 Scarborough,Electrical Control Systems,36
 Scarborough,Control System Design,36
 Scarborough,Computer-Aided Design,36
 Scarborough,Atex Directive,36
-Scarborough,Auditing,35
 Scarborough,Financial Statements,35
+Scarborough,Auditing,34
 Scarborough,International Financial Reporting Standards,34
 Scarborough,Corporate Strategy,34
 Scarborough,Business Strategies,34
@@ -964,40 +964,40 @@ Scarborough,Service Quality,24
 Scarborough,Hand Tools,24
 Scarborough,Financial Accounting,23
 Scarborough,Resourcing,22
-Scarborough,Business Development,22
 Scarborough,Material Requirements Planning,22
+Scarborough,Business Development,22
 Scarborough,Process Improvement,22
-Scarborough,Mowing,21
 Scarborough,Cash Handling,21
+Scarborough,Mowing,21
 Scarborough,Performance Review,20
 Scarborough,Public Relations,20
 Scarborough,Standard Accounting Practices,20
+Scarborough,Maid Services,19
 Scarborough,Painting,19
 Scarborough,Engineering Drawings,19
-Scarborough,Maid Services,19
-Scarborough,Booking (Sales),18
 Scarborough,Information Privacy,18
 Scarborough,Upselling,18
+Scarborough,Booking (Sales),18
 Scarborough,Financial Controls,17
 Scarborough,Alternative Therapies,17
-Scarborough,Vehicle Maintenance,16
+Scarborough,Procurement Management,16
 Scarborough,Customer Relationship Management,16
 Scarborough,Weed Control,16
 Scarborough,Pruning,16
 Scarborough,Property Maintenance,16
+Scarborough,Vehicle Maintenance,16
 Scarborough,Home Health Care,16
 Scarborough,Family Support,16
 Scarborough,Life Skills Development,16
 Scarborough,Learning Disabilities,16
-Scarborough,Procurement Management,16
-Scarborough,Tiling,15
-Scarborough,Data Entry,15
 Scarborough,Risk Analysis,15
+Scarborough,Data Entry,15
+Scarborough,Tiling,15
 Scarborough,Reflexology,15
 Scarborough,Dementia,15
-Scarborough,Textiles,14
-Scarborough,Visual Impairment Education,14
 Scarborough,Data Analysis,14
+Scarborough,Supplier Performance Management,14
+Scarborough,Technical Sales,14
 Scarborough,Electronic Components,14
 Selby,Mopping,1245
 Selby,Technical Services,685
@@ -1010,20 +1010,20 @@ Selby,Data Entry,90
 Selby,Warehousing,86
 Selby,Finance,75
 Selby,Business Performance Management,67
-Selby,Operations Management,66
 Selby,Disaster Recovery,66
-Selby,Smoke Detector,64
+Selby,Operations Management,66
 Selby,Customer Relationship Management,64
+Selby,Smoke Detector,64
 Selby,Outbound Calls,60
 Selby,New Product Development,59
 Selby,Quality Management Systems,59
 Selby,Field Service Management,56
 Selby,Business Continuity Planning,54
-Selby,Preventive Maintenance,52
 Selby,Call Center Experience,52
+Selby,Preventive Maintenance,52
 Selby,Booking (Sales),51
-Selby,Invoicing,51
 Selby,Forklift Truck,51
+Selby,Invoicing,51
 Selby,Communications Systems,51
 Selby,Auditing,50
 Selby,Business Development,48
@@ -1035,33 +1035,33 @@ Selby,Commissioning,40
 Selby,Access Controls,38
 Selby,Ambulances,37
 Selby,Information Technology Infrastructure Library,37
+Selby,Quality Management,35
 Selby,Supply Chain,35
 Selby,Enterprise Resource Planning,35
-Selby,Quality Management,35
-Selby,Fire Alarm Systems,33
 Selby,Business Systems,33
+Selby,Fire Alarm Systems,33
 Selby,Process Improvement,32
-Selby,Maintenance Engineering,32
 Selby,Presentation Skills,32
+Selby,Maintenance Engineering,32
 Selby,Housekeeping,31
 Selby,Client Onboarding,31
 Selby,Procurement,31
+Selby,Digital Marketing,30
 Selby,Alarm Devices,30
 Selby,Surveying,30
 Selby,Regional Sales,30
-Selby,Digital Marketing,30
 Selby,Medical Devices,30
-Selby,Risk Analysis,29
-Selby,Sales Process,29
-Selby,Electronic Systems,29
-Selby,Market Share,29
 Selby,Technical Support,29
+Selby,Electronic Systems,29
+Selby,Sales Process,29
+Selby,Market Share,29
+Selby,Risk Analysis,29
 Selby,Revenue Stream,28
 Selby,Operating Systems,28
 Selby,Numeracy,27
+Selby,Selling Techniques,27
 Selby,Business Process,27
 Selby,Production Process,27
-Selby,Selling Techniques,27
 Selby,Purchasing,26
 Selby,Customer Support,26
 Selby,SQL (Programming Language),26
@@ -1074,21 +1074,21 @@ Selby,Working With Children,24
 Selby,Sales Territory Management,24
 Selby,Performance Metric,24
 Selby,Business Metrics,24
+Selby,Agile Methodology,23
 Selby,Environmental Monitoring,23
 Selby,Market Trend,23
 Selby,Integrated Care,23
 Selby,Closing (Sales),23
-Selby,Agile Methodology,23
 Selby,Microsoft Azure,23
 Selby,Continuous Improvement Process,22
 Selby,Technical Documentation,22
-Selby,Production Engineering,21
-Selby,Test Equipment,21
 Selby,Software Development,21
-Selby,Microsoft Teams,21
-Selby,Electrical Engineering,21
 Selby,Change Control,21
 Selby,Forklift Operation,21
+Selby,Production Engineering,21
+Selby,Test Equipment,21
+Selby,Microsoft Teams,21
+Selby,Electrical Engineering,21
 Selby,Stocks (Inventory),20
 Selby,Microsoft SharePoint,20
 Selby,SAP Applications,20
@@ -1097,30 +1097,30 @@ Selby,Telecommunications,19
 Selby,Sales Support,19
 Selby,Electrical Wiring,19
 Selby,Manufacturing Processes,19
+Selby,Proofreading,18
 Selby,Systems Architecture,18
-Selby,Automation,18
-Wakefield,Personal Care,13764
-Wakefield,Medication Administration,5402
+Wakefield,Personal Care,13721
+Wakefield,Medication Administration,5369
 Wakefield,Nursing,4150
-Wakefield,Cooking,3921
+Wakefield,Cooking,3912
 Wakefield,Finance,3875
-Wakefield,Auditing,3332
+Wakefield,Auditing,3331
 Wakefield,Autism Spectrum Disorders,3303
 Wakefield,Mental Health,3108
-Wakefield,Meal Planning And Preparation,3098
+Wakefield,Meal Planning And Preparation,3097
 Wakefield,Social Support,2920
 Wakefield,Learning Disabilities,2839
-Wakefield,Application Lifecycle Management,2820
 Wakefield,Midwifery,2820
+Wakefield,Application Lifecycle Management,2820
 Wakefield,Primary Care,2788
 Wakefield,Accounting,2767
-Wakefield,Marketing,2506
+Wakefield,Marketing,2507
 Wakefield,Online Teaching,2304
 Wakefield,Clinical Governance,1925
 Wakefield,Life Skills Development,1784
 Wakefield,Key Performance Indicators (KPIs),1770
 Wakefield,Invoicing,1663
-Wakefield,Community Health,1625
+Wakefield,Community Health,1594
 Wakefield,Triage,1420
 Wakefield,Wound Care,1375
 Wakefield,Lesson Planning,1347
@@ -1140,7 +1140,7 @@ Wakefield,Risk Analysis,894
 Wakefield,Stock Control,877
 Wakefield,Reconciliation,860
 Wakefield,Care Planning,839
-Wakefield,Presentation Skills,824
+Wakefield,Presentation Skills,823
 Wakefield,Medical Devices,820
 Wakefield,Management Accounting,811
 Wakefield,Care Standards Act 2000,792
@@ -1162,7 +1162,7 @@ Wakefield,Change Management,624
 Wakefield,Data Analysis,605
 Wakefield,Emergency Nursing,596
 Wakefield,Medication Dispensation,588
-Wakefield,Selling Techniques,586
+Wakefield,Selling Techniques,587
 Wakefield,Regulatory Compliance,586
 Wakefield,Electronic Prescription (eRx),581
 Wakefield,Agile Methodology,565
@@ -1176,10 +1176,10 @@ Wakefield,Balance Sheet,476
 Wakefield,Procurement,475
 Wakefield,Sales Management,461
 Wakefield,Data Entry,460
-Wakefield,Social Work,455
+Wakefield,Social Work,454
 Wakefield,Surgery,440
-Wakefield,Secondary Care,438
 Wakefield,Audit Risk,438
+Wakefield,Secondary Care,438
 Wakefield,Accounts Payable,437
 Wakefield,Financial Management,433
 Wakefield,Reproductive Health Care,431
@@ -1188,19 +1188,19 @@ Wakefield,Operations Management,425
 Wakefield,New Product Development,420
 Wakefield,VAT Returns,417
 Wakefield,Infection Control,416
-Wakefield,Project Management,415
+Wakefield,Project Management,414
 Wakefield,Amazon Web Services,411
 Wakefield,Research Experiences,410
 Wakefield,Clinical Surveillance,409
-Wakefield,Home Health Care,407
 Wakefield,Profit And Loss (P&L) Management,403
 Wakefield,Legislation,402
 Wakefield,Housekeeping,396
 Wakefield,Patient Education And Counseling,395
 Wakefield,Acute Care,386
 Wakefield,Supply Chain,384
-York,Marketing,2749
-York,Finance,2743
+Wakefield,Performance Management,379
+York,Finance,2742
+York,Marketing,2741
 York,Construction,2728
 York,Accounting,2073
 York,Agile Methodology,2054
@@ -1208,13 +1208,13 @@ York,Financial Services,1896
 York,Business Development,1688
 York,Procurement,1539
 York,Backlogs,1519
-York,Facility Management,1495
+York,Facility Management,1494
 York,Operations Management,1486
-York,Warehousing,1467
+York,Warehousing,1466
 York,Maintenance Engineering,1325
 York,Endoscopy,1316
 York,Microsoft Teams,1252
-York,Resourcing,1232
+York,Resourcing,1230
 York,Physical Therapy,1213
 York,Invoicing,1180
 York,Mechanical Engineering,1164
@@ -1229,7 +1229,7 @@ York,Auditing,935
 York,Field Service Management,926
 York,Sales Engineering,912
 York,Aruba (Network Management Software),887
-York,Tourism,881
+York,Tourism,880
 York,Fitness Training,880
 York,Automotive Engineering,880
 York,Microsoft Azure,875
@@ -1261,15 +1261,15 @@ York,Quantity Surveying,568
 York,Reliability Availability Maintainability And Safety Software,564
 York,Magnetic Resonance Imaging,552
 York,Laminar Flow,547
-York,Administrative Support,528
+York,Administrative Support,526
 York,Service Improvement,523
-York,Staff Management,515
 York,Oncology,515
+York,Staff Management,515
 York,Patient Treatment,506
 York,Cost Control,495
 York,C# (Programming Language),492
 York,Service Improvement Planning,478
-York,Carpentry,471
+York,Carpentry,470
 York,Painting,448
 York,Technical Support,440
 York,Cold Calling,434
@@ -1278,8 +1278,8 @@ York,Environment Health And Safety,420
 York,Business To Business,419
 York,Presentation Skills,407
 York,Cascading Style Sheets (CSS),405
-York,Modular Building,402
 York,Food Safety And Sanitation,402
+York,Modular Building,402
 York,Scrum (Software Development),401
 York,HVAC,395
 York,Intensive Care Unit,393
@@ -1295,107 +1295,7 @@ York,Adobe Photoshop,368
 York,DevOps,368
 York,Software Development,363
 York,Amazon Web Services,360
-York,Java (Programming Language),359
 York,Software Engineering,359
-York,Application Programming Interface (API),352
-York,Account Management,351
-York,Marketing,2749
-York,Finance,2743
-York,Construction,2728
-York,Accounting,2073
-York,Agile Methodology,2054
-York,Financial Services,1896
-York,Business Development,1688
-York,Procurement,1539
-York,Backlogs,1519
-York,Facility Management,1495
-York,Operations Management,1486
-York,Warehousing,1467
-York,Maintenance Engineering,1325
-York,Endoscopy,1316
-York,Microsoft Teams,1252
-York,Resourcing,1232
-York,Physical Therapy,1213
-York,Invoicing,1180
-York,Mechanical Engineering,1164
-York,Subcontracting,1151
-York,Risk Analysis,1124
-York,Key Performance Indicators (KPIs),1053
-York,Surgery,1041
-York,Nursing,1037
-York,Building Services Engineering,1008
-York,Numeracy,954
-York,Auditing,935
-York,Field Service Management,926
-York,Sales Engineering,912
-York,Aruba (Network Management Software),887
-York,Tourism,881
-York,Fitness Training,880
-York,Automotive Engineering,880
-York,Microsoft Azure,875
-York,AutoCAD,867
-York,Patient Safety,844
-York,SQL (Programming Language),839
-York,Contract Management,818
-York,Plumbing,803
-York,Civil Engineering,798
-York,Orthopedics,774
-York,Radiography,762
-York,Customer Relationship Management,750
-York,Purchasing,744
-York,Sales Management,705
-York,Project Management,673
-York,Automotive Industry,646
-York,Machinery,641
-York,Geotechnical Engineering,637
-York,Stakeholder Management,634
-York,JavaScript (Programming Language),630
-York,Radiology,617
-York,Data Analysis,606
-York,Autodesk Revit,599
-York,eClinicalWorks (ECW),593
-York,Automation,582
-York,Supply Chain,570
-York,SAP Applications,569
-York,Quantity Surveying,568
-York,Reliability Availability Maintainability And Safety Software,564
-York,Magnetic Resonance Imaging,552
-York,Laminar Flow,547
-York,Administrative Support,528
-York,Service Improvement,523
-York,Staff Management,515
-York,Oncology,515
-York,Patient Treatment,506
-York,Cost Control,495
-York,C# (Programming Language),492
-York,Service Improvement Planning,478
-York,Carpentry,471
-York,Painting,448
-York,Technical Support,440
-York,Cold Calling,434
-York,.NET Framework,431
-York,Environment Health And Safety,420
-York,Business To Business,419
-York,Presentation Skills,407
-York,Cascading Style Sheets (CSS),405
-York,Modular Building,402
-York,Food Safety And Sanitation,402
-York,Scrum (Software Development),401
-York,HVAC,395
-York,Intensive Care Unit,393
-York,Cath Lab,393
-York,Selling Techniques,380
-York,Linux,377
-York,Electrical Engineering,373
-York,New Product Development,372
-York,Food Services,372
-York,Operations Support Systems,371
-York,Restaurant Operation,369
-York,Adobe Photoshop,368
-York,DevOps,368
-York,Software Development,363
-York,Amazon Web Services,360
 York,Java (Programming Language),359
-York,Software Engineering,359
 York,Application Programming Interface (API),352
-York,Account Management,351
+York,Python (Programming Language),351

@@ -4,9 +4,9 @@ Bradford,Amazon Web Services,7140
 Bradford,Docker (Software),6418
 Bradford,Kubernetes,6332
 Bradford,Java (Programming Language),6174
-Bradford,Microsoft Excel,5564
+Bradford,Microsoft Excel,5556
 Bradford,SQL (Programming Language),4915
-Bradford,Microsoft Office,4842
+Bradford,Microsoft Office,4796
 Bradford,Python (Programming Language),4610
 Bradford,Docker Swarm,3952
 Bradford,JavaScript (Programming Language),3752
@@ -26,7 +26,7 @@ Bradford,Git (Version Control System),1829
 Bradford,Jenkins,1782
 Bradford,Ansible,1747
 Bradford,Cascading Style Sheets (CSS),1710
-Bradford,Microsoft Outlook,1661
+Bradford,Microsoft Outlook,1653
 Bradford,Chef (Configuration Management Tool),1649
 Bradford,TypeScript,1641
 Bradford,Linux,1600
@@ -62,11 +62,11 @@ Bradford,Apple IOS,704
 Bradford,Terraform,661
 Bradford,Figma (Design Software),657
 Bradford,Amazon Redshift,624
-Bradford,Accounting Software,624
+Bradford,Accounting Software,623
 Bradford,MongoDB,615
-Bradford,AutoCAD,611
 Bradford,Human Resources Information System (HRIS),609
 Bradford,Apache Spark,605
+Bradford,AutoCAD,592
 Bradford,Gatsby.js,592
 Bradford,Data Lakes,592
 Bradford,Adobe After Effects,591
@@ -75,7 +75,7 @@ Bradford,ServiceNow,579
 Bradford,Amazon Aurora,576
 Bradford,R (Programming Language),572
 Bradford,Webpack,549
-Bradford,Microsoft SharePoint,545
+Bradford,Microsoft SharePoint,543
 Bradford,Security Assertion Markup Language (SAML),528
 Bradford,OAuth,528
 Bradford,Adobe Livecycle Designer,512
@@ -83,8 +83,8 @@ Bradford,Swift (Programming Language),483
 Bradford,Salesforce Marketing Cloud,480
 Bradford,Firewall,469
 Bradford,Xamarin,452
-Bradford,Vert.x,448
 Bradford,Active Directory,448
+Bradford,Vert.x,448
 Bradford,Learning Management Systems,420
 Bradford,Slack (Software),417
 Bradford,Windows Servers,411
@@ -93,32 +93,32 @@ Bradford,Trello,402
 Bradford,React Native,400
 Bradford,OpenID,400
 Bradford,Elasticsearch,400
-Bradford,SAP Applications,399
+Bradford,SAP Applications,398
 Bradford,Objective-C (Programming Language),384
 Bradford,Platform As A Service (PaaS),383
 Bradford,Enterprise Application Software,377
 Bradford,Oracle Hyperion,368
 Bradford,Bash (Scripting Language),366
-Calderdale,Microsoft Excel,718
+Calderdale,Microsoft Excel,717
 Calderdale,SAP Applications,643
-Calderdale,Microsoft Office,554
+Calderdale,Microsoft Office,548
 Calderdale,Microsoft Azure,428
 Calderdale,SQL (Programming Language),375
-Calderdale,Microsoft Outlook,329
+Calderdale,Microsoft Outlook,328
 Calderdale,JavaScript (Programming Language),311
 Calderdale,Microsoft PowerPoint,240
 Calderdale,Active Directory,235
 Calderdale,Application Programming Interface (API),210
 Calderdale,Python (Programming Language),205
 Calderdale,Amazon Web Services,188
-Calderdale,Operating Systems,175
+Calderdale,Operating Systems,173
 Calderdale,HyperText Markup Language (HTML),163
 Calderdale,Cascading Style Sheets (CSS),158
 Calderdale,C# (Programming Language),148
 Calderdale,Microsoft Office 365,146
 Calderdale,Firewall,144
 Calderdale,React.js,120
-Calderdale,Adobe Photoshop,115
+Calderdale,Adobe Photoshop,114
 Calderdale,Microsoft Windows 10,112
 Calderdale,Information Technology Infrastructure Library,111
 Calderdale,PHP (Scripting Language),109
@@ -146,9 +146,9 @@ Calderdale,Angular (Web Framework),62
 Calderdale,Dynamic Host Configuration Protocol (DHCP),61
 Calderdale,Aruba (Network Management Software),61
 Calderdale,Microsoft 365,59
-Calderdale,Microsoft Word,56
 Calderdale,HTML5,56
 Calderdale,Kubernetes,56
+Calderdale,Microsoft Word,55
 Calderdale,Microsoft Windows 7,55
 Calderdale,Node.js,55
 Calderdale,Microsoft Windows,52
@@ -173,14 +173,14 @@ Calderdale,Microsoft Exchange Servers,41
 Calderdale,Terraform,41
 Calderdale,JSON,41
 Calderdale,Middleware,41
-Calderdale,Microsoft Access,39
 Calderdale,Sage 50 (Accounting Software),39
+Calderdale,Microsoft Access,39
 Calderdale,NoSQL,39
 Calderdale,Adobe Creative Suite,38
 Calderdale,Operational Data Store,38
 Calderdale,Microsoft Project,37
+Calderdale,Project Management Software,37
 Calderdale,PL/SQL,37
-Calderdale,Project Management Software,36
 Calderdale,Database Management Systems,36
 Calderdale,Data Interfaces,36
 Calderdale,Cloud Services,35
@@ -198,7 +198,7 @@ Calderdale,Github,30
 Calderdale,Oracle Databases,30
 Calderdale,C++ (Programming Language),29
 Calderdale,Management Information Systems,29
-Calderdale,IBM WebSphere MQ,29
+Calderdale,Google Workspace,29
 Craven,Microsoft Excel,486
 Craven,Microsoft Office,363
 Craven,Microsoft Outlook,249
@@ -216,15 +216,15 @@ Craven,Microsoft Office 365,66
 Craven,Microsoft Project,63
 Craven,Windows Servers,62
 Craven,Microsoft 365,60
-Craven,SAP Business One,59
 Craven,Quantum GIS (QGIS),59
+Craven,SAP Business One,59
 Craven,Active Directory,58
-Craven,Information Technology Infrastructure Library,56
 Craven,Application Programming Interface (API),56
+Craven,Information Technology Infrastructure Library,56
 Craven,Adobe Photoshop,55
 Craven,C++ (Programming Language),55
-Craven,SolidWorks (CAD),43
 Craven,JavaScript (Programming Language),43
+Craven,SolidWorks (CAD),43
 Craven,Microsoft Visio,41
 Craven,HyperText Markup Language (HTML),40
 Craven,LAMP (Software Bundle),40
@@ -238,22 +238,22 @@ Craven,R (Programming Language),31
 Craven,Sage 50 (Accounting Software),30
 Craven,Microsoft Networking,30
 Craven,Cloud Services,30
-Craven,Database Systems,29
-Craven,Technical Data Management Systems,29
 Craven,Warehouse Management Systems,29
+Craven,Technical Data Management Systems,29
+Craven,Database Systems,29
 Craven,Autodesk Revit,27
 Craven,ArcGIS (GIS Software),27
 Craven,Sage Accounting Software,25
 Craven,Microsoft Windows 10,24
-Craven,MATLAB,23
 Craven,Microsoft Software,23
-Craven,Microsoft Teams,22
+Craven,MATLAB,23
 Craven,Build Tools,22
+Craven,Microsoft Teams,22
 Craven,VMware ESX Servers,22
 Craven,VBScript (Visual Basic Scripting Edition),22
 Craven,Git (Version Control System),21
-Craven,Statistical Software,21
 Craven,Tableau (Business Intelligence Software),21
+Craven,Statistical Software,21
 Craven,Vue.js,20
 Craven,Accounting Software,19
 Craven,Wolfram Mathematica,19
@@ -263,15 +263,15 @@ Craven,Microsoft Azure,16
 Craven,Transact-SQL,16
 Craven,TypeScript,15
 Craven,React.js,15
-Craven,Xero (Accounting Software),15
 Craven,PostgreSQL,15
-Craven,Debian Linux,15
+Craven,Xero (Accounting Software),15
 Craven,Firewall,15
+Craven,Debian Linux,15
 Craven,Database Application,15
 Craven,eClinicalWorks (ECW),14
-Craven,Windows PowerShell,14
 Craven,Configuration Management Databases,14
 Craven,Stored Procedure,14
+Craven,Windows PowerShell,14
 Craven,NetBackup,14
 Craven,Microsoft Windows 7,14
 Craven,IBM Notes,14
@@ -280,10 +280,10 @@ Craven,JIRA,13
 Craven,Microsoft Dynamics,13
 Craven,C# (Programming Language),12
 Craven,Java (Programming Language),12
-Craven,Microsoft Access,12
-Craven,Adobe InDesign,12
 Craven,Navisworks (BIM Software),12
 Craven,WordPress,12
+Craven,Microsoft Access,12
+Craven,Adobe InDesign,12
 Craven,Terraform,11
 Craven,Microsoft Servers,11
 Craven,Angular (Web Framework),11
@@ -294,12 +294,12 @@ Craven,Payroll Systems,10
 Craven,SketchUp (3D Modeling Software),10
 Craven,Booking (Resource Planning Software),10
 Craven,Oracle Cloud,10
+Craven,Reliability Availability Maintainability And Safety Software,9
 Craven,Zoom (Video Conferencing Tool),9
 Craven,Bash (Scripting Language),9
-Craven,Reliability Availability Maintainability And Safety Software,9
 Craven,Pandas (Python Package),9
 Craven,NumPy,9
-Hambleton,Microsoft Excel,201
+Hambleton,Microsoft Excel,204
 Hambleton,Microsoft Office,128
 Hambleton,Operating Systems,61
 Hambleton,Veeam,45
@@ -313,7 +313,7 @@ Hambleton,Crystal Reports (Reporting Software),42
 Hambleton,COBOL (Programming Language),42
 Hambleton,Active Directory,42
 Hambleton,Inventory Management System,41
-Hambleton,Microsoft Outlook,36
+Hambleton,Microsoft Outlook,39
 Hambleton,Microsoft PowerPoint,34
 Hambleton,AutoCAD,23
 Hambleton,Microsoft Visio,23
@@ -321,14 +321,14 @@ Hambleton,SolidWorks (CAD),19
 Hambleton,Microsoft Word,17
 Hambleton,Reliability Availability Maintainability And Safety Software,17
 Hambleton,C# (Programming Language),17
-Hambleton,JavaScript (Programming Language),16
 Hambleton,Software Systems,16
+Hambleton,JavaScript (Programming Language),16
 Hambleton,Aruba (Network Management Software),14
 Hambleton,Tekla (BIM Software),14
 Hambleton,Wonderware,14
 Hambleton,Microsoft Windows 10,14
-Hambleton,PHP (Scripting Language),10
 Hambleton,Cascading Style Sheets (CSS),10
+Hambleton,PHP (Scripting Language),10
 Hambleton,Sage 50 (Accounting Software),10
 Hambleton,Python (Programming Language),10
 Hambleton,Microsoft Teams,9
@@ -339,8 +339,8 @@ Hambleton,SQL (Programming Language),8
 Hambleton,Web Servers,8
 Hambleton,SIMATIC WinCC (SCADA System),8
 Hambleton,Profibus,8
-Hambleton,Xero (Accounting Software),7
 Hambleton,Transportation Management Systems,7
+Hambleton,Xero (Accounting Software),7
 Hambleton,WordPress,7
 Hambleton,Shopify,7
 Hambleton,SEMrush (Software),7
@@ -358,9 +358,9 @@ Hambleton,Linux,6
 Hambleton,Microsoft Deployment Toolkit,5
 Hambleton,SAP Business One,5
 Hambleton,Microsoft Dynamics NAV,5
+Hambleton,SAP Applications,4
 Hambleton,Autodesk Revit,4
 Hambleton,AutoSketch,4
-Hambleton,SAP Applications,4
 Hambleton,Customer Relationship Management (CRM) Software,4
 Hambleton,Selenium (Software),4
 Hambleton,Scheme (Programming Language),4
@@ -374,10 +374,10 @@ Hambleton,Adobe Photoshop,3
 Hambleton,Azure Security,3
 Hambleton,Electrical CAD,3
 Hambleton,Autodesk Inventor,3
-Hambleton,QuickBooks (Accounting Software),2
-Hambleton,Management Information Systems,2
 Hambleton,Tableau (Business Intelligence Software),2
 Hambleton,Payroll Systems,2
+Hambleton,QuickBooks (Accounting Software),2
+Hambleton,Management Information Systems,2
 Hambleton,G-Codes,2
 Hambleton,Kronos (Timekeeping Software),2
 Hambleton,HyperText Markup Language (HTML),2
@@ -389,53 +389,53 @@ Hambleton,IBM Maximo,2
 Hambleton,C++ (Programming Language),2
 Hambleton,Building Management Systems,2
 Hambleton,AlphaCAM,2
-Hambleton,Office Management Software,1
+Hambleton,Human Resources Information System (HRIS),1
 Hambleton,Google Sheets,1
 Hambleton,Microsoft Software,1
-Hambleton,Human Resources Information System (HRIS),1
 Hambleton,Adobe Premiere Pro,1
 Hambleton,Adobe InDesign,1
-Hambleton,ServiceNow,1
 Hambleton,Embedded Databases,1
+Hambleton,ServiceNow,1
 Hambleton,Alteryx,1
+Hambleton,Office Management Software,1
 Hambleton,Zoom (Video Conferencing Tool),1
-Harrogate,Microsoft Excel,622
-Harrogate,Microsoft Office,602
-Harrogate,Microsoft Outlook,481
+Harrogate,Microsoft Office,648
+Harrogate,Microsoft Excel,626
+Harrogate,Microsoft Outlook,487
 Harrogate,Building Management Systems,251
-Harrogate,Microsoft PowerPoint,204
+Harrogate,Microsoft PowerPoint,203
 Harrogate,SQL (Programming Language),174
 Harrogate,Apache Subversion,166
-Harrogate,Xero (Accounting Software),152
+Harrogate,Xero (Accounting Software),160
 Harrogate,Reliability Availability Maintainability And Safety Software,152
-Harrogate,Microsoft Office 365,147
 Harrogate,Veeam,135
+Harrogate,Microsoft Office 365,130
 Harrogate,Microsoft Azure,129
 Harrogate,QuickBooks (Accounting Software),122
-Harrogate,Accounting Software,120
+Harrogate,Accounting Software,121
 Harrogate,eClinicalWorks (ECW),117
 Harrogate,Firewall,114
+Harrogate,Microsoft SharePoint,100
 Harrogate,Microsoft Word,99
 Harrogate,Active Directory,98
-Harrogate,Microsoft SharePoint,98
 Harrogate,JavaScript (Programming Language),91
 Harrogate,Adobe Photoshop,90
 Harrogate,HyperText Markup Language (HTML),89
 Harrogate,Amazon Web Services,88
-Harrogate,Information Technology Infrastructure Library,84
 Harrogate,Microsoft Teams,84
+Harrogate,Information Technology Infrastructure Library,84
+Harrogate,AutoCAD,78
 Harrogate,Cascading Style Sheets (CSS),76
 Harrogate,Microsoft SQL Servers,76
 Harrogate,Microsoft Windows,76
-Harrogate,AutoCAD,76
 Harrogate,WordPress,74
 Harrogate,Operating Systems,72
-Harrogate,Aruba (Network Management Software),69
 Harrogate,Sage Accounting Software,69
-Harrogate,Git (Version Control System),64
+Harrogate,Aruba (Network Management Software),69
 Harrogate,Adobe InDesign,64
-Harrogate,C# (Programming Language),61
+Harrogate,Git (Version Control System),64
 Harrogate,Zoom (Video Conferencing Tool),60
+Harrogate,C# (Programming Language),59
 Harrogate,Microsoft 365,58
 Harrogate,Application Programming Interface (API),56
 Harrogate,React.js,55
@@ -443,30 +443,31 @@ Harrogate,Siemens Building Automation Systems,55
 Harrogate,Honeywell Controls Systems,55
 Harrogate,Apple IOS,54
 Harrogate,Adobe Illustrator,54
+Harrogate,SAP Applications,49
+Harrogate,Adobe Creative Suite,48
 Harrogate,Angular (Web Framework),48
 Harrogate,Windows Servers,48
-Harrogate,Adobe Creative Suite,48
-Harrogate,SAP Applications,48
 Harrogate,Java (Programming Language),48
 Harrogate,Linux,47
-Harrogate,Project Management Software,43
-Harrogate,.NET Framework,41
-Harrogate,Transact-SQL,41
+Harrogate,Project Management Software,44
 Harrogate,IOS Applications,41
+Harrogate,Transact-SQL,41
 Harrogate,Python (Programming Language),40
 Harrogate,Microsoft Dynamics NAV,40
 Harrogate,Business Software,39
+Harrogate,.NET Framework,39
 Harrogate,Microsoft Dynamics 365,39
-Harrogate,PHP (Scripting Language),36
 Harrogate,Software Systems,36
-Harrogate,Node.js,33
-Harrogate,RESTful API,33
+Harrogate,PHP (Scripting Language),36
+Harrogate,Microsoft Project,34
 Harrogate,Microsoft Windows 10,33
-Harrogate,SQL Server Reporting Services,33
+Harrogate,RESTful API,33
 Harrogate,Payroll Systems,33
+Harrogate,Node.js,33
+Harrogate,SQL Server Reporting Services,33
+Harrogate,Autodesk Revit,32
 Harrogate,Microsoft Visio,32
 Harrogate,Microsoft Servers,32
-Harrogate,Autodesk Revit,32
 Harrogate,Microsoft Dynamics AX,32
 Harrogate,Management Information Systems,31
 Harrogate,Microsoft Access,30
@@ -474,310 +475,283 @@ Harrogate,Firmware,30
 Harrogate,SAP Business One,30
 Harrogate,SASS,29
 Harrogate,Ruby On Rails,28
-Harrogate,SolidWorks (CAD),28
 Harrogate,cURL,28
-Harrogate,VMware VSphere,28
+Harrogate,SolidWorks (CAD),28
 Harrogate,Citrix XenApp,28
+Harrogate,VMware VSphere,28
 Harrogate,Hyper-V,27
 Harrogate,Extensible Markup Language (XML),27
 Harrogate,Infrastructure As A Service (IaaS),27
 Harrogate,Sage 50 (Accounting Software),26
 Harrogate,SQL Server Integration Services (SSIS),25
-Harrogate,Crystal Reports (Reporting Software),24
 Harrogate,PL/SQL,24
+Harrogate,Crystal Reports (Reporting Software),24
 Harrogate,Adobe After Effects,22
 Harrogate,C (Programming Language),22
-Harrogate,Symantec Backup Exec,21
 Harrogate,Windows Presentation Foundation,21
+Harrogate,Symantec Backup Exec,21
 Harrogate,HTML5,20
 Harrogate,Extensible Stylesheet Language Transformations (XSLT),20
-Harrogate,Webpack,19
 Harrogate,Windows PowerShell,19
+Harrogate,Webpack,19
 Harrogate,Microsoft Exchange Servers,19
 Harrogate,HubSpot CRM,18
+Harrogate,ASP.NET,18
 Harrogate,Cloud Services,18
-Harrogate,Cisco Meraki,18
-Harrogate,Docker (Software),18
 Harrogate,Ajax (Programming Language),18
-Kirklees,Microsoft Excel,1068
-Kirklees,Microsoft Office,935
-Kirklees,Microsoft Outlook,469
-Kirklees,SQL (Programming Language),436
-Kirklees,AutoCAD,435
+Kirklees,Microsoft Excel,977
+Kirklees,Microsoft Office,850
+Kirklees,Microsoft Outlook,454
+Kirklees,SQL (Programming Language),433
+Kirklees,AutoCAD,391
 Kirklees,Autodesk Revit,383
-Kirklees,Microsoft PowerPoint,345
-Kirklees,SAP Applications,339
 Kirklees,CorelDRAW (Corel Software),310
-Kirklees,JavaScript (Programming Language),287
-Kirklees,Microsoft Azure,275
-Kirklees,Python (Programming Language),273
-Kirklees,Java (Programming Language),269
-Kirklees,Linux,241
-Kirklees,Cascading Style Sheets (CSS),213
-Kirklees,Git (Version Control System),211
-Kirklees,HyperText Markup Language (HTML),204
+Kirklees,JavaScript (Programming Language),281
+Kirklees,Microsoft PowerPoint,281
+Kirklees,Python (Programming Language),271
+Kirklees,Java (Programming Language),270
+Kirklees,SAP Applications,259
+Kirklees,Microsoft Azure,251
+Kirklees,Linux,239
+Kirklees,Git (Version Control System),210
+Kirklees,Cascading Style Sheets (CSS),209
 Kirklees,SolidWorks (CAD),202
+Kirklees,HyperText Markup Language (HTML),198
 Kirklees,C (Programming Language),171
-Kirklees,C# (Programming Language),167
-Kirklees,C++ (Programming Language),166
-Kirklees,Operating Systems,166
-Kirklees,Microsoft Word,162
+Kirklees,C++ (Programming Language),167
+Kirklees,C# (Programming Language),165
+Kirklees,Operating Systems,164
+Kirklees,Microsoft Word,152
 Kirklees,Adobe Photoshop,149
 Kirklees,Unix,148
-Kirklees,Microsoft Office 365,146
+Kirklees,Docker (Software),145
 Kirklees,React.js,145
-Kirklees,Docker (Software),144
 Kirklees,Application Programming Interface (API),143
+Kirklees,Microsoft Office 365,125
 Kirklees,Amazon Web Services,125
-Kirklees,Firewall,109
-Kirklees,Payroll Systems,107
+Kirklees,Payroll Systems,108
 Kirklees,Design Software,107
 Kirklees,Technical Data Management Systems,104
-Kirklees,Apple IOS,101
-Kirklees,WordPress,95
-Kirklees,Windows Servers,95
-Kirklees,Embedded Software,93
+Kirklees,Apple IOS,96
 Kirklees,Security Software,93
-Kirklees,Reliability Availability Maintainability And Safety Software,86
-Kirklees,Kubernetes,82
+Kirklees,Embedded Software,93
+Kirklees,Firewall,91
+Kirklees,WordPress,82
 Kirklees,Jenkins,82
+Kirklees,Kubernetes,82
 Kirklees,Firmware,78
 Kirklees,Apache Kafka,78
-Kirklees,TypeScript,77
+Kirklees,Accounting Software,77
+Kirklees,TypeScript,76
 Kirklees,Adobe Illustrator,75
-Kirklees,Accounting Software,75
-Kirklees,IOS Applications,74
-Kirklees,Apache Spark,71
+Kirklees,Windows Servers,72
+Kirklees,Apache Spark,72
 Kirklees,Web Applications,69
+Kirklees,IOS Applications,69
 Kirklees,Computer Aided Three-Dimensional Interactive Application (CATIA),69
-Kirklees,HTML5,68
+Kirklees,HTML5,67
+Kirklees,Reliability Availability Maintainability And Safety Software,65
 Kirklees,JavaScript Frameworks,65
-Kirklees,PHP (Scripting Language),64
-Kirklees,Apache Hadoop,63
 Kirklees,Ajax (Programming Language),63
-Kirklees,Microsoft Teams,62
+Kirklees,Apache Hadoop,63
+Kirklees,Microsoft Teams,61
 Kirklees,Node.js,61
-Kirklees,Information Technology Infrastructure Library,61
-Kirklees,Angular (Web Framework),61
 Kirklees,Apache Hive,61
+Kirklees,Angular (Web Framework),60
 Kirklees,Visual Basic For Applications,60
+Kirklees,PHP (Scripting Language),59
 Kirklees,Field-Programmable Gate Array (FPGA),59
 Kirklees,Terraform,59
-Kirklees,Microsoft Windows,57
-Kirklees,Apache Subversion,56
 Kirklees,Django (Web Framework),56
-Kirklees,GraphQL,53
+Kirklees,Apache Subversion,56
 Kirklees,Adobe Creative Suite,53
-Kirklees,PostgreSQL,51
+Kirklees,GraphQL,53
+Kirklees,Information Technology Infrastructure Library,51
+Kirklees,Flask (Web Framework),51
 Kirklees,Talend,51
 Kirklees,Pentaho Data Integration,51
-Kirklees,Warehouse Management Systems,51
-Kirklees,Flask (Web Framework),51
 Kirklees,Siemens NX,51
-Kirklees,Tableau (Business Intelligence Software),50
 Kirklees,RESTful API,50
 Kirklees,Microsoft Access,50
+Kirklees,Tableau (Business Intelligence Software),50
+Kirklees,PostgreSQL,49
 Kirklees,Shell Script,49
 Kirklees,Alteryx,49
+Kirklees,Microsoft Windows,49
 Kirklees,MATLAB,48
 Kirklees,Ansible,48
-Kirklees,Microsoft SharePoint,48
-Kirklees,Project Management Software,47
-Kirklees,Microsoft SQL Servers,47
 Kirklees,Transact-SQL,47
+Kirklees,Microsoft SharePoint,47
 Kirklees,Embedded C,47
-Kirklees,Microsoft Project,46
-Kirklees,Postman API Platform,44
+Kirklees,Project Management Software,46
+Kirklees,JIRA,44
 Kirklees,Google Cloud,44
-Kirklees,Active Directory,43
+Kirklees,Postman API Platform,44
 Kirklees,SQL Server Reporting Services,43
+Kirklees,Microsoft SQL Servers,42
+Kirklees,Warehouse Management Systems,42
+Kirklees,Software Systems,41
 Kirklees,.NET Framework,41
 Kirklees,SoapUI,41
-Kirklees,Software Systems,40
-Kirklees,JIRA,39
 Kirklees,Real-Time Operating Systems,39
 Kirklees,Qt (Software),39
-Kirklees,Management Information Systems,39
+Kirklees,Microsoft Project,38
 Kirklees,Selenium (Software),38
-Leeds,Microsoft Excel,9576
-Leeds,Microsoft Office,7930
-Leeds,AutoCAD,6926
-Leeds,Autodesk Revit,6737
-Leeds,Microsoft Outlook,6201
-Leeds,Amazon Web Services,4004
-Leeds,JavaScript (Programming Language),3995
-Leeds,Microsoft Azure,3773
-Leeds,SQL (Programming Language),3673
-Leeds,Microsoft PowerPoint,2909
-Leeds,Python (Programming Language),2642
-Leeds,C# (Programming Language),2456
-Leeds,SAP Applications,2260
-Leeds,Java (Programming Language),2136
-Leeds,Microsoft Teams,2040
+Kirklees,Adobe InDesign,37
+Kirklees,Cucumber (Software),37
+Leeds,Microsoft Excel,10589
+Leeds,Microsoft Office,8692
+Leeds,AutoCAD,7041
+Leeds,Autodesk Revit,6823
+Leeds,Microsoft Outlook,6595
+Leeds,SQL (Programming Language),6508
+Leeds,Microsoft Azure,6358
+Leeds,JavaScript (Programming Language),5935
+Leeds,Amazon Web Services,5044
+Leeds,C# (Programming Language),4017
+Leeds,Microsoft Office 365,3481
+Leeds,Microsoft PowerPoint,3391
+Leeds,Active Directory,3046
+Leeds,Python (Programming Language),3031
+Leeds,HyperText Markup Language (HTML),2868
+Leeds,Java (Programming Language),2827
+Leeds,SAP Applications,2802
+Leeds,Cascading Style Sheets (CSS),2714
+Leeds,Windows Servers,2574
+Leeds,Application Programming Interface (API),2533
+Leeds,React.js,2425
+Leeds,Microsoft Teams,2341
+Leeds,Microsoft Word,2194
+Leeds,.NET Framework,2073
 Leeds,AutoCAD Civil 3D,2026
-Leeds,React.js,1994
-Leeds,Application Programming Interface (API),1908
-Leeds,Microsoft Word,1782
-Leeds,Microsoft Office 365,1751
-Leeds,Building Management Systems,1737
-Leeds,Zoom (Video Conferencing Tool),1649
-Leeds,Reliability Availability Maintainability And Safety Software,1607
-Leeds,HyperText Markup Language (HTML),1586
-Leeds,Cascading Style Sheets (CSS),1517
-Leeds,Docker (Software),1332
-Leeds,Kubernetes,1323
-Leeds,Terraform,1290
-Leeds,.NET Framework,1278
-Leeds,Apple IOS,1237
-Leeds,Node.js,1233
-Leeds,WebKit,1227
-Leeds,Active Directory,1169
-Leeds,Linux,1153
-Leeds,Jenkins,1090
-Leeds,Operating Systems,1022
-Leeds,Design Software,1017
-Leeds,Firewall,992
-Leeds,Angular (Web Framework),969
-Leeds,Windows Servers,951
-Leeds,Microsoft Windows 10,900
-Leeds,Git (Version Control System),898
-Leeds,Azure DevOps,879
+Leeds,Linux,1991
+Leeds,Firewall,1927
+Leeds,Microsoft Windows 10,1849
+Leeds,Terraform,1759
+Leeds,Building Management Systems,1748
+Leeds,Zoom (Video Conferencing Tool),1732
+Leeds,Docker (Software),1652
+Leeds,Reliability Availability Maintainability And Safety Software,1625
+Leeds,Node.js,1528
+Leeds,Kubernetes,1525
+Leeds,Operating Systems,1492
+Leeds,Microsoft SharePoint,1474
+Leeds,PHP (Scripting Language),1444
+Leeds,Apple IOS,1406
+Leeds,Git (Version Control System),1398
+Leeds,Angular (Web Framework),1324
+Leeds,Information Technology Infrastructure Library,1263
+Leeds,WebKit,1229
+Leeds,Jenkins,1160
+Leeds,JIRA,1142
+Leeds,Azure DevOps,1128
+Leeds,Design Software,1057
+Leeds,ASP.NET,1042
+Leeds,Microsoft 365,1030
+Leeds,Windows PowerShell,992
+Leeds,RESTful API,976
+Leeds,Microsoft SQL Servers,951
+Leeds,Tableau (Business Intelligence Software),940
+Leeds,SolidWorks (CAD),867
+Leeds,TypeScript,848
+Leeds,Azure Active Directory,839
+Leeds,Microsoft Dynamics 365,838
 Leeds,Bonfire,832
-Leeds,Geographic Information Systems,831
-Leeds,PHP (Scripting Language),830
-Leeds,JIRA,805
-Leeds,SolidWorks (CAD),777
-Leeds,Tableau (Business Intelligence Software),773
-Leeds,Microsoft SQL Servers,749
-Leeds,Aruba (Network Management Software),695
-Leeds,TypeScript,692
-Leeds,Microsoft SharePoint,684
-Leeds,Information Technology Infrastructure Library,678
-Leeds,Tekla (BIM Software),662
-Leeds,Ansible,647
-Leeds,Microsoft Access,623
+Leeds,Geographic Information Systems,817
+Leeds,Ansible,772
+Leeds,Adobe Photoshop,730
+Leeds,Microsoft Access,716
+Leeds,Aruba (Network Management Software),709
+Leeds,Payroll Systems,707
+Leeds,Dynamic Host Configuration Protocol (DHCP),702
+Leeds,Hyper-V,694
+Leeds,Management Information Systems,671
+Leeds,JQuery,665
+Leeds,Tekla (BIM Software),664
+Leeds,Bash (Scripting Language),653
+Leeds,Transact-SQL,649
+Leeds,SQL Server Integration Services (SSIS),627
+Leeds,Mac OS,617
+Leeds,Vue.js,611
 Leeds,Primavera (Software),607
-Leeds,RESTful API,592
-Leeds,Payroll Systems,586
-Leeds,Adobe Photoshop,584
-Leeds,Management Information Systems,545
-Leeds,Apache Kafka,526
-Leeds,Go (Programming Language),510
-Leeds,Mac OS,505
+Leeds,Web Applications,596
+Leeds,HTML5,575
+Leeds,Go (Programming Language),572
+Leeds,Cloud Services,571
+Leeds,WordPress,569
+Leeds,Microsoft Windows 7,560
+Leeds,Xero (Accounting Software),558
+Leeds,Apache Kafka,557
+Leeds,Microsoft Windows,548
+Leeds,C++ (Programming Language),548
+Leeds,Accounting Software,543
+Leeds,SQL Server Reporting Services,536
+Leeds,Adobe Illustrator,522
+Leeds,Office 365 Exchange Online,521
+Leeds,Adobe InDesign,515
+Leeds,JavaScript Frameworks,513
+Leeds,Cloud Technologies,513
+Leeds,R (Programming Language),509
+Leeds,Infrastructure As A Service (IaaS),501
+Leeds,IOS Applications,500
 Leeds,ArcGIS (GIS Software),492
+Leeds,Microsoft Intune (Mobile Device Management Software),488
+Leeds,Chef (Configuration Management Tool),486
 Leeds,eClinicalWorks (ECW),484
-Leeds,IOS Applications,472
-Leeds,C (Programming Language),459
-Leeds,C++ (Programming Language),445
-Leeds,Microsoft 365,437
-Leeds,Windows PowerShell,437
-Leeds,Vue.js,432
-Leeds,React Native,430
-Leeds,Adobe Illustrator,415
-Leeds,WordPress,415
-Leeds,Adobe InDesign,407
-Leeds,Postman API Platform,397
-Leeds,Web Applications,394
-Leeds,Navisworks (BIM Software),391
-Leeds,Transact-SQL,380
-Leeds,Azure Active Directory,374
-Leeds,Cloud Services,374
-Leeds,Chef (Configuration Management Tool),369
-Leeds,Accounting Software,368
-Leeds,Adobe Creative Suite,367
-Leeds,Dynamic Host Configuration Protocol (DHCP),363
-Leeds,Quantum GIS (QGIS),363
-Leeds,Laravel,362
-Leeds,Bash (Scripting Language),344
-Leeds,Github,342
-Leeds,R (Programming Language),342
-Leeds,Project Management Software,341
-Leeds,Infrastructure As A Service (IaaS),337
-Leeds,Cloud Technologies,334
-Leeds,GraphQL,332
-Leeds,Gitlab,327
-Leeds,Scala (Programming Language),327
-Leeds,Selenium (Software),326
-Leeds,Hyper-V,324
-Richmondshire,Microsoft Office,71
-Richmondshire,Microsoft Excel,56
-Richmondshire,Microsoft Outlook,35
-Richmondshire,Windows Desktop,27
-Richmondshire,JavaScript (Programming Language),26
-Richmondshire,HyperText Markup Language (HTML),24
-Richmondshire,Microsoft Office 365,24
-Richmondshire,Microsoft Exchange Servers,23
-Richmondshire,Active Directory,23
-Richmondshire,Microsoft Word,22
-Richmondshire,Cascading Style Sheets (CSS),19
+Leeds,Github,473
+Richmondshire,Microsoft Office,60
+Richmondshire,Microsoft Excel,34
+Richmondshire,JavaScript (Programming Language),18
+Richmondshire,Microsoft Outlook,16
+Richmondshire,HyperText Markup Language (HTML),16
 Richmondshire,AutoCAD,15
 Richmondshire,Bitbucket,14
-Richmondshire,Cloud Services,14
-Richmondshire,Microsoft Azure,13
-Richmondshire,Azure Active Directory,11
-Richmondshire,C# (Programming Language),10
 Richmondshire,NopCommerce,10
 Richmondshire,Microsoft Visual Studio,10
 Richmondshire,Github,10
 Richmondshire,DotNetNuke,10
+Richmondshire,Cascading Style Sheets (CSS),10
 Richmondshire,Bootstrap (Front-End Framework),10
 Richmondshire,Project Management Software,8
 Richmondshire,Angular (Web Framework),8
 Richmondshire,Adobe Illustrator,8
-Richmondshire,Microsoft Dynamics 365,8
-Richmondshire,Business Software,8
-Richmondshire,Adobe InDesign,7
-Richmondshire,Linux,7
 Richmondshire,Microsoft PowerPoint,7
-Richmondshire,Microsoft Windows,6
+Richmondshire,Adobe InDesign,7
 Richmondshire,Facebook,6
 Richmondshire,Adobe Creative Suite,6
 Richmondshire,SAP Applications,6
 Richmondshire,Adobe Photoshop,6
 Richmondshire,JIRA,6
+Richmondshire,Microsoft Windows,6
 Richmondshire,Database Systems,6
 Richmondshire,Database Management Systems,6
-Richmondshire,.NET Framework,6
-Richmondshire,Veeam,6
 Richmondshire,Applicant Tracking Systems,5
 Richmondshire,Autodesk Revit,5
 Richmondshire,TypeScript,4
 Richmondshire,Node.js,4
 Richmondshire,Message Queuing Telemetry Transport (MQTT),4
 Richmondshire,Message Broker,4
+Richmondshire,Linux,4
 Richmondshire,Kubernetes,4
 Richmondshire,Docker (Software),4
 Richmondshire,C++ (Programming Language),4
+Richmondshire,C# (Programming Language),4
 Richmondshire,C (Programming Language),4
 Richmondshire,Atlassian Confluence,4
 Richmondshire,Reliability Availability Maintainability And Safety Software,4
-Richmondshire,PHP (Scripting Language),3
-Richmondshire,Windows Servers,3
-Richmondshire,Vcenter,2
-Richmondshire,VMware VSphere,2
-Richmondshire,VMware ESX Servers,2
-Richmondshire,Microsoft Teams,2
-Richmondshire,Microsoft 365,2
-Richmondshire,Internet Information Services,2
-Richmondshire,Dynamic Host Configuration Protocol (DHCP),2
+Richmondshire,Microsoft Word,3
 Richmondshire,Asana,2
-Richmondshire,Microsoft Software,1
-Richmondshire,CorelDRAW (Corel Software),1
-Richmondshire,Design Software,1
-Richmondshire,Microsoft SQL Servers,1
-Richmondshire,Microsoft Dynamics NAV,1
-Richmondshire,Microsoft Dynamics,1
-Richmondshire,Hyper-V,1
-Richmondshire,Firewall,1
-Richmondshire,Azure Security,1
-Richmondshire,Amazon Web Services,1
-Richmondshire,Xero (Accounting Software),1
-Richmondshire,HubSpot CRM,1
-Richmondshire,Leaflet (Software),1
 Richmondshire,Sage 50 (Accounting Software),1
 Richmondshire,Microsoft SharePoint,1
 Richmondshire,Microsoft Servers,1
 Richmondshire,Microsoft Dynamics CRM,1
+Richmondshire,Microsoft Office 365,1
+Richmondshire,Microsoft Software,1
+Richmondshire,CorelDRAW (Corel Software),1
+Richmondshire,Leaflet (Software),1
+Richmondshire,Xero (Accounting Software),1
+Richmondshire,HubSpot CRM,1
+Richmondshire,Design Software,1
 Ryedale,SAP Applications,194
 Ryedale,Microsoft Excel,157
 Ryedale,Microsoft PowerPoint,69
@@ -791,8 +765,8 @@ Ryedale,SAP Configuration,29
 Ryedale,Microsoft Word,26
 Ryedale,Microsoft Office 365,24
 Ryedale,Reporting Tools,22
-Ryedale,Payroll Systems,16
 Ryedale,Management Information Systems,16
+Ryedale,Payroll Systems,16
 Ryedale,Windows Servers,15
 Ryedale,SolidWorks (CAD),14
 Ryedale,Active Directory,13
@@ -807,41 +781,45 @@ Ryedale,Advanced Business Application Programming (ABAP),8
 Ryedale,AutoCAD,7
 Ryedale,Enterprise Application Software,7
 Ryedale,HTML5,7
+Ryedale,Software Systems,6
 Ryedale,Eclipse (Software),6
 Ryedale,Content Manager OnDemand (CMOD),6
 Ryedale,Mono,6
 Ryedale,Information Technology Infrastructure Library,6
-Ryedale,Software Systems,6
 Ryedale,Firewall,5
 Ryedale,Microsoft SQL Servers,5
 Ryedale,Microsoft Teams,4
 Ryedale,Microsoft Azure,4
-Ryedale,SQL Server Integration Services (SSIS),4
-Ryedale,Microsoft Visual Studio,4
-Ryedale,IOS Applications,4
-Ryedale,Apple IOS,4
 Ryedale,Veeam,4
 Ryedale,VMware ESX Servers,4
 Ryedale,Microsoft Windows 7,4
 Ryedale,Microsoft Exchange Servers,4
 Ryedale,Dynamic Host Configuration Protocol (DHCP),4
 Ryedale,Communications Protocols,4
+Ryedale,SQL Server Integration Services (SSIS),4
+Ryedale,Microsoft Visual Studio,4
+Ryedale,IOS Applications,4
+Ryedale,Apple IOS,4
 Ryedale,Microsoft 365,3
+Ryedale,JavaScript (Programming Language),3
 Ryedale,WebKit,3
 Ryedale,Cloud Services,3
-Ryedale,Database Software,3
-Ryedale,Applicant Tracking Systems,3
-Ryedale,JavaScript (Programming Language),3
-Ryedale,Application Programming Interface (API),3
-Ryedale,Database Systems,3
 Ryedale,Operational Data Store,3
 Ryedale,Technical Data Management Systems,3
+Ryedale,Database Systems,3
+Ryedale,Database Software,3
+Ryedale,Applicant Tracking Systems,3
+Ryedale,Application Programming Interface (API),3
 Ryedale,Adobe Creative Suite,3
-Ryedale,Firmware,2
+Ryedale,R (Programming Language),2
+Ryedale,Apache Hive,2
 Ryedale,SQL Server Reporting Services,2
 Ryedale,SQL (Programming Language),2
 Ryedale,C# (Programming Language),2
 Ryedale,Python (Programming Language),2
+Ryedale,Firmware,2
+Ryedale,SPICE (Simulation Tool),2
+Ryedale,Embedded C,2
 Ryedale,Visual Basic For Applications,2
 Ryedale,Transact-SQL,2
 Ryedale,Microsoft Software,2
@@ -849,20 +827,16 @@ Ryedale,IBM Rational ClearCase,2
 Ryedale,HyperText Markup Language (HTML),2
 Ryedale,Symantec Backup Exec,2
 Ryedale,Microsoft SharePoint,2
-Ryedale,R (Programming Language),2
-Ryedale,SPICE (Simulation Tool),2
-Ryedale,Embedded C,2
-Ryedale,Apache Hive,2
-Ryedale,Microsoft Project,1
 Ryedale,Microsoft Desktop Optimization Pack,1
 Ryedale,Microsoft Access,1
+Ryedale,Microsoft Project,1
 Ryedale,Luxion KeyShot,1
 Ryedale,Sage Accounting Software,1
+Ryedale,WordPress,1
 Ryedale,Excel Solver,1
 Ryedale,Microsoft Operating Systems,1
 Ryedale,GNU Linker,1
 Ryedale,Financial Software,1
-Ryedale,WordPress,1
 Ryedale,Order Management Systems,1
 Ryedale,Swift (Programming Language),1
 Ryedale,SciPy,1
@@ -883,37 +857,40 @@ Scarborough,Microsoft Office,61
 Scarborough,AutoCAD,42
 Scarborough,Microsoft Teams,41
 Scarborough,Microsoft PowerPoint,9
-Scarborough,Aruba (Network Management Software),7
 Scarborough,SAP Applications,7
+Scarborough,Aruba (Network Management Software),7
+Scarborough,Reliability Availability Maintainability And Safety Software,6
 Scarborough,Microsoft Office 365,6
 Scarborough,Microsoft 365,6
-Scarborough,Reliability Availability Maintainability And Safety Software,6
-Scarborough,Business Software,5
 Scarborough,Zoom (Video Conferencing Tool),5
+Scarborough,Business Software,5
 Scarborough,Windows Servers,5
+Scarborough,SolidWorks (CAD),4
 Scarborough,Operating Systems,4
+Scarborough,HyperText Markup Language (HTML),4
 Scarborough,Adobe Photoshop,4
 Scarborough,Microsoft Windows 10,4
-Scarborough,SolidWorks (CAD),4
-Scarborough,HyperText Markup Language (HTML),4
-Scarborough,Autodesk Revit,3
+Scarborough,Apache Spark,3
+Scarborough,Law Practice Management Software,3
 Scarborough,Active Directory,3
+Scarborough,Autodesk Revit,3
 Scarborough,Google Maps,3
-Scarborough,Project Management Software,3
 Scarborough,Inventory Management System,3
 Scarborough,Customer Relationship Management (CRM) Software,3
+Scarborough,Project Management Software,3
 Scarborough,Office 365 Exchange Online,3
 Scarborough,Mac OS X,3
 Scarborough,Mac OS,3
 Scarborough,Google Workspace,3
-Scarborough,Apache Spark,3
-Scarborough,Law Practice Management Software,3
 Scarborough,Cascading Style Sheets (CSS),3
 Scarborough,WordPress,3
 Scarborough,Git (Version Control System),3
 Scarborough,Adobe Illustrator,3
-Scarborough,Canva (Software),2
-Scarborough,Xero (Accounting Software),2
+Scarborough,Warehouse Management Systems,2
+Scarborough,Microsoft Project,2
+Scarborough,Veeam,2
+Scarborough,Information Technology Infrastructure Library,2
+Scarborough,Firewall,2
 Scarborough,Transact-SQL,2
 Scarborough,SQL Server Integration Services (SSIS),2
 Scarborough,SQL Server Analysis Services,2
@@ -921,27 +898,25 @@ Scarborough,SQL (Programming Language),2
 Scarborough,Database Systems,2
 Scarborough,Database Management Systems,2
 Scarborough,Aviary,2
-Scarborough,Veeam,2
-Scarborough,Information Technology Infrastructure Library,2
-Scarborough,Firewall,2
-Scarborough,Microsoft Project,2
+Scarborough,C (Programming Language),2
+Scarborough,Canva (Software),2
+Scarborough,Xero (Accounting Software),2
 Scarborough,Google Drive,2
 Scarborough,Google Docs,2
 Scarborough,Facebook,2
 Scarborough,Ember.js,2
-Scarborough,C (Programming Language),2
-Scarborough,Warehouse Management Systems,2
 Scarborough,SASS,2
 Scarborough,Adobe XD,2
-Scarborough,QuickBooks (Accounting Software),1
+Scarborough,TikTok,1
+Scarborough,Pinterest,1
+Scarborough,Order Management Systems,1
 Scarborough,Office Online,1
 Scarborough,Microsoft SharePoint,1
 Scarborough,Apple IOS,1
 Scarborough,Microsoft Windows,1
-Scarborough,TikTok,1
-Scarborough,Pinterest,1
-Scarborough,Financial Software,1
 Scarborough,Atlassian Bamboo,1
+Scarborough,Financial Software,1
+Scarborough,QuickBooks (Accounting Software),1
 Scarborough,Adobe InDesign,1
 Scarborough,Vue.js,1
 Scarborough,Shopify,1
@@ -954,7 +929,6 @@ Scarborough,JQuery,1
 Scarborough,Application Programming Interface (API),1
 Scarborough,Apache Yarn,1
 Scarborough,Angular (Web Framework),1
-Scarborough,Order Management Systems,1
 Selby,Microsoft Office,101
 Selby,Microsoft Excel,93
 Selby,Microsoft Outlook,70
@@ -965,13 +939,13 @@ Selby,Microsoft Azure,23
 Selby,Microsoft Teams,22
 Selby,Microsoft SharePoint,20
 Selby,SAP Applications,20
+Selby,Business Software,17
 Selby,IFS ERP,17
 Selby,Azure DevOps,17
-Selby,Business Software,17
 Selby,Safari (Web Browser),16
 Selby,Apache OpenOffice,15
-Selby,Microsoft Word,14
 Selby,Learning Management Systems,14
+Selby,Microsoft Word,14
 Selby,Productivity Software,13
 Selby,Application Programming Interface (API),13
 Selby,Active Directory,13
@@ -989,8 +963,8 @@ Selby,Git (Version Control System),8
 Selby,Amazon Web Services,8
 Selby,Microsoft Access,8
 Selby,Microsoft PowerPoint,8
-Selby,Dynamic Host Configuration Protocol (DHCP),8
 Selby,AutoCAD,8
+Selby,Dynamic Host Configuration Protocol (DHCP),8
 Selby,Adobe Photoshop,7
 Selby,Single Sign-On (SSO),7
 Selby,SQL Server Reporting Services,7
@@ -1000,12 +974,14 @@ Selby,Graphical User Interface,7
 Selby,Linux,7
 Selby,Accounting Software,7
 Selby,Zoom (Video Conferencing Tool),7
+Selby,Sage 50 (Accounting Software),6
 Selby,Open-Source Software,6
 Selby,Programming Tools,6
 Selby,Crystal Reports (Reporting Software),6
 Selby,C# (Programming Language),6
-Selby,Sage 50 (Accounting Software),6
 Selby,Xero (Accounting Software),6
+Selby,Ubuntu (Operating System),5
+Selby,Aruba (Network Management Software),5
 Selby,Adobe Illustrator,5
 Selby,Visual Basic (Programming Language),5
 Selby,Python (Programming Language),5
@@ -1013,8 +989,6 @@ Selby,RESTful API,5
 Selby,NoSQL,5
 Selby,MongoDB,5
 Selby,GraphQL,5
-Selby,Aruba (Network Management Software),5
-Selby,Ubuntu (Operating System),5
 Selby,Microsoft Windows 10,5
 Selby,Microsoft Dynamics,5
 Selby,Sage Accounting Software,5
@@ -1025,11 +999,11 @@ Selby,Togaf,4
 Selby,React Native,4
 Selby,Control Objectives For Information And Related Technology (COBIT),4
 Selby,Microsoft Intune (Mobile Device Management Software),4
-Selby,Veeam,4
 Selby,Microsoft 365,4
+Selby,Veeam,4
 Selby,WordPress,3
-Selby,Adobe InDesign,3
 Selby,Cascading Style Sheets (CSS),3
+Selby,Adobe InDesign,3
 Selby,Windows Servers,3
 Selby,Transact-SQL,3
 Selby,Team Foundation Server,3
@@ -1039,6 +1013,12 @@ Selby,Cloud Technologies,3
 Selby,.NET Framework,3
 Selby,Apple IOS,3
 Selby,Spotify,3
+Selby,HubSpot CRM,2
+Selby,Facebook Ads,2
+Selby,SASS,2
+Selby,PostgreSQL,2
+Selby,PHP (Scripting Language),2
+Selby,HyperText Markup Language (HTML),2
 Selby,JavaScript (Programming Language),2
 Selby,Windows Desktop,2
 Selby,VMware VSphere,2
@@ -1049,55 +1029,49 @@ Selby,Marketing Software,2
 Selby,Kubernetes,2
 Selby,Jenkins,2
 Selby,Docker (Software),2
-Selby,Citrix XenApp,2
-Selby,Chef (Configuration Management Tool),2
-Selby,C (Programming Language),2
-Selby,ASP.NET,2
-Selby,HubSpot CRM,2
-Selby,Facebook Ads,2
-Wakefield,Microsoft Office,2016
-Wakefield,Microsoft Excel,1674
+Wakefield,Microsoft Office,2015
+Wakefield,Microsoft Excel,1672
 Wakefield,Mac OS,1122
-Wakefield,Microsoft Outlook,584
+Wakefield,Microsoft Outlook,582
 Wakefield,Microsoft Word,472
 Wakefield,Microsoft PowerPoint,446
 Wakefield,Amazon Web Services,418
 Wakefield,Microsoft Azure,382
 Wakefield,SAP Applications,328
-Wakefield,SQL (Programming Language),312
-Wakefield,JavaScript (Programming Language),309
-Wakefield,React.js,307
-Wakefield,Microsoft Teams,305
+Wakefield,SQL (Programming Language),310
+Wakefield,Microsoft Teams,304
+Wakefield,JavaScript (Programming Language),304
+Wakefield,React.js,304
 Wakefield,Python (Programming Language),263
-Wakefield,Application Programming Interface (API),245
+Wakefield,Application Programming Interface (API),240
 Wakefield,C# (Programming Language),233
-Wakefield,Node.js,217
-Wakefield,Java (Programming Language),195
+Wakefield,Node.js,213
 Wakefield,Microsoft SharePoint,195
+Wakefield,Java (Programming Language),195
 Wakefield,Adobe Creative Suite,173
 Wakefield,Adobe Photoshop,156
 Wakefield,Kubernetes,147
 Wakefield,Google Maps,146
 Wakefield,AutoCAD,143
 Wakefield,Management Information Systems,142
-Wakefield,Cascading Style Sheets (CSS),136
 Wakefield,Information Technology Infrastructure Library,135
 Wakefield,Docker (Software),134
 Wakefield,eClinicalWorks (ECW),134
-Wakefield,TypeScript,133
-Wakefield,Microsoft Office 365,131
+Wakefield,Cascading Style Sheets (CSS),132
+Wakefield,TypeScript,129
+Wakefield,Microsoft Office 365,128
 Wakefield,Active Directory,112
-Wakefield,Windows Servers,109
-Wakefield,Operating Systems,106
+Wakefield,Windows Servers,107
 Wakefield,Xero (Accounting Software),106
-Wakefield,RSA (Cryptosystem),96
+Wakefield,Operating Systems,105
 Wakefield,Applicant Tracking Systems,96
+Wakefield,RSA (Cryptosystem),96
 Wakefield,Sage Accounting Software,95
-Wakefield,RESTful API,92
 Wakefield,Apple IOS,92
 Wakefield,HyperText Markup Language (HTML),92
-Wakefield,Git (Version Control System),88
+Wakefield,RESTful API,92
 Wakefield,Sage 50 (Accounting Software),87
+Wakefield,Git (Version Control System),84
 Wakefield,Microsoft 365,84
 Wakefield,Google Play,83
 Wakefield,Adobe Illustrator,82
@@ -1105,67 +1079,67 @@ Wakefield,Linux,80
 Wakefield,.NET Framework,79
 Wakefield,Software Systems,78
 Wakefield,Accounting Software,76
-Wakefield,Angular (Web Framework),75
 Wakefield,Payroll Systems,74
 Wakefield,Network Management System,73
-Wakefield,Apache Kafka,72
 Wakefield,Firewall,72
+Wakefield,Apache Kafka,72
+Wakefield,Angular (Web Framework),71
 Wakefield,Terraform,71
 Wakefield,Microsoft Windows 10,68
 Wakefield,Reporting Tools,67
+Wakefield,Adobe After Effects,66
 Wakefield,Business Software,65
 Wakefield,Microsoft SQL Servers,64
-Wakefield,Adobe After Effects,64
 Wakefield,Adobe InDesign,63
 Wakefield,ServiceNow,60
 Wakefield,Go (Programming Language),58
-Wakefield,WordPress,57
-Wakefield,Microsoft Access,57
+Wakefield,WordPress,56
 Wakefield,R (Programming Language),56
-Wakefield,Cloud Services,54
+Wakefield,Microsoft Access,55
 Wakefield,ASP.NET,54
-Wakefield,Scala (Programming Language),51
+Wakefield,Cloud Services,54
 Wakefield,C++ (Programming Language),51
+Wakefield,Scala (Programming Language),51
 Wakefield,Veeva,51
 Wakefield,Reliability Availability Maintainability And Safety Software,50
 Wakefield,Microsoft Windows,49
 Wakefield,Medical Software,49
-Wakefield,PHP (Scripting Language),48
 Wakefield,Oculus,48
-Wakefield,Cloud Technologies,47
-Wakefield,Jenkins,47
 Wakefield,IOS Applications,47
-Wakefield,Google Workspace,46
+Wakefield,Jenkins,47
+Wakefield,Cloud Technologies,47
 Wakefield,SolidWorks (CAD),46
 Wakefield,QuickBooks (Accounting Software),46
-Wakefield,Tableau (Business Intelligence Software),45
 Wakefield,Microsoft Visual Studio,45
+Wakefield,Google Workspace,45
+Wakefield,Tableau (Business Intelligence Software),45
 Wakefield,Kotlin,42
-Wakefield,React Native,41
-Wakefield,Azure DevOps,41
+Wakefield,PHP (Scripting Language),41
 Wakefield,GraphQL,41
+Wakefield,Azure DevOps,41
+Wakefield,React Native,41
 Wakefield,Pardot (CRM Software),40
 Wakefield,Sprout Social,40
 Wakefield,JIRA,39
 Wakefield,Command-Line Interface,39
 Wakefield,Heat Maps,39
 Wakefield,Windows PowerShell,38
-Wakefield,Microsoft Intune (Mobile Device Management Software),37
 Wakefield,Zoom (Video Conferencing Tool),37
+Wakefield,Microsoft Intune (Mobile Device Management Software),37
 Wakefield,NoSQL,36
-Wakefield,Azure Active Directory,35
-Wakefield,HTML5,35
-York,Microsoft Office,1429
-York,Microsoft Excel,1338
+Wakefield,MongoDB,35
+Wakefield,Technical Data Management Systems,35
+York,Microsoft Office,1426
+York,Microsoft Excel,1339
 York,Microsoft Teams,1270
 York,Microsoft Azure,926
 York,Aruba (Network Management Software),900
 York,SQL (Programming Language),892
 York,AutoCAD,879
 York,eClinicalWorks (ECW),732
-York,Microsoft PowerPoint,682
+York,Microsoft PowerPoint,683
 York,JavaScript (Programming Language),652
-York,Microsoft Outlook,627
+York,Microsoft Outlook,626
 York,Autodesk Revit,611
 York,Reliability Availability Maintainability And Safety Software,580
 York,SAP Applications,576
@@ -1180,7 +1154,7 @@ York,Adobe Photoshop,378
 York,Cascading Style Sheets (CSS),357
 York,Java (Programming Language),355
 York,HyperText Markup Language (HTML),323
-York,Microsoft Office 365,308
+York,Microsoft Office 365,305
 York,Windows PowerShell,292
 York,React.js,282
 York,Windows Servers,250
@@ -1198,15 +1172,15 @@ York,Adobe InDesign,152
 York,Operating Systems,147
 York,Microsoft Intune (Mobile Device Management Software),143
 York,Transact-SQL,142
-York,Microsoft SharePoint,140
 York,Git (Version Control System),140
+York,Microsoft SharePoint,139
 York,Terraform,137
 York,Angular (Web Framework),132
 York,Microsoft Dynamics 365,129
 York,Azure DevOps,125
 York,Database Systems,113
-York,Node.js,112
 York,C++ (Programming Language),112
+York,Node.js,112
 York,Microsoft Dynamics,110
 York,Github,106
 York,SQL Server Reporting Services,103
@@ -1215,11 +1189,11 @@ York,Cloud Technologies,100
 York,Stored Procedure,97
 York,HTML5,95
 York,ServiceNow,92
+York,Adobe Illustrator,88
 York,Design Software,88
 York,Firewall,88
-York,Adobe Illustrator,88
-York,Platform As A Service (PaaS),87
 York,Microsoft SQL Servers,87
+York,Platform As A Service (PaaS),87
 York,PHPUnit,86
 York,JSON,85
 York,Elasticsearch,85
@@ -1243,112 +1217,12 @@ York,Jenkins,67
 York,Microsoft Software,66
 York,Apache Kafka,66
 York,RESTful API,65
-York,Ansible,63
 York,ASP.NET,63
+York,Ansible,63
 York,Ext JS,62
 York,Customer Relationship Management (CRM) Software,61
-York,Infrastructure As A Service (IaaS),60
 York,Accounting Software,60
-York,Project Management Software,59
-York,WordPress,58
-York,Virtual Learning Environments,58
-York,Hyper-V,58
-York,Postman API Platform,58
-York,Togaf,57
-York,Microsoft Office,1429
-York,Microsoft Excel,1338
-York,Microsoft Teams,1270
-York,Microsoft Azure,926
-York,Aruba (Network Management Software),900
-York,SQL (Programming Language),892
-York,AutoCAD,879
-York,eClinicalWorks (ECW),732
-York,Microsoft PowerPoint,682
-York,JavaScript (Programming Language),652
-York,Microsoft Outlook,627
-York,Autodesk Revit,611
-York,Reliability Availability Maintainability And Safety Software,580
-York,SAP Applications,576
-York,C# (Programming Language),503
-York,Microsoft Word,472
-York,.NET Framework,453
-York,Linux,399
-York,Python (Programming Language),396
-York,Amazon Web Services,389
-York,Application Programming Interface (API),382
-York,Adobe Photoshop,378
-York,Cascading Style Sheets (CSS),357
-York,Java (Programming Language),355
-York,HyperText Markup Language (HTML),323
-York,Microsoft Office 365,308
-York,Windows PowerShell,292
-York,React.js,282
-York,Windows Servers,250
-York,Information Technology Infrastructure Library,236
-York,Docker (Software),225
-York,SAP CRM,216
-York,Kubernetes,201
-York,PHP (Scripting Language),179
-York,Active Directory,179
-York,Microsoft Project,177
-York,SketchUp (3D Modeling Software),169
-York,SQL Server Integration Services (SSIS),165
-York,Microsoft 365,164
-York,Adobe InDesign,152
-York,Operating Systems,147
-York,Microsoft Intune (Mobile Device Management Software),143
-York,Transact-SQL,142
-York,Microsoft SharePoint,140
-York,Git (Version Control System),140
-York,Terraform,137
-York,Angular (Web Framework),132
-York,Microsoft Dynamics 365,129
-York,Azure DevOps,125
-York,Database Systems,113
-York,Node.js,112
-York,C++ (Programming Language),112
-York,Microsoft Dynamics,110
-York,Github,106
-York,SQL Server Reporting Services,103
-York,TypeScript,102
-York,Cloud Technologies,100
-York,Stored Procedure,97
-York,HTML5,95
-York,ServiceNow,92
-York,Design Software,88
-York,Firewall,88
-York,Adobe Illustrator,88
-York,Platform As A Service (PaaS),87
-York,Microsoft SQL Servers,87
-York,PHPUnit,86
-York,JSON,85
-York,Elasticsearch,85
-York,Azure Active Directory,82
-York,Selenium (Software),81
-York,PostgreSQL,80
-York,Linden Scripting Language,78
-York,Scheme (Programming Language),77
-York,Microsoft Power Platform,77
-York,JQuery,76
-York,Apple IOS,75
-York,Microsoft Windows 10,71
-York,Autodesk Inventor,69
-York,Lumion (3D Rendering Software),69
-York,C (Programming Language),68
-York,Content Management Systems,68
-York,Cloud Services,68
-York,Vue.js,67
-York,Firmware,67
-York,Jenkins,67
-York,Microsoft Software,66
-York,Apache Kafka,66
-York,RESTful API,65
-York,Ansible,63
-York,ASP.NET,63
-York,Ext JS,62
-York,Customer Relationship Management (CRM) Software,61
 York,Infrastructure As A Service (IaaS),60
-York,Accounting Software,60
 York,Project Management Software,59
 York,WordPress,58
 York,Virtual Learning Environments,58
