@@ -18,11 +18,11 @@ Bradford,Google Search Console,49
 Bradford,AutoCAD,48.1818181818182
 Bradford,Enterprise Application Software,47.6842105263158
 Bradford,Software Systems,47.0857142857143
-Bradford,Github,46
 Bradford,Postman API Platform,46
 Bradford,ArcSight Enterprise Security Manager,46
 Bradford,SoapUI,46
 Bradford,Selenium (Software),46
+Bradford,Github,46
 Bradford,Cucumber (Software),45.4117647058824
 Bradford,Splunk,45.2352941176471
 Bradford,Visual Basic For Applications,45
@@ -39,8 +39,8 @@ Bradford,ASP.NET MVC Framework,42.5555555555556
 Bradford,Microsoft Access,41.8461538461538
 Bradford,Articulate Storyline,41.2941176470588
 Bradford,Apache Airflow,41
-Bradford,Cisco Meraki,41
 Bradford,QlikView (Data Analytics Software),41
+Bradford,Cisco Meraki,41
 Bradford,Web Applications,40.7058823529412
 Bradford,Middleware,40
 Bradford,Amazon Aurora,40
@@ -52,8 +52,8 @@ Bradford,Elasticsearch,39
 Bradford,Security Software,39
 Bradford,HyperText Markup Language (HTML),38.625
 Bradford,Open Web Application Security Project (OWASP),38
-Bradford,Contact Manager (Data Management Software),37
 Bradford,Context Switch,37
+Bradford,Contact Manager (Data Management Software),37
 Bradford,Atlassian Confluence,36.7222222222222
 Bradford,Node.js,36.3684210526316
 Bradford,Jest (JavaScript Testing Framework),36
@@ -65,8 +65,8 @@ Bradford,Microsoft Office,34.5943396226415
 Bradford,Adobe InDesign,34.5789473684211
 Bradford,TypeScript,34.5294117647059
 Bradford,C (Programming Language),34.5238095238095
-Bradford,Cascading Style Sheets (CSS),34
 Bradford,NoSQL,34
+Bradford,Cascading Style Sheets (CSS),34
 Bradford,Adobe Livecycle Designer,34
 Bradford,HTML Emails,34
 Bradford,SQL Server Reporting Services,34
@@ -86,8 +86,8 @@ Bradford,Kubernetes,32.4117647058824
 Bradford,Order Management Systems,32.1666666666667
 Bradford,Docker (Software),32
 Bradford,GraphQL,32
-Bradford,MongoDB,32
 Bradford,Slack (Software),32
+Bradford,MongoDB,32
 Bradford,React Redux,31.9444444444444
 Bradford,Microsoft 365,31.8918918918919
 Bradford,Adobe Photoshop,31.7857142857143
@@ -98,7 +98,107 @@ Bradford,Cloud Services,31.6
 Bradford,Apache Kafka,31.4117647058824
 Bradford,Data Lakes,31.1176470588235
 Bradford,Learning Management Systems,31.1111111111111
+Bradford,Python (Programming Language),31
 Bradford,Adobe Premiere Pro,31
+Bradford,Microsoft Outlook,30.6914893617021
+Bradford,Microsoft Power Automate/Flow,30
+Bradford,SQL Server Analysis Services,30
+Bradford,Adobe Illustrator,29.9583333333333
+Bradford,SQL (Programming Language),29.4583333333333
+Bradford,Microsoft Excel,29.390977443609
+Bradford,Spring Framework,29.2941176470588
+Bradford,Microsoft Word,29.1086956521739
+Bradford,Amazon CloudWatch,29
+Bradford,Gitlab,28
+Bradford,Go (Programming Language),28
+Bradford,Sparkr,28
+Bradford,Java Web Services,28
+Bradford,Apache Zookeeper,28
+Bradford,Akka (Toolkit),28
+Bradford,Recommender Systems,28
+Bradford,Amazon Web Services,27.8333333333333
+Bradford,Business Software,27.6666666666667
+Bradford,Cloud Technologies,27.4705882352941
+Bradford,Technical Data Management Systems,27.0555555555556
+Bradford,Autodesk,27
+Bradford,Adobe Creative Suite,26.7894736842105
+Bradford,Terraform,26.7647058823529
+Bradford,Pyspark,26.7647058823529
+Bradford,Operational Data Store,26.7222222222222
+Bradford,React.js,26.6521739130435
+Bradford,PostgreSQL,26.4705882352941
+Bradford,LinkedIn,26.1111111111111
+Bradford,Adobe Analytics,26.1
+Bradford,Spring Boot,26
+Bradford,Vue.js,26
+Bradford,Microsoft SQL Servers,26
+Bradford,MeteorJS,26
+Bradford,Marketo,25.4444444444444
+Bradford,Microsoft PowerPoint,25.2272727272727
+Bradford,Application Programming Interface (API),25.0384615384615
+Bradford,Oracle Hyperion,25
+Bradford,Matillion,25
+Bradford,AWS Serverless,25
+Bradford,AWS Kinesis,25
+Bradford,SAP Applications,24.6363636363636
+Bradford,HTML5,24.6315789473684
+Bradford,PHP (Scripting Language),24.6
+Bradford,Accounting Software,24.5555555555556
+Bradford,WordPress,23.4
+Bradford,Azure Active Directory,23.2941176470588
+Bradford,Trello,23
+Bradford,Togaf,23
+Bradford,Firewall,22.8571428571429
+Bradford,Microsoft Intune (Mobile Device Management Software),22.6666666666667
+Bradford,Ansible,22.5882352941176
+Bradford,Linux,22.3157894736842
+Bradford,Git (Version Control System),22.1666666666667
+Bradford,Microsoft Teams,22.12
+Bradford,Puppet (Configuration Management Tool),22
+Bradford,Amazon DynamoDB,22
+Bradford,Amazon Redshift,22
+Bradford,Collaborative Software,22
+Bradford,Google Tag Manager,21.8888888888889
+Bradford,Warehouse Management Systems,21.7222222222222
+Bradford,ServiceNow,21.7058823529412
+Bradford,Apple IOS,21.45
+Bradford,Apache Spark,21.421052631579
+Bradford,R (Programming Language),21.3333333333333
+Bradford,Jenkins,21.1176470588235
+Bradford,RESTful API,21
+Bradford,Chef (Configuration Management Tool),21
+Bradford,Nagios,21
+Bradford,MATLAB,20.9411764705882
+Bradford,Tableau (Business Intelligence Software),20.6315789473684
+Bradford,Bash (Scripting Language),20.1764705882353
+Bradford,Microsoft Windows 10,20.0869565217391
+Bradford,Sisense,20
+Bradford,Redis,20
+Bradford,Reliability Availability Maintainability And Safety Software,19.9090909090909
+Bradford,Microsoft Visio,19.5238095238095
+Bradford,JIRA,19.5
+Bradford,Information Technology Infrastructure Library,19.45
+Bradford,Windows Server Update Services,19.2352941176471
+Bradford,VMware ESX Servers,19.2352941176471
+Bradford,Windows PowerShell,19.0869565217391
+Bradford,Scala (Programming Language),19
+Bradford,Figma (Design Software),19
+Bradford,Apache Avro,19
+Bradford,Adobe XD,19
+Bradford,Microsoft Azure,18.75
+Bradford,Microsoft Project,18.75
+Bradford,Swift (Programming Language),18
+Bradford,Powerapps,18
+Bradford,Project Management Software,17.5882352941176
+Bradford,Zoom (Video Conferencing Tool),17.2727272727273
+Bradford,Veeam,17
+Bradford,Single Sign-On (SSO),17
+Bradford,Office 365 Exchange Online,17
+Bradford,Azure MFA,17
+Bradford,Platform As A Service (PaaS),16.9130434782609
+Bradford,Extensible Markup Language (XML),16.75
+Bradford,Electronic Document Management Systems,16.5882352941176
+Bradford,Amazon S3,16.4444444444444
 Calderdale,SAP Applications,48.3846153846154
 Calderdale,Operating Systems,45.7142857142857
 Calderdale,Microsoft Azure,41.125
@@ -217,8 +317,8 @@ Kirklees,Microsoft SQL Servers,26.1666666666667
 Kirklees,SQL Server Reporting Services,25.2
 Kirklees,Java (Programming Language),24.7142857142857
 Kirklees,Aruba (Network Management Software),24.6666666666667
-Kirklees,Active Directory,24.6
 Kirklees,Kubernetes,24.6
+Kirklees,Active Directory,24.6
 Kirklees,SQL Server Analysis Services,24
 Kirklees,Payroll Systems,23.5
 Kirklees,Sage 50 (Accounting Software),22.6
@@ -268,9 +368,9 @@ Leeds,Microsoft Power Platform,37.3333333333333
 Leeds,Web Browsers,37.2222222222222
 Leeds,Package Management Systems,37.2
 Leeds,JavaScript Frameworks,37.1176470588235
-Leeds,ASP.NET MVC Framework,37
-Leeds,Video Editing Software,37
 Leeds,ECMAScript 2015,37
+Leeds,Video Editing Software,37
+Leeds,ASP.NET MVC Framework,37
 Leeds,Human Resources Information System (HRIS),36.8888888888889
 Leeds,Firmware,36.875
 Leeds,Microsoft SQL Servers,36.7142857142857
@@ -299,8 +399,8 @@ Leeds,Laravel,35.1666666666667
 Leeds,C++ (Programming Language),35.1538461538462
 Leeds,Warehouse Management Systems,35.1
 Leeds,Amazon DynamoDB,35.0666666666667
-Leeds,IBM Information Management System,35
 Leeds,Go (Programming Language),35
+Leeds,IBM Information Management System,35
 Leeds,Microsoft Software,34.952380952381
 Leeds,Crystal Reports (Reporting Software),34.9230769230769
 Leeds,Chef (Configuration Management Tool),34.875
@@ -326,6 +426,106 @@ Leeds,3D Modeling Software,34.1538461538462
 Leeds,Microsoft Servers,34.1428571428571
 Leeds,Microsoft Visual Studio,34.0909090909091
 Leeds,JQuery,34
+Leeds,Microsoft Visio,33.9444444444444
+Leeds,Python (Programming Language),33.8970588235294
+Leeds,Windows Server Update Services,33.8888888888889
+Leeds,Building Management Systems,33.8636363636364
+Leeds,Active Directory,33.8571428571429
+Leeds,SAP Applications,33.8550724637681
+Leeds,React.js,33.8048780487805
+Leeds,QuickBooks (Accounting Software),33.7777777777778
+Leeds,Visual Basic (Programming Language),33.7777777777778
+Leeds,Programming Tools,33.6666666666667
+Leeds,Technical Data Management Systems,33.6666666666667
+Leeds,HubSpot CRM,33.6190476190476
+Leeds,SQL Server Analysis Services,33.4
+Leeds,Gitlab,33.3571428571429
+Leeds,Cloud Services,33.34375
+Leeds,Amazon S3,33.2222222222222
+Leeds,Software Systems,33.1538461538462
+Leeds,Kubernetes,33.1304347826087
+Leeds,Webforms,33.1111111111111
+Leeds,SolidWorks (CAD),33.0625
+Leeds,Excel Solver,33
+Leeds,Transportation Management Systems,33
+Leeds,Gulp.js,32.9090909090909
+Leeds,Slack (Software),32.8235294117647
+Leeds,Adobe Analytics,32.75
+Leeds,Applicant Tracking Systems,32.7333333333333
+Leeds,HTML5,32.6451612903226
+Leeds,Sage 50 (Accounting Software),32.5357142857143
+Leeds,Sage Accounting Software,32.4444444444444
+Leeds,Tekla (BIM Software),32.4444444444444
+Leeds,Microsoft Word,32.4403669724771
+Leeds,Microsoft Power Automate/Flow,32.4285714285714
+Leeds,Information Technology Infrastructure Library,32.4081632653061
+Leeds,RESTful API,32.3333333333333
+Leeds,HTML Emails,32.3333333333333
+Leeds,PHP (Scripting Language),32.265306122449
+Leeds,Microsoft Outlook,32.2582417582418
+Leeds,React Native,32.25
+Leeds,IOS Applications,32.25
+Leeds,Adobe Illustrator,32.2444444444444
+Leeds,Docker (Software),32.2333333333333
+Leeds,Adobe XD,32.2222222222222
+Leeds,Communications Protocols,32.2
+Leeds,Google Sheets,32.1428571428571
+Leeds,Blazor,32.125
+Leeds,Microsoft PowerPoint,32.0902777777778
+Leeds,Microsoft Office,32.0691056910569
+Leeds,Business Software,32.0625
+Leeds,Safari (Web Browser),32
+Leeds,Trello,31.9285714285714
+Leeds,Microsoft Excel,31.9076923076923
+Leeds,.NET Framework,31.8823529411765
+Leeds,Webpack,31.8666666666667
+Leeds,Autodesk Inventor,31.8571428571429
+Leeds,Adobe Photoshop,31.8333333333333
+Leeds,Kotlin,31.8181818181818
+Leeds,Extensible Markup Language (XML),31.6818181818182
+Leeds,Microsoft 365,31.6666666666667
+Leeds,Zoom (Video Conferencing Tool),31.5945945945946
+Leeds,Microsoft SharePoint,31.575
+Leeds,Linux,31.4791666666667
+Leeds,C# (Programming Language),31.4776119402985
+Leeds,Geographic Information Systems,31.4545454545455
+Leeds,Django (Web Framework),31.4444444444444
+Leeds,Node.js,31.4
+Leeds,Operational Data Store,31.4
+Leeds,Google Workspace,31.2631578947368
+Leeds,SQL (Programming Language),31.2626262626263
+Leeds,eClinicalWorks (ECW),31.0909090909091
+Leeds,Bonfire,31
+Leeds,Extensible HyperText Markup Language (XHTML),31
+Leeds,Stored Procedure,31
+Leeds,Angular (Web Framework),30.9677419354839
+Leeds,Adobe Premiere Pro,30.7777777777778
+Leeds,Adobe Creative Suite,30.7575757575758
+Leeds,Primavera (Software),30.75
+Leeds,Screaming Frog (Website Crawler),30.6666666666667
+Leeds,JIRA,30.5833333333333
+Leeds,Amazon Redshift,30.5714285714286
+Leeds,IBM Maximo,30.5454545454545
+Leeds,Adobe InDesign,30.5277777777778
+Leeds,ASP.NET,30.4444444444444
+Leeds,HyperText Markup Language (HTML),30.3048780487805
+Leeds,Java (Programming Language),30.2916666666667
+Leeds,Microsoft Windows 7,30.2727272727273
+Leeds,Design Software,30.2692307692308
+Leeds,Apache Yarn,30.25
+Leeds,Windows Desktop,30.2142857142857
+Leeds,AWS CloudFormation,30.0833333333333
+Leeds,Collaborative Software,30
+Leeds,Microsoft Dynamics CRM,30
+Leeds,Financial Software,30
+Leeds,CAD Standards,30
+Leeds,Tableau (Business Intelligence Software),29.8
+Leeds,JavaServer Pages,29.8
+Leeds,Autodesk Revit,29.7741935483871
+Leeds,Google Cloud Platform (GCP),29.5
+Leeds,Xero (Accounting Software),29.4
+Leeds,Moz (SEO Software),29.375
+Leeds,WebKit,29.3548387096774
 Richmondshire,Microsoft Excel,39.6666666666667
 Richmondshire,Microsoft Office,23.7142857142857
 Ryedale,Microsoft Office,34.5
@@ -356,8 +556,8 @@ Wakefield,Adobe Illustrator,31.5
 Wakefield,Microsoft Teams,31.4090909090909
 Wakefield,Microsoft Office 365,30.8888888888889
 Wakefield,Microsoft PowerPoint,30.6129032258064
-Wakefield,SAP Applications,30.6
 Wakefield,PHP (Scripting Language),30.6
+Wakefield,SAP Applications,30.6
 Wakefield,Command-Line Interface,30.3333333333333
 Wakefield,Microsoft Word,30
 Wakefield,Adobe Creative Suite,29.6666666666667
@@ -402,16 +602,16 @@ York,React.js,28.1666666666667
 York,Windows Servers,28
 York,SQL (Programming Language),27.8333333333333
 York,Zoom (Video Conferencing Tool),27.25
+York,Microsoft Teams,27
 York,Java (Programming Language),27
 York,JSON,27
 York,Design Software,27
-York,Microsoft Teams,27
 York,C# (Programming Language),26
 York,Active Directory,25.8
-York,Application Programming Interface (API),25
 York,Microsoft Windows 10,25
+York,Application Programming Interface (API),25
 York,PHP (Scripting Language),24.1428571428571
 York,Adobe Illustrator,23.7777777777778
 York,Information Technology Infrastructure Library,22.625
-York,WordPress,21
 York,Git (Version Control System),21
+York,WordPress,21
