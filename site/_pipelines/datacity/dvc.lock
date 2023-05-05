@@ -4,79 +4,95 @@ stages:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/datacity/prepare.py wycc
     deps:
     - path: data/csv/datacity/JobPostingsBySOC4Code.csv
-      md5: aceb942bb32b6c0ae772c86270f85acf
-      size: 23820
+      md5: 90eb719068b110de08f35a8e6d8dff2a
+      size: 38757
     - path: site/_pipelines/datacity/prepare.py
       md5: 3c4eaada359320dc77099f5dee33c297
-      size: 4241
+      size: 4347
     - path: site/_pipelines/datacity/soc4.py
       md5: 3a9751e87e00614c73ea1250c6dfe57f
-      size: 1954
+      size: 2016
     - path: site/_pipelines/lookups.py
       md5: 414041da95ff3817e3db4a83d431fcf9
-      size: 809
+      size: 842
     outs:
     - path: site/wycc/demand/postings/_data/certifications_skill_demand_duration.csv
-      md5: dc2914582cb8db0d318c722be081af07
-      size: 8147
+      md5: dcf5b46930463d32e425f674f0ca4f0b
+      size: 8120
+      isexec: true
     - path: site/wycc/demand/postings/_data/common_skill_demand_duration.csv
-      md5: 2575d0de83d0f0ad0686abb077e8edc1
-      size: 20998
+      md5: e5bc299bde9b330f3eca08d58f861b79
+      size: 43113
+      isexec: true
     - path: site/wycc/demand/postings/_data/postings.csv
-      md5: e0c17624efb5c9a7b37d6799f0af4f0b
-      size: 14108
+      md5: b14cb77f89ccda2f7d2d5ef10babf062
+      size: 23570
+      isexec: true
     - path: site/wycc/demand/postings/_data/postings_by_soc4_sub_major.csv
-      md5: 79948cba28c7a408231e755808774bee
-      size: 2960
+      md5: 9df510ec92b1326f804ed2ddc0dfd818
+      size: 2683
+      isexec: true
     - path: site/wycc/demand/postings/_data/postings_by_soc4_unit.csv
-      md5: 9f400e619fac2ce17d984bc527db4bf6
-      size: 12040
+      md5: 8e1c04888f7d3af1c0da507ed38208a8
+      size: 17940
+      isexec: true
     - path: site/wycc/demand/postings/_data/postings_summary.json
-      md5: b043927495f251cb4db827d12507a1a2
-      size: 134
+      md5: d939e8c71ee7ab50307977792e1e9dd3
+      size: 116
+      isexec: true
     - path: site/wycc/demand/postings/_data/software_skill_demand_duration.csv
-      md5: d467b33a1a1009c7f8b071abdac71f81
-      size: 11969
+      md5: 2d8093aafcc0b45990e7667c7453bbf5
+      size: 23690
+      isexec: true
     - path: site/wycc/demand/postings/_data/specialised_skill_demand_duration.csv
-      md5: 25e69c2c548da63b042b049de62cea92
-      size: 4771
+      md5: 14b16958af3053853d7f8a1394d94f04
+      size: 18437
+      isexec: true
   prepare-ny:
     cmd: PYTHONPATH=site/_pipelines python site/_pipelines/datacity/prepare.py nycc
     deps:
     - path: data/csv/datacity/JobPostingsBySOC4Code.csv
-      md5: aceb942bb32b6c0ae772c86270f85acf
-      size: 23820
+      md5: 90eb719068b110de08f35a8e6d8dff2a
+      size: 38757
     - path: site/_pipelines/datacity/prepare.py
       md5: 3c4eaada359320dc77099f5dee33c297
-      size: 4241
+      size: 4347
     - path: site/_pipelines/datacity/soc4.py
       md5: 3a9751e87e00614c73ea1250c6dfe57f
-      size: 1954
+      size: 2016
     - path: site/_pipelines/lookups.py
       md5: 414041da95ff3817e3db4a83d431fcf9
-      size: 809
+      size: 842
     outs:
     - path: site/nycc/demand/postings/_data/certifications_skill_demand_duration.csv
-      md5: d4101249cd0bd5a01d5ea0b38f0f7f9f
-      size: 3732
+      md5: 068ffc90ae753695afa90c23064a94c6
+      size: 2170
+      isexec: true
     - path: site/nycc/demand/postings/_data/common_skill_demand_duration.csv
-      md5: a5f0c90e7c0683f1cf22c0212d73731d
-      size: 34973
+      md5: 407adb91841165815a4bc8e1a8bc73da
+      size: 27387
+      isexec: true
     - path: site/nycc/demand/postings/_data/postings.csv
-      md5: c40949b4863dc8b8a4ebad8fa18ec126
-      size: 12343
+      md5: ddf714d681a12e9700fac660194b00b8
+      size: 20430
+      isexec: true
     - path: site/nycc/demand/postings/_data/postings_by_soc4_sub_major.csv
-      md5: 3d1a05d02eee211c4f0f1b93b26ea112
-      size: 3378
+      md5: 2e6894e53e012539c0cf683e46ec4147
+      size: 3278
+      isexec: true
     - path: site/nycc/demand/postings/_data/postings_by_soc4_unit.csv
-      md5: 4a6c4670544792a524be7e8eee78c630
-      size: 17371
+      md5: 52ee7a794edbd8c887451c89605addd8
+      size: 22160
+      isexec: true
     - path: site/nycc/demand/postings/_data/postings_summary.json
-      md5: e913a7b207853e507d80127d436d7709
-      size: 193
+      md5: 5866eb7435c9fc44907f0d8c5acbe39d
+      size: 186
+      isexec: true
     - path: site/nycc/demand/postings/_data/software_skill_demand_duration.csv
-      md5: 9bd80eb47349d41953aa1384fd3f9bfd
-      size: 13478
+      md5: 878f88b2be511e6a6558c0a304d689cb
+      size: 6204
+      isexec: true
     - path: site/nycc/demand/postings/_data/specialised_skill_demand_duration.csv
-      md5: 498ff4b6f08c1c6f99de3c9b8afdd48c
-      size: 10383
+      md5: 69e3b550b921edbadc645a8865fdd075
+      size: 20041
+      isexec: true

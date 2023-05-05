@@ -1,46 +1,26 @@
 geography_code,geography_code,skill,geography_name,count,duration
-E07000163,E07000163,General Certificate Of Secondary Education,Craven,282,31.75
-E07000163,E07000163,Functional Skills Qualification,Craven,38,38.0
-E07000164,E07000164,General Certificate Of Secondary Education,Hambleton,507,35.9459459459459
-E07000164,E07000164,Functional Skills Qualification,Hambleton,67,29.4347826086956
-E07000165,E07000165,General Certificate Of Secondary Education,Harrogate,1061,34.0
-E07000165,E07000165,Functional Skills Qualification,Harrogate,435,37.0909090909091
-E07000165,E07000165,Association Of Chartered Certified Accountants,Harrogate,378,33.5
-E07000165,E07000165,Chartered Institute Of Management Accountants (CIMA),Harrogate,95,31.7777777777778
-E07000165,E07000165,Chartered Institute Of Personnel And Development (CIPD) Certified,Harrogate,64,34.25
-E07000165,E07000165,CSCS Card,Harrogate,50,33.0
-E07000166,E07000166,General Certificate Of Secondary Education,Richmondshire,59,41.9375
-E07000166,E07000166,Functional Skills Qualification,Richmondshire,37,40.75
-E07000167,E07000167,General Certificate Of Secondary Education,Ryedale,92,35.7692307692308
-E07000168,E07000168,General Certificate Of Secondary Education,Scarborough,178,33.6842105263158
-E07000168,E07000168,Functional Skills Qualification,Scarborough,149,33.1666666666667
-E07000169,E07000169,General Certificate Of Secondary Education,Selby,128,32.8571428571429
-E07000169,E07000169,Functional Skills Qualification,Selby,63,30.2
-E06000014,E06000014,General Certificate Of Secondary Education,York,1066,32.2
-E06000014,E06000014,General Certificate Of Secondary Education,York,1066,32.2
-E06000014,E06000014,General Certificate Of Secondary Education,York,1066,32.2
-E06000014,E06000014,General Certificate Of Secondary Education,York,1066,32.2
-E06000014,E06000014,CSCS Card,York,687,22.5
-E06000014,E06000014,CSCS Card,York,687,22.5
-E06000014,E06000014,CSCS Card,York,687,22.5
-E06000014,E06000014,CSCS Card,York,687,22.5
-E06000014,E06000014,Functional Skills Qualification,York,159,32.8148148148148
-E06000014,E06000014,Functional Skills Qualification,York,159,32.8148148148148
-E06000014,E06000014,Functional Skills Qualification,York,159,32.8148148148148
-E06000014,E06000014,Functional Skills Qualification,York,159,32.8148148148148
-E06000014,E06000014,PRINCE2  (PRojects IN Controlled Environments 2),York,120,22.1
-E06000014,E06000014,PRINCE2  (PRojects IN Controlled Environments 2),York,120,22.1
-E06000014,E06000014,PRINCE2  (PRojects IN Controlled Environments 2),York,120,22.1
-E06000014,E06000014,PRINCE2  (PRojects IN Controlled Environments 2),York,120,22.1
-E06000014,E06000014,Association Of Chartered Certified Accountants,York,111,27.3
-E06000014,E06000014,Association Of Chartered Certified Accountants,York,111,27.3
-E06000014,E06000014,Association Of Chartered Certified Accountants,York,111,27.3
-E06000014,E06000014,Association Of Chartered Certified Accountants,York,111,27.3
-E06000014,E06000014,Chartered Institute Of Management Accountants (CIMA),York,96,32.7142857142857
-E06000014,E06000014,Chartered Institute Of Management Accountants (CIMA),York,96,32.7142857142857
-E06000014,E06000014,Chartered Institute Of Management Accountants (CIMA),York,96,32.7142857142857
-E06000014,E06000014,Chartered Institute Of Management Accountants (CIMA),York,96,32.7142857142857
-E06000014,E06000014,Chartered Institute Of Personnel And Development (CIPD) Certified,York,69,26.0
-E06000014,E06000014,Chartered Institute Of Personnel And Development (CIPD) Certified,York,69,26.0
-E06000014,E06000014,Chartered Institute Of Personnel And Development (CIPD) Certified,York,69,26.0
-E06000014,E06000014,Chartered Institute Of Personnel And Development (CIPD) Certified,York,69,26.0
+E07000163,E07000163,General Certificate Of Secondary Education,Craven,95,31.75
+E07000163,E07000163,Functional Skills Qualification,Craven,17,38.0
+E07000164,E07000164,General Certificate Of Secondary Education,Hambleton,101,35.9459459459459
+E07000164,E07000164,Functional Skills Qualification,Hambleton,44,29.4347826086956
+E07000165,E07000165,General Certificate Of Secondary Education,Harrogate,245,34.0
+E07000165,E07000165,Functional Skills Qualification,Harrogate,140,37.0909090909091
+E07000165,E07000165,PRINCE2  (PRojects IN Controlled Environments 2),Harrogate,28,27.0
+E07000165,E07000165,Chartered Institute Of Management Accountants (CIMA),Harrogate,24,31.7777777777778
+E07000165,E07000165,Association Of Chartered Certified Accountants,Harrogate,24,33.5
+E07000165,E07000165,CSCS Card,Harrogate,24,33.3333333333333
+E07000165,E07000165,Chartered Institute Of Personnel And Development (CIPD) Certified,Harrogate,13,34.25
+E07000166,E07000166,General Certificate Of Secondary Education,Richmondshire,19,43.5333333333333
+E07000166,E07000166,Functional Skills Qualification,Richmondshire,12,42.5714285714286
+E07000167,E07000167,General Certificate Of Secondary Education,Ryedale,64,35.7692307692308
+E07000168,E07000168,General Certificate Of Secondary Education,Scarborough,45,33.6842105263158
+E07000168,E07000168,Functional Skills Qualification,Scarborough,35,33.1666666666667
+E07000169,E07000169,General Certificate Of Secondary Education,Selby,54,32.8571428571429
+E07000169,E07000169,Functional Skills Qualification,Selby,39,30.2
+E06000014,E06000014,General Certificate Of Secondary Education,York,297,32.3181818181818
+E06000014,E06000014,CSCS Card,York,108,22.5
+E06000014,E06000014,Functional Skills Qualification,York,89,32.8148148148148
+E06000014,E06000014,PRINCE2  (PRojects IN Controlled Environments 2),York,80,22.1
+E06000014,E06000014,Association Of Chartered Certified Accountants,York,35,27.3
+E06000014,E06000014,Chartered Institute Of Management Accountants (CIMA),York,31,32.7142857142857
+E06000014,E06000014,Chartered Institute Of Personnel And Development (CIPD) Certified,York,25,26.0
