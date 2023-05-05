@@ -76,7 +76,7 @@ LAs <- c("Bradford",
 datacity_las <- lapply(LAs, function(LA) {
   httr::POST(
     url = datacityURL,
-    add_headers(Authorization = paste("Bearer", datacityAPIkey)),
+    httr::add_headers(Authorization = paste("Bearer", datacityAPIkey)),
     body = paste0(
             '{
               "onlyCompaniesWithRegisteredAddressWithinFilterLocation": true,
