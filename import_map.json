@@ -1,6 +1,6 @@
 {
   "imports": {
-    "lume/": "https://deno.land/x/lume@v1.15.1/",
+    "lume/": "https://deno.land/x/lume@v1.17.3/",
     "std/": "https://deno.land/std@0.130.0/",
     "oi-lume-charts/": "https://deno.land/x/oi_lume_charts@v0.7.2/",
     "oi-lume-utils/": "https://deno.land/x/oi_lume_utils@v0.2.0/"
