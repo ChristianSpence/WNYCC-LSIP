@@ -1,56 +1,6 @@
 'data/csv/a-level/Attainment and other performance measures - region and student characteristics.csv':
   facts:
     - "APS per 'Best 3' entries (grade)"
-'data/csv/datacity/AveragePostingDurationBySoftwareSkill.csv':
-  dimensions:
-    - Thing
-  facts:
-    - Count
-'data/csv/datacity/JobPostingsByCommonSkill.csv':
-  dimensions:
-    - Thing
-  facts:
-    - Count
-'data/csv/datacity/AveragePostingDurationBySpecializedSkill.csv':
-  dimensions:
-    - Thing
-  facts:
-    - Count
-'data/csv/datacity/JobPostingsBySOC4Code.csv':
-  dimensions:
-    - Thing
-  facts:
-    - Count
-'data/csv/datacity/JobPostingsBySOC4Name.csv':
-  dimensions:
-    - Thing
-  facts:
-    - Count
-'data/csv/datacity/JobPostingsBySpecializedSkill.csv':
-  dimensions:
-    - Thing
-  facts:
-    - Count
-'data/csv/datacity/AveragePostingDurationByCommonSkill.csv':
-  dimensions:
-    - Thing
-  facts:
-    - Count
-'data/csv/datacity/AveragePostingDurationByCertificationsSkill.csv':
-  dimensions:
-    - Thing
-  facts:
-    - Count
-'data/csv/datacity/JobPostingsBySoftwareSkill.csv':
-  dimensions:
-    - Thing
-  facts:
-    - Count
-'data/csv/datacity/AverageAdvertisedSalaryBySOC4Code.csv':
-  dimensions:
-    - Thing
-  facts:
-    - Count
 'data/csv/ks4/Key stage 4 performance.csv':
   facts:
     - t_inp8calc
@@ -97,8 +47,6 @@
 # 'data/csv/linkedin/Demand by JobFunction.csv': {}
 # 'data/csv/linkedin/Heatmap by JobFunction.csv': {}
 # 'data/csv/fe_dest/16-18 local authority level destinations.csv': {}
-# 'data/csv/datacity/AverageAdvertisedSalaryBySOC4Name.csv': {}
-# 'data/csv/datacity/JobPostingsByCertificationsSkill.csv': {}
 # 'data/csv/a-level/Student counts and Results - A level by region and subject (end of 16-18 study).csv': {}
 # 'data/csv/a-level/Entries and Results - A level and AS by region and subject.csv': {}
 

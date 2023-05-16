@@ -182,12 +182,14 @@ def get_dataset_info(path, key, default=None):
 
 
 def build_metadata_files(source_path):
+    # Surpress datacity files
+    data_files = [f for f in get_tree(source_path) if 'datacity' not in f]
     metadata = [SourceFile(
         f,
         base=SOURCE_PATH,
         dimensions=get_dataset_info(f, 'dimensions', []),
         facts=get_dataset_info(f, 'facts', [])
-    ) for f in get_tree(source_path)]
+    ) for f in data_files]
 
     for m in metadata:
         m.save_metadata(root=META_DIR)
