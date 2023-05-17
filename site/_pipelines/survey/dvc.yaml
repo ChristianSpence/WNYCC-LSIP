@@ -1,0 +1,20 @@
+stages:
+  prep-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/survey/prepare.py wycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/survey/prepare.py
+      - data-raw/lsip-survey/short Survey responses 3-4-23.xlsx
+    outs:
+      - site/wycc/demand/survey/_data/skills_gap_by_LA.csv:
+          cache: false
+
+  prep-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/survey/prepare.py nycc
+    wdir: ../../..
+    deps:
+      - site/_pipelines/survey/prepare.py
+      - data-raw/lsip-survey/short Survey responses 3-4-23.xlsx
+    outs:
+      - site/nycc/demand/survey/_data/skills_gap_by_LA.csv:
+          cache: false

@@ -14,6 +14,7 @@ export default [
     children: [
       { name: "Postings", link: "/demand/postings/" },
       { name: "NOMIS", link: "/demand/nomis/" },
+      { name: "Survey", link: "/demand/survey/"},
     ],
   },
 ];

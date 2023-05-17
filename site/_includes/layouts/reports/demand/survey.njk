@@ -1,0 +1,18 @@
+---
+layout: layouts/default.njk
+---
+<h1>Local employer survey responses</h1>
+{% comp 'dashboard.pane' %}
+    <p class="centred"> <b>Is there a skills gap in your workforce that you are finding difficult to address?</b></p>
+    {{ comp.oi.chart.bar({
+        config: {
+            data: skills_gap_by_LA.rows,
+            category: "Local Authority",
+            series: series.survey.skills_gap,
+            legend: { show: true },
+            axis: {
+            x: { tickSpacing: 10}
+          }
+        }
+        }) | safe }}
+{% endcomp %}

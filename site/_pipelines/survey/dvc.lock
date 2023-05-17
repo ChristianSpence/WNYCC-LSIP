@@ -1,0 +1,30 @@
+schema: '2.0'
+stages:
+  prep-wy:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/survey/prepare.py wycc
+    deps:
+    - path: data-raw/lsip-survey/short Survey responses 3-4-23.xlsx
+      md5: bbef9eba5df1b814c48e39aae9585f88
+      size: 30360
+    - path: site/_pipelines/survey/prepare.py
+      md5: d031b25d1540d8eb2b31388dfb634c26
+      size: 1788
+    outs:
+    - path: site/wycc/demand/survey/_data/skills_gap_by_LA.csv
+      md5: 37494df44ba3f280d0631f879e188840
+      size: 116
+      isexec: true
+  prep-ny:
+    cmd: PYTHONPATH=site/_pipelines python site/_pipelines/survey/prepare.py nycc
+    deps:
+    - path: data-raw/lsip-survey/short Survey responses 3-4-23.xlsx
+      md5: bbef9eba5df1b814c48e39aae9585f88
+      size: 30360
+    - path: site/_pipelines/survey/prepare.py
+      md5: d031b25d1540d8eb2b31388dfb634c26
+      size: 1788
+    outs:
+    - path: site/nycc/demand/survey/_data/skills_gap_by_LA.csv
+      md5: 9d1e7c54d73ac10f70609749994ae43f
+      size: 79
+      isexec: true
